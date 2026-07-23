@@ -18,7 +18,9 @@ pip install numpy pandas scipy matplotlib pypdf
 Data on New York and Singapore are included in the code for the bar graphs and the Kruskal-Wallis test. However, to run the literature analysis on your own set of literature, for Text_strip.py input your own file paths of PDFs in the readers list. The model will convert the PDFs to .txt files as well as rename the PDFs so that they can be run through Sort_by_content.py
 
 The census data I used for the New York and Singapore case studies:
+
 New York - https://data.census.gov/profile/New_York?g=040XX00US36
+
 Singapore - https://www.singstat.gov.sg/infographics/census-2020
 
 # Running the models
