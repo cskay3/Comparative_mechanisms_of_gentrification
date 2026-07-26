@@ -41,12 +41,12 @@ for i in range(len(texts)):
     num_tenure = sum(1 for key_phrase in key_tenure if all[temparticle].get(key_phrase) > 2)
 
     #prints yes or no based off if the num meets the threshold of consideration for market driven vs tenure conversion vs tourist driven mechanisms
-    if (num_market/len(key_market)) > 0.1 :
+    if (num_market/len(key_market)) > 3/22 :
         yn_market = "yes"
     else:
         yn_market = "no"
 
-    if (num_tenure/len(key_tenure)) > 0.1 :
+    if (num_tenure/len(key_tenure)) > 2/19 :
         yn_tenure = "yes"
     else:
         yn_tenure = "no"
