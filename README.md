@@ -10,7 +10,6 @@ Description: This python based model:
 # Clone this repository
 ```python
 git clone https://github.com/cskay3/Comparative_mechanisms_of_gentrification
-cd Comparative_mechanisms_of_gentrification
 ```
 
 # Set up
@@ -37,11 +36,6 @@ New York - https://data.census.gov/profile/New_York?g=040XX00US36
 Singapore - https://www.singstat.gov.sg/infographics/census-2020
 
 # Running the models
-First enter the directory
-```python
-cd /path/to/Comparative_mechanisms_of_gentrification
-```
-Then run:
 ```python
 Sort_by_content.py
 ```
