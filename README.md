@@ -14,7 +14,7 @@ cd Comparative_mechanisms_of_gentrification
 ```
 
 # Set up
-Navigate into the specific directory
+Navigate into the specific directory:
 ```python
 cd Comparative_mechanisms_of_gentrification
 ```
