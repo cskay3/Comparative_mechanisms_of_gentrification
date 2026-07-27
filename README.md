@@ -44,6 +44,7 @@ Running this will classify each .txt article's stated mechanism of gentrificatio
 article#  
 Market driven: # of words in text/22  
 Tenure conversion: # of words in text/19  
+
 And:
 ```python
 Kruskal-Wallis_test_stats.py
