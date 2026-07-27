@@ -14,6 +14,10 @@ cd Comparative_mechanisms_of_gentrification
 ```
 
 # Set up
+```python
+python3 -m venv venv
+source venv/bin/activate
+```
 Navigate into the specific directory:
 ```python
 cd Comparative_mechanisms_of_gentrification
