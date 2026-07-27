@@ -46,7 +46,7 @@ Then run:
 Sort_by_content.py
 ```
 It will first ask you: Provide path to folder with article .txt files:
-(Please respond with ex: /home/name/Comparative_mechanisms_of_gentrification/Articles
+Please respond with ex: /home/name/Comparative_mechanisms_of_gentrification/Articles
 Input your name!
 
 Then the program will run as intended. It will classify each .txt article's stated mechanism of gentrification by running it through a list of keywords per each mechanism category. It will print out:  
