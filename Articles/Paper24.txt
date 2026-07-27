@@ -1,0 +1,1096 @@
+Citation: Lu, S.; Rao, X.; Duan, P . The
+Rural Gentriﬁcation and Its Impacts
+in Traditional Villages—A Case Study
+of Xixinan Village, in China.
+Sustainability 2022 ,14, 10077.
+https://doi.org/10.3390/su141610077
+Academic Editor: Teodor Rusu
+Received: 30 June 2022
+Accepted: 11 August 2022
+Published: 15 August 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+The Rural Gentriﬁcation and Its Impacts in Traditional
+Villages—A Case Study of Xixinan Village, in China
+Song Lu *, Xiaofang Rao and Pengxiao Duan
+School of Environmental and Geographical Sciences, Shanghai Normal University, Shanghai 200234, China
+*Correspondence: ahlusong@shnu.edu.cn
+Abstract: Since the reform and opening up in 1978, China has experienced a rapid urbanization pro-
+cess, with an increasing urban population. In recent years, with the improvement of the rural living
+environment and the rise of the urban middle class, more and more people have moved from cities to
+villages in China. The gentriﬁcation phenomenon has also emerged in rural China. This paper takes
+Xixinan Village, a traditional village in China, as a case. On the basis of ﬁeld investigation, it employs
+qualitative research methods and grounded theory to explore the emergence and inﬂuence of rural
+gentriﬁcation in the traditional village. The ﬁnding show that: (1) the rural gentriﬁcation in Xixinan
+Village was divided into two stages, namely, the setting-in stage of immigrants (2009–2014) and
+the rural gentriﬁcation development stage (2015–present). (2) The impacts of rural gentriﬁcation in
+Xixinan Village primarily include four aspects: population growth, landscape change, economic trans-
+formation and cultural transformation. The increased population mainly includes the urban lifestyle
+type of gentriﬁers, new rural construction type of gentriﬁers and returning home entrepreneurial
+type of gentriﬁers. The landscape change is mainly manifested in the spatial form of villages, housing
+landscape, street landscape and other aspects. The economic transformation is manifested in the
+rapid development of rural tourism services and cultural industry in Xixinan. In addition, with the
+inﬂux of the new urban middle class, new aesthetic methods and cultural vitality have emerged in
+Xixinan Village. (3) The rural gentriﬁcation and its impacts in Xixinan Village can be interpreted from
+three perspectives, i.e., consumption orientation, production orientation and the unique role of the
+government. Furthermore, the limitations of the study are brieﬂy analyzed, and the “displacement”
+problem caused by rural gentriﬁcation in China needs follow-up research in the future.
+Keywords: rural gentriﬁcation; development stage; impacts; traditional village; Xixinan Village
+in China
+1. Introduction
+In 1964, the British sociologist Glass ﬁrst proposed the concept of gentriﬁcation in
+cities [ 1]. The concept was extended to rural areas in the 1990s. It was used to describe the
+process of the middle class moving from cities to rural areas. It not only emphasized the
+rural population structural changes but also highlighted the broader social, economic and
+cultural changes involved in the process [ 2–4]. Western developed countries have generally
+experienced a stage of high urbanization and anti-urbanization, and rural gentriﬁcation is
+regarded as a manifestation of anti-urbanization or “amenity migration” [ 5,6]. Since the
+21st century, this topic has aroused extensive discussion and lasting attention in academic
+circles. It is regarded as a fruitful path in rural research and has become a hot spot and
+frontier of international rural research [7].
+Since the reform and opening up in 1978, China has experienced a rapid urbanization
+process, and the urbanization rate of the population has increased from 17.9% in 1978 to
+60.6% in 2019 [ 8]. There are many phenomena in China, such as the urban population
+increasing, the rapid growth of per capita income, the improving trafﬁc conditions, im-
+provement of individual travel ability, urban trafﬁc congestion and increasingly worsening
+Sustainability 2022 ,14, 10077. https://doi.org/10.3390/su141610077 https://www.mdpi.com/journal/sustainability
+Sustainability 2022 ,14, 10077 2 of 19
+urban environment. Urban residents’ environmental awareness and consciousness of life
+and health are rising, coupled with the rediscovery of traditional vernacular landscapes,
+especially since the 21st century. Thus, urban residents are increasingly motivated to prefer
+rural life, and more and more want to move from cities to the countryside [ 9,10]. This
+phenomenon is evident in the developed villages along the east coast of China, which
+has brought profound impacts on the economy, society and culture of the villages. The
+phenomenon of rural gentriﬁcation has also emerged in rural China.
+The research on rural gentriﬁcation in China started relatively late and only yielded
+sporadic results, mainly concentrated in the urban villages in Guangzhou, Beijing, Xiamen
+and other places in the ‘urban villages’ in the eastern suburbs of large cities [ 6,11–13]. Tan
+also conducted a diachronic ﬁeld survey on the phenomenon of rural gentriﬁcation in the
+Panyang River Basin of Bama County, Guangxi Province, a popular place for longevity and
+health preservation in China [ 14]. On the whole, the phenomenon of rural gentriﬁcation
+has emerged in some developed rural areas in China, and related research is still in its
+infancy. Both the number and the selection of rural case types of existing research are
+very limited. Accordingly, this paper takes Xixinan Village, a typical traditional village
+in eastern China, as an example. It employs qualitative research methods such as non-
+participatory observation, interview and event analysis, to analyze the impacts of rural
+gentriﬁcation in Xixinan Village. The main research problems of this paper are as follows:
+(1) the composition of gentriﬁers and development stages of rural gentriﬁcation in Xixinan
+Village. (2) The impacts of rural gentriﬁcation on Xixinan Village. (3) The theoretical
+explanation of the gentriﬁcation of Xixinan Village is discussed.
+2. Literature Review
+British scholar Parsons ﬁrst observed the phenomenon of rural gentriﬁcation in a study
+about British residents’ classes in rural areas. The rural gentriﬁcation mainly refers to the
+urban middle class migrating to rural settlements, for living and recreational space, thus
+causing the change in the rural social class structure, and leading to the shortage of rural
+housing and the relocation of indigenous people [ 15]. Gentriﬁcation is a gradual process
+mainly initiated and maintained by immigrants. These gentriﬁers may be urban middle-
+and upper-class residents with rich capital, such as retirees and “urban elites” (national
+economic elites and cultural elites), who pursue rural pastoral life in order to “escape” from
+the city [ 16,17]. They may be artists looking for cheap accommodation near the countryside
+and are described as well-educated low-income people [ 6,11]. The motivations of these
+migrants in rural areas are different from those in urban centers, where, for example, the
+middle class is attracted by employment and undervalued housing, whereas rural migrants
+are attracted by speciﬁc rural amenities, especially those related to the natural environment.
+Parsons and other British scholars have shown that the “gentry” in rural gentriﬁcation is
+not limited to some speciﬁc middle-class people with high economic level and social class,
+and economic level and class composition are not the only criteria to identify the gentry
+group in rural areas. Diversiﬁed social groups with different purposes are likely to become
+the subjects of rural gentriﬁcation. As long as the cultural capital and economic levels of
+immigrants are higher than that of local residents, rural gentriﬁcation may occur [17].
+Rural gentriﬁcation is a complex process involving the migration of the urban middle
+class from cities to rural areas [ 18]. It has brought about four major changes: the transfor-
+mation of rural class structure, the post-productive process of rural capital accumulation,
+changes in rural housing structure and the motivation of rural reform [ 19]. In the study of
+rural gentriﬁcation in Quebec, Guimond and Myriam also emphasized the complexity of
+rural gentriﬁcation at various levels, including social population, housing and economic
+impact, community and culture, material, environmental and political aspects [ 20]. David-
+son and Lees point out that any form of contemporary gentriﬁcation should include: capital
+dominating the restructuring of the architectural environment, a large number of high-
+and middle-income newcomers, local residents’ displacement and landscape change. The
+restructuring of the architectural environment means that the built environment in rural
+Sustainability 2022 ,14, 10077 3 of 19
+areas is changed by the capital “reinvestment” of land owners, housing owners, investors,
+developers, etc., emphasizing ecological aesthetics and environmental governance [ 21].
+The structure change of the rural population is the most outstanding impact of rural gen-
+triﬁcation, involving the characteristics of the population moving from the city to the
+countryside. The aging of post-war baby boomers in the United States shows a strong
+willingness to move to rural life. It is estimated that 2.7 million baby boomers moved from
+cities to villages in the ﬁrst 10 years of the 21st century [ 16]. Landscape can most intuitively
+describe the great changes in rural gentriﬁcation areas, such as the transformation of rural
+areas from primary production to consumption LED landscape, the changing housing
+tastes in rural areas and the rising real estate prices [ 22,23]. Displacement has always
+been an important result of gentriﬁcation, including population displacement, housing
+displacement and space displacement in rural areas [ 24]. In addition, rural gentriﬁcation
+also means injecting new classes and social structures into the destination, not only bringing
+better social capital and networks to the local community, but also triggering discussions
+on rural governance issues, such as local land use planning, environmental aesthetics and
+resource management [16,25].
+The cause and inﬂuence of gentriﬁcation in rural areas can be interpreted from the per-
+spectives of consumption and production [ 26]. From the perspective of consumption, rural
+gentriﬁcation highlights the existence of a “new cultural class” in rural space consumption.
+It suggests that the core of the economic form in the process of rural gentriﬁcation is an
+experience economy and an aesthetic consumption. In the process it also emphasizes the
+experience of rural cultural connotation and the formation of speciﬁc cultural taste. [ 17,27].
+The “idyll” in rural Britain and the soothing “Rocky Mountain” lifestyle in rural western
+America have attracted highly skilled urban labor, entrepreneurs and retirees [ 16,22,28].
+From the perspective of production, it emphasizes the redistribution of capital and proﬁts
+to interpret rural gentriﬁcation, not from the perspective of people. N. Smith put forward
+the theory of the “rent gap” (the difference between the potential value of land and the
+actual value of land) to explain gentriﬁcation [ 29]. With the decline of rural traditional
+agricultural productivity and the weakening of agricultural policy protection, rural land-
+scape, rural space and rural built environment become less attractive to capital, and the
+potential value cannot be realized as actual monetary value, which objectively requires the
+emergence of more diversiﬁed rural economy and investment models [ 30]. Globalization
+is seen as one of the main drivers of rural gentriﬁcation because the middle and upper
+classes, the main components of urban-to-rural mobility, beneﬁt from globalized capital
+accumulation and appreciation of land or property values. They allocate their assets to
+highly comfortable rural destinations. For example, the rural gentriﬁcation in remote and
+comfortable areas in the United States reﬂects the spatial positioning of surplus capital
+accumulated by high-wage urban occupations in the globalized service industry [ 31,32].
+Clark believes that the two explanations are complementary [33].
+3. Methods
+3.1. Introduction to Xixinan Village
+Xixinan Village is located in Xixinan Town, Huizhou District, Huangshan City, Anhui
+Province, China. It is on the bank of Fengle River, a tributary of the upper Xin’an River. The
+village was founded in the Tang Dynasty and prospered in the Ming and Qing Dynasties. It
+has a history of 1200 years of civilization. With the rise of Huizhou merchants, it became the
+most prosperous place in ancient Huizhou in the middle of the Ming Dynasty, and it became
+the core of agricultural civilization in ancient Huizhou area. The village is a gathering place
+of classical private gardens, with more than 10 buildings of the Ming Dynasty and more
+than 100 houses of the Qing Dynasty, among which Laowu Dwelling and Lvrao Pavilion are
+key national heritage conservation units. “Fengxi Eight Views”, “Xinan Ten Gardens” and
+other heritage sites are clearly visible, and the three water conservancy cultural heritages of
+Lei Dam, Long Dam and Tiao Dam are well preserved. On both sides of Fengle River, there
+is the most complete “maple poplar forest” wetland park in southern Anhui. In history,
+Sustainability 2022 ,14, 10077 4 of 19
+the boom period was known as “thousands of cooks and thousands of people”, and the
+population reached 30,000 at its peak. Since the reform and opening up in 1978, with the
+reduction in the number of rural laborers, traditional villages have shown a trend of decline
+and hollowing out, and a large number of ancient dwellings have collapsed and been
+abandoned. Since the beginning of the 21st century, Huangshan Municipal government
+has successively implemented a series of protection plans for ancient dwellings, such as
+the protection and utilization project of “One Thousand Houses in One Hundred Villages”,
+and the construction of the Huizhou cultural and ecological protection experimental area.
+Thus, the heritage sites of Xixinan Village have been well protected.
+In the past 20 years, the external transportation in Huangshan City has been greatly
+improved, which also contributes to the trafﬁc improvement of Xixinan Village and the
+formation of regional advantages. In 2007, He-Huang Expressway connecting Hefei City,
+the capital of Anhui Province, and Huangshan City was completed and opened to trafﬁc.
+There is a crossing at Xixinan Village (only 3 km away). In 2015, Huangshan North Station
+of a high-speed railway was completed and became available, and Beijing–Fuzhou high-
+speed railway and Wuhan–Wenzhou high-speed railway meet here. Xixinan Village is only
+1.5 km away from the station. Xixinan Village is 1.5 h away from Hangzhou and 2.5 h
+away from Shanghai by high-speed rail, and it is only 22 km away from Huangshan Tunxi
+International Airport. Xixinan Village is a beautiful rural “idyll”, with famous history and
+culture and convenient external transportation. Thus, a lot of tourists and travelers have
+been attracted here. Xixinan Village has developed rapidly. It was listed as the third batch
+of traditional Chinese villages in 2014, the ﬁrst batch of characteristic towns in Huangshan
+City in 2016, which Xixinan Village Creative Town was listed as, and the ﬁrst batch of
+provincial-level characteristic towns in 2017. Now, the tourism industry of Xixinan Village
+is developing rapidly, and its reputation is rising. It is one of the top 50 most beautiful
+characteristic towns in the country and one of the most attractive tourist characteristic
+town in the Yangtze River Delta. In 2019, it became one of the “National Key Villages for
+Rural Tourism”.
+3.2. Research Process and Data Processing
+This paper mainly employs qualitative research methods, such as non-participatory ob-
+servation, in-depth interview, event analysis and grounded theory. The authors conducted
+three ﬁeld investigations in Xixinan Village in May, July and September 2019. We observed
+the village by the participatory observation method, such as its terrain and geomorphology,
+architectural distribution and landscape characteristics, industrial development status and
+residents’ production and lifestyle. We also investigated its tourism industry as tourists,
+such as the quality of rural recreation resources, home accommodation service and tourist
+activity routes, and other in-depth observations were made. Furthermore, we visited the
+tourism ofﬁce of Xixinan Village, the village committee, the Government of Xixinan Town,
+the Tourism Commission of Huangshan City and other departments to collect relevant
+basic information. In addition, the method of in-depth interview was used to obtain qual-
+itative data. We obtained data from 60 interviews with 5 groups: A means immigrants,
+with 12 newcomers interviewed (retired executives, designers running homestays, foreign
+homestay operators, entrepreneurs, painters who opened art salons, etc.), B means tourists,
+with 5 people interviewed, C means returned migrants, with 5 people interviewed, D
+means local villagers, with 30 people in total (9 small-scale entrepreneurs, 14 ordinary
+villagers and others); E means government staff, a total of 8. The interview included: the
+migration motivation of new immigrants and their perception of the ancient buildings
+and local culture of Xixinan Village, the interaction and communication between old and
+new residents and the impact of immigrants on rural management and tourism devel-
+opment. We also used Baidu News, the world’s largest Chinese news search website, to
+collect relevant news text materials of Xixinan Village. Major events in the development
+process of Xixinan Village were extracted based on local secondary materials and network
+text materials.
+Sustainability 2022 ,14, 10077 5 of 19
+By using the method of event analysis and experience analysis, the development
+of rural gentriﬁcation in Xixinan Village was divided into two stages, i.e., newcomers’
+setting-in stage and development stage. The ARCGIS method was used to visualize the
+housing distribution of new immigrants. Based on the interview data of 60 people, the
+impacts of rural gentriﬁcation in Xixnan Village were discussed. Using the grounded theory,
+the concept was extracted and the spindle was encoded (Table 1). So, 13 concepts have
+been reﬁned and further classiﬁed into four categories, i.e., population growth, landscape
+changes, economic transformation and cultural turn.
+Table 1. Examples of open coding.
+Data Coding Transcript of Interview Concept Extraction
+A01Like us immigrants, the architectural style of each family is different,
+bringing in the outside culture, design elements. We are highly
+educated people. After these people come in, it is not only a pull to
+the local economy, especially to the local villagers’ ideas change.Cultural impacts, architectural
+landscapes, conceptual shifts
+. . . . . . . . . . . . . . . . . .
+B01It has not been overdeveloped and is largely uncommercial, with
+generations of villagers quietly farming the land. Shady trees, cool
+and pleasant, here you can breathe the sweet air at ease, listen to the
+melodious birdsong, soothe the hot summer irritable mood.Pristine, quiet, relaxing, cozy
+. . . . . . . . . . . . . . . . . .
+C01I miss the childhood in my hometown very much, or the home life is
+good, very quiet, very comfortable, free, every day in the village to
+take a walk, chat with pedestrians, very happy.Nostalgia, homesickness plot
+. . . . . . . . . . . . . . . . . .
+D01Now there are many outsiders in the village, not much before, about
+5 or 6 years ago. Most of the newcomers are engaged in tourism.
+They buy or rent a house to open a homestay inn. More and more
+tourists come here.More outsiders, more tourists
+. . . . . . . . . . . . . . . . . .
+E01The most obvious changes are the construction of high-speed railway
+stations and roads. which not only make it easier for villagers to
+travel, but more importantly, foreign capital will come here to invest.Transport improvement, investment
+. . . . . . . . . . . . . . . . . .
+4. Results Analysis
+4.1. The Development Stage of Rural Gentriﬁcation in Xixinan Village
+For a long time, Xixinan Village was mainly a quiet agricultural village, and few people
+visited. Since China’s reform and opening up in 1978, rural productivity has increased, and
+the surplus rural labor force has increased day by day. There are many mountains, few
+ﬁelds and the soil is barren. So, some of the young and middle-aged labor force go to cities
+to work, and others stayed home to engage in beekeeping. To a certain extent, this has
+improved the economic condition and farmers’ living standards in Xixinan Village. From
+1998 to 2001, An Siyuan, an American, sponsored CNY 1.1 million and successively carried
+out the comprehensive restoration of Laowu Dwelling heritage. In November 2000, the
+Huizhou District Government issued policies to accelerate the development of tourism,
+and began to consider the tourism investment promotion plan of Xixinan Village. In 2004,
+Zhejiang University Andi Architectural Design Company was introduced to carry out the
+tourism development of Xixinan Village. Due to the competition of many high-quality
+ancient villages in Huangshan City, the tourism development of Xixinan Village was not
+prominent. After the opening of Xixinan Village in 2007, the tourism development plan
+failed and the foreign investor soon withdrew.
+In the development process of Xixinan Village, there were two years of great inﬂuence,
+2009 and 2015. In 2009, the Huangshan Municipal Government launched the protection
+and utilization project of “One Thousand Houses in One Hundred Villages”, encouraging
+social capital to participate in the protection of Hui-style ancient buildings. It brought the
+Sustainability 2022 ,14, 10077 6 of 19
+ﬁrst batch of new immigrants to Xixinan Village. In 2015, Beijing Wangshan Investment
+Co., Ltd., which is controlled by Yu Kongjian, a famous landscape designer from Peking
+University, obtained the tourism development and management rights of Xixinan Village.
+In the same year, the opening of Huangshan North Station of the high-speed railway greatly
+improved the accessibility of Xixinan Village and its popularity soared. Therefore, the
+gentriﬁcation of Xixinan Village can be divided into two stages: newcomers’ setting-in
+stage and the development stage.
+4.1.1. Newcomers’ Setting-in Stage (2009–2014)
+There are 406 cultural relic protection units at all levels, and there were 13,438 ancient
+buildings before 1949 in Huangshan City. These ancient buildings are scattered in mountain
+areas. The government and the owners of ancient houses have not enough protection funds.
+So, these cultural heritages have been seriously damaged. So, in order to protect and
+utilize these heritages, the Huangshan Municipal Government launched the protection and
+utilization project of “One Thousand Houses in One Hundred Villages” in 2009. It plans to
+invest CNY 6 billion over the next ﬁve years to focus on the protection and utilization of
+101 ancient villages and 1065 ancient dwellings. A new way was explored by combining
+government guidance, market operation and social participation. It established easy-to-
+operate local rules and regulations for practical issues, such as capital investment and
+subsidies, relocation, transfer of property rights, land transfer and housing registration,
+whilst encouraging outsiders (social funds) to participate in the protection of Huizhou’s
+ancient buildings. In the context of this policy, some urban elites came to Xixinan Village to
+buy local old houses as a second home, and twelve ancient dwellings were purchased in
+this way. As Mr. Du, a retired Huawei executive who migrated in 2011, said:
+At that time, we also responded to the call of ‘One Thousand Houses in One Hundred
+Villages in Huangshan City’ to protect ancient villages and buildings. We came to
+Xixinan Village and bought an ancient dwelling—Youranju, which was moved from
+Yansi Town. At that time, the government wanted to build the New Fourth Army
+Memorial Hall and some house needs to be demolished. To protect these ancient buildings,
+I bought them and moved them to Xixinan Village (A6).
+These newcomers are mainly from Shenzhen, most of them are corporate executives
+or retirees and belong to the urban middle class. They are owners of Fenglecaotang,
+Baoshantang, Jingruhuisuo, Youranju, Lvyinshanguan and other ancient dwellings. As the
+“new villagers” of Xixinan Village, their behavioral habits and aesthetic styles have a certain
+impact on the landscape reconstruction of the village. On one hand, they also expressed
+their preference for Huizhou architectural elements. The door and window design and
+furniture were repaired according to the protection requirements of traditional dwellings,
+and the typical Huizhou architectural style was preserved. On the other hand, these urban
+elites use and reshape the existing Huizhou culture and architectural symbols. On the basis
+of maintaining the original ancient residential buildings, they carry out cultural innovation
+and integration, making a new aesthetic creation. In addition, these immigrants are keen
+on the exchange of art and culture. They have turned their home space into an art salon to
+receive their relatives and friends. For example, Fenglecaotang Dwelling has been built as
+an exchange activity garden for the New Ideas Chamber of Commerce, Shenzhen Chamber
+of Commerce and the Association of Scientists and Entrepreneurs. At this stage, these
+houses were scattered in the ancient village, alternately distributed with the local villagers’
+houses. The scattered gentriﬁcation spaces were observed (Figure 1). The local villagers still
+work at sunrise and sunset without interfering with the immigrants, and the village’s native
+way of life, humanistic order and social governance structure can continue. Immigrants’
+activities revolve around their own residences, that is, the “home” has become the main
+place for the production of a gentriﬁed space.
+Sustainability 2022 ,14, 10077 7 of 19
+Sustainability 2022 , 14, x FOR PEER REVIEW  7 of 20 
+ 
+Commerce, Shenzhen Chamber of Commerce and the Association of Scientists and Entre-
+preneurs. At this stage, these houses were scattered in the ancient village, alternately dis-
+tributed with the local villagers’ houses. The sc attered gentrification spaces were observed 
+(Figure 1). The local villagers still work at sunrise and sunset without interfering with the 
+immigrants, and the village ’s native way of life, humanistic order and social governance 
+structure can continue. Immig rants’ activities revolve around their own residences, that 
+is, the “home” has become the main place for the production of a gentrified space.  
+  
+Figure 1. Schematic diagram of the distribution of immigrant residences in Xixinan Village (the left 
+is before 2015, and the right  is after 2015) . 
+4.1.2. Rural Gentrification Development Stage (2015–Present ) 
+In 2015, Beijing Wangshan Investmen t Co., L td., which is j ointly owned by Professor 
+Yu Kongjian, a famous landscape design er from Peking University, signed an agreement 
+with the People’s Government  of Huizhou District to obtain the 40 -year tourism manage-
+ment right of Xixinan  Village for the comprehensive tourism development of the ancient 
+village.  The project formally established a long -term cooperative relationship with the 
+Xixinan Township Government and villagers through a contract, who formed a commu-
+nity of interests and established a mechanism for the joint m anagement of h eritage vil-
+lages [15]. In the context of China entering the era of high -speed rail , Huangshan North  
+Station of the high -speed railway , construct ed in 2015, become an important hub of 
+Huangshan City external  transportation . Plus , with the opening of Hefei –Huangshan Ex-
+pressway in 2007 , Xixinan  Village suddenly became the most convenien t traditional vil-
+lage, which entered the view of many tourists, and became more and more popular. In 
+2016, the state proposed the construction plan of characte ristic towns  all over the country . 
+Xixinan Village  has unique advantages , such as  convenient traffic conditions , beautiful 
+natural environment, profound cultural heritage and foreign entrepreneurs . Thus , Xix-
+inan  Town was successfully added to the list of the first characteristic towns of Huangshan 
+City  in 2016 . The local government has formulated the development plan of Xixinan Vil-
+lage and determined the construction target of a compound town driven by “tourism and 
+creative industry ”. The local government began to build the “Xixinan Creative Town ”, 
+attracting nearly CNY 200 million of social funds. Many new business forms have 
+Figure 1. Schematic diagram of the distribution of immigrant residences in Xixinan Village (the left
+is before 2015, and the right is after 2015).
+4.1.2. Rural Gentriﬁcation Development Stage (2015–Present)
+In 2015, Beijing Wangshan Investment Co., Ltd., which is jointly owned by Professor Yu
+Kongjian, a famous landscape designer from Peking University, signed an agreement with
+the People’s Government of Huizhou District to obtain the 40-year tourism management
+right of Xixinan Village for the comprehensive tourism development of the ancient village.
+The project formally established a long-term cooperative relationship with the Xixinan
+Township Government and villagers through a contract, who formed a community of
+interests and established a mechanism for the joint management of heritage villages [ 15].
+In the context of China entering the era of high-speed rail, Huangshan North Station of
+the high-speed railway, constructed in 2015, become an important hub of Huangshan City
+external transportation. Plus, with the opening of Hefei–Huangshan Expressway in 2007,
+Xixinan Village suddenly became the most convenient traditional village, which entered the
+view of many tourists, and became more and more popular. In 2016, the state proposed the
+construction plan of characteristic towns all over the country. Xixinan Village has unique
+advantages, such as convenient trafﬁc conditions, beautiful natural environment, profound
+cultural heritage and foreign entrepreneurs. Thus, Xixinan Town was successfully added to
+the list of the ﬁrst characteristic towns of Huangshan City in 2016. The local government has
+formulated the development plan of Xixinan Village and determined the construction target
+of a compound town driven by “tourism and creative industry”. The local government
+began to build the “Xixinan Creative Town”, attracting nearly CNY 200 million of social
+funds. Many new business forms have emerged, including Turenxueshe International
+Design Institute, Weiyanfu homestay inns, Qingxihanyue homestay inns, Xiguan Art Space,
+Huaxia Film Television Cultural and Creative Center and Chengzhuo Art Creation Center.
+The tourism industry of Xixinan Village has developed rapidly. Its popularity has gradually
+increased, along with the rising number of tourists. In 2018, Xixinan Village received
+360,000 tourists throughout the year. In 2019, it received approximately 415,000 tourists.
+The number of tourists received an annual increase of 15.3%. In the same year, it won the
+title of the top 50 most beautiful characteristic towns in the country and the title of the most
+attractive tourist characteristic town in the Yangtze River Delta. In 2019, it became one of
+the “National Rural Tourism Key Villages”.
+Sustainability 2022 ,14, 10077 8 of 19
+Since 2015, many local villagers who left for work have returned to their hometowns.
+By 2019, approximately 200 villagers have returned to their hometowns (interview data,
+E6). Most of them set up homestays inns and restaurants, such as Xibianrenjia and Heyunx-
+iaoyuan Homestay, and more than 50 in total. At this stage, the government and enterprises
+cooperate to actively speed up the construction of infrastructure and public recreational
+places in Xixinan Village, promote the construction of characteristic towns and famous
+villages, strengthen comprehensive environmental improvement, innovate management
+methods, improve the landscape of the village and create a rural pastoral life. During this
+period, the production of immigrant gentriﬁcation space began to extend from “home”
+to “public space”, such as the construction of stone roads, the maintenance of ruins and
+broken walls and the remediation and management of Fengyanglin and Fengle River. In
+addition, Xixinan Village has become a “concentration place” of boutique homestays run
+by immigrants, creating a convergent gentriﬁcation space (Figure 1).
+4.2. Impacts of Rural Gentriﬁcation in Xixinan Village
+Following the interviews with 60 different types of residents in Xixinan Village, four
+characteristic categories of the rural gentriﬁcation process in Xixinan Village are extracted,
+i.e., population growth, landscape change, economic structure and cultural turn.
+4.2.1. Population Growth
+Demographic change in rural areas is the most prominent manifestation of rural
+gentriﬁcation, which involves the unique characteristics of population migration from cities
+to rural areas, including “immigrants and returning villagers”. It leads to an increase in the
+total population in rural areas and adds diversity to the social structure of the population in
+the villages. At the end of 2005, the total number of households in Xixinan Village was 952,
+with a population of 3143. At the end of 2010, there were 1280 households with 3840 people
+in the village. Since 2016, the population in the village has increased signiﬁcantly. In 2019,
+there were 1365 households with 5273 people, that is, an increase of 1433 people and an
+increase of more than 1/3.
+The ﬁrst category of “gentriﬁers” entering Xixinan Village is the urban middle class,
+which plays a pioneering role. These immigrants are divided into two stages of immi-
+gration. The ﬁrst stage is mostly spontaneous lifestyle and retirement immigration. In
+2009, under the promotion of the Huangshan Municipal Government’s project of “One
+Thousand Houses in One Hundred Villages”, some pioneers came to Xixinan Village one
+after another; approximately 12 households (interview data: A1) were affected by the
+rich cultural heritage of Xixinan Village and attracted by the high-quality ecological en-
+vironment. Immigrants during this period are all from Shenzhen City. The ﬁrst-comers
+recommended to their friends through word of mouth, and all were urban middle and
+upper class. As the owner of Fenglecaotang from Shenzhen said,
+We came to Xixinan in 2009. Upon arrival, we felt that this place was very good and
+liveable. So, we actively recommended it to our friends. We brought more than 20 Shenzhen
+friends over one after another, and then our friends brought friends. All of a sudden, we
+ﬁred up this village. For example, the village was visited by ﬁlm directors (Huaxia Film
+and Television Cultural and Creative Base), LED wedding photography (everlasting) and
+so on. Through their power, the village was publicized, and more powerful entrepreneurs
+were brought in.
+The second stage is mainly for investment and entrepreneurial immigrants in cultural,
+creative and art categories. In 2015, Prof. Yu Kongjian of Peking University launched
+the “Wangshan Life” rural construction practice, which largely enhanced the reputation
+of Xixinan Village. In 2016, the “Xixinan Creative Town” project was launched. Under
+the strong investment promotion of the government, many new business types and new
+enterprises have emerged, such as Shilili ·Weiyanfu, Xuliqiaoge, Yuanzili, Mengxi ·Fanghui,
+Xiguan Art Center and Jinxi South Bank. A marked increase has been noted in the number
+of migrants in the village. By September 2019, Xixinan Village has attracted a total of
+Sustainability 2022 ,14, 10077 9 of 19
+73 high-end talents. These immigrants are mainly from Shenzhen, Beijing, Shanghai and
+other big cities. They generally have a high level of education and knowledge. The income
+level is relatively high.
+The second type of “gentriﬁers” in Xixinan Village is the returning immigrants. These
+are villagers who had gone out to work and returned to their hometown to start a business.
+This phenomenon is a relatively special manifestation in the process of rural gentriﬁcation.
+With the rapid development of Xixinan Village in recent years, many local villagers who
+left for work began to return to their hometowns to start businesses since 2015. By 2019,
+approximately 200 villagers returned to their hometowns (interview data, E6). These
+returning migrants are divided into two groups. One group refers to villagers who worked
+or started businesses in other places. After several years or decades of experience, their
+vision and knowledge have been largely improved. They also have a lot of savings.
+These returning immigrants bring rich cultural experience and sufﬁcient capital to return
+to their hometown to start a business. The owner of Xibianrenjia homestay inn shared
+the following:
+In the past few years, the development of Xixinan has changed a lot, and it has turned
+the world upside down. In the past, this street (Xibian Street) was like a place to shoot
+Liaozhai, and it was very deserted. Now, it’s totally different. Our family used to work in
+Wenzhou for 15 years. In 2016, we returned to our hometown to open a homestay. There
+is an old ancestral house in the family, which cannot be abandoned. I want to renovate it
+and protect it well. (C1).
+The other group refers to young children who have received a good education abroad.
+They use what they have learned to actively devote themselves to the protection of ancient
+dwellings and the construction of their hometowns, such as the owner of the Wuhao
+homestay inn in Back Street and the son of the owner of Yuqingzhai homestay inn. They
+are a young generation who have injected vitality into the development of Xixinan Village
+after returning from school with their experiences:
+I am a native of Xixinan Village and a designer. I have worked in Shenzhen City before,
+and now the village has developed well. I came back in 2017 and opened a homestay inn
+in the village. I made the homestay, house decoration and design myself. (C3).
+In addition, some older generation villagers return to the village due to hometown
+plot, and nostalgia for childhood life. They lived in the city and were disgusted by the
+hustle and bustle of city life. After they retired, they chose to return to Xixinan Village for
+the elderly years. Although they have returned to the countryside, they are not completely
+ordinary rural residents, but more of them return to their hometown in silken robes.
+Some of the migrants in Xixinan Village are labor migrants who come for work.
+For example, Shilili ·Weiyanfu and Xuliqiaoge homestay inn are national chain boutique
+B&Bs/hotels, which are operated by enterprises. Their staff members, especially those who
+need professional knowledge and skills, such as homestay managers, are recruited from
+the city by the company. The housekeepers and staff at the Zhulinbian ·Jinxi South Bank all
+moved to Xixinan as a whole following the transfer of the boss:
+Our boss opened a homestay inn a long time ago, but it was in the Huangshan Scenic Spot
+before. The previous year, the boss moved to Xixinan. We followed the boss here. (D24).
+In addition, Xixinan Village is only 15 km away from the urban area of Huangshan
+City, and it takes approximately half an hour to drive. Therefore, there are also many
+residents in the urban area of Huangshan or residents/villagers in surrounding villages
+and towns who only work in Xixinan Village during the day and return home to rest at
+night. Although they do not live in Xixinan Village, they have also become the labor force:
+My family lives in Tunxi Old Street, and it is very convenient to drive from here. (D20).
+By the end of 2019, the Xixinan Village had created a total of 300 new jobs, and the
+average annual salary of employees increased by more than 10%. The excellent working
+environment and constantly improving salary level attracted a rising number of foreign
+Sustainability 2022 ,14, 10077 10 of 19
+workers. In general, these immigrants have improved the overall quality of the population
+of Xixinan Village, and the population and social structure of Xixinan Village have been
+gradually diversiﬁed.
+4.2.2. Landscape Changes
+The landscape changes in Xixinan Village are primarily manifested in three aspects: the
+spatial form of the village, the housing landscape and the street landscape. First of all, from
+the perspective of the spatial form changes of Xixinan Village, the expansion of construction
+land is obvious after the entry of newcomers. Since 2009, the foreign population has steadily
+increased, and the government’s efforts to expropriate land and attract investment have
+been increasing (Figure 2). The agricultural land in the ancient village of Shang Village
+beside Fengnan Road and the town government has all been transformed into land for
+housing construction. Xixinan–Shang Village has become a gathering place for immigrants.
+Another gathering place is the newly built Sweet Community behind the Xixinan Town
+Government, which is a resettlement house provided by the government for local villagers,
+especially those in ancient villages. It is hoped that the villagers will move from the ancient
+houses, which are handed over to the government for storage and protection. In addition,
+the number of new houses along Fengnan Avenue behind the village has also increased
+signiﬁcantly. Additionally, the public recreational places and public service facilities in
+Xixinan Village have been signiﬁcantly expanded, such as the south and north squares,
+pavilions and tourist public toilets for villagers and tourists and parking lots, all of which
+have promoted the expansion of the Xixinan Village space and the overall change in the
+built environment.
+Sustainability 2022 , 14, x FOR PEER REVIEW  10 of 20 
+ 
+Our boss opened a homestay inn a long time ago, but it was in the Huangshan Scenic 
+Spot before. The previous year, the boss moved to Xixinan. We followed the boss here. 
+(D24) . 
+In addition, Xixinan  Village is only 15 km away from the urban area of Huangshan 
+City, and it takes approximately half an hour to drive. Therefore, there are also many res-
+idents in the urban area of Huangshan or residents/villagers in surrounding villages and 
+towns who only w ork in Xixinan Village during the day and return home to rest at night.  
+Although they do not live in Xixinan Village, they have also become the labor force : 
+My family lives in Tunxi Old Street, and it is very convenient to drive from here. 
+(D20) . 
+By the en d of 2019, the Xixinan Village  had created a total of 300 new jobs, and the 
+average annual salary of employees increased by more than 10%. The excellent working 
+environment and constantly improving salary level attracted a rising number of foreign 
+workers.  In general, these immigrants have improved the overall quality of the population 
+of Xixinan Village, and the population and social structure of Xixinan Village have been 
+gradually diversified . 
+4.2.2. Landscape Changes  
+The landscape changes in Xixinan Vill age are primarily manifested in three  aspects: 
+the spatial form of the village, the housing landscape and the street landscape. First of all, 
+from the perspective of the spatial form changes of Xixinan Village, the expansion of con-
+struction land is obvious  after the entry of newcomers . Since 2009, the foreign population 
+has steadily increased, and the government ’s efforts to expropriate land and attract in-
+vestment have been increasing (Figure 2). The agricultural land in the ancient village of 
+Shang Village  beside Fengnan Road and  the town government has all been transformed 
+into land for housing construction. Xixinan –Shang Village has become a gathering place 
+for immigrants . Another gathering place is  the newly built Sweet Community behind the 
+Xixinan Town Government , which is  a resettlement house provided by the government 
+for local villagers, especially those in ancient villages. It is hoped that the villagers will 
+move from the ancient houses , which are handed over to the government for storage and 
+protec tion. In addition, the number of new houses along Fengnan Avenue behind the vil-
+lage has also increased significantly. Additionally, the public recreational places and pub-
+lic service facilities in Xixinan Village have been significantly expanded, such as th e south 
+and north squares, pavilions and tourist public toilets for villagers and tourists and park-
+ing lots, all of which have promoted the expansion of the Xixinan Village space and the 
+overall change in the built environment . 
+  
+Figure 2. Spatial form distribution  map of Xixinan Village  (left in 2010, right  in 2019 ). 
+Figure 2. Spatial form distribution map of Xixinan Village ( leftin 2010, right in 2019).
+The housing landscape is the most intuitive feature of gentrification in Xixinan Village
+because the foreign middle class has invested a lot of time, energy and money in the restoration
+of dilapidated buildings. Accordingly, the unused homesteads and abandoned plots are
+reused, and the housing space is reconstructed. Prof. Yu Kongjian transformed the idle
+township government building into a boutique resort hotel—Hetianli Hotel—and set a good
+example for the renovation of local ancient buildings and the design of homestays [ 9]. The
+design of Hetianli Hotel respects the original building layout and structure, retains the original
+heritage features and even preserves the original commune canteen cooking bench. He filled
+in new functions (such as the meeting room transformed into the lobby of a boutique hotel)
+and added modern life elements (such as floor heating, lighting and ventilation). These can
+realize the preservation, regeneration and reuse of heritage buildings [ 9]. The houses in
+Xixinan Village are all ancient Hui-style dwellings and newly built dwellings with “white
+walls and black tiles” (Figure 3).
+Sustainability 2022 ,14, 10077 11 of 19
+Sustainability 2022 , 14, x FOR PEER REVIEW  11 of 20 
+ 
+The h ousing landscape is the most intuitive feature of gentrification in Xixinan Vil-
+lage because the foreign middle class has invested a lot of time, energy and money in the 
+restoration of dilapidated buildings. Accordingly, the unused homesteads and abandoned 
+plots are reused, and the housing space is reconstructed. Prof. Yu Kongjian transformed 
+the idle township government building into a boutique resort hotel —Hetianli Hotel —and 
+set a good example for the renovation of local ancient buildings and the design of 
+homestays [9]. The design of Hetianli Hotel respects the original building layout  and 
+structure, retains the original heritage features and even preserves the original co mmune 
+canteen cooking bench . He filled in new functions (such as the meeting room transformed 
+into the lobby of a boutique hotel) and added modern life elements (such as floor heating, 
+lighting and ventilation). These can realize the preservation, regenera tion and reuse of 
+heritage buildings  [9]. The houses in Xixinan Village are all ancient Hui -style dwellings 
+and newly built dwellings with “white walls and black tiles ” (Figure 3). 
+  
+Figure 3. The appearance of houses in Xixinan Village (photo s by the author s, left is old houses, 
+right  is new houses ). 
+The interior decoration style of immigrant houses is unique and different.  Some an-
+cient dwellings are repaired as “old as the old ”, and others are integrated into the new 
+ones. The old chimney was transformed into an entertainment bar; the wooden showcases 
+were glazed and affixed with window grilles; the stone floor was replaced by patterned 
+tiles. The patio with outdoor lighting is sealed with glass and installed with chandeliers, 
+which not only pr events the rainy and humid climate from corroding wooden door beams 
+but also does not affect the lighting. Moreover, Huizhou is very cold in winter. To adapt 
+to the environment here, the owner of Fenglecaotang designed a stove himself:  
+I designed this table stove myself, and we teach them how to do it with the specialists 
+and carpenters! It will be warm when my guests can chat around the table stove.  
+In addition, migrants have equipped their homes with modern equipment and ser-
+vices such as projectors, swimming pools and bars (Figure 4). 
+  
+Figure 4. Interior landscape of new comers’  houses in Xixinan Village . 
+Figure 3. The appearance of houses in Xixinan Village (photos by the authors, leftis old houses, right
+is new houses).
+The interior decoration style of immigrant houses is unique and different. Some
+ancient dwellings are repaired as “old as the old”, and others are integrated into the new
+ones. The old chimney was transformed into an entertainment bar; the wooden showcases
+were glazed and afﬁxed with window grilles; the stone ﬂoor was replaced by patterned
+tiles. The patio with outdoor lighting is sealed with glass and installed with chandeliers,
+which not only prevents the rainy and humid climate from corroding wooden door beams
+but also does not affect the lighting. Moreover, Huizhou is very cold in winter. To adapt to
+the environment here, the owner of Fenglecaotang designed a stove himself:
+I designed this table stove myself, and we teach them how to do it with the specialists and
+carpenters! It will be warm when my guests can chat around the table stove.
+In addition, migrants have equipped their homes with modern equipment and services
+such as projectors, swimming pools and bars (Figure 4).
+Sustainability 2022 , 14, x FOR PEER REVIEW  11 of 20 
+ 
+The h ousing landscape is the most intuitive feature of gentrification in Xixinan Vil-
+lage because the foreign middle class has invested a lot of time, energy and money in the 
+restoration of dilapidated buildings. Accordingly, the unused homesteads and abandoned 
+plots are reused, and the housing space is reconstructed. Prof. Yu Kongjian transformed 
+the idle township government building into a boutique resort hotel —Hetianli Hotel —and 
+set a good example for the renovation of local ancient buildings and the design of 
+homestays [9]. The design of Hetianli Hotel respects the original building layout  and 
+structure, retains the original heritage features and even preserves the original co mmune 
+canteen cooking bench . He filled in new functions (such as the meeting room transformed 
+into the lobby of a boutique hotel) and added modern life elements (such as floor heating, 
+lighting and ventilation). These can realize the preservation, regenera tion and reuse of 
+heritage buildings  [9]. The houses in Xixinan Village are all ancient Hui -style dwellings 
+and newly built dwellings with “white walls and black tiles ” (Figure 3). 
+  
+Figure 3. The appearance of houses in Xixinan Village (photo s by the author s, left is old houses, 
+right  is new houses ). 
+The interior decoration style of immigrant houses is unique and different.  Some an-
+cient dwellings are repaired as “old as the old ”, and others are integrated into the new 
+ones. The old chimney was transformed into an entertainment bar; the wooden showcases 
+were glazed and affixed with window grilles; the stone floor was replaced by patterned 
+tiles. The patio with outdoor lighting is sealed with glass and installed with chandeliers, 
+which not only pr events the rainy and humid climate from corroding wooden door beams 
+but also does not affect the lighting. Moreover, Huizhou is very cold in winter. To adapt 
+to the environment here, the owner of Fenglecaotang designed a stove himself:  
+I designed this table stove myself, and we teach them how to do it with the specialists 
+and carpenters! It will be warm when my guests can chat around the table stove.  
+In addition, migrants have equipped their homes with modern equipment and ser-
+vices such as projectors, swimming pools and bars (Figure 4). 
+  
+Figure 4. Interior landscape of new comers’  houses in Xixinan Village . 
+Figure 4. Interior landscape of newcomers’ houses in Xixinan Village.
+The streetscape of Xixinan Village has also undergone obvious changes, such as
+the improvement of the street environment and the sanitary environment as well as the
+beautiﬁcation of the overall style of the village (Figure 5). In terms of street environment
+management, the government fully completed the restoration of the stone road and broken
+walls in the village in 2017. On this basis, the stone road and courtyard walls were
+beautiﬁed, and the courtyard environment was improved. Since 2017, the government
+has held a “Beautiful Courtyard” selection event every year to promote planting ﬂowers
+and other plants among the villagers. In terms of beautifying the overall style of villages,
+the government established a leading group for the improvement of the overall style and
+appearance of characteristic towns in Xixinan Town in 2018, to strengthen the beautiﬁcation
+of the environment of ancient villages. For example, the water pipes are outsourced
+with bamboo, the houses on Fengnan Avenue are painted, the storefronts are uniﬁed and
+monitoring equipment is installed. As a result, the appearance of the village has been
+greatly improved, and the villagers feel deeply about it:
+Sustainability 2022 ,14, 10077 12 of 19
+The streets in the village have become much cleaner, the stone road has been repaired,
+there is no garbage and the overall landscape has become more beautiful, which makes our
+lives very happy. (D11).
+Now, we also all know how to take care of the environment, keep the streets clean and stop
+littering. Now, the village is cleaned every day, and the streets are clean. I also responded
+to the government’s request and planted ﬂowers and plants in the yard and watered them
+with rice-washing water every day, and they grew very well. (D16).
+Sustainability 2022 , 14, x FOR PEER REVIEW  12 of 20 
+ 
+The streetscape of Xixinan Village has als o undergone obvious  changes , such as the 
+improvement of the street environment and the sanitary environment as well as the beau-
+tification of the overall style of the village (Figure 5). In terms  of street environment man-
+agement, the government fully comple ted the restoration of the stone road and broken 
+walls in the village in 2017. On this basis, the stone road and courtyard walls were beau-
+tified, and the courtyard environment was improved. Since 2017, the government has held 
+a “Beautiful Courtyard ” select ion event every year to promote planting flowers and other 
+plants among the villagers. In terms of beautifying the overall style of villages, the gov-
+ernment established a leading group for the improvement of the overall style and appear-
+ance of characterist ic towns in Xixinan Town in 2018 , to strengthen the beautification of 
+the environment of ancient villages. For example, the water pipes are outsourced with 
+bamboo, the houses on Fengnan Avenue are painted, the storefronts are unified and mon-
+itoring equipme nt is installed.  As a result, the appearance of the village has been greatly 
+improved, and the villagers feel deeply about it : 
+The streets in the village have become much cleaner, the stone road has been repaired, 
+there is no garbage and the overall landsc ape has become more beautiful, which makes 
+our lives very happy. (D11) . 
+Now, we also all know how to take care of the environment, keep the streets clean and 
+stop littering. Now, the village is cleaned every day, and the streets are clean. I also 
+responded to the government ’s request and planted flowers and plants in the yard and 
+watered them with rice -washing water every day, and they grew very well. (D16) . 
+ 
+Figure 5. Current situation of the landscape in the village of Xixinan  Village  (photo s by the author s, 
+left is bluestone road , middle  is flowers growing along the courtyard wall , right  is beautiful court-
+yard) . 
+4.2.3. Economic Transformation  
+The economic structure of Xixinan  Village has undergone significant changes. Since 
+the opening of the creative town in 2016, the rural tertiary ind ustries in Xixinan  Village 
+have developed rapidly. Now, 69 characteristic cultural industries and tourism service 
+industries have been built, including Yiyihuiguan, Qingxihanyue, Jinxi South Bank and 
+Weiyanfu. In 2018, the direct output value of Xixinan Village tourism  was CNY 42 million, 
+increasing the collective income of the village by CNY 260,000, and the per capita annual 
+income by CNY 4800. This increase directly drove more than 600 farmers to increase their 
+income, of which 30 farmers with 57 people were lifted out of  poverty. Figure 6 reflects 
+the changes in the number of hotels, homestay inns and restaurants in Xixinan Village . 
+From 2010 to August 2019, 37 tourist accommodations were reported in Xixinan Village. 
+In 2016, the tourism and  accommodation industry in Xixi nan Village developed rapidly, 
+and the number of homestay inns  increased significantly. At the same time, the restaurant 
+service industry in the village has also begun to emerge gradually. Now, 18 restaurants 
+are operating in the village, with the largest number of openings between 2016 and 2018. 
+In general, with the gradual increase in the popularity of Xixinan Village and the increase 
+Figure 5. Current situation of the landscape in the village of Xixinan Village (photos by the authors, left
+is bluestone road, middle is flowers growing along the courtyard wall, right is beautiful courtyard).
+4.2.3. Economic Transformation
+The economic structure of Xixinan Village has undergone signiﬁcant changes. Since
+the opening of the creative town in 2016, the rural tertiary industries in Xixinan Village
+have developed rapidly. Now, 69 characteristic cultural industries and tourism service
+industries have been built, including Yiyihuiguan, Qingxihanyue, Jinxi South Bank and
+Weiyanfu. In 2018, the direct output value of Xixinan Village tourism was CNY 42 million,
+increasing the collective income of the village by CNY 260,000, and the per capita annual
+income by CNY 4800. This increase directly drove more than 600 farmers to increase their
+income, of which 30 farmers with 57 people were lifted out of poverty. Figure 6 reﬂects
+the changes in the number of hotels, homestay inns and restaurants in Xixinan Village.
+From 2010 to August 2019, 37 tourist accommodations were reported in Xixinan Village.
+In 2016, the tourism and accommodation industry in Xixinan Village developed rapidly,
+and the number of homestay inns increased signiﬁcantly. At the same time, the restaurant
+service industry in the village has also begun to emerge gradually. Now, 18 restaurants are
+operating in the village, with the largest number of openings between 2016 and 2018. In
+general, with the gradual increase in the popularity of Xixinan Village and the increase in
+tourists, the economic structure has begun to shift to the tourism service industry. Not only
+have the number of newcomer homestay owners increased, the local villagers have also
+begun devoting themselves to homestay inns and restaurants.
+Sustainability 2022 , 14, x FOR PEER REVIEW  13 of 20 
+ 
+in tourists, the economic structure has begun to shift to the tourism service industry. Not 
+only have the number of newcom er homestay owners increased, the local villagers have 
+also begun devoting themselves to homestay  inns and restaurants.  
+  
+Figure 6. The number of homestays and restaurants increased over the years  (about 4 restaurants 
+per year on average , up to August 2 019, data source: Xixinan Town Market Supervision Bureau ). 
+With the influx of more and more migrants and enterprises, the housing prices in 
+Xixinan  Village have also undergone profound changes, which are primarily reflected in 
+two aspects . One is the price changes in ancient residential houses, and the other is the 
+price changes in newly built residential houses. As shown in Table 2, from 2009 to 201 2, 
+the price increase for old houses was small, but by 2018, the price increased rapidly, ap-
+proximately 17 times that of 2009. From 2016 to 2018, the price of newly built houses that 
+were idle in Xixinan –Shang Village also saw a relatively high increase fr om CNY 800,000 
+in 2016 (covering an area of more than 300 sqm) to CNY 1.6 million. In 2009, the price for 
+the first batch of migrants to buy  some abandoned houses, old rural constructions or 
+homesteads in the village was relatively low, generally only a fe w hundred thousand  
+CNY . However, with the gradual increase in the number of house buyers and the quick 
+rise in housing prices, some vacant houses (Xixinan –Shang Village) were transformed into 
+new residential buildings that are too expensive for local resid ents by migrants or enter-
+prises. Notably, the housing formats (ancient dwellings/new dwellings) and the property 
+values of different locations in Xixinan Village are not uniform.  
+Table 2. Price changes of ancient residential houses and newly built resident ial houses in Xixinan . 
+Year  Ancient Residential House 
+Price /m2 Year  Ancient Residential House 
+Price /m2 
+2009  approximately CNY 600  2016  approximately CNY 2700  
+2012  approximately CNY 1300    
+2018  approximately CNY 10,000  2018  approximately CNY 5400  
+Before 2009, ordinary houses could be bought for tens of thousands. For example, there 
+is an old house in Xibian Street that is more than 80 sqm and more than 80,000. It is 
+very broken, which is equivalent to buying a foundation. But if you buy it now, you  need 
+at least 2 million, and you may not sell it. An ordinary house with two floors of 100 sqm, 
+more than 1 million . (A1).  
+The house in Xixinan –Shang Village is now 1.6 million, and there is no real estate cer-
+tificate. The villagers in Xixinan Village wer e originally moved to it. The land price was 
+cheap, but the villagers did not move, resulting in the land of Shang Village being idle. 
+Later, the government entrusted immigrants to rent and sell this house. At that time, it 
+was sold at 400,000 . (D6).  
+4.2.4 . Cultural Turn  
+With the influx of the new urban middle class , new aesthetic methods and cultural 
+vitality have emerged in Xixinan. First , immigrants expressed their preference for the 
+Figure 6. The number of homestays and restaurants increased over the years (about 4 restaurants per
+year on average, up to August 2019, data source: Xixinan Town Market Supervision Bureau).
+Sustainability 2022 ,14, 10077 13 of 19
+With the inﬂux of more and more migrants and enterprises, the housing prices in
+Xixinan Village have also undergone profound changes, which are primarily reﬂected in
+two aspects. One is the price changes in ancient residential houses, and the other is the price
+changes in newly built residential houses. As shown in Table 2, from 2009 to 2012, the price
+increase for old houses was small, but by 2018, the price increased rapidly, approximately
+17 times that of 2009. From 2016 to 2018, the price of newly built houses that were idle
+in Xixinan–Shang Village also saw a relatively high increase from CNY 800,000 in 2016
+(covering an area of more than 300 sqm) to CNY 1.6 million. In 2009, the price for the ﬁrst
+batch of migrants to buy some abandoned houses, old rural constructions or homesteads
+in the village was relatively low, generally only a few hundred thousand CNY. However,
+with the gradual increase in the number of house buyers and the quick rise in housing
+prices, some vacant houses (Xixinan–Shang Village) were transformed into new residential
+buildings that are too expensive for local residents by migrants or enterprises. Notably, the
+housing formats (ancient dwellings/new dwellings) and the property values of different
+locations in Xixinan Village are not uniform.
+Before 2009, ordinary houses could be bought for tens of thousands. For example, there is
+an old house in Xibian Street that is more than 80 sqm and more than 80,000. It is very
+broken, which is equivalent to buying a foundation. But if you buy it now, you need at
+least 2 million, and you may not sell it. An ordinary house with two ﬂoors of 100 sqm,
+more than 1 million. (A1).
+The house in Xixinan–Shang Village is now 1.6 million, and there is no real estate
+certiﬁcate. The villagers in Xixinan Village were originally moved to it. The land price
+was cheap, but the villagers did not move, resulting in the land of Shang Village being
+idle. Later, the government entrusted immigrants to rent and sell this house. At that
+time, it was sold at 400,000. (D6).
+Table 2. Price changes of ancient residential houses and newly built residential houses in Xixinan.
+Year Ancient Residential House Price/m2Year Ancient Residential House Price/m2
+2009 approximately CNY 600 2016 approximately CNY 2700
+2012 approximately CNY 1300
+2018 approximately CNY 10,000 2018 approximately CNY 5400
+4.2.4. Cultural Turn
+With the inﬂux of the new urban middle class, new aesthetic methods and cultural
+vitality have emerged in Xixinan. First, immigrants expressed their preference for the
+long-standing historical buildings and profound Huizhou culture of Xixinan Village. They
+entered Xixinan Village to explore and study Huizhou architecture and Huizhou culture
+and use their knowledge and wealth to repair and protect ancient dwellings. For example,
+a middle-class immigrant who has lived in Xixinan Village for 10 years said,
+We feel that the ancient dwellings of Huizhou culture are very precious and need to be
+protected, and we need to do our part for it. To protect ancient dwellings and inherit our
+traditional culture, we came to this village with such mentality. (A1).
+Furthermore, it leads to the change in spatial cultural production and villagers’ skill
+accomplishment in Xixinan village. This phenomenon is reﬂected in the new space cre-
+ated by immigrants in Xixinan–Shang Village. For example, the decoration of homestay
+inns in Xixinan–Shang Village introduces Western culture and fashion styles, including
+British-style manors, bars, ﬁreplaces, etc. After receiving professional training, the local
+employees employed by the newcomers have mastered additional knowledge about hotel
+management, such as ﬂower arrangement and tea making, and become knowledgeable
+and aesthetic people. In terms of food culture, they change the traditional cooking methods
+of heavy oil, heavy color and salty Anhui cuisine, thus adjusting the taste of dishes and
+maintain healthy eating habits. In terms of cultural pursuits, the immigrants’ respect for
+local traditional houses, handmade products, tools and the wilderness and nature raises
+Sustainability 2022 ,14, 10077 14 of 19
+local villagers’ awareness of the symbolic meaning, intrinsic quality and economic value of
+these products. It also promotes cultural conﬁdence. Again, these lifestyle immigrants and
+homestay hosts bring the idea of green production of agricultural products. Devoted to the
+ﬁeld, they are the “new farmers”. According to the modern agriculture idea, they create or-
+ganic green vegetable gardens and orchards, produce organic rice, corn and vegetables and
+do not use pesticides and chemical fertilizers. On one hand, they provide for themselves
+and their friends by using homemade food and wine. On the other hand, they supply these
+to their guests, even these homemade food and wine become homestay facility attractions.
+Immigrants especially emphasized the aesthetic preference for “wilderness” as reﬂected in
+their opinion:
+Xixinan Village itself is a pure land, a wilderness place. What urban people come to see
+here, what they see is wild, natural, the original ecology (where human footprints have
+not reached). But the government has pulled up the turf and wild vines, destroying this
+environment. So, we must protect the wilderness. (A2).
+They often give advice to the local government and the village committee, urging the
+protection of the pristine wetland of the maple forest at the entrance of the village, the
+management and protection of the Fengle River and the treatment of sewage and garbage
+in the village.
+In addition, the conscious act of bringing art and culture into the countryside by the
+urban middle class is the force behind the gentriﬁcation [ 33]. Immigrants often organize
+art, culture and research activities. The “Wangshan Life” project chaired by Yu Kongjian
+has carried out a substantial amount of work in this regard, such as the International
+Cello Music Festival, the “Huizhou Country Squire Music Collection” rural music festival
+and “Turenxueshe” to carry out international training of rural design talents. It also
+introduced new creative industry culture. It has attracted many batches of architecture
+and landscape design students from Harvard University, University of Southern California
+and University of Buffalo to study and conduct design courses here [ 9]. The holding of
+these activities attracted a number of musicians and academic experts to gather in Xixinan
+Village, strengthened the exchanges with foreign cultures and enriched the beautiful artistic
+temperament of Xixinan Village and the cultural connotation of Huizhou.
+5. Discussion
+This paper explains the gentriﬁcation of Xixinan Village and its inﬂuence from the
+perspectives of consumption orientation, production orientation and the unique role of
+the government.
+5.1. Consumption-Oriented
+From a consumption perspective, the existence of a new cultural class seeking to
+consume rural space and the transformation of middle-class consumption patterns are one
+of the main inﬂuencing factors of gentriﬁcation in Xixinan Village. Since the reform and
+opening up of China in 1978, it has experienced rapid development for more than 40 years
+and has formed the world’s most populous middle-income group, with a population
+of approximately 400 million in China. These people have a strong “rural complex” [ 9].
+Lifestyle preferences are the main driving force behind the migration of new cultural classes
+to rural areas. A series of urban problems (environmental pollution, trafﬁc congestion,
+housing congestion, busy work, noise interference, etc.) brought about by urbanization
+have exhausted the middle class of the standardized and simplistic stylized urban life.
+These awakened their yearning for the rural life of “returning to nature”, enjoying the
+sunshine, air, water and freedom of the countryside, releasing the mind and ﬁnding
+oneself. Now, in some rural areas, good physical infrastructure and public services can
+be provided. Compared with the over-commercialized surrounding ancient villages such
+as Xidi Hongcun, the value of Xixinan Village lies in its feature as a non-commercialized
+village. The entire village is nestled beside the Fengle River and secluded behind the maple
+forest. The villagers still live their ordinary days at sunrise, without bars, neon lights or
+Sustainability 2022 ,14, 10077 15 of 19
+bustling commercial streets. The rural space is not disturbed by modern external forces
+and retains the characteristics of traditional Chinese rural areas. At the same time, safe and
+healthy organic food, clean water and air, simple neighborhood relationships and healthy
+outdoor sports (mountain biking) make Xixinan Village a “good place for retirement”. This
+unique rural environment and pastoral lifestyle precisely attract the middle-class people to
+the village. Most of the immigrants interviewed by the author expressed that.
+Coming to Xixinan Village is experiencing a kind of life looking at the mountains. You
+can see the mountains; see the water and remember to live in nostalgia, leisure, quiet and
+comfortable. (A9).
+The reason why I chose to stay here is because of the connection with ‘Huizhou’, and
+because of the ‘undeveloped’ original ecological style in Xixinan Village. (A11).
+The personal preferences of the new cultural class will directly lead to changes in their
+consumption patterns. Whilst immigrants create personalized residential landscapes, the
+idyll is constructed as a unique rural cultural taste and cultural connotation experience
+and through various media discourse practices to spread about their own “ideology”
+and “aesthetic”. They promoted the cultural construction of Xixinan Village and the
+commercialization of rural space, and produced what the middle class wanted to consume:
+a “garden style” rural landscape and cultural identity.
+I like living in Xixinan not only because of its beautiful environment and fresh air but
+also because there is a social circle. In this circle, we have similar cultural preferences,
+values and ideologies, and we all enjoy the current rural life. (A9).
+Here, far from the hustle and bustle of the city, you can’t see the row upon row of
+prosperous high-rise buildings, and you can’t hear the noise of the busy trafﬁc, but there is
+the ‘return to the countryside’ that the ancients yearned for, and it is full of paradise-like
+secrets and detachment. (A11).
+5.2. Production-Oriented
+Production is another important cause of rural gentriﬁcation. Gentriﬁcation has
+emerged in China in a rapidly developing and transforming society [ 34]. Under the impact
+of industrialization and rapid urbanization, rural areas continue to decline, and the status
+of agricultural production and agricultural economy continues to decline. Capital gathers
+in big cities and the gap between urban and rural areas is widening. The difﬁculty and
+low efﬁciency of agricultural production and the difﬁculty of rural life have led to the
+low enthusiasm of rural agricultural production and the outﬂow of the rural population
+in Xixinan Village. These rural difﬁculties are the result of industrialization thinking.
+In addition, Xixinan Village is located in the upper reaches of the Fengle River, close to
+the water source, and the local government has made strict protection regulations for it.
+Therefore, it is only a supply base of agricultural products and cheap labor, with lagging
+infrastructure construction and low actual land rent, and it is rarely patronized by proﬁt-
+seeking capital. Therefore, the rural areas also form a state similar to the urban “land rent
+gap”, and the actual value of rural resources is far underestimated by the industrialized
+market value evaluation system.
+In the context of post-modernism, the transformation of the personal preferences and
+consumption patterns of middle-class consumers, the natural environment and lifestyle of
+a traditional village conform to the imagination of today’s society for rural areas. Therefore,
+the idyllic lifestyle and well-preserved rural cultural landscape of Xixinan Village are
+gradually favored by the urban middle class and capital. At the same time, the opening of
+Hefei–Huangshan Expressway in 2007 and the completion and use of Huangshan North
+Station of the high-speed railway in 2015 have made the location advantages of Xixinan
+Village prominent. On this basis, the land value of Xixinan Village is re-evaluated and
+the potential land rent keeps rising, leading to the emergence of a “rent gap”, which
+drives more urban capital to the countryside. It provides a large number of production
+factors such as manpower, capital, technology, culture and resources for the development
+Sustainability 2022 ,14, 10077 16 of 19
+of the countryside. Driven by interests, the government, enterprises and villagers began
+to cater to the consumption needs of immigrants and tourists, and produced gentriﬁed
+rural landscapes, which promoted the activation, reconstruction and rehabilitation of rural
+communities. It is worth noting that the urban middle class is not only the consumer
+of rural space, but also the producer of gentriﬁcation space. They bring their cultural
+preferences and aesthetic ways into Xixinan Village to construct new culture and produce
+rural space.
+5.3. The Unique Role of Government
+Rural gentriﬁcation in the West is often described as “counter-urbanization” or “com-
+fort migration” [ 35], while rural gentriﬁcation in China is mainly based on the background
+of rapid urbanization in China [ 11]. There is the urban–rural dual economic structure in
+China. This refers to the coexistence of an urban economy characterized by socialized
+production and a rural economy characterized by small-scale agricultural production. This
+has led to the migration of the rural population to cities, the population reduction and
+aging in rural areas, and led to the emergence of more rural vacant and idle real estate,
+which provides a ready-made property supply for potential immigrants and the middle
+class. Meanwhile, compared with cities, the use of rural land in China has problems such
+as “dispersion”, “fragmentation”, “low utilization rate” and “low efﬁciency”, and the land
+collectively owned by villages is excluded from the capitalization of the land market [ 36].
+In order to revitalize idle rural land, it is very necessary to drive the development of rural
+areas by attracting external capital with new methods and market-oriented means. In
+China, the government plays a direct and critical role in promoting or inhibiting rural
+land reform. Chinese governments at all levels have issued relevant laws, regulations and
+reform strategies in accordance with the authority granted by law and certain processes.
+Then rural land property rights are redistributed, restrictions on rural land market transfer
+are relaxed and urban capital is introduced into the countryside. These provide a prereq-
+uisite for promoting the development of rural gentriﬁcation. Therefore, in the process of
+rural gentriﬁcation in China, the government plays an important role and participates in
+every process of gentriﬁcation from top to bottom, which is determined by China’s special
+political background, governance system and land property right system.
+In the ﬁrst stage of rural gentriﬁcation in Xixinan Village, the local government carried
+out the reform and exploration of “supply side structural reform” on the original land
+property right system. The implementation plan of the protection and utilization project of
+“One Thousand Houses in One Hundred Villages” was launched by the local government,
+which encouraged newcomers and social capital to settle in Xixinan Village to protect old
+houses and the ancient village. This does not violate and break through the framework
+of China’s existing basic economic system. In the second stage, the local government
+cooperated with enterprises to actively advocate the development of tourism and accom-
+modation industry, guide immigrants to operate homestays, and attract more investment
+and more external cultural enterprises. In terms of housing prices and housing sales, the
+government has also changed from the initial laissez faire to strengthening management. It
+began to formulate relevant regulations to restrict the private land transactions and sales.
+Later, it invested in the purchase of villagers’ old houses, and transformed home land into
+construction land, so as to gradually standardize land transactions. By October 2019, the
+local government funded the collection and storage of 63 houses in the village, and the
+circulation of 46 houses, so as to revitalize the idle homesteads, revitalize the land value
+of Xixinan Village and pave the way for the process of rural gentriﬁcation. This is also a
+beneﬁcial attempt to reuse rural land resources under the urban–rural dual land structure
+in China.
+Sustainability 2022 ,14, 10077 17 of 19
+6. Conclusions and Limitations
+6.1. Conclusions
+This paper tries to analyze the emergence and impacts of rural gentriﬁcation in Xixinan
+Village, and obtains the following conclusions:
+(1) Since the reform and opening up in 1978, the young and middle-aged labor force
+of Xixinan Village has gradually gone to the city to work, and the permanent resident
+population was in a declining trend. In 2009, 12 ancient houses in Xixinan Village were
+purchased by immigrants with the support of government policies related to ancient
+houses, and new “gentlemen” started to settle in the ancient village. In 2015, the opening
+of Huangshan North Railway Station of the high-speed railway and the participation of Yu
+Kongjian, a famous scholar from Peking University, further promoted the gentriﬁcation
+process of Xixinan Village with more and more far-reaching inﬂuence.
+(2) The impacts of rural gentriﬁcation in Xixinan Village:
+1⃝The population structure tends to be diversiﬁed. The gentriﬁer in Xixinan Village
+is not a single urban middle class. Immigrants, investors, returning immigrants, local
+villagers, the government and tourists have all participated in the gentriﬁcation process of
+Xixinan Village. “Gentriﬁers” mainly includes the urban lifestyle type of gentriﬁer, new
+township construction type of gentriﬁer and returning entrepreneurial type of gentriﬁer,
+among which the lifestyle type of gentriﬁer is the pioneer of rural gentriﬁcation and the
+new township construction type of gentriﬁer is the main thinker of rural gentriﬁcation.
+With the continuous participation of immigrants, the local population is growing.
+2⃝Landscape changes. The landscape changes in Xixinan Village reﬂect the strong
+inﬂuence of rural gentriﬁcation. One is the traditional ancient dwelling-style architectural
+landscape of “repairing the old as the old and the old as new”. The appearance features of
+Hui-style architecture, “white wall, black tile, horse head wall”, are prominent, and the
+interior decoration is exquisite, and the living comfort and aesthetics have been greatly
+improved. The other is new buildings with “various styles and multi-dimensional symbio-
+sis”, such as the emergence of Xixinan–Shang Village and the preference for new housing
+landscapes to create “village pastoral, slow life”. Along with the expansion of the spatial
+form of the villages, newly built “new villages” (sweet communities) and “enclave areas”
+(Shang Village) appeared.
+3⃝Structure of the economy has changed markedly. Especially since the launch of
+the creative town in 2016, Xixinan rural tourism services and cultural–creative industries
+have developed rapidly, and homestay and catering services have increased rapidly. How-
+ever, compared with homestays run by local villagers, middle-class homestay owners
+are not proﬁt-oriented. Their main purpose is to pursue a speciﬁc rural way of life and
+preserve local culture. They do not want Xixinan Village to be over-developed and over-
+commercialized but to be a place to create emotional and authentic experiences. Great
+changes have also taken place in housing prices, including the rapid rise in the price of
+ancient houses and new houses.
+4⃝Cultural turn. Certain class and cultural differences exist between immigrants
+and local villagers. These immigrants brought some new consumption concepts, aesthetic
+methods and urban living habits and mapped their own cultural logic to the rural space.
+So, the local villagers gradually shifted from the desire for industrial civilization to the
+pursuit of post-industrial civilization.
+(3) This paper provides an understanding of the emergence of rural gentriﬁcation in
+Xixinan Village in China. From the perspective of consumption, the rise of the huge urban
+middle class has a strong “local complex” and desire to return to the countryside, and they
+project their cultural brand into the rural landscape construction. From the perspective of
+production, Xixinan Village has been dominated by traditional agriculture for a long time,
+and the actual value of rural resources has been underestimated. With the arrival of the post-
+industrial era, along with the improvement of transportation location and communication
+facilities, the land value of Xixinan Village is re-evaluated, with the potential land rent rising.
+The expansion of the “rent gap” attracts various urban capital. The government plays
+Sustainability 2022 ,14, 10077 18 of 19
+an extremely important role in the gentriﬁcation process of Xixinan Village. It constantly
+explores and innovates, launches new policies, promotes the protection of ancient dwellings
+and the transfer of homesteads, rejuvenates the land value of Xixinan Village and paves the
+way for the process of rural gentriﬁcation.
+6.2. Limitations
+Contemporary eastern China is undergoing a rapid restructuring process, which is
+characterized by the transformation from a production landscape to consumption landscape.
+In this context, the application of rural gentriﬁcation theory to study the development
+and transformation of rural areas has attracted more and more scholars’ attention and
+exploration. However, there are still relatively few studies on the rural gentriﬁcation in
+China. There is still a deliberate attempt to conduct gentriﬁcation research on Xixinan
+Village as the destination of traditional village types. There are also some shortcomings in
+this study. First, in the research process, only interviews were selected instead of structured
+questionnaires, so the full sample survey of village residents can be further strengthened
+in the future. Second, in the process of rural gentriﬁcation, the social integration of local
+residents and newcomers is an issue worthy of attention, which is not covered in this study
+and needs to be further explored in future studies. In addition, the “class displacement”
+problem has been a focus in existing research. This study found no signiﬁcant “class replace-
+ment” phenomenon in the rural gentriﬁcation in China, consistent with existing relevant
+research [ 6]. However, there exists “class displacement” in Western rural gentriﬁcation,
+inconsistent with relevant Western studies [ 37]. It may be associated with China’s special
+land property right system, in which rural homesteads and farmers’ houses cannot be
+freely traded. However, in the long run, whether local residents will be marginalized or
+“displaced” needs further observation and follow-up research.
+Author Contributions: S.L. provided the research idea, solved the critical technical problems and
+framed the whole research paper. X.R. contributed to the ﬁeld research and substantial data collection,
+and she wrote the ﬁrst draft of this paper. P .D. conducted a proofreading of the entire text, including
+a check of data and literature sources. All authors have read and agreed to the published version of
+the manuscript.
+Funding: This research study was supported by the National Natural Science Foundation of China
+(Grant no. 41971171).
+Institutional Review Board Statement: The study was approved by the Academic Committee at the
+School of Environmental and Geographical Sciences of Shanghai Normal University.
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: Not applicable.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.

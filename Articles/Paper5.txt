@@ -1,0 +1,1495 @@
+ 
+ 
+The Gentrification of Harlem? 
+Author(s): Richard Schaffer and  Neil Smith 
+Source: Annals of the Association of American Geographers,  Vol. 76, No. 3 (Sep., 1986), pp. 
+347-365 
+Published by: Taylor & Francis on behalf of the Association of American Geographers 
+Stable URL: https://www.jstor.org/stable/2562585 
+Accessed: 26-07-2026 03:50 UTC 
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide 
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and 
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. 
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at 
+https://about.jstor.org/terms 
+Taylor & Francis, Association of American Geographers  are collaborating with JSTOR to 
+digitize, preserve and extend access to Annals of the Association of American Geographers 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+The Gentrification of Harlem? 
+Richard Schaffer* and Neil Smitht 
+*Division of Urban Planning and Historic Preservation, Columbia University, New York, NY 10027 
+tDepartment of Geography, Rutgers University, New Brunswick, NJ 08903 
+Abstract. The process of gentrification has begun to affect the majority of large and moderately sized urban areas in the advanced capitalist world, and impressionistic reports suggest that Harlem may be undergoing gentrification. After reviewing some of the debates and arguments in the gentrification literature, we identify a number of indicators from 1980 census data and examine other housing and mortgage data through 1984. The results suggest that indeed gentrification has begun but that there are several potential limitations to the process. The number of wealthy black households in Harlem is relatively small, and if gentrification proceeds it will lead eventually to white in-migration and to the displacement of blacks. 
+Key Words: gentrification, Harlem, 1980 census, urban restructuring, displacement, New York City. 
+GENTRIFICATION, according to the 1980 
+Oxford American Dictionary, is the 
+"movement of middle class families into urban 
+areas causing property values to increase and 
+having [the] secondary effect of driving out 
+poorer families." Although the process often 
+involves the rehabilitation of residential neigh- 
+borhoods occupied by the working class, it can 
+also occur in nonresidential areas where the 
+building stock is economically obsolete but suf- 
+ficiently sound that rehabilitation is viable. New 
+York's SoHo, for example, was a predominantly 
+industrial area as were many other recently gen- 
+trified areas occupying a waterfront location 
+(Zukin 1982). Gentrification began as a predomi- 
+nantly residential process but in recent years 
+has become more broadly based, involving a 
+fundamental restructuring of central and inner 
+city land uses (Fainstein and Fainstein 1982; 
+Smith and Williams 1986). Along with residen- 
+tial restructuring, the process especially 
+involves commercial redevelopment (boutiques 
+for food, furniture, and pets as well as for 
+clothes) and a new development of recreational 
+facilities (from fern bars and discos to marinas 
+and tourist arcades, such as Baltimore's Har- 
+borplace or London's Covent Garden). In dif- 
+ferent locations gentrification takes different 
+forms, but the common thread is the renovation 
+of old inner and central city building stock for 
+new uses, generally associated with the middle 
+class. Where it is residential property that is 
+being renovated, the process usually occurs in working-class areas where the housing stock has 
+been devalued through disinvestment or where, 
+because of continuing urban development, the 
+location of the neighborhood has become 
+increasingly prized and therefore more highly 
+priced, making gentrification a profitable 
+option. 
+In this paper we examine the extent to which 
+gentrification appears to be affecting Harlem, a 
+neighborhood located on Manhattan Island in 
+New York City. Perhaps the most trenchant 
+national and even international symbol of black 
+urban culture, Harlem seems at first sight a 
+highly unlikely target for gentrification. Yet 
+among Harlem residents, in the local press, and 
+even in the international press ("Harlem. Black, 
+tan, and white . . ." 1984; Kruger 1985), reports 
+of gentrification are emerging. In addition to 
+providing an empirical assessment of the pro- 
+cess today, we offer conclusions about the 
+future of Harlem and assess the conditions that 
+could potentially limit gentrification there. 
+Background 
+As a systematic process, gentrification 
+emerged on the heels of the urban renewal, slum 
+clearance, and post-war reconstruction pro- 
+grams implemented during the 1950s and 1960s 
+in most advanced capitalist nations. The term 
+gentrification was apparently coined by Ruth 
+Glass in the early 1960s: 
+Annals of the Association of American Geographers, 76(3), 1986, pp. 347-365 ? Copyright 1986 by Association of American Geographers 
+347
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+348 Schaffer and Smith 
+One by one, many of the working-class quarters of London have been invaded by the middle classes- upper and lower. Shabby, modest mews and cot- tages-two rooms up and two down-have been taken over, when their leases have expired, and have become elegant, expensive residences. Larger Victorian houses, downgraded in an earlier or recent period-which were used as lodging houses or were otherwise in multiple occupation-have been upgraded once again.... Once this process of "gentrification" starts in a district it goes on rap- idly until all or most of the original working class occupiers are displaced and the whole social char- acter of the district is changed (Glass 1964, xviii). 
+This is not the first period in which residential 
+rehabilitation has occurred; there was sporadic 
+rehabilitation in numerous nineteenth-century 
+European cities, and a substantial number of 
+urban workers were displaced by "The 
+Improvements," as they were called in Britain, 
+or by embourgeoisement, as it was called in 
+France (Rodger 1982; Harvey 1985, 94-96). The 
+difference between earlier experiences of reha- 
+bilitation and contemporary gentrification is that 
+the latter is far more systematic and widespread; 
+it is an international not a national process and 
+is synchronized with larger economic, political, 
+and social changes (Smith 1982; Kendig 1984; 
+Williams 1984). Within affected cities it is highly 
+concentrated spatially. It occurs especially, but 
+not exclusively, in the inner city areas around 
+the Central Business District, the area that used 
+to be described in traditional Chicago School 
+and ecological models of urban structure as the 
+zone of transition (Burgess 1925; Griffin and 
+Preston 1966; Rex 1968). If such areas are again 
+in transition, it is an upward transition rather 
+than the downward one envisioned by tradi- 
+tional theorists. 
+As the effects of gentrification emerged more 
+clearly in the public eye and indeed as the pro- 
+cess seemed to accelerate in many cities in the 
+mid-1970s, a flurry of research began (for sur- 
+veys see Laska and Spain 1980; Palen and Lon- 
+don 1984; Smith and Williams 1986). In the 
+United States this work tended to be highly 
+empirical (e.g., Gale 1977; Laska and Spain 
+1980) whereas in Britain empirical investigations 
+were tempered by a concern for theory (Wil- 
+liams 1976; Hamnett 1973). From this work it 
+has become clear that there are obvious limita- 
+tions to narrow, empirical (sometimes empiri- 
+cist) case studies of gentrifying neighborhoods; 
+equally clear are the limits to more abstract 
+theorizing that may well identify some of the 
+salient causes of the process but often does so at the expense of conveying the diversity of expe- 
+rience involved in gentrification (Holcomb and 
+Beauregard 1981; Hamnett 1984; D. Rose 1984). 
+The complexities of the process should neither 
+become an excuse for neglecting the general 
+patterns that prevail nor be dismissed as epi- 
+phenomenal irrelevancies. It is from this con- 
+viction of the necessity to match theoretical and 
+empirical investigation that the present study of 
+the gentrification of Harlem proceeds. 
+Debate over gentrification has emerged 
+around three main questions: the significance of 
+the process (or its extent), the effects of gentrifi- 
+cation, and its causes. Under these three head- 
+ings we shall attempt to summarize very briefly 
+the major arguments. It will quickly become 
+obvious that these three issues are closely inter- 
+related. 
+Significance 
+In 1970 U.S. census data, probable signs of 
+gentrification began to show up at the scale of 
+individual cities. The process was tightly con- 
+centrated in a few neighborhoods accounting for 
+a very small percentage of the overall area of 
+individual cities (Lipton 1977). In the mid-1970s, 
+a survey of local officials by the Urban Land 
+Institute (1976) suggested that nearly half of 
+U.S. cities with over 50,000 population were 
+experiencing some level of rehabilitation in the 
+inner city housing market. If there is little 
+debate on these findings as such, there is cer- 
+tainly debate over what they mean. 1980 census 
+data have been analyzed so far only at the 
+neighborhood level for individual cities; 
+researchers have not yet repeated Lipton's 
+(1977) broader analysis for the nation's largest 
+cities.
+The debate is essentially this: is gentrification 
+a small-scale, geographically restricted process 
+that has little or no effect on the city as a whole, 
+or is it the harbinger of a major restructuring of 
+urban space? Advocates of what we might call 
+the minimalist position, generally resort to data 
+at the city or metropolitan scale to demonstrate 
+the continuation of urban decline and the subur- 
+banization of whites (e.g., Berry 1985), even if 
+in some cases at reduced rates (see Nelson 
+1984). Only a few of the most accessible neigh- 
+borhoods have been affected. In policy terms, 
+gentrification is therefore seen as a solution to 
+the urban problem "and the problem of urban 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+Gentrification of Harlem 349 
+housing" (Sumka 1979) and should therefore be 
+encouraged. In the words of Sternlieb and 
+Hughes (1983, 467) gentrification is a "triumph" 
+that can potentially bring higher property tax 
+returns and thereby enhance the "economic 
+vigor" of the city (see also Kern 1981). 
+Against this some researchers argue that gen- 
+trification is part of a larger restructuring of 
+urban space that is clearly well under way. This 
+is most obvious in U.S. cities where there may 
+already be "convergence toward the European 
+model" of urban structure (Fainstein and Fain- 
+stein 1982). This model is characterized by a his- 
+torically preserved urban center where numer- 
+ous high-income residential areas have been 
+maintained and where elite retail and commer- 
+cial establishments are concentrated. Some see 
+this "social Manhattanization" as already 
+clearly evident in many U.S. cities (Williams 
+and Smith 1986). Proponents of this position 
+generally resort to data at the micro level 
+(census tract or neighborhood), where the pro- 
+fundity of change from gentrification is most 
+apparent. 
+Effects 
+The debate here is more complex and con- 
+cerns the overall costs and benefits of gentrifi- 
+cation. In what is probably the majority view, 
+and one that certainly dominates most official 
+policy toward the process, gentrification is 
+lauded as the major hope for reversing the eco- 
+nomic and social decline that still dominates the 
+inner cities. The benefits, in terms of rehabili- 
+tated housing units, higher tax revenues, and a 
+generally greater "economic vigor" are held to 
+exceed the costs, especially displacement. In 
+the first place, then, there is an argument over 
+the extent to which poor and working-class resi- 
+dents are displaced from gentrifying areas, with 
+proponents of gentrification maintaining that the 
+extent of displacement and its effects are rela- 
+tively unimportant. During the Carter presi- 
+dency, when the administration actively 
+attempted to encourage "revitalization," the 
+U.S. Department of Housing and Urban Devel- 
+opment (1979, 1981) eventually acknowledged 
+displacement as a problem but downplayed its 
+importance; 2 percent was the unofficial but 
+widely accepted approximation of annual dis- 
+placement in gentrifying neighborhoods. 
+Although evidence is admittedly thin, available results suggest low rates of displacement, and so 
+according to this argument no anti-displacement 
+policies need be implemented; these would be 
+premature and might retard "revitalization" 
+(Sumka 1979). 
+Against this view, more recent evidence sug- 
+gests that as many as 23 percent of departing 
+residents in gentrifying neighborhoods are dis- 
+placed (Schill and Nathan 1983, 7). Hartman 
+(1979) and LeGates and Hartman (1981) have 
+argued, on the basis of an exhaustive survey of 
+displacement reports, that the problem is wide- 
+spread, that government figures themselves 
+indicate that 500,000 families are displaced 
+annually from their homes, and that gentrifica- 
+tion accounts for a sizable minority of these. 
+Beyond the statistics, the impressionistic evi- 
+dence suggests that the problem is real. The fear 
+of gentrification in target neighborhoods is cer- 
+tainly widely reported (e.g., Daniels 1983a), and 
+in areas where the process has begun, everyone 
+has a story about old friends and families next 
+door who were moved out. 
+Opponents of gentrification therefore attempt 
+to point out that the costs of the process are 
+unevenly felt and that the notion of overall gain 
+for the city is misleading. "The city" is not an 
+undifferentiated pool of abstractly equal individ- 
+uals but rather comprises a stratified population 
+whose experience of gentrification is highly dif- 
+ferentiated (Smith and LeFaivre 1984). Some 
+gain and some lose. In a recent survey, which 
+suffers from some vital methodological prob- 
+lems, Schill and Nathan (1983, 119) assert that 
+although displaced households face higher 
+rental costs, they may also respond to ques- 
+tioners that their housing is better and they feel 
+better off. Displacement is thereby construed as 
+potentially beneficial to working-class residents, 
+and it is a short step from here to a policy of 
+benign neglect. This view has been flatly 
+rejected as systematically underestimating the 
+adverse effects of gentrification (Hartman, 
+Keating, and LeGates 1982; LeGates and Hart- 
+man 1986). 
+Causes 
+The strictly ecological explanations referred 
+to above-the treatment of gentrification as a 
+re-invasion of the zone of transition-have cer- 
+tainly been invoked as well as critiqued (London 
+1980). But such explanations of an apparent 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+350 Schaffer and Smith 
+reversal in social ecological patterns have gener- 
+ally been post hoc; description is construed as 
+explanation, with little or no insight into the 
+deeper reasons for urban change. Thus the 
+debate over causes has come to center on the 
+issue of production-based vs. consumption- 
+based explanations. Especially in the U.S. the 
+process has generally been explained as a result 
+of changing lifestyles and demographic changes 
+(the maturation of the baby boom generation, 
+higher numbers of single adults living together, 
+higher female labor force participation rates, 
+and so forth). Together these lead to altered 
+consumption patterns and preferences, leading 
+to a heightened pattern of demand for housing. 
+Some of these ideas have been challenged 
+(e.g., Walker and Greenberg 1982), and an alter- 
+native tradition has developed emphasizing the 
+role of the state and capital in producing both 
+the potential and the reality of gentrification. 
+Williams (1976, 1978) emphasizes the role of 
+British building societies in providing the capital 
+for transforming the inner city landscape. 
+Others have theorized that it is the longer-term 
+movement of capital in the built environment, 
+creating a "rent gap" in the inner city, that 
+creates the opportunity for profitable capital 
+reinvestment in redevelopment or housing reha- 
+bilitation. More generally, some form of "col- 
+lective social action" rather than individual 
+decision making is necessary to promote the 
+process (Smith 1979, 545; 1982). The emphasis 
+here is squarely on the primary role of capital 
+(private or public) in fashioning the urban land- 
+scape. Clearly production and consumption 
+must be related, but the determination of how 
+they are related and which predominates cannot 
+be made on the basis of empirical studies alone. 
+Each of the different positions in this debate, 
+then, involves a larger theoretical commitment 
+concerning the way in which urban space is 
+continually patterned and repatterned. 
+We cannot address all of the questions pro- 
+voked in these debates in the context of Harlem. 
+In particular because gentrification in Harlem is 
+at best in its infancy and because the area has an 
+inordinate number of vacant and abandoned 
+buildings, it will be difficult to use this empirical 
+study to advance our knowledge of the effects of 
+gentrification. Precisely because the process is 
+in its infancy, however, this study can offer 
+some clues concerning causes, and because of 
+the presumed difficulty of Harlem as a target for 
+the process, the study should also yield some 
+conclusions on the significance of gentrification. Finally, there is the question of methodology 
+and particularly the issue of how to identify gen- 
+trifying neighborhoods within Harlem. There 
+has been remarkably little discussion of this 
+question in the literature and so a further aim of 
+this paper is to begin to identify statistical indi- 
+cators of gentrification. Most previous research 
+has tended to rely on the impressions of local 
+"experts" (planners, academics, real estate 
+agents, community activists) as indicators of 
+the process because sufficiently sensitive 
+neighborhood-level data were scarce. As Clay 
+(1979b, 40) concluded, "statistical indicators are 
+not likely to yield early clues to middle-class 
+reinvestment." In fact, as gentrification 
+matures, statistical indicators are increasingly 
+available. One would expect to see changes in 
+the occupational and socioeconomic character 
+of affected neighborhoods as well as in the prop- 
+erty market, and indicators are available for 
+identifying such changes. Specifically, one 
+would expect increases in the percentage of col- 
+lege graduates and of professionals in gentrify- 
+ing neighborhoods, and these data are available 
+in census reports. Neither is a sensitive indica- 
+tor, however. The spatial distribution of college 
+graduates is highly differentiated, but some of 
+the most dramatic increases in this indicator 
+appear in poor neighborhoods where 1970 levels 
+were extremely low. The percentage of profes- 
+sionals might have been a sharp indicator, but 
+occupational definitions changed sufficiently 
+between the 1970 and 1980 censuses that the 
+results are not comparable. 
+Two indicators do emerge, however, from the 
+census. Income and rent levels increase dramat- 
+ically in most gentrifying neighborhoods; per 
+capita income provides the most sensitive indi- 
+cator of income changes, and median contract 
+rent offers the most comparable data on housing 
+costs. Beyond the census, housing market data 
+give a fairly clear picture of reversals in the 
+devaluation cycle (Smith 1979) and the begin- 
+nings of reinvestment. We propose these as sta- 
+tistical indicators that are sufficiently sensitive 
+to detect gentrification in Harlem and also have 
+wider applicability. 
+Harlem as a Target for Gentrification 
+Harlem is an international symbol of black 
+culture. Two themes dominate most contempo- 
+rary images of Harlem. The first, a nostalgic 
+image now, is the Harlem of the Harlem Renais- 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+Gentrification of Harlem 351 
+sance or of the Black Panthers (Anderson 1982; 
+Lewis 1981). The second theme is Harlem the 
+ghetto, one of the largest concentrations of 
+black working-class and poor inhabitants in the 
+U.S. (Osofsky 1971). Along with this image goes 
+a picture of physical dilapidation, social depri- 
+vation, crime, and drugs. If the two themes are 
+different, they are not incompatible; each 
+obviously portrays only a part of the real Har- 
+lem. In the first place, then, this is a case study 
+of the extent of gentrification in an internation- 
+ally known black neighborhood. 
+Constructed initially as a mixed middle- and 
+working-class area in the last decades of the 
+nineteenth century and located on the north 
+edge of Central Park in Manhattan (Fig. 1), Har- 
+lem's housing stock is comprised of five- and 
+six-story tenements and townhouses.1 As the 
+white middle class moved out to the suburbs and 
+the black migration from the South accelerated 
+during World War I, Harlem's population 
+became increasingly black, and by the 1920s the 
+Harlem Renaissance placed the area squarely at 
+the forefront of black culture. New construction 
+had effectively ceased by the beginning of the 
+war, however, and housing disinvestment began 
+seriously during the Depression. Ever since, 
+there has been little significant reinvestment in 
+Harlem except for undertakings that were partly 
+or wholly funded by the state. By the time that 
+Harlem again made international headlines in 
+the 1960s, it had been transformed into a slum 
+and quickly became the most notorious symbol 
+of black deprivation in America. 
+Although the neighborhood's history of disin- 
+vestment and decline is typical of other neigh- 
+borhoods facing gentrification, Harlem is quite 
+atypical in other ways. Most important, Harlem 
+is a solidly black area. According to the 1980 
+census, 96 percent of Central Harlem residents 
+are black. Gentrification in the U.S. has cer- 
+tainly led to the displacement of black and other 
+minority populations, but because many of the 
+black urban neighborhoods had been targeted 
+earlier by urban renewal and because white 
+middle-class gentrifiers have generally been less 
+squeamish about moving into white working- 
+class areas, the earliest neighborhoods affected 
+by gentrification have usually been white or at 
+least mixed. With some exceptions, heavily 
+black neighborhoods have been perceived as 
+harder to gentrify. An obvious exception is Cap- 
+itol Hill in Washington, D.C. (Gale 1977), which 
+has undergone gentrification since the 
+mid-1960s, but this comparison points to 0 1 2 3km 
+0 1 2mi 
+2) MON ; \ 4THE BRONX 
+155T STt 
+CENTRAL HMILTON HARLEM HEIGHTS 
+I? ~~~~125TH 5T. 
+MORNINGSIDE PARK
+UPECENTRA~L 
+PARKYORK VILL WESTSIDE Q~~~~UEENS 
+NEW II~.6 JERSEY f II
+CLINTON 42ND ST 
+CHELSEA - 
+o-Z ____ 14TH ST 
+- GREENWICH ~. VILLAGE LOWER -~~~~ ~EAST SOHO SIDE 
+TRIBECA 
+BROOKLYN 
+Figure 1. Manhattan and Central Harlem. 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+352 Schaffer and Smith 
+another important characteristic of Harlem: its 
+size. Harlem is much larger than Capitol Hill. 
+Its total population is over 300,000 and it covers 
+an area of about four square miles. Perceived by 
+the middle class (especially the white middle 
+class) as highly threatening, having a universally 
+depressed housing market, and possessing a 
+cohesive social and political identity, Harlem 
+represents a challenging obstacle for gentrifica- 
+tion in New York City. Its location on the other 
+hand-immediately north of Central Park from 
+midtown Manhattan-does promise consider- 
+able economic opportunity for developers who 
+initiate gentrification. With this much at stake, it 
+is little wonder that on the one side Harlem is 
+seen as a supreme test for the gentrification pro- 
+cess, while on the other gentrification is seen as 
+a powerful threat to Harlem residents who are 
+dependent on the availability of housing at rents 
+well below Manhattan market levels. 
+Harlem is susceptible to gentrification primar- 
+ily because of its location. During the 1970s, 
+New York City lost population, falling from a 
+peak of nearly 8 million in 1971 to just over 7 
+million in 1980. (It has since stabilized and even 
+registered marginal population increases.) Man- 
+hattan followed this trend, falling from 1.54 to 
+1.43 million during the decade, but in the same 
+period the number of households in Manhattan 
+actually increased by 2.5 percent (Stegman 
+1982). Along with this increase in households, 
+the gentrification process, which had certainly 
+been evident in the city before 1970, began to 
+flourish, especially in the southern and western 
+parts of Manhattan. SoHo, Tribeca, the Lower 
+East Side, Chelsea, Clinton, and the Upper 
+West Side all experienced considerable rehabili- 
+tation of old building stock (Fig. 1). By the late 
+1970s, Harlem represented Manhattan's largest 
+concentration of working-class residences with 
+virtually no gentrification. Thus, despite the 
+continued population loss at the city level during 
+the 1970s, gentrification shows up strongly for 
+the first time with census-tract data from the 
+1980 census, especially in Manhattan but also in 
+Brooklyn. A recent study by Chall (1984) docu- 
+ments the process in New York City but seri- 
+ously underestimates its extent.2 It is against 
+this background of extensive rehabilitation in 
+areas closer to midtown Manhattan, rapidly ris- 
+ing housing costs and rent levels, and an 
+extremely low citywide vacancy rate of about 2 
+percent that the gentrification of Harlem has 
+come onto the agenda. There are several purposes, then, to this 
+study. First, it offers a case study of an urban 
+area with an international reputation; the gentri- 
+fication of Harlem would indeed be an an event 
+of some significance. Second, this study docu- 
+ments the process at its inception, therefore 
+providing a base line against which future trends 
+can be assessed. Partly out of disbelief that past 
+trends would be reversed, most researchers 
+have tended to study neighborhoods only after 
+gentrification is an accomplished fact. Even if 
+the process is truncated or halted, a study of its 
+origins can assist in comprehending the reasons 
+for success or failure. Third, this study is meant 
+to cast some light on the debates over the causes 
+and significance of the process. There is little 
+disagreement that Harlem represents a difficult 
+target for gentrification; to the extent that it 
+takes place, we should be more inclined to see 
+the general process of gentrification as tren- 
+chant and long term. If it were temporary and 
+small in scale, why would developers and 
+incoming residents make such long-term invest- 
+ments here rather than in neighborhoods per- 
+ceived as socially and economically less risky? 
+The present study will also make tentative con- 
+clusions about the potential effects of the pro- 
+cess in Harlem and will contribute to the discus- 
+sion over production-side and consumption-side 
+explanations. The theoretical conclusions, how- 
+ever, will be limited and tentative, pointing in 
+certain directions rather than claiming to prove 
+or disprove specific theoretical propositions. 
+The Study Area 
+There are different definitions of Harlem, but 
+it is generally considered to be the area stretch- 
+ing for two miles north of Central Park in Man- 
+hattan. On the East Side it extends south to 96th 
+Street while on the West Side it goes only to 
+125th Street. Generally, it includes Manhattan's 
+Community Districts 10 and 11 and most of the 
+northern part of Community District 9. During 
+the late 1970s and early 1980s, some new con- 
+struction and renovation began in the eastern 
+section above 96th Street, and there were also 
+the beginnings of renovation in the western sec- 
+tion, especially in Hamilton Heights. But the 
+heart of Harlem lies in the central area directly 
+north of the Park. Unless this area of Central 
+Harlem is gentrified, it is unlikely that the reha- 
+bilitation and new construction along the edges 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+Gentrification of Harlem 353 
+Table 1. Statistical Profile of Central Harlem Population and Housing, 1980 
+Central Harlem Manhattan 
+Percent population black 96.1 21.7 Per capita income ($) 4,308 10,992 Percent high-income households (?$50,000) 0.5 8.4 Percent low-income households (<$10,000) 65.5 37.4 Percent college graduates (adults with : 4 years of college) 5.2 33.2 Median contract rent ($ per month) 149 198 Percent managerial, professional, and related occupations 15.9 41.7 Private residential property turnover rate per year, 1980-84 (%) 3.3 5.0 Population change, 1970-80 (%) -33.6 - 7.2 Percent housing abandoned 24.2 5.3 
+Sources: U.S. Bureau of the Census (1972, 1983); City of New York, Department of City Planning (1981); Real Estate Board of New York (1985). 
+will amount to anything very significant. Thus 
+far, media reports of gentrification have focused 
+more on the eastern and western edges of Har- 
+lem, with far fewer reports of activity in the 
+central area. We therefore take Central Harlem 
+as the focus of our research. 
+The study area is defined by the boundaries of 
+Community District 10 (Fig. 1). This area 
+stretches from 110th Street in the south to 155th 
+Street in the north, and from Fifth Avenue in the 
+east to Morningside and St. Nicholas parks in 
+the west. Table 1 provides a statistical profile of 
+the area, comparing it with Manhattan averages 
+in order to emphasize the social, physical, and 
+economic contrast between Harlem and the rest 
+of Manhattan. The picture conveyed by these 
+statistics is clear. Central Harlem's population is 
+predominantly poor, working class, and almost 
+totally black; it has declined by one-third in the 
+last decade. Proportionately Central Harlem has 
+a tiny middle class, a low percentage of college 
+graduates, and a small number of high-income 
+households. Median rents are 25 percent lower 
+than the Manhattan average, one-quarter of all 
+housing units are abandoned, housing condi- 
+tions are bad, and the private housing market is 
+soft. The contrast with the rest of Manhattan 
+could hardly be more marked. Within this gen- 
+eral picture, however, there is considerable vari- 
+ation.
+The study proceeds with an examination of 
+1980 census data and the changes that took 
+place during the 1970s. From this we shall be 
+able to identify areas, roughly at first, where 
+some sort of social, economic, and physical 
+change may be beginning. We then look at more 
+detailed data, especially on the housing market, which will give a more refined and more up-to- 
+date view of changes taking place in the area. 
+We conclude with an assessment of changes that 
+have occurred, a discussion of the limits and 
+constraints upon the gentrification process in 
+Central Harlem, and an attempt to assess the 
+likely effects of the process on present resi- 
+dents.
+Census Results for Central 
+Harlem, 1970-1980 
+We first examine several key indicators from 
+the 1980 census for evidence of gentrification in 
+Harlem. In particular, we examine changes over 
+the decade in per capita income, median family 
+income, median contract rent, and racial com- 
+position. The most obvious pattern to emerge 
+from these data is the continuation of decline. 
+While per capita income in Manhattan increased 
+by 105.2 percent during the 1970s (with no cor- 
+rection for inflation) and by 96.5 percent 
+throughout New York City, in Central Harlem 
+the increase was only 77.8 percent, about 20 
+percentage points lower than the inflation rate 
+for the decade. The standard of living for Cen- 
+tral Harlem residents therefore dropped mark- 
+edly during the 1970s. As might be expected, the 
+decline of real income was even more marked in 
+terms of median family income. Median con- 
+tract rent, on the other hand, rose by 113 per- 
+cent, further exacerbating the decrease in living 
+standards, although again this was lower than 
+the Manhattan and New York City averages 
+(which were 141 percent and 125 percent, 
+respectively). The percentage of blacks 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+354 Schaffer and Smith 
+remained steady at 96.1 percent compared with 
+96.3 percent in 1970 (U.S. Bureau of the Census 
+1972, 1983). 
+But this general trend of economic decline is 
+not universal. A disaggregation of the data at the 
+census-tract level provides clear evidence of an 
+opposite trend in some areas. The most sensi- 
+tive indicator was per capita income, and the 
+second most sensitive was median contract rent. 
+In nine tracts, per capita income increased more 
+than the city average, and in these same tracts 
+rent increases were also generally above the 
+local average, indicating a change in the housing 
+market as well as a change in the social and eco- 
+nomic status of residents. We would expect per 
+capita income increases to be a more sensitive 
+indicator of gentrification than median family 
+income because figures for family income do not 
+include unrelated individuals, who are usually 
+prominent in gentrification. (In Central Harlem, 
+only five census tracts demonstrate above- 
+average increases in family income, and in at 
+least three of these tracts, it is highly unlikely 
+that any gentrification is taking place.) The 
+question is whether there is a spatial pattern to 
+these larger-than-average increases in per capita 
+income. Such a pattern would be expected in 
+the case of gentrification because the process 
+tends to be tightly concentrated in specific 
+blocks and neighborhoods, at least in the begin- 
+ning. Figure 2 shows the distribution of census 
+tracts with increases in per capita income that 
+are above the city average, and it is immediately 
+evident that a distinct spatial concentration 
+exists. There are two corridors of more rapidly 
+rising incomes, one on the western edge of the 
+district, the other on the eastern edge. But is 
+this pattern the result of gentrification, or does it 
+result from some other set of processes? To pro- 
+vide a preliminary answer we look at specific 
+census tracts; this will not tell us definitely 
+which of the tracts are experiencing gentrifica- 
+tion, but it will help us to eliminate those tracts 
+where income rose rapidly for other reasons. 
+The pattern that emerges from this closer 
+examination is that while gentrification might be 
+occurring in the western corridor, the idea of an 
+eastern corridor of gentrification is not tenable. 
+The eastern corridor, from 126th Street to 139th 
+Street (Fig. 2), comprises a low- and moderate- 
+income urban renewal project (Lenox Terrace) 
+as well as several blocks of severely deterio- 
+rated tenements and townhouses. There is no 
+obvious explanation for the above-average 155TH ST L 
+JACKIq ROBINSOIN' PARKI -~; 
+145TH ST 
+ST NICHOA S PARK C 135TH ST- 
+0 w k
+125TH ST HARLEM STATE OFFICE BUILDIN MARCUS GAR VEY' 
+PAPARK 
+l k
+Li1/2mi 
+Figure 2. Above-average increase in per capita income, 1970-80. 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+Gentrification of Harlem 355 
+increases in income here, but it is at least possi- 
+ble that this part of Harlem is experiencing some 
+spinoff effect from the concentration of office 
+employment (since 1971) in the new Harlem 
+State Office Building, immediately to the south 
+on 125th Street. Field observation discloses no 
+signs of significant residential rehabilitation or 
+redevelopment since 1970, and we are inclined 
+to conclude that the area is not experiencing any 
+gentrification. The remaining tract in the eastern 
+corridor, to the south of Marcus Garvey Park, 
+may however be undergoing the beginnings of 
+gentrification. There has been some rehabilita- 
+tion of townhouses here, and the area has been 
+targeted by the City of New York in its auction 
+of city-owned properties (see below). At best, 
+however, the process is in its infancy. 
+In the western corridor, there is firmer evi- 
+dence of the beginnings of gentrification. The 
+indicators suggest an above-average increase in 
+income and rental indicators, especially above 
+126th Street, and there is an areawide increase 
+in high-income households, but the data on the 
+number of professionals and college graduates is 
+more ambiguous. This is particularly surprising 
+because the western corridor borders on the 
+City College of New York, which would be 
+expected to contribute graduates and "profes- 
+sionals" to the gentrification process. Still, the 
+census data suggest the real possibility of gen- 
+trification beginning in this area. A more precise 
+analysis demands that we examine a broader 
+range of data, especially concerning the housing 
+market. 
+Housing Market Trends Since 1980 
+Between 1980 and 1984 there are ambiguous 
+trends in the Central Harlem housing market, 
+and these are shown in Figure 3, which graphs 
+data on the volume and value of private residen- 
+tial sales (Real Estate Board of New York 1985). 
+The first trend is the decline in volume of sales 
+in 1982 with the onset of the national recession; 
+this was matched by a decline of prices in 1983. 
+There is little doubt that these declines repre- 
+sent national trends; nationally, sales volume 
+declined 17.5 percent in 1982 over the previous 
+year, and prices actually declined in many parts 
+of the country for the first time in over a decade 
+("Home sales low . . ." 1983). But the second 
+important trend is that although the volume of 
+sales did not pick up appreciably after the end of $120,000 
+on-- --to NNumber of sales 
+o, - ------ -0 Sale price 100,000 
+802000 
+120 - 40,000 
+100
+80 - 40,000 
+60-
+4o ~~~~~~~~~TENEMENt4TS ANO 4ALET8 - - _ 2.0 
+20 -
+1980 1981 1982 1983 1984 
+Figure 3. Volume and value of private sales, 1980-84. 
+the recession in 1983, prices rose dramatically in 
+1984. This would tend to support the general 
+perception of realtors, public officials, and resi- 
+dents of the area that the market has heated up 
+considerably but that there remains something 
+of a wait-and-see attitude among potential 
+investors; speculative investment has increased 
+since 1984 but appears to involve smaller rather 
+than larger investors (C. Douglas 1986). 
+As with the census results, these sales data 
+for the area as a whole do not give the full pic- 
+ture. Figure 4 shows the geographical distribu- 
+tion of the turnover rate of private residential 
+properties in the five years from 1980 to 1984. 
+The map shows that the highest rate of private 
+sales occurs in and around the same western 
+corridor that emerged from the census data as a 
+possible locus of gentrification. Further it is 
+apparent that in the most active areas, turnover 
+rates are over 7 percent per year, appreciably 
+more than the Manhattan rate of 5 percent and 
+more than the 3.3 percent rate for Central Har- 
+lem as a whole. 
+This indication of increased activity in the real 
+estate market concurs with earlier results. The 
+Harlem Urban Development Corporation (1982) 
+concluded that in the area of the West Harlem 
+South Triangle-the southwest section of the 
+study area bounded on the south by 110th 
+Street, on the west by Manhattan and Morning- 
+side avenues, and on the northeast by the St. 
+Nicholas Avenue diagonal (see Fig. 2)-there 
+was a considerable increase in sales activity 
+between 1978 and 1981. A subsequent report 
+reached a similar conclusion (AKRF 1982). The 
+data through 1984 suggest a secular strengthen- 
+ing of this trend in the western corridor as a 
+whole. 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+356 Schaffer and Smith 
+L "I toless than 20% 
+... . . . . A 20-34.9% 
+\\... X 35% and over 
+W.;
+o 1km lI lo 1/2mi 
+Figure 4. Private residential turnover rates, 1980-84. Although it is the western corridor that 
+emerges as the area undergoing significant 
+changes in social composition and in the housing 
+market, there are two other parts of Central 
+Harlem where rehabilitation and redevelopment 
+are beginning to take place. First, there is the 
+Harlem Gateway area, the name of which sug- 
+gests vividly the intentions of federal and local 
+agencies. Lying between 110th and 112th 
+streets, Fifth Avenue and Manhattan Avenue, 
+the major asset of the Gateway is that it hugs the 
+northern edge of Central Park (Fig. 2). This area 
+was designated a Neighborhood Strategy Area 
+by HUD in 1979, meaning that it was targeted 
+for HUD's major development programs and is 
+also targeted by Harlem Urban Development 
+Corporation and various City agencies. By 1982, 
+there were at least five Section 8 low- and mod- 
+erate-income federal projects active in the area, 
+providing substantial rehabilitation of nearly 450 
+housing units. Since then, several new projects 
+have been announced, and it is recognized today 
+that this area is on the "verge of major redevel- 
+opment" (Daniels 1984). Most important are 
+several condominium projects being undertaken 
+both on Lenox Avenue and on the western edge 
+of the Gateway. At least four new or renovated 
+condominium buildings are in the planning or 
+construction phase, several of them involving 
+coalitions of local developers. The largest and 
+most significant development, however, is a 
+599-unit condominium being constructed by the 
+Rockefeller-inspired New York City Housing 
+Partnership. Ground for this project was broken 
+in October 1985. 
+The significance of the Housing Partnership 
+condominiums-named Towers on the Park- 
+lies in the extraordinary financial undertaking 
+involved. In the summer of 1985 the City 
+received a $6 million Federal Urban Develop- 
+ment Action Grant to subsidize the condomin- 
+iums, and this triggered an unprecedented 
+Chemical Bank loan of $47 million to finance 
+construction (Oser 1985). This is by far the larg- 
+est private residential capital investment in Har- 
+lem in decades and nearly eight times the total 
+private mortgage financing that went into the 
+whole of Central Harlem in 1982. In this one 
+development can be seen both the severity of 
+redlining in the past and the potential for gentri- 
+fication in the future. As construction begins, 
+the total projected cost of Towers on the Park is 
+$70.5 million; while some units are to be ear- 
+marked for moderate-income tenants at approxi- 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+Gentrification of Harlem 357 
+mately $60,000, the majority will be sold, 
+according to current estimates, at between 
+$80,000 and $125,000 (Oser 1985). 
+The second area of some activity since 1982 is 
+the area around Marcus Garvey Park. The 
+census data on income and rent give a mixed 
+picture, suggesting above-average increases in 
+the tract to the south (Fig. 2) but below-average 
+increases immediately adjacent to the park. 
+Most of the activity in this area began two years 
+ago when the City began its sealed bid auction 
+program with 12 brownstone properties that had 
+been taken in property tax foreclosure proceed- 
+ings. Three-quarters of these were in the imme- 
+diate vicinity of Marcus Garvey Park. The prop- 
+erties were to be rehabilitated by those who won 
+the auction, in what was seen as a trial run by 
+the City. According to Roy Miller, Director of 
+the Harlem Office of Community Development 
+and Neighborhood Preservation, only 1 of the 12 
+properties had been completely renovated two 
+years after the auction and 7 were still awaiting 
+the beginning of construction (pers. comm., 
+April 13, 1984). Nonetheless the City adminis- 
+tration was determined to continue the auction 
+program and to expand it. The area around 
+Marcus Garvey Park has remained a prominent 
+focus in this program and has also been high- 
+lighted in media publicity (Daniels 1983b; 
+Coombs 1982). Between January 1980 and June 
+1983, a total of 30 townhouses were sold in the 
+tract adjacent to the park, the third highest total 
+for Central Harlem. Physical inspection of the 
+area also indicates significant rehabilitation 
+activity. 
+The Extent of Gentrification 
+The western corridor of Central Harlem is 
+experiencing the beginning of gentrification. 
+Above-average increases in income and rent 
+levels as well as in the number of high-income 
+families were matched by a rapid increase in 
+sales activity. This simultaneously rising prop- 
+erty market and rising socioeconomic profile in 
+the neighborhood constitute the hallmark of 
+gentrification. Further, this combination is 
+unlikely to occur in Harlem for any other rea- 
+son. The socioeconomic change indicates that 
+the heating up of the property market is not sim- 
+ply the result of speculation, although the latter 
+certainly occurs (C. Douglas 1986), most likely 
+beginning with the early 1980s surge in property values. Likewise, the rising property market 
+indicates that socioeconomic changes in the 
+western corridor are tied to an upward revalua- 
+tion of the physical structures. Also significant 
+is the fact that in this western corridor there is 
+no detectable racial change, no white influx. 
+This suggests that so far we are witnessing a 
+process of black gentrification. 
+Although gentrification has begun in the west- 
+ern corridor, albeit on a small scale, it is impor- 
+tant to be cautious about its extent. Even in this 
+area, which is most affected, the process is as 
+yet very sporadic. Beyond the western corridor, 
+only Marcus Garvey Park and the Gateway 
+appear to have experienced gentrification, and 
+there too it is both sporadic and preliminary. 
+To emphasize the preliminary character of the 
+process, it is possible to compare sales data for 
+Central Harlem with similar data for other 
+clearly gentrifying areas in Manhattan. Whereas 
+Central Harlem had a total of 635 residential 
+property transactions in the five-year period 
+from 1980 to 1984 (for a total of $30 million and 
+an average sale price of $47,500) clearly gentri- 
+fying areas of Manhattan such as Yorkville and 
+Clinton (Fig. 1) experienced much greater levels 
+of activity. Yorkville, on the eastern border of 
+East Harlem and the Upper East Side, had 121 
+transactions in 1980 and 1981 for a total of 
+$106.1 million and an average price of $877,000. 
+Clinton, west of Eighth Avenue between 42nd 
+and 57th streets, had 142 sales in the same two- 
+year period for a total of nearly $46 million and 
+an average sale price of $322,000 (AKRF 1982). 
+Although these data are not strictly comparable 
+because they represent different housing stock 
+in different areas, the comparison does suggest 
+that while the property market in parts of Cen- 
+tral Harlem is beginning to show signs of gentri- 
+fication, it remains on a comparatively small 
+scale. Further, it is important to remember that 
+the 1970 base levels of the indicators used here 
+(e.g., income, rent) are lower than the city aver- 
+age, as are property sale prices, and so large 
+percentage increases, especially for the small 
+census tracts in the western corridor, do not 
+necessarily mean large-scale activity. 
+It is worth commenting briefly on the location 
+of the upward changes that have begun so far. 
+Given that the core of Central Harlem repre- 
+sents some of the most deteriorated and deval- 
+ued properties, one would expect the process to 
+begin at the margins. In some cases, such as the 
+northern part of the western corridor, this might 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+358 Schaffer and Smith 
+be considered spillover from already gentrifying 
+areas such as Hamilton Heights. Elsewhere, 
+however, this is not the case; the Marcus Gar- 
+vey Park area is not close to any other gentrify- 
+ing area, and in the southern sector of the west- 
+ern corridor, the metamorphic outcrops of 
+Morningside Park have been employed as an 
+effective barrier to social and economic inter- 
+course between Harlem below and Columbia 
+University's Morningside Heights above the 
+hill. It can hardly, therefore, be considered 
+spillover. Rather, the common denominator 
+between these areas is a matter of economic 
+gradient-the existence of a severe ground rent 
+gradient (Smith 1979), such that land values are 
+high to the south and west and inordinately low 
+in the middle of Central Harlem. Since it is less 
+risky in market terms to attempt to level off the 
+rent gradient at the margins where higher land 
+values act as an economic anchor than to begin 
+in the center, it is the edges that attract initial 
+attention. As we shall see below, this is also the 
+strategy of the City's Redevelopment Plan for 
+Harlem. 
+Constraints, Limits and Momentum: 
+The Future of Gentrification in 
+Central Harlem 
+As gentrification is only in its earliest stages 
+in Central Harlem, the anticipation of change is 
+obviously much greater than the reality. On the 
+one hand, local municipal officials and public 
+and private real estate developers are promoting 
+the possibilities for redeveloping Central Har- 
+lem. They emphasize the optimistic potential of 
+redevelopment as well as the fragility of the pro- 
+cess, the constraints and obstacles, and the 
+necessity of overcoming them. On the other 
+hand, those who oppose gentrification (because 
+wholesale displacement is likely and finding 
+adequate and affordable alternative housing is 
+difficult) stress the fact that once gentrification 
+begins in a neighborhood it is difficult to stop. 
+How realistic is this anticipation of the gentri- 
+fication of Central Harlem? What are its likely 
+effects? Gentrification is a novel process pre- 
+cisely because it abrogates previous constraints 
+and limitations; it is a reversal in economic and 
+social terms. Central Harlem, however, 
+presents a more formidable set of constraints 
+and limitations than most neighborhoods. We 
+shall consider four of these: the supply of gen- trifiers, the negative image of Central Harlem, 
+building size and zoning limitations, and the 
+supply of private mortgage financing. 
+The Supply of Gentrifiers 
+At present it is clear that despite prominent 
+press reports featuring individual white gentri- 
+fiers in Harlem (Coombs 1982), the vast major- 
+ity of people involved in rehabilitation and rede- 
+velopment in Central Harlem are black. First, 
+the census data register no significant decrease 
+in the percentage of blacks, even in those areas 
+where gentrification appears to be beginning or 
+is threatened. In the western corridor, all of the 
+tracts remained greater than 90 percent black, 
+some almost 100 percent. Second, of the 2,500 
+applications received for the first round of the 
+City sealed bid auction, approximately 80 per- 
+cent were black (Donald Cogsville, President of 
+Harlem Urban Development Corporation, pers. 
+comm., 1984). What is the likelihood that black 
+Harlem residents will be able to carry out the 
+major part of the redevelopment and rehabilita- 
+tion of Harlem themselves as envisaged in the 
+City plan? 
+In the 1982 auction, the City required that 
+each entrant earn at least $20,000 per year (P. 
+Douglas 1983), but in light of the difficulties 
+experienced with that auction, the 1985 auction 
+was open only to households (or pairs of related 
+households) with substantially higher incomes. 
+In today's market, rehabilitation costs are esti- 
+mated to be more than $135,000 for a medium- 
+sized townhouse, and this requires a minimum 
+annual household income of between $50,000 
+and $87,500 for potential renovators ("Profile of 
+a winning sealed bidder" 1985). 
+The 1980 census data reveal that only 262 
+households in Central Harlem had incomes 
+above $50,000. In the whole of Manhattan, the 
+number of black households earning more than 
+$50,000 did not exceed 1,800. Clearly the gentri- 
+fication of Harlem will not proceed far if it is 
+simply a process of "incumbent upgrading" (see 
+Clay 1979a) by Harlem residents. A similar con- 
+clusion was reached by E. M. Green Associates 
+in a 1981 marketing study for a co-op building in 
+the Gateway area (AKRF 1982). The same 
+study, however, concluded that the potential 
+would exist among non-Harlem blacks. It is cer- 
+tainly possible that the economic vacuum in 
+Central Harlem could be filled by non-Harlem 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+Gentrification of Harlem 359 
+blacks, but it is unlikely. All the empirical 
+research on the origin of gentrifiers suggests that 
+few of them actually return from the suburbs 
+(Laska and Spain 1980; Gale 1977); for every 
+returning suburbanite there are an estimated 
+four or five gentrifiers already resident in the 
+city (Smith 1979). Should Central Harlem follow 
+this established trend, its major reservoir of 
+potential gentrifiers will be New York City resi- 
+dents. If high-income black households are to be 
+the main source of gentrifiers, it is doubtful that 
+the process will proceed far since there are 
+fewer than 8,000 such families (earning over 
+$50,000) in all of New York City. The inescap- 
+able conclusion is that unless Harlem defies all 
+the empirical trends, the process might well 
+begin as black gentrification, but any wholesale 
+rehabilitation of Central Harlem properties 
+would necessarily involve a considerable influx 
+of middle- and upper-class whites. This brings 
+us to the second constraint. 
+The Image of Central Harlem 
+If the gentrification of Central Harlem is 
+dependent on a substantial white influx, white 
+perceptions of the area are critical. To the vast 
+majority of middle-class whites, Central Harlem 
+is perceived as a dangerous place. However 
+accurate this image, it is also perceived as a 
+black-defined geographical space in the city, and 
+by this fact alone is therefore threatening. Thus 
+it is impossible to disentangle white middle-class 
+fear from racist perceptions about the area. The 
+reality of Central Harlem is quite different from 
+the ideological image, and yet the image is a 
+trenchant one and will remain so for years to 
+come. It is probably the most immediate barrier 
+to white in-migration. 
+It is difficult to assess how much this negative 
+image will ultimately preclude white gentrifica- 
+tion in the area. The experience of Capitol Hill 
+in Washington, D.C. and a number of other 
+neighborhoods suggests that white gentrification 
+of nonwhite neighborhoods can occur. But Har- 
+lem is much larger symbolically as well as physi- 
+cally and thereby perceived as more threatening 
+yet more intriguing by the white middle class. 
+Building Size and Zoning Limitations 
+While the immediate target of rehabilitation 
+efforts is the area's townhouses, the gentrifica- tion of Central Harlem as a whole will depend 
+ultimately on whether or not the large stock of 
+tenements and vacant lots can be rehabilitated 
+and redeveloped. Without extensive public sub- 
+sidies, Central Harlem's tenements will have to 
+be rehabilitated by private developers, probably 
+as condominiums and co-ops, given the current 
+unattractiveness of rental housing in New York 
+City. To date, this kind of rehabilitation and 
+conversion has occurred in only one or two iso- 
+lated cases, and it is unclear whether private 
+developers will find rehabilitating Central Har- 
+lem's relatively small tenements economically 
+attractive. 
+Almost all the community's residential lots 
+are currently zoned for relatively low-density 
+development, which effectively limits new con- 
+struction to about six stories. Although private 
+developers currently prefer to build large apart- 
+ment houses in order to maximize their returns, 
+Central Harlem's relatively low land prices 
+might enable them to construct townhouses and 
+low-scale apartment buildings. Alternatively, a 
+successful challenge might well be mounted 
+against the zoning regulations in the name of a 
+new Harlem Renaissance. 
+The Supply of Private Mortgage Financing 
+Recent mortgage data show the dearth of pri- 
+vate institutional financing in the area. Of the 
+$12 million invested in Central Harlem mort- 
+gages in 1982 (nearly all of which was for large 
+multifamily dwellings) HUD provided 47.5 per- 
+cent for six separate buildings. Most of the 
+remaining mortgage money (a further 34.5 per- 
+cent) was purchase money mortgages, that is, 
+seller-financed mortgages. There were more 
+than 30 private institutional lenders, mostly 
+small local lenders, but no one of them 
+accounted for more than 2 percent of the total 
+mortgage money. That is, no single private 
+financial institution ventured as much as 
+$240,000 in the entire area in 1982 (City of New 
+York, Commission on Human Rights 1983). 
+This finding heightens the possibility that 
+where property transactions have been brisk, 
+notably the western corridor, the sales were 
+small in scale and often self-financed or seller 
+financed. Without substantially increased pri- 
+vate financing, large-scale rehabilitation and 
+redevelopment will not take place. This is 
+clearly perceived by all public and private insti- 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+360 Schaffer and Smith 
+tutions involved in the redevelopment of the 
+area. Thus the City's Redevelopment Strategy 
+for Central Harlem, proposed in 1982, begins 
+from the assumption that "with drastic reduc- 
+tions in federal housing and economic aid" 
+resulting from the Reagan cuts, the emphasis 
+would have to shift toward private market 
+investment and public-private partnerships: the 
+"private sector . . . would have to play a pivotal 
+role" (City of New York, Harlem Task Force 
+1982, i-ii). It is difficult to predict the extent to 
+which private financial investment will begin to 
+flow into the Central Harlem housing market. 
+For decades Harlem has been almost com- 
+pletely redlined, and despite a secular increase 
+in renovation activity at the national scale in the 
+early 1980s, the Chemical Bank loan of $47 mil- 
+lion represents the first significant influx of pri- 
+vate capital into Central Harlem. The outcome 
+of the Towers on the Park condominiums will be 
+crucial. 
+The constraints on gentrification in Central 
+Harlem are, then, considerable, but not neces- 
+sarily insurmountable. There are also strong 
+forces pushing for the redevelopment and reha- 
+bilitation of the neighborhood's housing stock. 
+Prime among them are the obvious assets of 
+Central Harlem's location and transportation 
+access. As professional, managerial, and admin- 
+istrative employment continues to expand in 
+Manhattan, as the number of households 
+increases, and as the housing market tightens, 
+Harlem becomes an increasingly attractive can- 
+didate for gentrification. But despite its substan- 
+tially underpriced housing in relation to the rest 
+of Manhattan and the economic opportunity this 
+represents, there is no automatic transformation 
+of Harlem into a gentrified "haven." In loca- 
+tional and economic terms, there is no doubt 
+that the potential for gentrification is there; the 
+question is whether these economic and loca- 
+tional forces are powerful enough to overcome 
+the constraints. 
+Perhaps the most important determinant of 
+Central Harlem's future is the success or failure 
+of the City's strategy for the area. The City is 
+particularly important because it is the major 
+landlord in the neighborhood. The conventional 
+wisdom is that about 65 percent of the housing 
+units in Central Harlem are City owned, but the 
+actual breakdown of ownership is more complex 
+(Table 2). The City owns just over 35 percent of 
+the Central Harlem housing stock and another 
+26.4 percent is either public housing or was con- Table 2. Ownership of Housing Units in Central Harlem, 1983 
+Housing Ownership units % 
+Public housing 8,144 14.6 City-owned housinga 19,588 35.2 Publicly assisted private housing Mitchell-Lama 2,520 4.5 Federal Title 1 3,528 6.4 Urban Development Corp. 501 0.9 Private 21,399 38.4 Total 55,680 100.0 
+Source: City of New York, Department of City Planning (1983). a Buildings taken by city through in rem process. 
+structed with public assistance. The City cur- 
+rently anticipates taking over 5,000 additional 
+private units in tax foreclosure proceedings, 
+reducing the proportion of private units to below 
+30 percent. Figure 5 gives a picture of the con- 
+centration of City-owned housing in the area. 
+As one aspect of their policy, the City auc- 
+tioned 12 townhouses for rehabilitation in Feb- 
+ruary 1982, and in August of that year, Mayor 
+Koch released copies of a Redevelopment Strat- 
+egy for Central Harlem, prepared by a special 
+task force (City of New York, Harlem Task 
+Force 1982). The report calls for a selective tar- 
+geting of "stronger" anchor areas in Central 
+Harlem in the attempt to induce a redevelop- 
+ment that is "economically integrated" (p. 2). 
+The City's target areas are shown in Figure 6. 
+The strategy is to bolster the areas where the 
+private market is becoming active (the western 
+corridor, essentially) and to use anchor areas to 
+the south (the Gateway) and the north (the 
+stretch from Hamilton Heights to the compara- 
+tively well off Strivers Row where disinvest- 
+ment has been less marked and private lenders 
+still operate) in order to encircle the heart of 
+Harlem. As one participant put it, the plan is to 
+"circle the wagons around" and move in from 
+the outskirts (Donald Cogsville, pers. comm., 
+April 20, 1984). 
+By 1985, the City government had success- 
+fully maneuvered through and around much 
+local opposition (Daniels 1983a) and put 149 
+additional townhouses up for auction; 1,257 bids 
+were received, and the winners paid between 
+$2,000 and $163,000 for the properties. The 
+average was $50,000, and of the winners, 98 
+went by prior agreement to residents of Commu- 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+/ \ m less than 25% 
+. . . ..:. &E 25-50% 
+\.... X 50% and over 
+o 1km 
+0 1/2mi 
+Figure 5. Distribution of City-owned housing units as percentage of total housing units. / \\ - Phase I 
+/ [ 1 adjacent areas 
+LiIito Phase I 
+Phase 11 
+Economic Development 
+-135TH ST- 
+125TH ST \L \ :: 
+_ _ _ _1km 
+O 1/2mi 
+Figure 6. City of New York Redevelopment Strategy Areas. 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+362 Schaffer and Smith 
+nity Districts 9 and 10 in Harlem (C. Douglas 
+1985). Perhaps most significant is that City offi- 
+cials succeeded, with the help of a $6 million 
+grant, in convincing the Freedom National Bank 
+to provide purchase and renovation loans at the 
+below-market interest rate of 7.5 percent. 
+Together with the Chemical Bank deal, this 
+agreement suggests that private capital is begin- 
+ning to perceive Harlem as a viable and perhaps 
+even lucrative investment especially when 
+backed by public funds. 
+Conclusion 
+From our examination of data on social 
+changes in Central Harlem up to 1980 and of 
+transformations in the housing market through 
+1984, we conclude that the initial stages of gen- 
+trification can be observed in Central Harlem, 
+especially in the western corridor. Compared 
+with four years earlier when the most recent 
+report on the question was issued (AKRF 1982, 
+76, 87), there are certainly more substantial 
+signs of incipient gentrification. But little 
+momentum has yet been achieved. If these con- 
+clusions are necessarily tentative, the study has 
+the added value of providing an empirical base 
+for evaluating the trends that will emerge in the 
+late 1980s. 
+In terms of the theoretical debates reviewed 
+earlier, the results of this case study are also 
+tentative. The fact that the process has begun at 
+all, that gentrification is even on the agenda in 
+Harlem, lends support to the claim that we are 
+witnessing not a curious anomaly but a tren- 
+chant restructuring of urban space. The Harlem 
+experience accords with the view that the pro- 
+cess involves "collective social actors." In this 
+case, it is not private capital alone that has 
+played the leading role. Not until 1985 did a 
+large potential influx of private mortgage capital 
+begin to materialize. The state, in a number of 
+institutional guises, has been most heavily 
+involved in facilitating an upward momentum in 
+the housing market; the leadership role has been 
+taken by the local state-the City of New York. 
+The City proposes a redevelopment strategy 
+that will benefit Central Harlem residents, avoid 
+large-scale gentrification, and produce an "eco- 
+nomically integrated" community. The City 
+states explicitly that this "can be achieved with- 
+out displacing the present residents of Harlem" 
+(City of New York, Harlem Task Force 1982, 1,2). In one very real sense, this is more possible 
+in Central Harlem than elsewhere. The City 
+owns such a vast stock of abandoned buildings 
+(many of them vacant) and undeveloped land 
+that it is possible for substantial rehabilitation 
+and redevelopment to occur before low-income 
+residents are directly threatened with displace- 
+ment. But for the City's privately based redevel- 
+opment strategy to succeed, two prerequisites 
+are crucial. First, Central Harlem will have to 
+attract a large number of outside residents, most 
+of whom may be black at first, but many of 
+whom will necessarily be white as momentum 
+builds. Second, the area will have to attract 
+much larger quantities of private financing. 
+Should these prerequisites be achieved, Central 
+Harlem could be transformed from a depressed 
+island of disinvestment into a "hot spot" of 
+reinvestment, integrated into the Manhattan 
+housing market. This would ultimately mean 
+that large numbers of community residents 
+would face displacement. Thus for Harlem as 
+for many other areas that have undergone gen- 
+trification, "economic integration" may be an 
+impossible hope and "a little gentrification" 
+may be too unstable a state to survive for long. 
+The City redevelopment strategy admits as 
+much: in Harlem, "economic integration" 
+means bringing in rich people and "social bal- 
+ance" means an influx of whites. 
+Gentrification may only be one piece in a 
+larger urban restructuring that will fundamen- 
+tally alter the face of Harlem. The conclusions 
+of our research make it difficult to disagree with 
+Harold Rose's prognosis on the future of black 
+working-class neighborhoods. "If the evolving 
+spatial pattern of black residential development 
+is not significantly altered," according to Rose 
+(1982, 139), the next generation of "ghetto 
+centers will essentially be confined to a selected 
+set of suburban ring communities located in 
+metropolitan areas where the central city black 
+population already numbers more than one- 
+quarter million." We might add the corollary 
+that if the evolving spatial pattern of gentrifica- 
+tion in the central city continues, then not only 
+will the suburban ghettos burgeon, but the inner 
+city ones will shrink at the hands of white 
+middle-class migrants. 
+We are not predicting that Central Harlem will 
+inevitably become a white neighborhood. Apart 
+from the City's policy toward the area, there are 
+two other major determinants of Central Har- 
+lem's future: the condition of the national and 
+This content downloaded from 131.252.96.10 on Sun, 26 Jul 2026 03:50:32 UTC 
+All use subject to https://about.jstor.org/terms 
+Gentrification of Harlem 363 
+New York City housing markets and the effec- 
+tiveness of political opposition. If the housing 
+market remains strong and opposition is weak, 
+then gentrification has a better chance of build- 
+ing momentum. If as part of a larger economic 
+recession the housing market also declines or if 
+opposition to the threat of a gentrified Harlem is 
+sufficiently great, then the process may be 
+halted. Another important question concerns 
+the cultural revival that Harlem is currently 
+experiencing, with the reopening of the Apollo 
+Theater, the announcement of a new Multi- 
+Media Arts Center on the site of the Renais- 
+sance Ballroom ("$14.5 million arts project 
+. ." 1984), and the "discovery" by the white 
+middle class of several of Harlem's restaurants 
+and clubs. Bus tours around Harlem have 
+already attracted thousands of tourists. Ironic as 
+it sounds, this emerging "New Harlem Renais- 
+sance" may unwittingly ease the gentrification 
+process as significant numbers of whites visit 
+and begin to feel comfortable in Harlem. Thus, 
+according to The Harlem Entrepreneur Portfo- 
+lio, which promotes itself as "Harlem's newest 
+brownstone newsletter," "The joys of living in 
+Harlem are endless. The main one being a sense 
+of community" ("Profiles in brownstone living" 
+1985).
+It is difficult to avoid the conclusion that for 
+Central Harlem residents, gentrification is a 
+"Catch 22." Without private rehabilitation and 
+redevelopment, the neighborhood's housing 
+stock will remain severely dilapidated; with it, a 
+large number of Central Harlem residents will 
+ultimately be displaced and will not benefit from 
+the better and more expensive housing. They 
+will be victims rather than beneficiaries of gen- 
+trification. At present, there are no plans for this 
+contingency, either in the City's Redevelopment 
+Strategy or elsewhere; none of the development 
+strategies for Central Harlem even admit the 
+likelihood of displacement. As Harold Rose 
+(1982, 148) so perceptively puts it in the broader 
+context: "Needless to say, there appears to be 
+little concern regarding the social and economic 
+implications associated with the present spatial 
+reorganization upon the future of urban blacks, 
+or for that matter upon the future of the city." 
+Rose might easily have been generalizing 
+from the Harlem experience and the reaction of 
+political and planning officials to the effect of 
+gentrification on the working class. For not only 
+is the potential problem ignored or simply 
+denied; gentrification has even been construed as the solution to the housing problems faced by 
+Harlem residents. At the ground breaking for 
+the Towers on the Park condominiums, U.S. 
+Senator Alfonse D'Amato was confronted by 
+organized community protestors chanting oppo- 
+sition to the gentrification of Harlem. Calling the 
+condominium project "beautiful," and "New 
+York at its best," D'Amato glared at the protes- 
+tors and, as The New York Times described the 
+scene, then declared, " 'I'd like to sing too,' 
+and broke into a brief, off-key aria: 'Gen-tri-fi- 
+ca-tion. Hous-ing for work-ing people. 
+A-men.' " ("Disharmony and housing" 1985). 
+Acknowledgments 
+For valuable assistance in the preparation and research for this paper we want to thank Alex Schwartz, Andrea Katz, Barri Brown, and Diana Elrod. Jan van Weesup, Bob Beauregard, Roman Cybriwsky, and the Annals reviewers gave valuable comments on earlier drafts, and George Colbert drew the final versions of the figures. 
+Notes
+1. By townhouses, we mean three- to five-story resi- dential structures with brick or brownstone fronts. This includes many brownstones, but in Harlem "brownstone" is a misleading label for these structures as many do not have brownstone fronts. 2. Chall makes much of aggregate citywide data that do not show any absolute reversal of suburban- ization trends (at least up to 1980), and so down- plays the extent of gentrification. In fact, if one examines per capita income changes, rather than household income, and if one is prepared to examine spatially contiguous groups of census tracts and their internal changes, a much clearer picture of gentrification emerges. The most signif- icant aspect of the 1980 census in this respect is precisely that gentrification shows up at the census-tract level for the first time. This is imme- diately evident by mapping per capita income and median contract rent increases for Manhattan, where the southern and western part of the island show dramatic rises. The findings demonstrate the substantial spread and expansion of the pro- cess since 1970. See also Marcuse (1986). 

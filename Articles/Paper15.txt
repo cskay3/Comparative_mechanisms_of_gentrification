@@ -1,0 +1,539 @@
+Comprehending the gentriﬁcation of a suburb: the case
+of Mulund, Mumbai
+Sujayita Bhattacharjee
+Published online: 9 August 2019
+/C211Springer Nature B.V. 2019
+Abstract The process of gentriﬁcation in recent
+times has ventured beyond the inner city into territo-ries that are not accounted for in the conventional
+wisdom associated with the phenomenon. Such has
+been the case of gentriﬁcation in Mulund, a suburb ofMumbai in India, where the occurrence of gentriﬁca-
+tion challenges the traditional understanding of the
+process. Mulund once used to be an industrial suburbwhere engineering and pharmaceutical industries were
+operational. Today, the suburb is gentriﬁed with most
+of the old industrial structures replaced by high rises,malls, and multiplexes. Gentriﬁcation has brought
+about a revolutionary change to the suburb and has
+signiﬁcantly redeﬁned its characteristics. Yet, unlikethe process of gentriﬁcation in the inner-city areas of
+Mumbai, that has been studied far and wide; the
+suburban gentriﬁcation of Mulund has been over-looked. This calls for studying the process of suburban
+gentriﬁcation in Mulund. Accordingly, the study has
+been undertaken to comprehend the gentriﬁcation ofMulund by dwelling on its causes, nature, and
+implications. The study questions the applicability of
+the existing theories of gentriﬁcation in the context ofMulund and attempts to answer it by applying both
+qualitative and quantitative analysis. The results of the
+study reveal that the conventional theories are onlypartially applicable to the case of Mulund’s gentriﬁ-
+cation; therefore, requiring a renewed theoreticalunderstanding to suit the changing nature of the
+phenomenon. The study further brings to light a series
+of changes brought about to the suburb by theoccurrence of gentriﬁcation, such as the decrease in
+housing affordability, growth of retail and business,
+and growth of urban amenities, ultimately resulting inits urban spatial transformation.
+Keywords Gentriﬁcation /C1Urban /C1Suburban /C1
+Neighborhood /C1Transformation
+Introduction
+The process of gentriﬁcation has been widely dis-
+cussed and debated in urban literature for the past
+couple of decades. Irrespective, of the debates sur-rounding the process, its dynamic nature is unani-
+mously acknowledged by scholars. Studies on
+gentriﬁcation had mostly been west-centric until adecade ago when the wave of interest in documenting
+its occurrence in the global south gained interest
+(Ghertner 2014 ). Traditionally associated with inner-
+city renewal, it varies depending on the arrangement
+of urban-social settings and practices. It has come to
+be referred to as the process of renewal and rebuildingof deteriorating urban neighborhoods, accompanying
+S. Bhattacharjee ( &)
+Department of Geography, University of Mumbai, Kalina,
+Santacruz East, Mumbai, Maharashtra 400098, India
+e-mail: sujayita100@gmail.com
+123GeoJournal (2021) 86:133–143
+https://doi.org/10.1007/s10708-019-10067-5 (0123456789().,-volV) ( 01234567 89().,-volV)
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+displacement of poorer residents and the inﬂux of the
+afﬂuent class. Although it is traditionally associated
+with inner-city areas, in present times’ it is seen tohave ventured into territories beyond the city core. The
+phenomenon has ‘mutated over time’ (Lees et al.
+2008 ) and is no longer conﬁned to the economic
+centers. It has made its mark in the semi-urban and
+rural landscapes as well (Venerandi et al. 2016 ).
+Today the suburbs are no longer separate from theurban areas; rather they are a part of the continuum.
+With the unprecedented expansion of the suburban
+realm, the suburban geographies have attained theurban character. Knox and Pinch ( 2010 ) remarked that
+the earlier existent difference between suburb and the
+city have begun to disappear in present times. In spiteof this, most studies taken upon gentriﬁcation, comply
+with the conventional framework concentrating on the
+inner-city areas. As seen in case of Mumbai, followingits deindustrialization phase, the gentriﬁcation and
+post-industrial transformation of the inner-city neigh-
+borhoods, such as Lower Parel, Dadar, Byculla,Elphinstone, and Worli have received much attention
+(Chatterjee and Parthasarathy 2018 ; Ghertner 2014 ;
+Vidhate and Sharma n.d.). However, there are strongpieces of evidence suggesting the occurrence of
+gentriﬁcation, at the suburban level at Mulund that
+has not received the much-needed attention itdeserves. As a result, our understanding of the process
+of gentriﬁcation occurring in Mumbai is limited.
+Taking into account this knowledge gap, an endeavorto understand the process of suburban gentriﬁcation in
+Mulund has been taken up.
+Accordingly, the study has been based on certain
+objectives and associated research questions. The
+main objectives are: (1) to explain the occurrence of
+suburban gentriﬁcation in the study area, (2) toanalyze the process in the context of the existing
+theories of gentriﬁcation, and (3) to comprehend the
+changing character of the study area following theoccurrence of gentriﬁcation. The research questions
+associated with these objectives, which the study seeks
+to address are: (a) what has led to the occurrence of
+gentriﬁcation in Mulund; (b) when and how did it start;
+(c) how far does the gentriﬁcation of Mulund ﬁt intothe existing theoretical perspective; (d) are the
+production-side and consumption-side theories appli-
+cable to the context of Mulund; and (e) what are thechanges brought in about by gentriﬁcation to Mulund.A brief review of the existing literature
+The coining of the term ‘gentriﬁcation’ is credited to
+Ruth Glass, a British sociologist. She used the term to
+critically describe the replacement of working-classpeople by ‘a new gentry’ in many London neighbor-
+hoods (Glass 1964 ). While describing her observation
+of gentriﬁcation, Glass ( 1964 ) states how the degrad-
+ing working-class neighborhoods of London had come
+to be occupied by the middle-class residents, turning
+them into posh residential neighborhoods with arenewed social character. Since then the phenomenon
+has come to be deﬁned and redeﬁned by many
+scholars. Zukin ( 1989 ) describes gentriﬁcation as the
+movement of higher class people into a neighborhood,
+leading to the upgrading of property which in turn
+leads to increase in market price and tax valuation,thereby driving out the poorer residents. Knox and
+Pinch ( 2010 ) have termed it as the renewal and
+renovation of degraded inner-city neighborhoodsthrough the inﬂux of middle-class professionals and
+the displacement of poorer residents. According to
+Clark ( 2005 ), gentriﬁcation leads to a replacement in
+the population of land-users by new-users of higher
+socioeconomic status than the earlier ones, along with
+the transformation of the built environment broughtabout by reinvestment in ﬁxed capital. The multi-
+faceted character of gentriﬁcation makes it a complex
+phenomenon. It is ‘simultaneously a physical, eco-nomic, social and cultural phenomenon’ (Hamnett
+1984 ). The complexity of comprehending the phe-
+nomenon of gentriﬁcation has led to the emergence ofdivergent views in literature leading to various
+debates. The most acknowledged debate on gentriﬁ-
+cation emerged during the late 1970s and early 1980swhen Smith attempted to explain the causal factors of
+gentriﬁcations applying supply-side arguments, while
+Lee attempted to explain it using demand-side argu-ments (further discussed in the succeeding sections).
+Emphasizing on the qualitative variations taking
+place in the nature of gentriﬁcation from one decade toanother Hackworth and Smith ( 2001 ) distinguishes
+between three waves of the phenomenon. In these
+waves, the gradually growing role of the state andlocal government in gentriﬁcation has been depicted.
+Furthermore, in the third wave of gentriﬁcation, the
+phenomenon has been depicted to have moved beyondthe inner city to urban peripheries and even rural areas
+(Aalbers 2018 ). Besides, until recently, gentriﬁcation
+123134 GeoJournal (2021) 86:133–143
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+was believed to be a phenomenon conﬁned to the
+developed world. This scenario, however, has changed
+in recent times. In the last two decades, with the shiftin the economic center of gravity from the ‘developed’
+north to the ‘developing’ south, gentriﬁcation has
+made its way to the global south (Lees 2014 ).
+Additionally, Smith’s ( 2002 ) claim on gentriﬁcation
+becoming a ‘global urban strategy’ marked the
+recognition of the southern turn of the phenomenon(Ghertner 2014 ). The studies carried out by Visser
+(2002 ), He ( 2007 ), Harris ( 2008 ), Shin ( 2009 ) and
+Lopez-Morales ( 2010 ), on the countries such as South
+Korea, China, India, Singapore, Brazil, Mexico, Chile,
+and South Africa, conﬁrmed the occurrence of gentri-
+ﬁcation in the inner cities of the global South (Lees2014 ; Lemanski 2014 ). Thus, it was not until the 2000s
+that gentriﬁcation in the global south received atten-
+tion. As a result, much of our understanding ofgentriﬁcation today is based on the studies conducted
+on the metropolitan cities of the west such as London
+and New York (Smith 1996 ; Butler and Robson 2003 ).
+The ﬁndings of these studies have been generalized to
+apply elsewhere (Lees 2000 ). Apparently, the urban
+spaces of the developed and the developing world arenot alike (Deb 2006 ). They differ a lot in terms of
+demographic and socio-economic characteristics.
+These differences lend to the differential occurrenceof urban processes worldwide. Thus, the universal
+applicability of the ﬁndings derived from the studies
+on gentriﬁcation in the metropolitan cities of thedeveloped world has been largely debated. Lemanski
+(2014 ) in her work on ‘hybrid gentriﬁcation’ effec-
+tively argues on the need for reﬁnement of gentriﬁ-cation theory in the southern context. Smith ( 2008 )
+argues that Mumbai and Shanghai are gentrifying at an
+enormous rate, way more than the old post-industrialcities of the developed world. It is evident from the
+studies carried out by, Kumar ( 2014 ), Doshi ( 2015 ),
+and Ghertner ( 2014 ) that the occurrence of gentriﬁca-
+tion in Indian cities has been gaining attention in
+recent times. Studies that have been undertaken on
+gentriﬁcation in Mumbai provide a vivid perspective
+on the nature of gentriﬁcation in the inner city areas of
+the city. For instance: (a) Banerjee-Guha ( 2011 ) in her
+study argues that the urbanization of Mumbai is by and
+large a part of the processes of gentriﬁcation and urban
+restructuring; (b) Birkinshaw and Harris ( 2009 ) asserts
+the process of gentriﬁcation in Mumbai to be state-
+driven, i.e. coinciding with the third wave ofgentriﬁcation; and (c) Chatterjee and Parthsarathy’s
+(2017 ,2018 ) study throws extensive light on the
+occurrence of gentriﬁcation in the old textile mill areasof Mumbai. Nevertheless, considering the fact that
+gentriﬁcation in the present times is no longer deﬁned
+by its traditional values, further studies on gentriﬁca-tion are required that focus on areas beyond the city
+core. Smith ( 1996 ) points out that the suburbs have
+been transformed by the same forces of urbanrestructuring that have gentriﬁed the central city.
+The occurrence of suburban gentriﬁcation, thus,
+cannot be denied in present times. Accordingly, thegentriﬁcation literature has extended to the suburbs
+(Hudalah and Adharina 2019 ). The fact that suburbs
+often do experience gentriﬁcation is conﬁrmed bymany recent studies (Charles 2011
+; Parlette 2012 ;
+Hudalah and Adharina 2019 ). However, such studies
+are severely lacking in the Indian context.
+Methodology
+This research paper is an outcome of the research on
+gentriﬁcation taken up at Mulund, the north-eastern-most suburb of Mumbai (Fig. 1). The suburb is
+surrounded by the city of Thane in the north, the
+Sanjay Gandhi National Park in the west, the Thanecreek in the east, Bhandup in the southwest, and
+Kanjurmarg in the south. The history of Mulund dates
+back to several thousand years. The earliest referenceto Mulund can be found in Mauryan edicts, which
+brand this area as Muchchalind, an outpost of the
+ancient empire (Living in Mulund n.d). Mul Kund andMangalapuri are the other names that were historically
+associated with Mulund. It is said to be the earliest
+planned suburb of Mumbai. The suburb railway linepassing through Mulund divides it into two parts,
+namely—Mulund East and Mulund West. As per the
+2011 census, the total population of Mulund is3,41,463 persons of which 1,02,918 persons reside in
+Mulund East and 23,85,45 reside in Mulund West. The
+total male population of Mulund is 1,76,156 and the
+female population is 1,65,307 (District Census Hand-
+book: Mumbai Suburban District 2011 ). Prior to the
+deindustrialization phase that hit Mumbai, including
+Mulund, during the 1980s and the 1990s the suburb
+was not as popular as today. It was only following thedeindustrialization phase that the suburb gained
+prominence as ‘the vacated industrial sites began
+123GeoJournal (2021) 86:133–143 135
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+getting used for residential development’ (Kulshrestha
+2018 ).
+The data for the study has been collected from both
+primary as well as secondary sources. The methods
+used for the collection of primary data are ﬁeldobservation, questionnaire survey, and residents’
+interview. Field observation was done by personally
+visiting the study area and visually observing as wellas keeping a record of the details in the form of notes.
+For the questionnaire survey and the residents’
+interview, the respondents’ were selected using theconvenience sampling method, mostly targeting the
+middle-aged and senior citizens. The reason behind
+the choice of convenience sampling is based on thefact that the use of a simple random sample did not
+prove to be suitable for the study. Due to accessibility
+issues, as well as the unwillingness of many residentsto participate in the survey, the use of convenience
+sampling emerged as the best possible option in this
+regard. Now considering the fact that conveniencesamples are prone to be non-representative of the
+entire population, due care was taken to ensure that no
+section of the population based on social and eco-nomic status remained unaddressed. Age-wise the
+younger sections of the population were deliberately
+left out as per the needs of the study. Targeting tocapture the residents’ experiences related to gentriﬁ-
+cation in the study, therefore, necessitated focusing onthe middle-aged and senior citizens having knowledge
+of the process. Secondary data, on the other hand, was
+collected by means of an extensive review of relevantbooks, reports, journals, and news articles.
+Based on a ‘mixed-methods approach’ the study
+makes use of both qualitative and quantitative data.Although, considering the nature of the study, the
+emphasis has been more on the use of qualitative data.
+Nonetheless, quantitative data has been applied whereever felt necessary to support the analysis. To suit the
+methodological requirements of the study, the ‘em-
+bedded research design’ is used. This design is alsoknown as the nested design or nested approach. It is
+speciﬁcally applied in situations where one type of
+data, i.e. either qualitative or quantitative is mostcritical to the researcher (Edmonds and Kennedy
+2016 ). In case of this study the choice of the
+‘embedded research design’ is based on the under-standing that although qualitative data is most impor-
+tant for this study, the use of supporting quantitative
+data can enrich the study signiﬁcantly. Thus, for thestudy qualitative data was collected on the occurrence
+of gentriﬁcation in Mulund and its consonance to the
+established theoretical perspective along with on the
+Fig. 1 The location map of the study area, showing the location of T—Ward (Mulund) in Mumbai
+123136 GeoJournal (2021) 86:133–143
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+experiences of the residents’ in the context of the
+changing characteristics of the suburb. To support the
+qualitative data, quantitative data was collected onmigration, urban changes and changing price trend.
+The data thus collected were analyzed and interpreted
+to derive the results. The embedded design used for thestudy is depicted below in Fig. 2.
+The gentriﬁcation of Mulund
+In the 1970s and 1980s, Mulund emerged as an
+industrial suburb with many engineering and pharma-
+ceutical companies having their factories along its
+western half. Fritz ( 1988 ) documented the industrial
+lifestyle of the people of Mulund in an article
+published in the Rotarian, where he states that the
+men often take up more than one job and work doubleshifts, vis-a `-vis, their wives and children take up piece
+work to contribute to the family income. The area
+along the LBS Road of Mulund functioned as amanufacturing hub with factories lined up on both
+sides of the road. Along with it, the ACC Road grew
+into a cement manufacturing area. However, with theadvent of the phase of deindustrialization during the
+late 1980s and early 1990s, these industrial units
+moved out of Mulund. By the late 1990s, the areastarted witnessing a remarkable change that initiated a
+phase of transformation, which eventually led it to
+evolve as a real-estate hub. Within the span of adecade, Mulund also evolved into a retail hub (Nair
+2005 ). The defunct factories and chawls (low-cost
+tenements) housing the factory workers, along theLBS and ACC roads attracted builders seeking land inthe already congested Mumbai. Therefore, the facto-
+ries and chawls came to be replaced by new malls,
+multiplexes, and skyscrapers. In this way, the onceworking-class neighborhood of Mulund West wit-
+nessed gentriﬁcation—‘the process by which work-
+ing-class residential neighborhoods are rehabilitatedby middle-class homebuyers, landlords and profes-
+sional developers’ (Smith 1982 ).
+The major housing projects of Mulund that have
+come up in the old industrial zone of the LBS Road
+and ACC Road are listed in Table 1.
+Often displacement is considered as a deﬁning
+feature of gentriﬁcation. However, Chatterjee and
+Parthasarathy ( 2018 ) have deferred in their views on
+the occurrence of displacement, while explaining theprocess of gentriﬁcation in the mill lands in the city
+core of Mumbai. They have argued that,
+Displacement of the working class by the
+afﬂuent class in the inner city area is one of the
+main indicators of gentriﬁcation as explained inmuch of the scholarship from the global north. In
+Mumbai /C19s mill lands, while there has been
+displacement of the mill workers, there is nowholesale displacement or replacement of one
+class by another. (Chatterjee and Parthasarathy
+2018 )
+This raises the questions on what might have
+happened to the factory workers of Mulund who used
+to reside in the chawls situated along the factories.
+Seeking the answer to the question brought into light
+an important aspect of the phenomenon in Mulund. As
+narrated by Ramesh, a 62 years old former factory
+Qualitative data is collected on:
+1) Occurrence of gentrification 
+2) Its consonance to the established theoretical 
+perspective 
+3) Experiences of the reside nts’ in context of the 
+changing characteristics of the suburb
+Quantitative data is collected on:
+1) Migration, 
+2) Urban changes 
+3) Changing of price trendInterpretations 
+(Based on the results derived 
+from the analysis of 
+qualitative and quantitative 
+data)
+Fig. 2 A schematic representation of the embedded design used in the study
+123GeoJournal (2021) 86:133–143 137
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+worker of Mulund, who used to reside in one of such
+chawl ,
+Post-closure of our factory, the company
+allowed us to continue our stay in the chawl ,
+where many of us stayed, while many others left
+for their native places. Thereafter, the builders
+who wished to build residential high rises in thelocation of our chawl approached and in
+exchange for the chawl they accommodated us
+in low budget ﬂats nearby. Some people stayed
+in the ﬂats while others sold them at good prices
+and with the money, they left for other areas.Presently, on the land where our chawl stood
+earlier, stands lavishly build residential high
+rises accommodating the afﬂuent class. (Source:Residents’ Interview 2018)
+The high maintenance cost and lifestyle change
+associated with living in a ﬂat in comparison to achawl room have also been a reason for many to
+selling off these ﬂats provided to these former mill
+workers. As narrated by, Mohan, a 35 years auto-rickshaw driver and the son of a former factory worker
+of Mulund,
+We were unable to adjust ourselves in the new
+lifestyle. Firstly, we were not accustomed to the
+closed-door culture of ﬂats, and secondly, themaintenance cost incurred in the ﬂat was too
+high for us. So, we decided to sell it off and
+relocated to a chawl room in a nearby slum.
+(Source: Residents’ Interview 2018)Thus, not all factory workers and their families
+have been displaced from Mulund. However, a
+majority of them have left either for their native
+places or to areas beyond Greater Mumbai and Thaneto start their lives afresh.
+Relating theories of gentriﬁcation to the realities
+of Mulund
+Considering the debates surrounding the phenomenon
+and to comprehend the driving factors of gentriﬁcation
+in Mulund properly, an analysis of the process in termsof its existing theoretical explanations is thought to be
+meaningful. These debates, according to Cordova
+(1991 ) are focused on, ‘‘the shifts in the urban
+structure (production) versus shifts in the value
+preferences of the baby boom generation (consump-
+tion).’’ Thus, the causes of gentriﬁcation are explainedunder two broad categories, namely—the Production-
+side theory, and the Consumption-side theory.
+The Production-side theory, also known as the
+supply-side explanation is based on the classical
+theory of economics and it views gentriﬁcation as an
+economic process. It attempts to comprehend gentri-ﬁcation in relation ‘‘to the broader spheres of housing
+and urban land market’’ (Smith and Williams 1986 ).
+Neil Smith’s rent gap theory is a well knownproduction-side explanation of the causes of gentriﬁ-
+cation. Smith termed gentriﬁcation to be a structural
+product of the land and housing markets. According tohim,Table 1 Major housing projects to have come up in the earlier industrial lands of Mulund
+Shut down factories Housing projects Builder Project status
+Bombay Oxygen Whispering Towers HDIL Under
+construction
+Agfa and GABRIEL Runwal Anthurium Runwal Group CompletedChicago Pneumatic Vikash Paradise Vikas Constructions CompletedAsbestos Cement Company City of Joy Nirmal Lifestyle CompletedGlaxoSmithKline (Borrow’s
+Wellcome)Eternia; Enigma Oberoi Group Under
+construction
+Hoechst Marathon Cosmos; Marathon
+GalaxyMarathon Group Completed
+Lok Everest Cement Company Lok Everest Lok Housing and Constructions
+LtdCompleted
+123138 GeoJournal (2021) 86:133–143
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+‘‘Capital ﬂows where the rate of return is highest,
+and the movement of capital to the suburbs,along with the continual devaluing of inner city
+capital, eventually produces the rent gap. When
+the gap is big, rehabilitation and/or redevelop-ment can begin to challenge the rate of return
+available elsewhere, and capital ﬂows back in …
+Gentriﬁcation is a ‘back to the city’ movement ofcapital.’’ (Smith 1979 )
+The phenomenon of ‘rent gap’ is seen to have
+occurred in Mulund, though not in the conventionalsense as deﬁned by Smith. Since Mulund is actually a
+suburb and not an inner-city neighborhood, hence, the
+idea of the devaluation of inner-city capital cannot beattached to it in the literary sense. Rather, the idea has
+to be rephrased as ‘devaluation of local capital’.
+Likewise, the notion of ‘back to the city’ movement ofcapital as forwarded by Smith must be rephrased as
+‘back to the locality’ movement of capital. Nonethe-
+less, considering these aspects, ‘rent gap’ as ‘thedifference between actual rent and potential rent’
+(Smith 1996 ) is seen to have operated and beneﬁted
+the developers/builders in Mulund. They have pur-chased these rundown properties and constructed
+luxurious residences with various amenities and sold
+them at good prices earning an excellent proﬁt and
+contributing to the occurrence of redevelopment and
+gentriﬁcation in the area. However, another importantaspect to be noted in this regard is that after the
+shutting down of these factories, not all these obsolete
+spaces were immediately sold. In fact, differentfactory plots along the LBS Road were sold at
+different times and there are also instances of consid-
+erable delay either in launching or completion of theseprojects due to ‘forest land dispute’.
+Another popular production-side explanation of the
+causes of gentriﬁcation is the value gap theory. Itconcerns with changing property value from privati-
+zation, tenure conversion, and change of ownership.
+The value gap is said to arise when the value of theproperty is higher under the occupancy of the owner
+than under rental. Factors like tax relief for owner-
+occupiers, low real interest rates or rent control, leadsto the occurrence of such a scenario. As a result of the
+value gap, there arises an economic incentive for
+tenure conversion from rental to owner-occupation.This often leads to screening out the low-income
+households through the need for initial capitalinvestment to secure the ﬂat, and beneﬁts from
+possible rent control are eliminated. Thus, in this
+way, it leads to gentriﬁcation. According toMaschaykh ( 2016 ), ‘‘At its starting point, the value
+gap theory assumes that private owners of formerly
+state-regulated buildings and apartments make themost proﬁt from the transition from state to private
+ownership’’. The theory, therefore, applies to build-
+ings and apartments formerly regulated by the state.However, in the case of Mulund there is no such
+situation of ‘transition from state to private ownership’
+(Maschaykh 2016 ), thus, rendering the value gap
+theory inapplicable here.
+The consumption side theory, also known as the
+demand side explanation regards gentriﬁcation as asocio-cultural process. Accordingly, gentriﬁcation is
+considered to be driven by social and cultural factors
+pertaining to an emerging middle class. According toZukin ( 1987 ), the demand-side explanation indicates
+towards consumer preference—for either demo-
+graphic or cultural reasons, or for both—for thebuildings and neighborhoods that have become gen-
+triﬁed. The consumer preference in terms of Mulund is
+revealed from the analysis of the reason for choicecited by the respondents for migrating to Mulund
+following the boom of its housing sector, between
+years 1991 and 2017 (Fig. 3).
+Thus, the process of gentriﬁcation in Mulund can be
+considered more or less as a combination of both
+demand-side and supply-side mechanisms.
+Changing characteristics of Mulund
+The occurrence of gentriﬁcation has brought about a
+series of changes to Mulund, leading to its urbantransformation. The narratives given by the older
+residents bring to light how the suburb has trans-
+formed in less than three decades. As narrated byKanjilal, a senior citizen aged 70,
+Mulund was like a village in the 1970s and 1980s
+with the exception of some factories functioning
+in the western part of the suburb. Roads were
+non-concretized and dense vegetation engulfedthe suburb. There were no gated neighborhoods
+as existent today. It is unimaginable how the
+suburb has transformed. Infrastructure wisetoday it is no less than South Mumbai. All kinds
+123GeoJournal (2021) 86:133–143 139
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+of amenities and facilities are available in the
+suburb. However, it is getting crowded gradually
+and trafﬁc problems are also increasing. (Source:Residents’ Interview 2018)
+In terms of the changes that have taken up in
+Mulund following the deindustrialization phase, a
+majority of the residents i.e. 39.5% consider infras-
+tructural growth, population growth and price rise asthe predominant ones to have taken place in the
+suburb.
+The impact of the growth in the housing sector
+along the gentriﬁed landscape of Mulund has also
+percolated to the nearby areas of the suburb. Mulund,
+in present times, is mushrooming with real-estate. Ananalysis of the price trends for apartments in Mulund
+during the last 10 years reveals the positive nature of
+growth of Mulund’s housing market (Fig. 4).
+As pointed out by many respondents the afford-
+ability of Mulund has worked in its favor to attract a
+large number of people choosing to migrate to thesuburb. A comparison of the current average market
+prices of residential apartments in various locations of
+Mumbai (Fig. 5) brings to light that Mulund is far
+more affordable compared to other locations of
+Mumbai even today.
+An analysis of the migrant population in the sample
+group revealed that among those who had migrated to
+Mulund from 1991 to 2017, a majority of 47.6%
+people had migrated from the other suburb of Mumbaisuch as, Andheri, Ghatkopar, Goregaon, etc., followed
+by 28.6% from the Mumbai City District (Fig. 6).
+These two categories combined together account for76.2% of the people who have migrated from
+completely urban areas. Therefore, the occurrence ofan urban to urban trend of migration is noticed.
+The fact that, along with the growth of the housing
+sector, there has been signiﬁcant retail and commer-
+cial development in Mulund fostering its development
+cannot be ignored. The most glaring examples in thisregard are the coming up of two prominent malls,
+namely, the R-Mall and the Nirmal Lifestyle along the
+LBS Road to mark the beginning of mall culture inMulund. Apart from this many supermarkets and
+hypermarkets have come up in the suburb. Mulund
+today is a retail hub and has grown in terms of otherbusinesses and service sector establishments as well.
+Fig. 3 Pie Chart depicting the reasons behind migrating to
+Mulund from 1991 to 2017 ( source : Sample Survey 2018). It
+reveals that the majority of the people i.e. 33% moved to
+Mulund as they could afford to buy homes here and also localitywise it was a good choice. The reasons cited by the respondents
+bring to light the demographic and cultural drivers of
+gentriﬁcation in Mulund
+Fig. 4 Line graph depicting the price trend of apartments in
+Mulund from 2009 to 2018 ( source : computed from the price
+statistics available on 99accres.com) It is evident from the line
+graph that in the year 2009, the average price of apartments inMulund per sq-ft was merely Rs. 5355. It grew to Rs. 11,050 by
+2013, and by 2018 the average price of apartments per sq-ft had
+become Rs. 14,280. The suburb has thus evolved into a muchsought after housing destination (99accres.com n.d.)
+123140 GeoJournal (2021) 86:133–143
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+The coming up of a number of business parks such as
+the 360 Degree Business Park, O 2Business Commer-
+cial Park, and Ecstacy Business Park have accommo-
+dated the emerging ofﬁce spaces in the area. As in the
+case of residences, the commercial sector of Mulundhas been boosted by its prevalent lower prices of
+commercial property in comparison to other business
+hubs of Mumbai.
+A comparison of the current average market prices
+of commercial ofﬁce space in various locations of
+Mumbai (Fig. 7) again brings to light the affordability
+of Mulund in comparison to other locations of
+Mumbai.
+Thus, with the changing characteristics of Mulund,
+the emergence of its new urban way of life is evident.Conclusion
+The study on Mulund’s gentriﬁcation throws signiﬁ-
+cant light on the aspect of suburban gentriﬁcation
+taking place in Mulund. The nature of transformation
+witnessed by the gentriﬁed geography of Mulund isdramatic and is connected with the ever-growing
+space crisis of Mumbai. Push factors such as growing
+family size, congested neighborhood, and monetaryconstraints to own a home in the other areas of
+Mumbai; along with pull factors such as affordability,
+spaciousness, overall livability in Mulund has ledmany people from other areas of Mumbai to come and
+settle down in Mulund. Growth of housing, rise in
+urban amenities, and improved connectivity hasturned Mulund into a retail hub. With the passage of
+time and growing inclusiveness of the suburb, its
+dependency on the city core is gradually decreasing.Thus, Mulund is shelving off its suburban character
+and embracing ‘urbanism’ into its quintessence,
+altering our comprehensions of interaction betweenthe core and periphery.
+Acknowledgements I am grateful to my Ph.D. Supervisor Dr.
+Sanjukta Sattar for her valuable feedback and suggestions.
+Fig. 5 Bar graph depicting the average price of apartments in
+various localities of Mumbai during the year 2018 ( source :
+computed from the price statistics available on magicbricks.
+com). It is clear from the ﬁgure that the gentriﬁed zones of the
+inner-city areas exhibit a much higher price in comparison to
+Mulund. For instance, in Lower Parel and Dadar, the current
+price of apartments on an average is found to be Rs. 31,265/Sq-ftand Rs. 32,099/Sq-ft respectively; whereas in the case of
+Mulund it is merely Rs. 16,559/Sq-ft (Magicbricks n.d.)
+Fig. 6 Bar graph showing the percentage of people who have
+migrated to Mulund from various regions from 1991 to 2017
+(source : Sample Survey 2018)
+Fig. 7 Bar graph depicting the average price of commercial
+ofﬁce space in various localities of Mumbai during the year2018 ( source : computed from the price statistics available on
+magicbricks.com ) It is clear from the ﬁgure that the current
+prices of commercial ofﬁce space in the original CBD i.e.
+Nariman Point and the de-facto CBD, i.e. Bandra Kurla Com-plex (BKC) on an average are Rs. 36,742/Sq-ft and Rs. 32,698/Sq-ft respectively (Magicbricks n.d.). Likewise, in the gentriﬁed
+zones of the inner-city areas as well the prices of commercial
+ofﬁce spaces are much higher than Mulund. For instance, inlower Parel and Dadar, the current price of commercial ofﬁce
+space on an average is found to be Rs. 22,983/Sq-ft and Rs.
+37,246/Sq-ft respectively (Magicbricks n.d.). In comparison tothese locations, the average price of ofﬁce space currently inMulund is Rs. 15,807/Sq-ft (Magicbricks n.d.)
+123GeoJournal (2021) 86:133–143 141
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+Compliance with ethical standards
+Conﬂict of interest The author declares that there is no con-
+ﬂict of interest.
+Declaration With the intention of maintaining the anonymity
+of the residents interviewed, the names of the respondents havebeen changed while quoting from the interviews.
+Informed consent All the respondents were informed in
+details about the nature of the study and that their participation
+was completely voluntary. The questionnaire survey and resi-dents’ interview were carried out only in those cases where theparticipants consented to it willingly. The participants were
+given the liberty to not answer any question if they were not
+willing to, or even quit the interview in between for whatsoeverreasons.

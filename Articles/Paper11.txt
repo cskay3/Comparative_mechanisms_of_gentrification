@@ -1,0 +1,1508 @@
+Through the Looking Glass: Conceptualising
+the Theme of Gentri ﬁcation in Contemporary
+India
+Rituparna Das and Arup Sarkar
+Abstract
+Gentri ﬁcation, at high levels of granularity, reveals psycho-social, socio-economic and socio-political machinery processes that are
+speci ﬁc to particular places. This article critically reviews existing literature to comprehend gentri ﬁcation in the Indian context.
+Authors argue that the discord between aspirations and class relations gestates urban informality and suggests a new framework
+that the authors call the Triquetra of Informality. The framework proposes that interplay among urban entrepreneurialism, bour-
+geois mode of consumption and subaltern mobilisation are the impetus for contemporary urbanism and gentri ﬁcation in India.
+Keywords
+gentri ﬁcation, India
+Introduction
+“Change is the only constant ”–The words of Heraclitus ring
+true in the twenty- ﬁrst century as we ﬁnd ourselves amid land-
+scapes marked by myriad and unceasing constructions, decon-
+structions and reconstructions. There is a need to charter new
+geographies of theory to decipher the differentiated andrapidly mutating landscapes of urbanisation that are being pro-
+duced today (Roy 2005; Chatterjee and Parthasarathy 2018).
+There have been a multitude of debates over the trend of trans-portation of western-oriented urban theories and applying them
+to explain the urbanism of diverse geographies. The concept of
+gentri ﬁcation epitomises this debate. Once a phenomenon
+based on quaint and spontaneous changes in the neighbour-
+hoods of Euro-American cities, gentri ﬁcation later drew atten-
+tion as a global urban regeneration strategy (Lees 2014;Ernesto 2015; Lees, Shin and Morales 2015; Krijnen 2018).
+Back in the 1960s, Ruth Glass, a British sociologist,
+observed a trend of replacement of a conventional working-class people by a “new gentry ”in many post-war London
+neighbourhoods, which prompted her to coin the term “gentri-
+ﬁcation ”(Bhattacharjee 2019; Chava, Newman, and Tiwari
+2018a; Schmid et al. 2018). Since the 1980s, theories of gen-
+triﬁcation have been in ﬂuenced by the neo-Marxist urban
+politico-economic philosophy (Bhagya and Prasad 2018;Ren 2018). The two leading frameworks are the Global City
+Thesis
+1and Neoliberalism.2They emphasise the transforma-
+tive effect that the unequal economic relations in the moreextensive world system have on the urban structures and pro-
+cesses (Ren 2018). Since the mid-2000s, however, these
+frameworks have attracted criticism by post-colonial scholarsproposing a broadening of the research by encompassingalternative theoretical framewor ks or considering multifaceted
+place-speci ﬁc attributes while studying the phenomenon in
+diverse urban set-ups.
+Despite the mounting criticism, challenges in terms of intel-
+lectual and geographical divides, and the lack of consensus inacademia on how it should be identi ﬁed, empirically tested,
+and contextualised in diverse geographies, “gentri ﬁcation ”con-
+tinues to predominate both theoretical and empirical research.“Gentri ﬁcation ”holds merit in its strength in identifying pro-
+cesses of urban “class restructuring ”and indirect forms of
+market-oriented displacement such as “rent gaps ”(Ghertner
+2011a). A considerable scholarship focusing on cities across
+the world, such as Beijing, Shanghai (Ren 2018), Santiago
+(López Morales 2015), Beirut (Krijnen 2018), Chicago (Ren2018), London (Harris 2008), Mumbai (Fernandes 2004;
+Harris 2008; Pethe et al. 2014; Weinstein and Ren 2009),
+Cape Town (McFarlane, Silver, and Truelove 2016) andTokyo (Schmid et al. 2018), among others, exempli ﬁes how
+urban areas all around the world have experienced differential
+traces of gentri ﬁcation.
+In the late twentieth century, cities in the Global South have
+experienced extraordinary growth, with India as one of the
+epicentres of urbanisation (Ren 2018). In the article
+Department of Architecture, T own and Regional Planning, Indian Institute of
+Engineering Science and T echnology, India
+Corresponding Author:
+Rituparna Das, Department of Architecture, T own and Regional Planning,
+Indian Institute of Engineering Science and T echnology, Howrah, West Bengal711103, India.
+Email: dasrituparna20@gmail.comOriginal Article (literature review or lit review with annotated bibliography)
+Journal of Planning Literature
+1-28© The Author(s) 2021Article reuse guidelines:sagepub.com/journals-permissionsDOI: 10.1177/08854122211052686journals.sagepub.com/home/jpl
+
+titled “Rethinking gentri ﬁcation in India: Displacement, dispos-
+session and the spectre of development ”, Doshi (2015) posits
+speciﬁc articulations of urban transformation that contest the dis-
+course of western idealised gentri ﬁcation in metropolises of the
+Global South. Similar lines of thought were conceived by
+Ghertner (2014) in “India ’s urban revolution: Geographies of
+displacement beyond gentri ﬁcation ”. He questioned the relative
+suitability of the “gentri ﬁcation ”as a concept in the Indian
+context though not dismissing the existing evidence or probabil-ity of it occurring in Indian landscapes.
+Indian cities have followed a different trajectory of urbanism
+than their western counterparts, owing to the informal mode ofgovernance (Doshi 2019), precarious land-use regimes (Doshi
+2015; Ghertner 2015; Weinstein and Ren 2009), diverse socio-
+economic patterns, and distinct class-based management ofurban space (Harris 2008; Ghertner 2015) and developmental
+patterns especially attuned to the ideologies and legacies of cul-
+tural and religious nationalism (Bhagya and Prasad 2018;Birtchnell 2016; Fernandes 2004; Ghertner 2014, 2015). This
+diversity is evident from the broad spectrum of de ﬁnitions to
+deﬁne gentri ﬁcation in the Indian context (Table 1).
+In line with such observations, scholars have stressed the
+need to look beyond the hegemonic discourse of gentri ﬁcation,
+towards (1) the complex historical, political and socio-culturalaspects that are not limited to capitalistic ideologies, (2) the
+transformations in the peri-urban and outer areas of post-
+socialist and post-colonial cities, where aggressive displace-ment is taking place and (3) where non-fully privatised tenure
+still endures (Doshi 2015; Ghertner 2014, 2015; Lees, Shin,
+and López Morales 2015). They also proposed a broadeningof the research to encompass said aspects, beyond the existing
+focus on the most established global cities.
+To look into the inevitable rising complexities of changes in
+cities, neighbourhoods and communities in the Indian scenario,
+and the degrees of adaptability of gentri ﬁcation to explain these
+changes, the existing evidence of the phenomenon and itsimpacts need to be re-examined. In general, a literature
+review on this phenomenon in India has not been carried out
+hitherto. This makes it challenging to analyse the current pro-gress, trends in research and the relevancy of gentri ﬁcation in
+real-life scenarios. This article thus calls for a qualitative
+inquiry by consolidating current studies undertaken in thisdomain. It aims to comprehend the applicability of gentri ﬁca-
+tion as an “agent ”to elucidate the machinery of contemporary
+urbanism in India. It addresses the aim through the followingresearch questions:
+1. What are the existing and emerging theoretical concepts
+that de ﬁne gentri ﬁcation in India?
+2. What are the trends and outcomes of gentri ﬁcation in
+terms of spatial, social and political gestures?
+3. What are the degrees of adaptability of the concept of
+gentri ﬁcation to the contemporary Indian scenario?
+The review is based on a conceptual framework and serves thedual purpose of assessing the status quo of the research and
+exploring future avenues of investigation.Methodology Adopted
+Two types of literature were used to inform the process of liter-ature review: (1) guidance resources and (2) published resour-
+ces. The guidance resources served the purpose of extractingthe published resources, managing references and analysing
+the data while the published resources were the articles to be
+reviewed in this essay. Three guidance resources selectedwere (Bethel 2017; Webster and Watson 2002; Wolfswinkel,
+Furtmueller, and Wilderom 2013). Integration of the methods
+of (Webster and Watson 2002; Wolfswinkel, Furtmueller, andWilderom 2013) was adopted for searching the relevant litera-
+ture, integrating the ﬁndings, analysing the literature qualita-
+tively and drawing insights. Bethel ’s (2017) video on
+YouTube offered useful instruction on systematically managing
+the references.Table 1. Summary of the Selected De ﬁnitions, Sorted by Year of
+Publication.
+Authors Selected de ﬁnitions, sorted by year of publication
+Ren (2018) A“global urban strategy ”, as private –public coalitions
+eagerly redevelop formerly devalued urban spacesfor higher-income groups, and the process invariablyinvolves demolition, displacement and uprooting of
+community life.
+Chava, Newman,
+and Tiwari(2018a)“A process through which working-class central city
+areas change following the in ﬂux of middle classes
+and eventually the displacement of working classes ”.
+Krijnen (2018) Quoting Ernesto (2015 , 565) states that
+“gentri ﬁcation is about socio-spatial inequality,
+where ‘an ample array of local factors like
+pre-existing social polarisation and state policies ofspatial economic restructuring ’constitute the
+‘different corollaries ’of gentri ﬁcation ”.
+Waldman (2017) “Local outcome of globalised socio-spatial processes ”.
+Rao (2018) “Process of spatial remaking with discriminatory
+effects ”.
+Chava and
+Newman (2016)“A phenomenon of the exclusion of the poor and their
+replacement by the af ﬂuent due to housing
+inequities is referred to as gentri ﬁcation ”.
+Birtchnell (2016) “In the rest of the world cities, gentri ﬁcation drives
+architectural development according to neoliberalideals and is a force that creates an absence of strong
+belief in any meta narrative, ideology or religion ”.
+Doshi 2015 “Rarely used in vernacular speech and academic
+writing, which refer instead to slum demolition andresettlement, peri-urban land grabs and state-leddevelopment ”.
+Lees (2014) “The process invariably involves demolition,
+displacement, and uprooting of community life ”.
+Ghertner (2011b) “If gentri ﬁcation is broadly de ﬁned as the
+displacement of a lower class from a space into
+which a wealthier class is entering (Smith 1996),
+then Bhagidari brings about nothing less than the
+gentri ﬁcation of spaces of political association once
+open to the public now appropriated by the upperclasses ”.2 Journal of Planning Literature
+Following the guidelines formulated by Webster and Watson
+(2002), the authors de ﬁned the following inclusion and exclu-
+sion criteria for the extraction of the published resources forreviewing:
+1. Scope –Limited to studies focused on the Indian
+scenario.
+2. Sources –The peer-reviewed works of suf ﬁcient rele-
+vance and acceptability, appearing on Web of Sciencecore collection and Scopus databases, were considered.
+3. Keywords –Following the de ﬁned scope, the keywords
+chosen were “Gentri ﬁcation ”and “India ”.I tw a s
+ensured that they appear at least once in the whole
+textual body of each article.
+4. Time frame –The works published between the inter-
+vals 2000 –2019 were considered, and the search was
+conducted between November 16, 2019 and December
+20, 2019.
+The bibliographic management tool (Endnote X7) following
+(Bethel 2017) was used to download, de-duplicate andmanage the output of literature searches. The further ﬁltering
+of articles of insuf ﬁcient relevance was done after the perusal
+of each of the selected works. Additionally, relevant secondaryarticles beyond the extracted bibliographic database were added
+at the later stages through the forward and backwards tracing of
+the citation index. The ﬁnal set of selected literature for the
+review is represented in Table 2 following Webster and
+Watson (2002).
+A concept-oriented approach was adopted in this review
+using an “iterative coding mechanism ”following the principles
+of Wolfswinkel, Furtmueller, and Wilderom (2013). This was
+employed to analyse the selected articles, thereby deriving con-cepts, insights and directing future research. The steps are elab-
+orated in the next sections.
+Iterative Coding Mechanism
+At this stage, the authors followed Wolfswinkel, Furtmueller,
+and Wilderom ’s (2013) iterative coding procedure to analyse
+the excerpts from the literature to derive and categorise sets
+of concepts, sub-concepts, outcomes, and insights. Three
+stages of coding (open, axial and selective) were engaged toevaluate them. However, the procedures of coding did not
+follow a strict sequence. They were executed in an intertwined
+(non-sequential) fashion, going back and forth between thepapers.
+Open coding. To identify and build a set of concepts based on
+the excerpts supported by the selected literature, the “open
+coding ”mechanism was engaged. The preliminary analysis
+revealed various concepts (Table 2) related to gentri ﬁcation
+among which the concepts “urban entrepreneurialism ”(UE),
+“bourgeois mode of consumption ”(BMC) and “subaltern
+mobilisation ”(SM) appeared repeatedly across studies
+(Table 3), accounting for 49, 30 and 21 percent of the literatureunder review, respectively. These were chosen as the key
+themes of the review; the reasons for which are elaborated on
+in the following section.
+Axial coding. Following the identi ﬁcation of the key concepts,
+the authors carried out the next step of “axial coding ”to under-
+stand if and how the key concepts were distinct from or related
+to each other. Through axial coding, the interrelations betweenthe key concepts or between the key concepts and their sub-
+concepts were identi ﬁed. The high-order concepts (described
+here as the key concepts, encompassing sub-concepts) willeventually represent the main themes or patterns of the studies.
+According to the literature review, the “State ”, the
+“Middle-class ”and the “Subaltern ”through their aspirations
+and individualised interpretations of space were found to play
+signiﬁcant roles in de ﬁning and rede ﬁning urban spaces.
+Therefore, they were categorised as the “entrepreneurs of
+urban space ”. The authors used the term “entrepreneur ”to
+emphasise the nature of such initiatives which are oriented
+towards the maximisation of bene ﬁts that an urban system
+has to offer. The consequences of their cumulative entrepre-
+neurial actions, translated in terms of “spatial ”,“social ”and
+“political ”
+restructuring of Indian landscapes, are discussed in
+the Outcomes (Discussion on the Outcomes of the Key
+Concepts Section). Therefore, the three aforementioned con-
+cepts ( “UE”,“BMC ”, and “SM”) eventually turned into the
+“key concepts ”towards explaining the phenomenon under
+study. The schematic representation (Figure 2), depicts these
+interrelationships.
+At this stage, a “concept matrix ”(Table 3) following
+Webster and Watson (2002) was employed to cluster the arti-
+cles as per the underlying concepts. Through the above analyt-ical steps, the authors were able to address the ﬁrst research
+question by abstracting the existing and emerging theoretical
+concepts that de ﬁne gentri ﬁcation in the Indian context.
+Description of the Key Concepts
+The key concepts, UE, BMC and SM are discussed in the fol-
+lowing sections.
+UE
+The concept of “UE”was mobilised by Harvey in 1989 to
+explain the shift of urban governance from “managerial ”to
+“entrepreneurial ”where urban policies are tailored to drive
+cities towards success in the global market (Birtchnell 2016;Chatterjee 2009; Weinstein and Ren 2009). In this review, the
+authors draw on the concept of UE to examine the contempo-
+rary urban restructuring of India. In the review, “UE”appears
+as an umbrella concept encompassing various governing strat-
+egies like “neoliberalism ”,“accumulation by dispossession ”,
+“gentri ﬁcation ”,“aesthetic governmentality ”,“elite-biased gov-
+erning logics and framings ”and others as sub-concepts
+(Table 3).Das and Sarkar 3
+Table 2. Listing Articles, Sorted by Y ear of Publication.
+Authors Geographical reference Methods Categories Objective Major observations/outcomesBhattacharjee
+(2019)Mulund, Mumbai, India Quantitative and
+qualitativeContextual
+factors,
+parameters,
+outputsExplained and analysed the occurrence of
+suburban gentri ﬁcation in the study area1. Gentri ﬁcation leads to a decrease in housing
+affordability, growth of retail and business,
+and growth of urban amenities in the suburb
+of Mulund.
+2. Caused involuntary displacement of
+inhabitants due to lifestyle changes andcost of living
+Doshi (2019) Mumbai, India (2007 and
+2018)Quantitative and
+qualitativeContextual
+factors,outputsAnalysed how differently situated groups
+emerge as “environmental subjects ”that
+embrace or contest improvementprojects.1. Environmental subjectivity in Mumbai was
+inﬂuenced by (1) elite-biased governing
+logics and framings, (2) social forcesmediating informal territorial governance
+and development and (3) embodied
+experiences of environmental inequality,change and dispossession.
+2. Middle-class perceptions of “environmental
+degradation ”led to the demolition of slums.
+Chava, Newman,
+and Tiwari(2018a)Bangalore, India (2009 –
+2015)Quantitative and
+qualitativeParameters,
+outputsExamined whether the large-scale in ﬂux of
+public and private capital intransit-oriented development (TOD)
+resulted in gentri ﬁcation.1. Investment in TODs caused new-build
+gentri ﬁcation in the new neighbourhoods.
+2. Led to exclusionary displacement, change in
+social composition and indirect
+displacement of the poor due to priceshadowing accompanied by social exclusionand housing inequalities
+Chava, Newman,
+and Tiwari(2018b)Yeshwanthpur Industrial
+Area Bangalore, India.(2015)Quantitative Parameters,
+outputsEvaluated the impact of new build
+gentri ﬁcation on transit ridership.1. Gentri ﬁers contributed signi ﬁcantly towards
+metro ridership because of the metro ’s high
+level of service (LOS).
+2. Gentri ﬁcation showed a negative correlation
+with bus ridership as gentri ﬁers showed less
+preference for the low LOS of the bus
+system.
+Chatterjee and
+Parthasarathy
+(2018)
+Mumbai, India (2016) Qualitative Contextual
+factorsStudied the urban dynamics of the
+gentrifying mill lands of Mumbai.1. The gentri ﬁcation of the de-industrialised
+mill lands of Mumbai reproduced the space
+as a landscape of contrast, contestations,negotiations and aspirations.
+2. The redevelopment process led to
+“peripheralisation of the working class ”
+without completely displacing the marginals.
+(continued)
+4
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomes
+Rao (2018) India Theoretical Contextual
+factorsOutputsExamined the social costs of gentri ﬁcation
+faced by the slum dwellers through slumimprovement programmes.1. De ﬁned gentri ﬁcation as a “process of
+spatial remaking with discriminatoryeffects ”.
+2. Slum improving in India underwent a process
+of“incremental gentri ﬁcation ”that led to
+spatial discrimination.
+Ren (2018) India, China Theoretical - Conducted a critical assessment of global
+urban studies by examining three
+dominant paradigms: the global citythesis, neoliberalism, andpost-colonialism concerning India andChina.1. China has emphasised the dominant role of
+the state in shaping urban affairs, which is
+unseen in any Western democracy.
+2. The scholarship of India emphasised not only
+the neoliberal drive for land speculation butalso its contestations.
+Butcher and
+Maclean (2018)Delhi, Istanbul, La Paz and
+Mumbai(Comparative
+analysis)Contextual
+factorsExamined the role played by women in
+identity formation and place-making inthe context of three areas.1. Delhi, Istanbul, La Paz and Mumbai, enabled
+the generation of new biographies forwomen as they mediate globalisation,
+cultural change, intergenerational
+disjunction and economic transformation.
+2. Various pull and push factors made women
+re-negotiate with shifts in the builtenvironment, mobilities, practices of
+home-making and belonging.
+Krijnen (2018) Beirut, Lebanon. Theoretical - Examined the applicability of gentri ﬁcation
+theory to contexts outside the GlobalNorth, explicitly responding to the work
+of (Ghertner 2014, 2015).1. The creation and formation of rent gaps
+often yielded urban enclosures andaccumulation by dispossession in the
+informal settlements but is not a suf ﬁcient
+explanation of gentri ﬁcation.
+2. Gentri ﬁcation theory still holds essential to
+analyse and understand the many differentfactors and forces that are involved in
+processes of urbanisation and urban change
+across the globe.
+Schmid et al. (2018) T okyo, Hong Kong/
+Shenzhen/Dongguan,
+Kolkata, Istanbul, Lagos,Paris, Mexico City and LosAngeles.Qualitative
+(comparative
+analysis)Contextual
+factors,
+outputsApprehended the general tendencies of
+urbanisation and at the same time to
+address the speci ﬁcities developing in
+each urban territory on a comparativegesture.1. Developed a concept of “popular
+urbanisation ”,“plotting urbanism ”,
+multi-layered patchwork urbanisation andthe incorporation of urban differences inexplaining the urban dynamics of theconcerned study areas.
+2. Advocated a comparative approach to
+generate new ideas that challengeheterogeneous urban experiences.
+(continued)
+5
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomes
+Bhagya and Prasad
+(2018)New Delhi, India Theoretical Contextual
+factorsRevisited Dasgupta ’s work through the lens
+of Sassen ’s concept of “global city ”and
+Asher Ghertner ’s concept of
+“world-class city ”examining
+development trajectories of Delhi.1. Neo-liberalism and globalisation are active
+forces in contouring of Indian cities into
+spaces that are at par with other world
+cities.
+2. Newer forms of religious nationalisms
+underlined traditional and indigenousmodes of resistance to globalisation.
+Waldman, Silk,
+and Andrews(2017)India Quantitative and
+qualitativeContextual
+factorsExamined the linkage between
+transnational development strategies andgentri ﬁcation in India.1. Real estate agency –Anglo-Indian led to a
+bourgeois mode of development throughthe appropriation of colonial sporting
+practices and institutions.
+2. Such development promoted transnational
+gentri ﬁcation.
+Derkzen et al.
+(2017)Bengaluru, India Quantitative and
+qualitativeParameters and
+outcomesExamined the status of the well-being of the
+urban poor through shifts in ecosystem
+services and people ’s responses to these
+shifts.1. Lakes in Bangalore were transformed
+through privatisation followed by
+conversion, pollution followed bydegradation, and restoration followed bygentri ﬁcation.
+2. Shifts in ecosystem services impacted the
+well-being of the urban poor in the study
+area, making them more marginalised.
+Bernt (2016) - Theoretical Contextual
+factorsCompared to the urban dynamics of
+gentri ﬁcation reviewing the approaches
+of Ghertner and Morales.1. The author-centric approaches are
+insufﬁcient in explaining gentri ﬁcation
+research in a diverse geographical context.
+2. Constant comparative research is necessary
+to achieve new insights through the lens ofthe simultaneous application of divergent
+theories.
+Brosius and
+Schilbach (2016).Delhi and Shanghai Theoretical Contextual
+factorsExamined the socio-spatial imperatives of
+“in-between spaces ”in the urbanism of
+the study areas.1. Conceptualised “in-between spaces ”
+as a
+concept which are created by thetrans-cultural entanglements of global-city
+formation.
+2. The socio-spatial fabric of in-between spaces
+are disrupted by the subalterns.
+(continued)
+6
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomes
+Dhingra, Singh, and
+Chattopadhyay(2016)Rajasthan, India (2011 –
+2014)Quantitative and
+qualitativeParameters,
+outputsDeveloped a micro-level mechanism to
+harness the underlying potential oftraditional neighbourhoods of the studyarea; based on community-basedpartnership.1. Scored selected historic neighbourhoods
+through Neighbourhood Vitality T ool tofoster sustainability and avoid gentri ﬁcation
+in future.
+2. Advocated that the ﬁndings can act as a
+concise decision support mechanism for
+Urban Local Bodies.
+Sengupta (2016) Delhi, India Theoretical Contextual
+factorsInvestigated the impacts of Commonwealth
+Games in the study area using the
+concept of “non-place ”and induced
+place-based politics that creates them byutilising the concept of “accumulation by
+dispossession ”.1. “Non-spaces ”were spatial manifestations of
+“accumulation of dispossession ”.
+2. “Non-spaces ”were deliberately created to
+satisfy the bourgeoisie vision of the cityaided by government and privatedevelopers.
+Chava and
+Newman (2016)Bengaluru, India Quantitative and
+qualitativeParameters,
+outputsFormulated a framework for inclusive
+housing strategies for equitable andsustainable Transit OrientedDevelopment (TODs).1. Developed a framework (three-level
+stakeholder deliberation) for inclusive,sustainable TOD.
+2. Inclusionary zoning, Special-Purpose Vehicle
+(SPV), Community Bene ﬁt Agreement
+(CBA), Special-purpose planning vehicles,innovative ﬁnancing tools, were identi ﬁed as
+viable tools to implement affordable housingin TODs.
+Banerjee-Guha
+(2016)India Theoretical Contextual
+factorsExamined the imperatives of neoliberal
+urbanism induced by urban policies.1. The phase of neoliberal urban restructuring
+in India is characterised by privatisation,liberalisation, gentri ﬁcation decentralisation
+of governance, and dispossession of urban
+poor.
+2. Underlined the need for an understanding of
+“the right to the city ”and “social justice ”.
+Birtchnell (2016) Mumbai, India, Theoretical Contextual
+factors,outputsExamined the mobilities of ideas in the
+context of sacred spaces in India andtransnational ﬂows of trends and services.
+1. “Vastu compliance ”is a middle-class centric
+spiritual belief that is part and parcel of theprivatisation of the urban landscape.
+2. It led to the gentri ﬁcation of local sacred
+spaces and areas where the homeless or
+poor dwells.
+(continued)
+7
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomes
+McFarlane, Silver,
+and T ruelove(2016)Mumbai, Delhi and Cape
+T own(Comparative
+analysis)Contextual
+factors,outputsCarried out an “Intra-Urban Comparison ”
+(IUC) to understand its degree in theslum areas under the study.1. The access to and the experience of
+infrastructure within different parts of thecities under study varied radically throughvarious modes of urban politics.
+2. The “city-scale ”view of urban politics
+revealed a lesser diversity than an IUC
+approach focused on particular contrastingneighbourhoods.
+Lees, Shin, and
+López Morales
+(2015)Global Theoretical
+(comparative
+analysis)- Offered an analytical case study-oriented
+lens to investigate the gentri ﬁcation
+beyond the general outcomes of thephenomenon in the Global North.1. Gentri ﬁcation as a process beyond
+straightforward deployment of
+neo-liberalisation or a Western-orientedideology.
+2. Identi ﬁed that political, historical and
+cultural contexts of a particular area
+strongly in ﬂuenced speci ﬁc conditions for
+gentri ﬁcation.
+Ghertner (2015) Mumbai, India; Rio and
+LuandaTheoretical
+(comparative
+analysis)Contextual
+factorsExamined the feasibility of gentri ﬁcation as
+an agent to explain the displacement
+trajectories of the concerned cities.1. The generalisation of gentri ﬁcation theory
+failed to consider the transformations in
+the peri-urban and outer zones ofpost-socialist areas.
+2. Areas with diverse land ownership
+experienced the most violent displacement;
+often overlooked in the gentri ﬁcation
+discourse.
+Doshi (2015) India Theoretical Contextual
+factorsIdenti ﬁed the major forces shaping urban
+transformation in India.1. Identi ﬁed “developmental urban policies ”
+“informal regimes of urban development ”;
+“rise of elite and middle-class power ”;
+“subaltern mobilisations ”; and
+“displacement politics ”as developmental
+forces.
+2. “Right to bene ﬁt”over “right to the city ”
+emerges as an important concept that gaverise to negotiations between the slumdwellers and the developmental bodies.
+Mumbai, India Qualitative Contextual Identi ﬁed contextual factors that impact 1. Urban redevelopment and gentri ﬁcation of
+(continued)
+8
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomesKongelf et al.
+(2015)factors,
+outputs“Community Mobilisation ”
+implementation in female sex workers.traditional red light areas increased HIV
+contamination among the sex workers.
+2. Government interventions largely failed to
+respond to community needs in avertingcontamination.
+Bandewar et al.
+(2015)Mumbai, India Qualitative Contextual
+factors,parameters,outputsExamined the causes of the unexpected
+growth of HIV among sex workersthrough the lens of the rapid urbanisationof Mumbai.1. Gentri ﬁcation and anti-traf ﬁcking efforts
+explained an escalation in police raids.
+2. These resulted in the dispersal of sex work
+with the sex-trade management leading toincreased vulnerability of the sex workers.
+Scrase et al. (2015) Anand in Gujarat and
+Darjeeling in West BengalTheoretical
+comparativeanalysisParameters,
+outputsExplored the development and changes
+taking place in two distinctive, middletowns of Anand and Darjeeling.1. T owns of Anand and Darjeeling are rapidly
+changing under the in ﬂuences of
+neo-liberal policies.
+2. The towns exhibited new patterns of
+“mobility ”in terms of social and spatial
+transformations.
+López-Morales
+(2015)Global South Theoretical - Studied the contextual realities of
+gentri ﬁcation in the cities of Global South.1. Gentri ﬁcation in many places of the Global
+South is a form of “accumulation by
+dispossession ”.
+2. Gentri ﬁcation theories serve as an
+important model for contemporaryurbanism across the globe provided they are
+open to various diverse class-relationship
+adaptations.
+Ghertner (2014) India Theoretical Contextual
+factorsInvestigated the key differences between
+the dynamics of socio-spatial change in
+Indian cities blurring the hegemony of
+extending gentri ﬁcation framework in the
+Global South.1. Displacement process in Indian cities is
+experienced through three potential
+contextual factors “urban revolution ”,
+“enclosures ”, and “accumulation by
+dispossession ”and not by gentri ﬁcation.
+2. Indicated that extra-economic force is alien
+to gentri ﬁcation in the West.
+Lees (2014) Global South Theoretical Contextual
+factors
+Discussed the neglected realities of urban
+areas of the Global South beyond theWest.1. Even after gentri ﬁcation became globalised,
+current understanding is still mainlygrounded in knowledge derived from
+Western cities.
+(continued)
+9
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomes
+2. Advocated simultaneous theory
+construction to closely study the feasibilityof gentri ﬁcation in understanding the
+aggressive capitalist processes of urban
+transformations and growing socio-spatialdisparities around the world.
+Pethe et al. (2014) Mumbai, India Quantitative Contextual
+factors,
+outputsInvestigated how informal forces of
+development are materialised in the
+spatial development plans of the city inconcern.1. Mumbai ’s land use transformation is
+subjected to intense political negotiations
+among slum dwellers, corporate capitalistclass, politicians and bureaucrats.
+2. The spatial development plans are constantly
+diverted from the actual ones to conform to
+these negotiations.
+Anguelovski
+and Alier (2014)- Theoretical Contextual
+factorsExplored varieties of environmentalism and
+their connections by focusing on the
+increased visibility of struggles among the
+subalterns.1. The reinvestment in green amenities
+induced environmental gentri ﬁcation and
+displacement of the unprivileged.
+2. Environmental inequalities and gentri ﬁcation
+were resisted and contested by the poor bya process called “environmentalism of the
+poor ”.
+Desai and
+Loftus (2013)Global South 2004 –06 and
+over 2009 –11Qualitative Contextual
+factors,outputsSpeculated the relationship between
+ﬁnance, slum housing and infrastructural
+investments in the global South.1. “Circulation of capital through
+infrastructure development ”in the built
+environment (slums) acts as a vehicle ofgentri ﬁcation, leading to uneven
+development often fuelled by NGOs and
+developmental agencies.
+2. Such investment resulted in “silent
+evictions ”rather than a more visible one.
+Desai (2012) Ahmedabad, India (2004 –
+11)Qualitative Contextual
+factorsExamined slum resettlement and inclusion
+politics by analysing the project fromplanning in the late 1990s to the initialstages of of ﬁcial resettlement.1. River-front development project promoted
+gentri ﬁcation by harnessing the strategy of
+“ﬂexible governing ”.
+2. Gentri ﬁcation leads to the seclusion of the
+urban poor by uprooting them and
+situating them in resettlement housing awayfrom the river front.
+Ghertner (2012) Delhi, India 2006 –
+2007 Qualitative Contextual
+factors,
+outputsTheorised the narratives through which
+associations of private property owners
+in Delhi depict slums as zones of incivilityand “nuisance ”.1. Slums or squatter settlement are
+indiscriminately uprooted in the process of
+urban upgrading and environmentalcleansing.
+(continued)
+10
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomes
+2. The law of nuisance curtailing previous
+modes of “common access ”by
+“introducing a fresh geopolitical ordering ”
+that “permitted new entrepreneurial and
+middle-class groups to exclude the
+subalterns from their rights ”.
+Ghertner (2011a) Delhi, India Qualitative Contextual
+factors,
+outputsExamined the differential impact of
+Bhagidari scheme (a citizen-state
+partnership scheme) on the citizens of
+Delhi.1. The Bhagidari scheme has effectively
+gentri ﬁed the channels of political
+participation, by weakening the informal ties
+binding the illegitimate poor to the localstate and thereby leading to large-scale slumdemolitions.
+2. Bhagidari gentri ﬁed political spaces once
+open to the lower classes by the upper
+classes.
+Ghertner (2011b) Delhi, India - Contextual
+factorsExamined the mechanism through which
+the governments of the Third World
+mega-cities remodel urban spacesaccording to aesthetic sensibilities toattain the global status.1. De ﬁned “aesthetic governmentality ”as a
+concept adopted by the government to
+remodel cities.
+2. “City beauti ﬁcation ”drives cleansed the
+cities of the urban poor.
+Weinstein and Ren
+(2009)Shanghai, China and
+Mumbai, IndiaTheoretical
+(comparativeanalysis)Contextual
+factorsCompared the changing regimes of housing
+rights in the context of the urban renewalthat is currently under way in Shanghaiand Mumbai.1. The inequalities inherent in Shanghai ’s and
+Mumbai ’s housing rights regimes often
+force residents to employ extra-legalmeasures to ensure their housing security.
+2. India ’s contested land and housing reforms
+have produced a relatively more protective
+–but precarious –regime of housing rights
+for low-income residents than China.
+Chatterjee (2009) Ahmedabad, India Qualitative Contextual
+factors
+OutputsInvestigated how open market policies are
+implicated in local industrial restructuring
+and urban renewal that simultaneouslyutilise place-speci ﬁc ethnocentrism to
+exclude and fragment the poor.1. Gentri ﬁcation in the form of industrial
+restructuring and urban renewal
+re-ordered community life and aggravatedsituations of social unrest in low-incomeneighbourhoods.
+2. Muslims faced exclusion due to resettlement
+politics with priorities given to the Hindus in
+economically weaker section housing.
+(continued)
+11
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomes
+Harris (2008) London and Mumbai
+(2002 –2005)Comparative
+analysis- Conducted a comparative analysis of the
+economic and political restructuring ofLondon and Mumbai induced bygentri ﬁcation.1. Gentri ﬁcation has jumped straight to a
+“third wave ”where the state and
+developers play a systematic role ’in the
+identity formation of Indian cities
+2. Unlike its Western counterparts,
+gentri ﬁcation takes a violent form in India
+carried out through exertion ofextra-economic forces and various forms ofharassment.
+Baruah (2007) Ahmedabad, India Qualitative Contextual
+factorsExplored the nature of land tenure and
+landed property rights in slums in Indiafrom a gender perspective1. Women resisted gentri ﬁcation in both
+upgraded and non-upgraded slums bysecuring the tenure of land assets.
+2. They claimed the rights to raise their
+children in hygienic environments overﬁnancial gains from selling property.
+Fernandes (2004) Mumbai, India Qualitative Contextual
+factorsStudied the various linkages between
+middle-class identity, economic
+restructuring and the politics of forgettingunfolding in urban India.1. Conventional pattern of gentri ﬁcation of
+Mumbai led to development of upmarket
+suburbs.
+2. Both middle-class groups and the state
+engaged in a “politics of forgetting ”that
+displaced the poor and working classes from
+such spaces resulting into fragmented
+citizenship.
+Secondary resources
+McFarlane
+(2012)Mumbai (2005 –2006) Qualitative Contextual
+factors,
+outcomesExamined how different relations of
+informal and formal practice enable urban
+planning, development and politics, andexplored the changing relationshipbetween informality and formality over
+time.1. Identi ﬁed“speculation ”,“composition ”, and
+“bricolage ”as the three major conceptual
+factors de ﬁning changing relations of
+informal and formal practices.
+2. Informality as practice can serve as a basis
+for rethinking not just informality, but
+planning itself, in the production of urbanspace in both the Global North and GlobalSouth.
+(continued)
+12
+Table 2. (continued)
+Authors Geographical reference Methods Categories Objective Major observations/outcomes
+Roy (2005) - - Contextual
+factorsFocused on urban informality to highlight
+the challenges in policy prescriptions
+about dealing with the exceptions to theorder of formal urbanisation.1. Informality, once associated with poor
+squatter settlements, is now seen as a
+generalised mode of metropolitanurbanisation- important epistemology forplanning.
+2. Informality is not a separate sector but
+rather a series of transactions that connect
+different economies and spaces to oneanother.
+Doshi (2015) Mumbai Qualitative Contextual
+factors,
+outcomesExplored the complex and contradictory
+politics of urban transformation in
+Mumbai by focusing on the slum residentsevicted by redevelopment projects.1. Mumbai ’s redevelopment entails not
+uniform class-based dispossessions but a
+process of accumulation by differentiateddisplacement whereby uneven displacementpolitics are central to the social productionof land markets.
+2. Though differentiated displacement,
+re-developmental processes were furtherpoliticised through inclusive andexclusionary modes of eviction and
+market-oriented resettlement that varied
+across classes, gender, and ethnicities.
+13
+Table 3. Concept Matrix Augmented with Underlying Concepts Created by Authors After (Webster and Watson 2002) sorted by year of
+publication.
+AuthorsKey themes/
+concepts Outcomes
+UE BMC SMT rends of
+gentri ﬁcationRestructuring of the
+physical spaceT ransformation of the
+social fabricT ransformation of the
+political spaces
+Bhattacharjee (2019) x x – xx ––
+Doshi (2019) x x x –– – –
+Chava, Newman, and
+Tiwari (2018a)x –– xx x –
+Chava, Newman, and
+Tiwari (2018b)x –– xx ––
+Chatterjee and
+Parthasarathy (2018)xx x x x x x
+Rao (2018) x –– x – x –
+Ren (2018) x x x –– – –
+Butcher and MacLean
+(2018)x – x –– – –
+Krijnen (2018) x x x –– – –
+Schmid et al. (2018) x –– – – – –
+Bhagya and Prasad
+(2018)xx –– – – –
+Waldman (2017) x x – xx x –
+Derkzen et al. (2017) x x –– xx –
+Bernt (2016) –– – – – – –
+Brosius and Schilbach
+(2016)xx x x x ––
+Dhingra, Singh, and
+Chattopadhyay (2016)x –– – xx –
+Chava and Newman
+(2016)–– – – – – –
+Banerjee-Guha (2016) x –– – – – –
+Birtchnell (2016) – x –– – x –
+McFarlane, Silver, and
+T ruelove (2016)x – x – xx x
+Lees, Shin, and López
+Morales (2016)xx –– – – –
+Ghertner (2015) x –– – – – –
+Doshi (2015) x x x –– – –
+Kongelf et al. (2015) – xx –– – –
+Bandewar et al. (2015) x –– – – x –
+Scrase et al. (2015) x x –– xx –
+López Morales (2015) x x – x –– –
+Ghertner (2014) x –– x –– –
+Lees (2014) –– – x –– –
+Pethe et al. (2014) x x x x –– –
+Anguelovski and Alier
+(2014)xx x x –– –
+Desai and Loftus (2013) x x x –– xx
+Banerjee-Guha (2013) x – x – xx –
+Ghertner (2012) x x x –– xx
+Desai (2012) x –– – – x –
+Ghertner (2011a) x x – x – xx
+Ghertner (2011b) x x –– – x –
+Weinstein and Ren
+(2009)x –– – – – –
+Chatterjee (2009) x –– – – xx
+Harris (2008) x x –– – – –
+Baruah (2007) x – x –– – –
+Fernandes (2004) x x x –– xx
+BMC, bourgeoisie mode of consumption; SM, subaltern mobilisation; UE, urban entrepreneurialism.
+The volume of the neo-liberal theses that established the cen-
+trality of “State ”in the process of gentri ﬁcation is indicative of
+the observation being empirically valid for both the cities ofGlobal North and South (Bernt 2016; Desai and Loftus 2013;
+Harris 2008; Lees 2014; Ren 2018; Schmid et al. 2018). In
+terms of elite-driven interests and withdrawal from socialistvalues, neoliberal policies in the Global South seem to be no
+different to those in the First World. However, the urban gover-
+nance of the Global South is geared more towards attractingexternal (First World) investment through the adoption of neo-
+liberal reforms and structural adjustment (Chatterjee 2009).
+With urban areas of both the Global South and North competingin the global market, the evidence drawn from this review is
+instructive of Indian cities being no exception to it.
+In the light of the above, the following sections attempt to
+comprehend the dynamics of entrepreneurial governance in
+terms of politico-economic interventions, collaborations with
+multi-scalar institutions and diverse socio-political links.
+The state as an entrepreneur of space. Approaching from a
+neoliberal and post-colonial perspective, scholars identi ﬁed
+various neoliberal reforms like “privatisation ”,“liberalisation ”,
+“penetration of foreign direct investment at the city level ”,
+“decentralisation of governance ”, etc., accompanied with
+“extra-economic ”forces that provide the impetus for the entre-
+preneurial urbanism in India.
+The State ’s prime vision (the construction of a globally com-
+petitive India), through its coordination with multi-scalar organi-
+sations, such as transnational institutions, private and corporate
+sector, NGOs, civil society groups and extra-legal associations,facilitated the following interventions: (1) the commodi ﬁcation
+of city development plans and social welfare schemes;
+(Banerjee-Guha 2016; Ghertner 2011a; Harris 2008; Petheet al. 2014; Sengupta 2016), (2) privatisation of public sectors
+entities (e.g., housing, infrastructure and sacred spaces) (Bernt
+2016; Birtchnell 2016; Ghertner 2012), (3) industrial restructur-ing through urban renewal missions (Banerjee-Guha 2013;
+Chatterjee 2009), (4) city beauti ﬁcation drives (Desai and
+Loftus 2013; Fernandes 2004; Ghertner 2011b), (5) staging ofspecial priority events like the Commonwealth Games (Brosius
+and Schilbach 2016; Desai and Loftus 2013; Sengupta 2016),
+(6)investments in the Mega-city and Smart Cities programmes,transnational real-estate development, massive infrastructure
+projects and super-liberalised enclaves like special economic
+zones (Bhattacharjee 2019; Chava, Newman, and Tiwari 2018;Ghertner 2014; Sengupta 2016; Waldman, Silk, and Andrews
+2017) and (7) reinvestment in sustainable development plans,
+green amenities and environmental sustainability projects(Anguelovski and Alier 2014; Doshi 2019).
+Such entrepreneurial activities percolate down to local
+levels, through the Urban Local Bodies (MunicipalCorporations, Municipalities) competing to become credit-
+worthy by increasing border porosity to foreign business and
+investment, transferring public land to the private sector, creat-ing attractive landscapes for ﬁxing foreign capital and serving
+the interests of the bourgeois (Chatterjee 2009; Sengupta 2016).Post-colonial scholars argue that the neoliberal mode of gov-
+ernance allows for new mechanisms of appropriation of urban
+spaces through “accumulation by dispossession ”– a social
+process of production of class and space, imposed primarily
+through extra-economic forces by the State or select sections
+of the society (Ghertner 2014). Such form of dispossessionoperates through: (1) the removal and rehabilitation of the
+poor and poor ethnic minorities to oblivion –a process referred
+to as “spatial puri ﬁcation ”(Doshi 2019; Fernandes 2004), (2)
+“aesthetic governmentality ”– a strategy to develop new
+urban aesthetics to attract foreign investment by beauti
+ﬁcation
+movements achieved through “spatial puri ﬁcation ”(Ghertner
+2011b) and (3) a shift of capital from the lower working class
+to the higher classes of the society though “informalisation of
+unorganised labour forces ”(Banerjee-Guha 2013).
+In a more intense form, disposse ssion involves the practice of
+“ethno-religious entrepreneurialism ”(Chatterjee 2009). Such
+form of dispossession is realised in the inclusion –exclusion
+modes of infrastructure production based on religio-political af ﬁl-
+iations of the urban poor, referre dt ob yM c F a r l a n e ,S i l v e r ,a n d
+Truelove (2016) as the “soft politicisation of basic infrastructure ”.
+“Development-directed policing ”enables the forced dispersal of
+the vulnerable and dis-empowered groups from their interactive
+spaces aiding urban redevelopment and gentri ﬁcation of those
+areas (Bandewar et al. 2015; Kongelf et al. 2015).
+Two case studies discussed below demonstrate the mecha-
+nisms harnessed in the neoliberal mode of governance both atglobal and local levels.
+Case studies. Case study 1 –Chatterjee ’s (2009) study showed
+that a “Mega City ”vision was adopted by the Ahmedabad
+Municipal Corporation (AMC) in 2003 to boost
+Ahmedabad ’s image as a world-class place demanded by the
+urban elites and foreign investors. The vision was articulated
+through industrial restructuring (gradual closing of mills and
+informalisation of labour), an urban renewal project called theSabarmati River Front Development Project (SRFD), and city
+beauti ﬁcation drives. The SRFD, which was awarded the
+“Prime Minister ’s Award for excellence in urban planning
+and design ”aimed towards environmental improvement,
+social upliftment and urban rejuvenation that would renew
+Ahmedabad but at the cost of displacing 40,000 urban poor.Multiple players participated in the project ranging from
+global multi-national private investors (Delamore and Owl
+Group of Companies, Emaar, Unitech and DLF) to the nationalpublic sector enterprise. Housing and Urban Development
+Corporation (HUDCO) ﬁnanced the project, using AMC
+lands as a collateral bank guarantee. The combined renewalstrategies like the Mega-city program and the SRFD however,
+failed to operationalise alternative livelihood for the 40,000 dis-
+placed families from the riverbanks and failed to offer employ-ment opportunities to those previously engaged in the mills.
+The reclaimed mill lands were later gentri ﬁed by the rising res-
+idential complexes and malls.
+Under the drive of urban renewal, the poor of Ahmedabad
+continued to face the lashes of exclusion. Renewal processesDas and Sarkar 15
+further intensi ﬁed through scrupulous manipulation of “local
+ethnocentric politics ”that accumulated bene ﬁts for the elite
+by depriving the subalterns in general and poor religious minor-
+ity (the Muslims of Ahmedabad) in particular. Local ethnocen-tric politics favoured the displaced poor Hindus by spatially
+resettling them in the housing for the economically weaker
+section while disregarding the Muslim evicts.
+Case study 2 –Neoliberal policies converged with xenopho-
+bic constructions of poor ethnic minorities are also prominent inthe studies by McFarlane, Silver, and Truelove (2016).
+Employing an Intra-Urban Comparison method, the research
+focused on everyday experiences and perceptions of sanitation
+across two informal neighbourhoods in Mumbai. “Soft politici-
+sation of basic infrastructure ”was adopted to gain political
+patronage by unevenly distributing sanitation infrastructures
+in Kothwadi (Hindu legal settlement) and Ra ﬁnagar (informal
+Muslim settlement). Kothwadi was politically favoured by the
+local Hindu centric political leaders providing the dwellers
+Figure 1. Flowchart showing the stages of reviewing the literature.16 Journal of Planning Literature
+with all the basic infrastructures and maintenance. Ra ﬁnagar,
+partly due to its illegality and partly due to its marginal status
+as a predominantly Muslim settlement, suffered from infrequentmunicipal cleaning of drains and collection and disposal of
+garbage.
+The above case studies illustrated how, against the backdrop
+of the neoliberal mode of governance, existing social or cultural
+cleavages are politicised not only to sharpen the class dividesbetween the upper and lower segments of the society but also
+to fragment the poor.
+While the above case studies centred around major mega-
+cities like Mumbai, Ahmedabad and Delhi, Scrase et al.
+(2015) and Dhingra, Singh, and Chattopadhyay (2016) also
+showed that historic neighbourhoods and small towns ofIndia like Anand in Gujarat and Darjeeling in West Bengal
+are also transforming under the in ﬂuence of neo-liberal policies.
+Figure 2. Schemata of the interrelationship between the drawn concepts, sub-concepts on the basis of axial coding.Das and Sarkar 17
+BMC
+In the Indian context, the “bourgeoisie ”, or the term widely used
+in the literature under review, the “middle-class ”, represents a
+new cultural class: (1) de ﬁned by practices of consumption
+that emerged with the neo-liberal economic policies of 1990s
+India (Fernandes 2004) and (2) interpreted as a form of political
+agency than an income bracket (Ghertner 2011a); they are aliberal new cultural class with higher education, income and
+political in ﬂuence (Derkzen et al. 2017). This section intends
+to highlight two major aspects under the umbrella of “BMC ”
+as revealed from the review (Table 2): ﬁrstly, the “bourgeois
+vision ”and their “idealism ”regarding urban spaces, and sec-
+ondly, how their vision and aspirations are embodied in aseries of socio-spatial and political restructuring in India. The
+implications will be discussed in the Outcomes (Discussion
+on the Outcomes of the Key Concepts Section).
+Bourgeois vision. The vision of the bourgeois can be understood
+through their own set of social, political and economic interests
+such as the desire for world-class amenities, valorisation of
+urban lifestyle complied with spiritual satisfaction (Birtchnell2016; Brosius and Schilbach 2016), and urban spaces to be pre-
+served for white-collared production and consumption
+(Banerjee-Guha 2013; Fernandes 2004). Such middle-classcentric aspirations are articulated through growing hostilities
+towards urban poor and poverty in liberalising India. They per-
+ceive the destitute as “urban nuisances ”and“threatening in ﬁl-
+trators ”(Birtchnell 2016; Fernandes 2004; Ghertner 2012),
+informal settlements as hot spots of “environmental degrada-
+tion”(Doshi 2019) and informal occupations to be “illegiti-
+mate ”. With the aid of the neoliberal State, these emerging
+middle-class groups practise the politics of “spatial puri ﬁca-
+tion”to cleanse the urban spaces off the destitute, and appropri-
+ate them according to their visions. Real estate agents, under the
+purview of the State, then convert such aspirations and visions
+into saleable commodities. The above instances of bourgeoisaspirations and their collective perception towards the urban
+poor have been demonstrated in the case discussed below.
+Case study. An ethnographic study undertaken by (Doshi 2019)
+showed that between 2015 and 2018, an estimated 5,000 slumstructures located near coastal wetland vegetation throughout
+the western and eastern fringes of Mumbai were bulldozed.
+The demolitions were prompted by legal actions through“Public Interest Litigations ”(PILs), undertaken by middle-class
+residents against the perceived environmental destruction
+caused by the slums, eventually resulting in the evictions oftheir inhabitants. However, apartments, malls and other lucra-
+tive developments were erected in ﬂagrant violation of zoning
+and environmental laws. Such structures were often legalisedex post facto because they hold aesthetic appeal and because
+of greater sympathy afforded to middle-class ﬂat owners by
+the governing agents –a form of
+“environmental gentri ﬁcation ”
+nurtured by “elite informality ”. This indicates how urban green-
+ing and sustainability projects have become a hotbed of middle-class environmental activism, and punitive state interventions
+scapegoating the slum dwellers and pushing for their
+displacement.
+Meanwhile, this bourgeois perception of the urban poor and
+the differential treatment by the State towards the middle-class
+and the subalterns have fuelled a sense of pervasive inequalityin Indian society. The following section discusses how such
+inequality triggers opposition from the subalterns.
+SM
+According to the review, the concept of “SM”represents
+various movements in the forms of “social justice ”,“environ-
+mental justice mobilisation ”and“indigenous modes of resist-
+ance”, mounted by the subalterns against bureaucratic
+policies, middle-class activism and gentri ﬁcation (Banerjee-
+Guha 2016; Doshi 2015; Ren 2018; Sengupta 2016). Such
+movements are organised to contest rights to urban spaces
+and bene ﬁts and to live a life with dignity (Rao 2018).
+Case studies. Case study 1 –Fernandes (2004) revealed how
+Mumbai ’s street hawkers, formally organised into unions,
+wielded signi ﬁcant political in ﬂuence against the civic organi-
+sations constituted by middle-class groups, in the contest over
+claims to public space. To negotiate, the BrihanmumbaiMunicipal Corporation of ﬁcially levied daily charges as well
+as devised an informal system of unlicensed hawking in
+exchange for bribes. To mediate between the hawkers ’unions
+and civic organisations, the municipal corporation attempted
+to manage claims to public space through the creation of
+legal hawking zones. However, this produced signi ﬁcant polit-
+ical con ﬂict as both the hawkers ’unions and middle-class
+groups contested the plan, through informal negotiations as
+well as legal avenues, thus imparting political pressure on themunicipal body.
+Case study 2 –Ghertner ’s (2011) ﬁeldwork in Delhi ’s slums
+showed that slum inhabitants, when faced with adversity, wereable to ensure “tenure security ”and“service provision ”such as
+re-establishing electricity connections after its free service has
+been cut, securing “stay orders ”for demolitions from the
+courts by convincing the police, or withholding timely
+support for a demolition drive by negotiating with the municipal
+authorities.
+Contrary to the perceptions of subalterns as passive suppli-
+cants, the above cases demonstrate their awareness of the
+“channels of accessibility ”and “manipulation of political
+patronage networks ”that can be exercised to negotiate with
+the State.
+Discussion on the Outcomes of the Key
+Concepts
+As a part of the coding mechanism, the various outcomes
+centred around “UE”,“BMC ”and“SM”(Table 2) are analysed
+and categorised into: (1) trends of gentri ﬁcation (26 percent),
+(2) restructuring of the physical spaces (23 percent), (3)18 Journal of Planning Literature
+transformation of the social fabric (38 percent) and (4) transfor-
+mation of spaces of political association (13 percent) (Table 3).This addresses the second research question. The following sec-
+tions elaborate on the outcomes of the derived key concepts.
+Trends of Gentri ﬁcation
+Combined with globalisation, and converged with cultural and
+religious nationalism, the transformative effects of gentri ﬁca-
+tion on the built and non-built environment processes are far
+more complex and non-linear in the context of contemporary
+India (Doshi 2015; Ghertner 2011a; Ren 2018). This isevident in the various de ﬁnitions (Table 1), diverse forms
+(Table 4), and spatial proliferation of the phenomenon from
+metropolises to small- and medium-sized towns, inner citiesto suburbs, and peri-urban to informal neighbourhoods. Even
+though gentri ﬁcation has been strongly associated with the
+transformation of the spatial and social fabric, Ghertner ’s
+Bhagidari scheme furthers the horizon by introducing “gentri ﬁ-
+cation of political channels ”in the discourse (elaborated later in
+Transformation of Spaces of Political Association section).
+Transformation of the Social Fabric
+The combined in ﬂuence of the UE, BMC and SM has exacer-
+bated the existing social inequality in India as suggested by the
+literature under review. This is evident in the psycho-social
+implications that have emerged repeatedly in the studies, suchas“rising contestations ”,“social relations and power struggles ”,
+“hostility to the urban poor ”,“fragmented citizenship ”,“the pol-
+itics of mobility ”and“socio-environmental exclusion ”(Table 2).
+These reveal that socio-economic inequality in the Indian land-
+scape is far more intensi ﬁed than that in the western world (asalso argued by Harris 2008), and how, over time, the rami ﬁca-
+tions of this inequality translate into a “process of spatial remak-
+ing with discriminatory effects ”(Rao 2018).
+Restructuring of the Physical Space
+Literature suggests that “spatial remaking with discriminatory
+effects ”operates through the appropriation and reconstitution
+of space, which emerged as one of the neoliberal mantras ofthe entrepreneur State (highlighted previously in UE). The
+resultant variegated consumptive landscapes for ﬁxing capital
+have been interpreted by scholars through various nomencla-tures (Table 5). Instances of such landscapes are found in the
+inner-city transformations, through new-build gentri ﬁcation in
+the transit-oriented neighbourhoods (Chava, Newman, andTiwari 2018a), urban renewal of old working-class neighbour-
+hoods to lucrative sprawling developments (Harris 2008), the
+gentri ﬁcation of riverfront developments (Chatterjee 2009;
+Desai 2012), and redevelopment and gentri ﬁcation of the
+urban slums (Bhagya and Prasad 2018; Desai and Loftus
+2013; Pethe et al. 2014; Ren 2018; Schmid et al. 2018).
+Such landscapes tend to occur not just in inner-city areas but
+also in the peri-urban and the urban-rural transitional zone, and
+even in the small developing towns. Bhattacharjee ’s (2019)
+work on the suburbs of Mulund and Bandra, Dhingra, Singh,
+and Chattopadhyay ’s (2016) work on the historic towns of
+Rajasthan, and Scrase et al. ’s (2015) research on Anand in
+Gujarat and Darjeeling in West Bengal are notable examples.
+Transformation of Spaces of Political Association
+The links between spatial politics and gentri ﬁcation have been
+explored in various studies. McFarlane, Silver, and TrueloveTable 4. Shows the various Forms of Gentri ﬁcation That are Occurring in the Indian Landscape.
+Types of
+gentri ﬁcation De ﬁnition Spatial concentration Study
+Suburban
+gentri ﬁcationWhere the occurrence of gentri ﬁcation has percolated from
+the inner-city neighbourhoods to the suburbs, leading to adecrease in housing affordability, growth of retail andbusiness, and growth of urban amenities in the suburbs.Suburbs Bhattacharjee (2019)
+Environmental
+gentri ﬁcationDisplacement of vulnerable driven by bourgeoisie ethos of
+urban sustainability and green living and exercised byenvironmental governing regimes in Indian citiesInner-city
+neighbourhoods andslumsDoshi (2015, 2019)
+Incremental
+gentri ﬁcationSlum improvement in India organised by NGOs through their
+philanthropic investments leads the recognition and
+formalisation of slums eventually leading to a process of
+“incremental gentri ﬁcation ”.Inner-city slums Rao (2018)
+Marginal
+gentri ﬁcationA process that involves the less privileged sections of the
+middle classes as “gentri ﬁers”associated with their
+valorisation of the urban amenities.Inner-city slums Doshi (2015)
+New-build
+gentri ﬁcationProliferation of lucrative new developments, where the state
+and developers play a systematic role ’in the identity
+formation of Indian cities.Inner-city and Suburbs Desai and Loftus (2013) and
+Harris (2008)
+Transnational
+gentri ﬁcationA type of gentri ﬁcation driven by transnational real-estate ﬁrms
+leading to a bourgeois mode of development through the
+appropriation of colonial sporting practices and institutions.Inner-city Waldman, Silk,
+and Andrews (2017)Das and Sarkar 19
+(2016) and Chatterjee (2009) (discussed previously) showed
+how politics over the consumption of space and its bene ﬁts
+are played and experienced subjectively based on religious af ﬁl-
+iations and political ties.
+Ghertner (2012) furthers the discussion by contextualising
+“spatial politics ”in the ambit of “class, status and power ”.
+His study on the “Bhagidari ”scheme, a citizen-government
+partnership program was initially conceived by the Delhi gov-ernment to “promote inclusiveness ”among its citizens. The
+scheme was gradually manoeuvred by the “Resident Welfare
+Associations ”(RWAs), constituted by the middle-class
+groups to establish a parallel system of governance, alongside
+electoral politics, exclusive to their demands. The RWAs gen-
+triﬁed the channels of political participation, silencing the
+voice of the urban poor by weakening their existing political
+and cultural ties to the lower-level bureaucracy.
+Discussions on the Insights Drawn From the
+Analysis
+In this section, the authors intend to interpret the signi ﬁcance of
+theﬁndings in light of the research questions posed and to
+explain any new understanding or insights that emerged as a
+result of the analysis.
+Status of Gentri ﬁcation Research and its Relevance in
+India
+Gentri ﬁcation research in India is observed to be relatively new
+than that in her Western counterparts –the topic has been exten-
+sively covered in Western scholarly writing since the 1970s
+(Lees, Shin, and López Morales 2015) and in India seemingly
+since 2004 (Fernandes 2004). The calls to transcend the episte-mological boundaries of gentri ﬁcation theories (Ghertner 2014,
+2015; Lees 2014; Lees, Shin, and López Morales 2015), and to
+rethink gentri ﬁcation in India (Doshi 2015) have made the
+authors look into it as a comprehensive research ﬁeld rather
+than a single de ﬁned concept.The emergence of new and relevant theoretical concepts
+complementary to gentri ﬁcation is indicative of the fact that
+gentri ﬁcation may not appear as a broad spontaneous phenom-
+enon, but rather as one of the elements of conscious neo-liberal
+strategies. The active presence of many other major develop-mental forces at work moulding the landscape of major metro-
+politan cities of India prompts one to see the larger picture
+where gentri ﬁcation ceases to take the centre stage and its
+effects need to be re-evaluated in the light of emerging concepts
+and contextual aspects. This is not to say that gentri ﬁcation
+loses its relevance. A proper interpretation would be that gentri-ﬁcation, at higher levels of granularity, reveals processes of
+psycho-social socio-economic and socio-political machinery
+that are very distinct and speci ﬁc to geographies across the
+globe. The authors would like to highlight that it is the existing
+scholarship on “gentri ﬁcation ”that provided an opportunity to
+bring together for analysis, all the players ( “UE”,“BMC ”and
+“SM”) involved in the dynamics of urban restructuring in India.
+Considered in isolation, each of these three contextual
+factors is necessary, but not suf ﬁcient on its own to drive the
+trajectory of gentri ﬁcation. The authors delve further and
+employ the “selective coding ”mechanism –a procedure to
+identify and develop relations between the key concepts. Themechanism was employed to draw further insights eventually
+addressing the third and the last research question of this essay.
+The Triquetra of Informality
+The selective coding suggested that the “triad”(UE, BMC and
+SM) constitute a strongly interconnected system that the authors
+of this article entitle “Triquetra of Informality ”(TOI). Figure 3
+depicts this relationship. The “triquetra ”is essentially a repre-
+sentation of the “state-space3”, that is the set of all possible con-
+ﬁgurations, where each con ﬁguration is a “state”of the spatial
+and socio-political con ﬁguration of an urban system. The fol-
+lowing sections elaborate on the underlying modalities of con-
+struction and functioning of the TOI.Table 5. Various Nomenclatures Adopted by Scholars to Describe the Emergence of Variegated Consumptive Landscapes De ﬁned by the
+Entrepreneurs of Space.
+Nomenclature Interpretation Study
+“Non-place ”“ Capital intensive built environment that experienced ‘super-modernity ’and ‘solitary
+contractuality ’. These physical spaces are characterised by technological and physical
+surveillance to purge the spaces of the poor ”.Sengupta (2016)
+“Urban enclosure ”“ A term historically used to describe the privatisation of public or commonable land into
+exclusively owned plots and the concomitant elimination of long-standing use rights to that
+land. ”Ghertner (2014)
+“Puriﬁed spaces ”“ Puriﬁed spaces of urban renewal in the cities of the global South, like Ahmedabad, Mumbai and
+Bangalore, include new airport terminals, glossy malls, IT corridors, skyscrapers, hotels andgated homes developed through global –local partnerships ”.Chatterjee (2009)
+“Places in
+between ”“T ranscultural entanglements of global-city formation, and situate them in the non European
+framework of an ‘Asian ’urbanism ”.Brosius and Schilbach
+(2016)
+“Zones of
+exception ”“Sites of collective action and resistance against this violence. They represent ‘spaces of exception ’
+and ‘gray zones ’where the state deploys its power differently and ﬂexibly ”.Roy (2011)20 Journal of Planning Literature
+The role of class relations in the TOI. The concept of the “trique-
+tra”brings to light the historically deep-rooted socio-economic
+and cultural segregation that persists even today between the
+two major classes of contemporary Indian society (the middle-class and the subaltern). The politics arising from the “aspira-
+tions ”and“contestations ”,t ob e “upwardly-mobile ”, among
+the two classes, are found to be marked by their exclusionaryrelationship with each other. The aspirations for the material
+beneﬁts offered by modern urban society, while simultaneously
+being part of an unequal system, result in differentiated avenuesand unequal resources to achieve those aspirations. This gives
+rise to contentions between the two classes (discussed in the
+Sections of BMC and SM).
+The analysis shows that the current mode of governance
+often plays a signi ﬁcant role in the existence of this class-
+divide. It has been found that strategies to “raise aspirations ”
+and“upgrade urban spaces ”, in contemporary political rhetoric
+and interventions, resonate with neoliberal governance. This
+insight complements the studies centred on the concept of
+“BMC ”that demonstrates the rise of the “new”form of
+Indian middle-class, associated with a heightened degree ofconsumption and privilege, which has been supplemented by
+the effects of the neoliberal policies conceived by the State.
+The recent integration of their aspirations with the globaleconomy has triggered transnational exchanges of many types
+(Brosius and Schilbach 2016; Waldman, Silk, and Andrews
+2017) which resonates with the ideologies of the “Global City
+Thesis ”proposed by Saskia Sassen. The emerging bourgeoisiethus serves as the pipeline for the ﬂow of capital into India,
+thereby aiding the State in its neo-liberal vision and establishing
+a“patron-client ”symbiosis.
+The “contestations ”between the two classes are further
+intensi ﬁed through the empowerment of the bourgeois class
+by the active support of the State. The State gives them rightsto“self-govern ”for ful ﬁlling their aspirations for instance as
+seen in the Delhi Government ’s Bhagidari scheme, conse-
+quently creating a potential burden for the subalterns who aremore tightly governed. This signi ﬁes that the existence of
+“class divide ”not only creates the relationships depicted in
+the “triquetra ”in Figure 3 but also sustains them.
+(Conversely, in a state of “egalitarianism ”and the absence of
+class-divides, the triquetra would collapse into a singularity rep-
+resenting an ideal utopian existence).
+In the light of the above observations, the authors posit that
+“class restructuring ”, which is at the root of gentri ﬁcation, also
+lies at the core of urban informality, causing them to be inextri-cably intertwined in the context of Indian urbanism. However,
+gentri ﬁcation has been narrated in terms of class-based neigh-
+bourhood succession, which tends to overlook the cross-classconﬂict emerging at local and regional levels captured by the
+TOI.
+The “state-space ”of the “triquetra ”.The“state-space ”of the “tri-
+quetra ”demonstrate two changing con ﬁgurations of the govern-
+ing system which attempts to reconcile two contradictory
+pressures of globalisation, one capitalist accumulation, and
+Figure 3. Schemata of the conceptual framework of “Triquetra of informality ”showing the interrelationship between the major concepts
+analysed through selective coding.Das and Sarkar 21
+the other promoting inclusive and upward social mobility.
+Compounding to this, the existing infrastructure proves inade-
+quate in accommodating the ful ﬁlment of the sum-total of aspi-
+rations of the continually swelling mega population of India.
+Besides, neoliberal reforms discussed in UE section raise the
+clause of affordability and accessibility, deepening the groovethat separates the middle-class from the subalterns (Ghertner
+2011a). Such reforms create selectively permeable membranes
+along the aspiration ful ﬁlment pipeline which ﬁlter out a major
+portion of aspirations. “Urban informality ”has its genesis in the
+various modalities of informal production and consumption
+(manifest in varying degrees in UE, BMC and SM) of extra-institutional efforts, avenues, and methods, towards the ful ﬁl-
+ment of those aspirations which cannot be accomplished by
+formal means. Indeed, the “informal ”paradigm has become
+so ingrained in life quotidian that epithets such as “jugaad ”
+4
+and“jugadu ”have become colloquialisms of urban jargon as
+a testament to its ubiquity.
+Informality, in the context of the reviewed articles, has been
+interpreted in three ways: (1) in the form of myriad territorial
+formations with informal settlements (e.g., squatter settlements,regularised slums, resettlement colonies and unauthorised sub-
+divisions) (Doshi 2015; Ghertner 2011a; McFarlane, Silver, and
+Truelove 2016; Rao 2018), (2) categories of particular classesor groups (e.g., informal labours, street hawkers, menial
+workers, tribals and out-castes) and (3) a set of practices
+(mode of governance, source of economy generation andmodes of interactions) (Doshi 2015, 2019; Ghertner 2015;
+McFarlane, Silver, and Truelove 2016). As Roy (2005)
+posits, Indian cities are landscapes where the continuum offormal and informal is regularly punctured to facilitate
+various modes of production and consumption of urban
+spaces and services. This is also echoed in the works of(Brosius and Schilbach 2016; Sengupta 2016).
+Given such a mosaic, the following sections elaborate on the
+underlying modalities of functioning of the TOI. Figures 4 and5 show the congruency of the previously mentioned case
+studies with the framework of TOI to demonstrate its relevance
+and applicability to real-world scenarios.
+Informality as a mode of governance. The dual agenda of
+capitalistic accumulation and ensuring a robust political standgives rise to “informality ”, which the entrepreneur State later
+wields as a tool in metropolitan planning. It is the framework
+of informality that enables the State to construct and reconstructcategories of legitimacy and illegitimacy –a mode of “ﬂexible
+governing ”(Desai and Loftus 2013: quoting Roy 2005). It does
+so by playing the role of a “mediator ”yielding to informal
+“negotiations ”by unevenly and inconsistently distributing
+rights to the middle-class and the subalterns. Evidence of
+such informal governing regimes has already been found inthe previously discussed cases. For instance, drawing from
+Fernandes ’s (2004) study on Mumbai (previously discussed
+in the Section on SM), it was revealed that the State wasoften fragmented and con ﬂicted, as it oscillated between
+responding to the organised demands of middle-classcommunities on the one hand and workers ’organisations
+such as hawkers ’unions on the other. At another level, the
+State actively participated in attempting to produce amiddle-class-based vision of a beauti ﬁed, globalising city in
+which signs of poverty can be forgotten in both spatial and
+political terms. Similar instances were discussed by (Doshi2019) where “illegal ”high-end developments were erected in
+environmentally sensitive areas while criminalising the slum
+dwellers for encroaching those same areas. Unlike squatter set-tlements, such forms of “high-end ”informality usually enjoy
+the premium infrastructure and guaranteed security of tenure
+(Roy 2005).
+The TOI offers additional perspectives in the context of the
+political landscape. “Vote bank politics ”and the practice of
+“parallel system of governance ”have emerged as signi ﬁcant
+factors for “informality ”toﬂourish. The politics of the vote
+bank is directly related to the very high representation of
+slum residents in major Indian cities in municipal electionsand also because the poor in Indian cities vote en masse, they
+vastly outnumber the wealthier residents
+’voter turnout
+(Ghertner 2011a; McFarlane, Silver, and Truelove 2016). It isthrough the vote bank politics that politicians seek to solidify
+or expand their electoral base (highlighted previously),
+through informal ﬁxing and negotiations with the subalterns.
+Through the parallel system of governance, “formal ”systems
+are subverted into “informal ”mechanisms to orchestrate capi-
+talistic strategies behind the curtains of social inclusiveness,of which Ghertner ’s (2011) study on the Bhagidari scheme is
+a pertinent example.
+Informality as a mode of selective interaction. The TOI
+revealed how middle-class groups play an important role in
+sanctioning informal economic activity, regulating space, and
+managing localised service provisions that structure the termsof their interactions. Contrary to the bourgeoisie perceptions
+about the subalterns, there exist exceptions, where the middle-
+class groups allow them to appropriate urban spaces and bene-ﬁts to a certain extent in exchange of services at a low cost
+offered by the subalterns. This insight aligns with the ﬁndings
+of Mahabir et al. (2016). They argued that the interdependenceof the formal sector and the informal sector in some cases has
+positively impacted the country ’s economic development. For
+example, the slums in Dharavi employ as many as 70 percentof its residents with current economic output estimates of US
+$700 million annually, which is perhaps also one of the
+reasons behind the slums of Dharavi thriving juxtaposed tothe high-end developments in Mumbai (Chatterjee and
+Parthasarathy 2018; Fernandes 2004).
+Informality as an adaptive strategy. Informality can be wit-
+nessed as an “adaptive ”strategy when it is so employed by sub-
+alterns in response to unful ﬁlled government commitments,
+public investments whose bene ﬁts are reaped by the middle-
+class. Through informal channels, the subalterns invoke “alter-
+native ”,“non-statutory legal ”,“moral ”and“political ”frame-
+works to safeguard themselves against the hegemonic scourge
+of neoliberalism (Roy 2005). For instance, during slum22 Journal of Planning Literature
+redevelopment in Mumbai, the slum-dwellers embraced slum
+clearance drives in exchange for a better livelihood as promised
+by the developmental bodies (Doshi 2015, 2019) and were
+often provided with a de facto formalisation of their informaltenure in the slums (Ghertner 2012; McFarlane, Silver, and
+Truelove 2016). Studies showed that “informality ”has
+emerged as an avenue for securing “basic infrastructure serv-
+ices”in the informal neighbourhoods which are often excluded
+due to their illegal status and inadequate urban infrastructure.For instance, in exchange for political support, bureaucrats
+and local politicians offered ration cards, extended water and
+sanitation services to the slum dwellers.
+The Growing Role of Non-State Actors
+Till now the review has suggested “UE”,“BMC ”and“SM”as
+the central de ﬁning entities. However, the works of Desai and
+Loftus (2013) and Doshi (2019) brought to attention a set of
+Figure 4. Representation of the Bhagidari scheme (Ghertner 2011a) through the model of “T riquetra of informality ”.Das and Sarkar 23
+hidden “non-state ”actors, for example, NGOs and small scale
+entrepreneurs of land (class of landlords) in the game. It
+revealed how mediations of these intermediaries open new cir-
+cuits of capitalistic accumulation leading to gentri ﬁcation in the
+informal neighbourhoods.
+NGOs through their philanthropic investments bring about
+the development of infrastructure and up-gradation of the infor-mal settlements of the urban subalterns (ISUS). With the lures
+of the security of a stable tenure, of living in viableenvironments, and, of their rights to defend it, they coax the
+subalterns into incrementally investing in the improvement of
+the ISUS, resulting in their of ﬁcial recognition and formalisa-
+tion. Such cumulative re-investments make the ISUS open tospeculations through the creation of rent-gaps, which the indi-
+vidual landlords tap by creating housing shortages, exercising
+monopoly privileges over the spaces they controlled. This con-verts slums into housing sub-markets, making them lucrative
+objects of acquisition not only for the large-scale developers,
+Figure 5. Representation of the case study by Fernandes (2004) through the model of “T riquetra of informality ”.24 Journal of Planning Literature
+but also for transnational developers and the State. The studies
+by Desai and Loftus (2013) and McFarlane, Silver, and
+Truelove (2016) showed that the gentri ﬁcation of the slums
+of Mumbai, which housed around 60 percent of Mumbai ’s pop-
+ulation in 2011, contributed to the ﬂourishing of the city ’s real
+estate market. As a result, the vulnerable slum dwellers are gen-triﬁed by the relatively better off middle-income residents
+willing to pay higher rents in those physically upgraded
+slums, which according to Doshi (2015) is a form of “marginal
+gentri ﬁcation ”.
+This is a paradoxical situation in which efforts to improve
+the conditions of the destitute place them in a state of “zugz-
+wang
+5”where their conditions worsen progressively instead,
+reeling under the threat of high rents, tenure insecurity, and dis-
+placement pressures, creating what Rao (2018) refers to as“incremental gentri ﬁcation ”. This implies that the TOI is not
+necessarily de ﬁned by a direct relationship between its
+generic players –it might also be facilitated through intermedi-
+aries who act as conduits to reconstitute the TOI between UE,
+BMC and SM.
+Future Avenues of Research
+Acknowledging the progress that has already been made in the
+ﬁeld, the review now identi ﬁes certain lacunae and recommends
+avenues for future investigation.
+1. One of the major gaps in the current research on gentri-
+ﬁcation arises due to the constant focus on already well-
+documented highly developed urban centres such asDelhi (eight case studies), Mumbai (eleven case studies),
+China (four case studies) and major European cities.
+Therefore, it is not possible to get a complete picture ofthe impacts of gentri ﬁcation on Indian urbanism simply
+by relying on these existing studies. Existing evidence
+shows early cycles of gentri ﬁcation, in the rapidly
+growing small- and medium-sized cities. According to
+Doshi (2015), these small developing centres often have
+less capacity to attract government-aided funds for devel-opment. Hence, an understanding of the transformations
+exacerbated through forces that are not inherently or
+directly induced by the interventions of the State, forexample, changes in the life-course and practices of con-
+sumption arising out of lifestyle aspirations, employment,
+education, and housing is crucial and may provide uniqueinsights.
+2. The concepts employed by scholars are mostly veri ﬁed
+only at a theoretical level without any clear consensuson how and through which indicators should be mea-
+sured or evaluated. The limited number of quantitative
+studies (eight) makes it challenging to decide uponmodels or techniques that would be feasible in the anal-
+ysis of these new concepts. The lack of accessible and
+reliable statistical data poses additional dif ﬁculties in
+quantifying such concepts. However, despite the
+dearth of empirical models to evaluate the concepts,the studies are suf ﬁciently detailed in themselves to
+enable researchers to analyse a host of real-life issues
+and future pathways for research. Alternate pathwaysfor analysis like the “Intra-Urban Comparison ”by
+Schmid et al. (2018) and McFarlane, Silver, and
+Truelove (2016), ﬁnely grained ethnographies as con-
+ducted by Chatterjee (2009) and Ghertner (2011,
+2015), may be explored while also integrating estab-
+lished and locally relevant data, and taking advantageof systematic, comprehensive and balanced research
+summaries.
+3. Considering that the TOI has been derived from studies
+that imparted exclusive focus on the select Indian
+metropolises, it may not represent a picture of urban
+dynamics in general. However, existing literature men-tions similar instances in diverse parts of the world
+where many of the major developmental forces in play
+are similar to those in India, which constitute the TOI.While urban informality has emerged as a strong tool
+of urban metropolitan planning in most South Asian
+cities, it is not necessarily limited to the cities of theglobal South (Roy 2005, 2011). Urban informality is
+found to play a signi ﬁcant role in shaping political and
+economic outcomes even in the presence of “strong ”
+States and organised “land regimes ”in the Global
+North (Doshi 2015; McFarlane 2012). The proliferation
+of“accumulation by dispossession ”has resulted in
+exploitation and struggle across geographies (Doshi
+2015), for example, accumulation through land and
+housing speculation has played a crucial role in thedevelopment and spread of the most recent ﬁnancial
+crisis in the poorest settlements of the Global South in
+the same way as it has in the ﬁnancial heartlands of
+the Global North. Cases revealed how slums displace-
+ments triggered by speculation have been a signi ﬁcant
+part of the urbanisation process actuated by legacies ofcolonialism, racial and class stigma, and state violence
+from Manila to Johannesburg to Santiago de Chile to
+Brazil (Lees, Shin, and López Morales 2015) andMumbai (Harris 2008). While urban informality has
+been integral in the complex adaptive assemblage of
+aspirations, negotiations, contestations of the marginalsin Mumbai ’s slums, Doshi (2019) drew a similar
+picture, demonstrating how the poor in the informal set-
+tlements in Latin American cities negotiated for state
+provision of temporary tenure security and services in
+exchange for en-masse vote delivery. Taking these per-
+spectives into account, future research might adopt theframework of TOI to test its implications and relevance
+across the broader Indian context and in the global
+scenario.
+4. The concepts UE, BMC and SM re ﬂect a striking aspect
+of modern India. The authors speculate that gentri ﬁca-
+tion and urban informality piggyback on the aspirationsof the population of the society. With everyone trying to
+be upwardly mobile, the insights revealed differentiatedDas and Sarkar 25
+modes of production and consumption of informality
+across the social classes that revolves around an axis
+of aspirations, con ﬂicts and negotiations. The assem-
+blage of aspirations, con ﬂicts, and negotiations consti-
+tute a “ladder of social mobilisation ”through which
+the subalterns attempt to become the new middleclass. Thus, it is important to engage with the subjective
+experiences of modern urban life, which go into the
+making of urban informality and spatially manifest asgentri ﬁcation in future research.
+Conclusion
+The review showed that gentri ﬁcation studies are becoming
+much more differentiated, polymorphic and multi-scalar –the
+extensive range of de ﬁnitions, the various outcomes of the con-
+cepts –“UE”,“BMC ”,“SM”, and the “TOI”are evidence to it.
+The purpose of the exclusive focus on Indian case studies was
+to embark on research that aims to theorise Indian urbanism inits own right. Hence, the authors emphasised the need to focus
+on the derived concepts, and their outcomes as complementary
+rather than comprehensive while conducting future investiga-tions. It is crucial to understand the underlying mechanisms
+of such concepts by recognising and mapping a broad spectrum
+of opportunities and challenges that an urban system offers,along with the range of aspirations, negotiations and con ﬂicts
+among the existing and emerging stakeholders within the
+scene. Urban informality can be one of the lenses through
+which one can observe various degrees of these dynamics,
+while also remaining attentive to other contextual milieus.
+The validity of the conceptual model of TOI was demon-
+strated by its capacity to represent existing real-world case
+studies, without compromising on details to obtain a perfectﬁt. It makes possible an understanding of the various modalities
+of operation of the geographical, historical, and culture-speci ﬁc
+socio-political entities, and how they shape the society. Thesimultaneous existence of contradictory “states ”of an urban
+system suggests that one travel “through the looking glass ”
+6
+and comprehends both sides of the reality. Therefore, where
+do we stand then? Could it be argued that gentri ﬁcation in
+India gets its impetus from aspiration, the bulk of which
+proves dif ﬁcult to be accomplished through the existing eco-
+nomic and socio-political infrastructure and mechanisms and
+that informality takes on at times the roles of a lubricant, a cat-
+alyst or even an alternative means of ful ﬁlment?
+The authors of this article hope that the ﬁndings from this
+review may support the progress towards cross-cultural
+research for shedding new light on familiar questions in the dis-course of gentri ﬁcation.
+Acknowledgements
+The authors wish to thank the Editor and the Reviewers for their metic-
+ulous comments on the manuscript as they laid the scope for furtherimprovement to the ﬁnal acceptance.The authors would also like to thank Abhijit Roy for his invaluable
+contribution to critically revising the paper in keeping with the intellec-tual content.
+Declaration of Con ﬂicting Interests
+The author(s) declared no potential con ﬂicts of interest with respect to
+the research, authorship and/or publication of this article.
+Funding
+The author(s) received no ﬁnancial support for the research, authorship
+and/or publication of this article.
+ORCID iD
+Rituparna Das https://orcid.org/0000-0003-1354-3015
+Notes
+1. The theoretical framework of Global City by Saskia Sassen empha-
+sised on the formation of cross-border dynamics through whichcities of the Global North and the growing number of otherglobal cities begin to form strategic transnational networks.
+2. Neoliberalism is a political strategy where the State has shifted its
+goals from fostering social reproduction to the privatization ofsocial resources, the liberalisation of regulatory frameworks thatmight hinder free market values. Such an ideology enables oppres-sive forces to establish gentri ﬁcation.
+3. A “state-space ”is the set of all possible ways of existence of a
+system where each different way is a “state”. It is to be noted that
+the term “State ”in this article refers to the governing agents and
+should not be confused with the concept of “state”and
+“state-space ”.
+4. The concept of informality takes on local ﬂavours and names
+depending on geography. The authors ﬁnd it pertinent to include
+the term “jugaad ”and“jugaadu ”in this article to contextualise
+“informality ”to the Indian scenario. Originally referring to grass-
+roots ingenuity and improvisation towards solving problems ofdaily life, typically though unconventional means, “jugaad ”has
+now become a “strategy ”, wielded differentially by social classes
+in India for progress in obstructionist environments like inef ﬁcient
+governance and inequality (Roy 2011).
+5.“Zugzwang ”is a chess term describing a situation faced by a player
+whose turn it is to move, where any move made only worsens theposition.
+6. The phrase refers to the title of Lewis Carol ’s book in which the pro-
+tagonist Alice climbs through a mirror or looking glass into theworld in which everything is reversed. In this context the authorsused this analogy to refer to the contradictory state-spaces createdby the different modalities of interactions between the State, themiddle-class, and the subalterns.

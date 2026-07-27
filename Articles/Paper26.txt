@@ -1,0 +1,624 @@
+Special issue article: Locating gentrification in the Global East
+Urban Studies
+2016, Vol. 53(3) 455–470
+/C211Urban Studies Journal Limited 2015
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0042098015620337usj.sagepub.com
+Introduction: Locating gentrification
+in the Global East
+Hyun Bang Shin
+London School of Economics and Political Science, UK
+Loretta Lees
+University of Leicester, UK
+Ernesto Lo ´pez-Morales
+Universidad de Chile, Chile; Centre for Studies of Conflict and Social Cohesion, Conicyt Fondap,
+Chile
+Abstract
+This special issue, a collection of papers presented and debated at an Urban Studies Foundation-
+funded workshop on Global Gentrification in London in 2012, attempts to problematise contem-
+porary understandings of gentrification, which is all too often confined to the experiences of theso-called Global North, and sometimes too narrowly understood as classic gentrification. Instead
+of simply confirming the rise of gentrification in places outside of the usual suspects of North
+America and Western Europe, a more open-minded approach is advocated so as not to over-generalise distinctive urban processes under the label of gentrification, thus understanding gentrifi-
+cation as constitutive of diverse urban processes at work. This requires a careful attention to the
+complexity of property rights and tenure relations, and calls for a dialogue between gentrificationand non-gentrification researchers to understand how gentrification communicates with other the-
+ories to capture the full dynamics of urban transformation. Papers in this special issue have made
+great strides towards these goals, namely theorising, distorting, mutating and bringing into ques-tion the concept of gentrification itself, as seen from the perspective of the Global East, a label that
+we have deliberately given in order to problematise the existing common practices of grouping all
+regions other than Western European and North American ones into the Global South.
+Keywords
+Asia, gentrification, Global East, urbanisation, urbanism
+Received November 2015; accepted November 2015
+Introduction
+This special issue has grown out of the
+papers presented and discussions debated atCorresponding author:
+Hyun Bang Shin, Department of Geography andEnvironment, London School of Economics and Political
+Science, Houghton Street, London WC2A 2AE, UK.
+Email: h.b.shin@lse.ac.uk
+
+a 2012 workshop on Global Gentrification
+in London, part of an event funded by the
+Urban Studies Foundation. The event
+brought together a number of early careerand established scholars to critically engagewith gentrification questions in Asia morewidely. In this special issue we bringtogether as a set the East Asian cases: from
+the Tiger economies of Hong Kong,
+Singapore, South Korea and Taiwan, theTiger Cub economies of the Philippines andIndonesia, and the transitional economies ofMainland China and Vietnam. Located geo-graphically proximate to each other in the
+same region, these countries display some
+shared experiences such as rapid urbanisa-tion, export-oriented economic developmentand strong developmental states withauthoritarian pasts or inclinations, yet theoutcomes of their actual urbanisation and
+urban development are variegated due to
+their place-based geographical and historicalspecificities (e.g. transitional economies ver-sus other capitalist late industrialisers). Wegroup these cases together under the label
+Global East, a term we have used elsewhere
+in the introduction and conclusion to ourrecent edited volume on global gentrifica-tions (Lees et al., 2015; see also Waley,2016). We use this broad but encompassingterm in order to refer to a geographical
+world region that shares a common histori-
+cal past but equally importantly demon-strates some stark differences in terms ofurbanisation and gentrification. This label-ling is designed to picture the Global East orEast Asia as one homogeneous region; how-
+ever, we are mindful of Gayatri Chakravarty
+Spivak’s (2007) call for pluralising Asia,which from a postcolonial perspective doesnot reduce the entire region to a homoge-neous ‘other’, but understands it through its
+multiplicity of differences. Our use of the
+term Global East is deliberate; it is anattempt to problematise the existing commonpractices of grouping all regions other thanWestern European and North American
+ones into the Global South. As Paul Waley
+(2016) comments, ‘[t]he space created by the
+global East can be used to sidestep or betterto deconstruct the dominant dualism of glo-bal North and global South’.
+‘Locating gentrification in the Global
+East’ is not simply about confirming the riseof gentrification in places outside of the
+usual suspects of North America and
+Western Europe. It is also not to over-generalise distinctive urban processes underthe label of gentrification. Recently, gentrifi-
+cation has become subject to an increasing
+degree of scrutiny among researchers andgovernments as well as in media. Amongvarious forms of gentrification, new-build
+gentrification has been a relatively frequent
+theme to be explored in East Asia (e.g. He,2010; He and Wu, 2007; Lu ¨tzeler, 2008).
+The relationship between education andneighbourhood change has also been subject
+to some recent studies (e.g. Waley et al.,
+2016), while commercial gentrification hasreceived steady attentions (e.g. Kim et al.,2010; Wang, 2011). The prevalence of urban
+redevelopment activities in East Asian cities
+in recent decades often propels researchersto explore the relationship between redeve-lopment and gentrification (e.g. Fujitsuka,
+2015; Ha, 2004; He and Wu, 2007; Lim et
+al., 2013; Roderos, 2013; Shin, 2009a;Wong, 2006), although redevelopment oftenturns out to be a more preferred term to gen-trification (see Ley and Teo, 2014). We aim to
+build upon this accumulated knowledge, but
+a tt h es a m et i m ew ea r ea w a r et h a tu n t i lrecently, the gentrifica tion literature has been
+overly preoccupied with the identification of
+particular forms of gentrification without pay-
+ing adequate attention to how gentrificationinteracts with other urban processes. In thisspecial issue, as in our recently published edi-
+ted volume on global gentrifications ,w e
+adhere to a more open-minded approach,
+which understands gentrification as456 Urban Studies 53(3)
+constitutive of divers eu r b a np r o c e s s e sa t
+work. Gentrification can be an established
+and influential urban process that affects the
+life chances of local inhabitants in one place,whilst in other places it might simply be asubsidiary, nascent process at work in tandem
+with other urban processes. Contributors to
+this special issue attempt to situate gentrifica-tion amongst multiple urban processes simul-taneously at work in East Asia.
+The papers in this special issue, therefore,
+give consideration to the historicity of urbandevelopment, and the contributors have been
+reminded to critically revisit the very Anglo-
+American ‘geography of gentrification’.Unlike much other work on gentrification inEast Asia, this collection avoids the assump-
+tion that gentrification is simply ‘expanding’
+towards the Global East (periphery) throughcolonisation or one-way policy transfer, as ifit is an imported new phenomenon thatbuilds upon emerging real estate markets.
+Indeed, this special issue and our forthcom-
+ing book Planetary Gentrification (Lees
+et al., 2016) opens up the possibility that gen-trification has been taking place in various
+guises outside of the West. We are mindful
+of Eric Clark’s (2005) proclamation that weshould not confuse the coining of ‘gentrifica-tion’ by Ruth Glass with its origin. It may
+also be possible that only the systematic and
+social scientific observation of these pro-cesses is something new, but not the actualphenomena themselves. Furthermore, whileNeil Smith referred to gentrification as one
+of the three key characteristics of contempo-
+rary geo-economics under neoliberal states,it may also be possible to theorise that gen-trification itself is a function of capitalist
+states of all disguises rather than simply a
+function of neoliberal states. The experiencesin non-Western contexts deserve carefulattention, and the East Asia region, with allits differences and complexities, serves as a
+primary test site for these enquiries in this
+special issue.Conceptualising gentrification:
+Generality versus particularity
+Recently, gentrification has been subject to
+criticism for its limited consideration of thedivergent urban processes that produce dis-placement and dispossession. For some, thishas provoked another turn away from gen-trification studies, and the ditching of a ‘gen-trification’ framework in the discussion ofurban processes outside of the GlobalNorth. But these differentially problematiccritiques somehow envision a prototype ofgentrification built on an imagined westernmodel of gentrification (see e.g. Maloutas,2012). That is, the critiques launched arebased on the cultural association of gentrifi-cation with a particular time and spacerelated to its earlier coining and conceptuali-sation. They refer primarily to what isknown to be classic gentrification. The ety-mology ‘gentry’ is singled out as evidencefor the inability of ‘gentrification’ as a con-cept to travel across cultural boundaries; forgentry is a class category that is too specificto England and the term is therefore suscep-tible to poor translation into other lan-
+guages (see Lees, 2012: 157–158 for the
+different concepts employed in countriesother than Britain). It is a problem evenwithin the West, as this ‘narrative’ cannot betranslated into Western countries other thanEngland/Britain. But it has been! Indeedcritics working in and on non-usual gentrifi-cation suspects will always find aspects thatare not captured by classic gentrification,and so it is far too easy to use such aspectsas sources of contention to argue against theeffectiveness of gentrification as a social sci-entific concept. We are all familiar with theridiculing outcry ‘not gentrification again’,resonating with the similar frustration: ‘iseverything neoliberal’.
+In formulating a definition of the city it is nec-
+essary to exercise caution in order to avoididentifying urbanism as a way of life with anyShin et al. 457
+specific locally or historically conditioned cul-
+tural influences which, while they may signifi-cantly affect the specific character of thecommunity, are not the essential determinantsof its character as a city. (Wirth, 1938: 7)
+Louis Wirth in his writing on cities and
+urbanism provides a telling story of how we
+are to carry out abstraction based on com-parative studies of cities. By bringing
+together ‘different types of cities’ and identi-
+fying ‘essential characteristics’ they may‘have in common as social entities’ (Wirth,
+1938: 7), a definition of the city is drawn for
+him. Comparative studies of gentrificationprovide a similar opportunity for us to
+define what gentrification is about and to be
+able to distinguish particularity from gener-ality, a thought-process that is analogous tothe ways in which Karl Marx was making a
+distinction between commodity-form and
+value-form (Merrifield, 2014: 6). As EricClark pointed out, ‘[a]bstractions based on
+non-necessary relations lead to chaotic
+conceptions’ (2005: 258). One major achieve-ment of comparative scholarship on gentrifi-
+cation in recent years is the abstraction of
+gentrification from conjunctural factors,contesting a decades-long ‘time–space deli-
+neation’ that associated gentrification with a
+particular point in time and space, that is,inner London in the 1960s during the timeof Ruth Glass’s investigation into neigh-
+bourhood change. We have moved far from
+that time and place, and come to understandthat gentrification as a concept refers to the
+commodification of space accompanying
+land use changes in such a way that it pro-duces indirect/direct/physical/symbolic dis-
+placement of existing users and owners by
+more affluent groups. Conceptualised in thisway, it is only logical to think of various
+conjunctural factors that produce particular
+forms of gentrification in around the globe.Furthermore, it is also logical to understand
+that the gentrification process is conjoinedby other processes in order to ensure the
+facilitation of this transformation, including
+the use of police forces to suppress resis-
+tance, the co-optation of opposition forces,and the imposition of dominant ideologieson subordinate classes. And, these are pro-
+cesses not just seen in countries belonging to
+regions outside of the so-called GlobalNorth, but currently happening in the
+Global North too, as the state-led gentrifica-
+tion and social cleansing of public housingand the poor attests to (see Lees, 2014a,2014b).
+Nevertheless, locating gentrification in
+non-Western contexts still faces numerous
+challenges, for commodification of space is a
+process that is manifested in a variegatedway. As testified by contributors to this spe-cial issue, such commodification may hap-
+pen in peri-urban areas in a fast-growing
+metropolitan region such as Bandung City,Indonesia (Hudalah et al., 2016), in historiccity centres with the presence of rich heritage
+sites (Chang, 2016; Jou et al., 2016), or in
+former urbanised villages in new centralbusiness districts (Shin, 2016). Not onlyexisting buildings with formal titles but also
+informal properties or properties constrained
+by, for example, the legacy of socialist own-ership may be subject to commodification,
+often in a selective way to suit the purpose of
+accumulation and beautification (Choi,2016; La Grange and Pretorius, 2016; Shin,2016; Yip and Tran, 2016). The diversity of
+such processes requires us to acknowledge
+the complexities of land and housing tenureor property relations that can be found ineach locality. And these complexities are
+very much prevalent in the Global North
+too, hence the importance of not associatinga particular form of gentrification such asslum gentrification with the Global South
+only (see Lees et al., 2015, 2016).
+Such complexities may operate to prevent
+gentrification from becoming a dominant
+force in a given place: this can happen, for458 Urban Studies 53(3)
+instance, by the presence of heavily fragmen-
+ted (formal or informal) property rights,
+acting as insurmountable constraints on con-
+verting properties into marketable commodi-ties. Slums such as Dharavi in Mumbai may
+experience precarious durability (Weinstein
+2014), and it may take a much longer timefor Dharavi to be subject to slum gentrifica-tion, if it ever occurs, than the gentrification
+of slums elsewhere (e.g. in South Korea; see
+Chapter 6 in Lees et al., 2016). At the sametime, (urban) spaces are always subject to
+uneven development. As such, it is possible
+that other places with more formal propertyrelations in a city known to experience pre-
+valence of informal land and housing tenure
+are seeing the intrusion of real estate capitaland affluent classes taking over propertiesfrom poorer populations. This process of
+uneven commodification of space appears to
+be an experience shared by many cities intro-duced in this special issue.
+The rising importance of gentrification, in
+the face of those who wish to turn away from
+‘gentrification’, lies perhaps in the fact that it
+is the rise of real estate that brings to the forethe importance of capital investment in thebuilt environment, which leads to changes in
+land use and the composition of residing
+inhabitants. When we discuss urban pro-cesses to identify the on-going dominant pro-
+cesses, who captures the benefits of land
+revalorisation becomes the key site of con-tention. It is the fetishisation of real estatecommodities and the use of real estate invest-
+ment as a driver of urban socio-spatial
+change, resulting in the exclusive use of newspaces for more affluent middle or upper
+class groups, at the expense of, and exploit-
+ing the use value held by, lower and workingclass populations. This process has madegentrification central to urban research since
+the late twentieth century in particular.
+In this special issue we argue that the
+complexity of property rights and tenure
+relations cannot be taken as a justification tothrow overboard ‘gentrification’ both as a
+concept and as a process. As Lo ´pez-Morales
+(2015: 571) noted recently, ‘both a useful
+and generic gentrification theory and a rent
+gap theory have much to offer given the
+increasingly ferocious land and housing mar-
+kets evident in many developing economies
+of the global South’. We understand that
+actually existing gentrification takes multiple
+forms, thus our labelling of global gentrifica-
+tions, as gentrification conjoins with local
+accumulation processes, institutional land-
+scapes, social relations and political strug-
+gles, for this is how commodification ofspace occurs in the real world. Gentrification
+and non-gentrification researchers alike need
+to be reminded of these complexities and the
+simultaneous presence of multiple processes
+and to have mutual dialogues (e.g. develop-
+ment geographers with gentrification
+researchers, and so on).
+Gentrification, public discourse
+and political mobilisation
+In East Asia, until fairly recently, the term
+‘gentrification’ has not been subject to much
+public debate, and relatively few academic
+outputs utilising gentrification theory have
+appeared; those that have tended to follow
+Anglo-American models and discussions.
+Within East Asia, more frequently utilised
+expressions in both the media and academic
+circles include those that can be loosely
+translated into ‘renewal’, ‘redevelopment’ or
+‘regeneration’. When referring to the nega-
+tive impacts of urban projects, expressions
+such as ‘eviction’ and ‘forced demolition’
+have been more readily used. To this extent,
+gentrification as a concept had, until
+recently, a limited impact on forming a criti-
+cal discourse among academics, grassrootsorganisations and activists. By way of com-
+parison, in the Latin American region use of
+the term ‘gentrification’ is increasingly inter-
+twined with the discourses of social activistsShin et al. 459
+and policy makers (see Lo ´pez-Morales et al.,
+forthcoming). In the face of this, the papers
+in this special issue underline the usefulness
+of ‘gentrification’ as a critical conceptualisa-tion of urban processes in the Global East.
+In places such as Hong Kong, a former
+city-state that experienced large-scale clear-
+ance of squatter settlements, extensive public
+housing schemes and the domination ofcommercial real estate projects (Smart,2006), classic gentrification as revealed by
+Ruth Glass does not exist. As Ley and Teo
+(2014) have argued, it is only when weabstract from the particularities associated
+with regional/historical variances of gentrifi-
+cation and focus on the key characteristics(of value extraction from land and resultingdisplacement) that we begin to see the opera-
+tion of urban processes that bring our atten-
+tion to gentrification. It is in this regard thatLa Grange and Pretorius (2016) also argue
+that the inner-city redevelopment of Hong
+Kong facilitated by the state agency ofurban Renewal Authority has produced gen-
+trification, although it has taken place more
+selectively and is an incomplete, on-goingprocess.
+Other Asian countries, such as South
+Korea and China, have seen the prevalenceof wholesale clearance and reconstruction as
+the main mode of property-led urban redeve-
+lopment for many decades, long before suchprocesses were conceptualised as ‘new-build’gentrification in the West (see Davidson and
+Lees, 2005, 2010, on ‘new-build gentrifica-
+tion’). It is important to understand thatlarge-scale, wholesale demolition and recon-
+struction of entire neighbourhoods has
+become the norm for urban neighbourhoodchange. Seoul, for instance, has experienced
+the so-called ‘joint redevelopment pro-
+gramme’ from its inception in 1983 (Ha,2004). In Beijing and Shanghai, China,wholesale demolition and redevelopment has
+also become prevalent since the 1990s, when
+the real estate sector attracted both domesticand foreign capital under state directives. If
+gentrification was only understood in its
+classic sense among researchers in East Asia
+or associated with only gradual incrementalchanges over time (e.g. Kim et al., 2010; Kimand Nam, 1998; Qiu, 2002), such practices of
+urban redevelopment would have fallen
+short of being identified as gentrification.Instead, they bear a strong resemblance tocontemporary state-led, ‘new-build’ gentrifi-cation in Western cities. In this regard, Shin
+and Kim (2016) emphasise the historicity of
+such processes, which took place before theneoliberalisation of the country, locatinggentrification as part of a more intrinsic and
+endogenous urban process that has charac-
+terised Seoul’s urban development and itshigh-density reconstruction.
+With the mounting pressure of domicide
+due to reasons of urban beautification, realestate speculation or the securitisation of thehome as an asset (Porteous and Smith, 2001;
+Shao, 2013; Shin, 2014), the struggle for
+defending one’s own home and for collectiveconsumption becomes a paramount urbanquestion (Merrifield, 2014), which requires a
+concerted effort to produce alliances that go
+beyond a given geographical boundary.Despite this, some scholars, even those advo-cating a critical approach to urban studies,
+that we have come across at various confer-
+ences and meetings, are against the use of‘gentrification’ outside the Global North,preferring use of ‘urban renewal’, ‘urbanregeneration’ or ‘urban redevelopment’ in
+lieu of gentrification. Their reasoning is that
+these expressions are more encompassing,allowing gentrification as well as non-gentrification processes to be considered. We
+argue against such a proposition, for those
+same expressions are often mobilised bypolitical and business elites to package theiractions in value-neutral terms and to presentprofit-maximising and self-fulfilling political
+actions as positive policies for existing resi-
+dents (see Lees et al., 2008). We understand460 Urban Studies 53(3)
+the destruction of neighbourhoods and com-
+munities to have significant detrimental
+impacts on the lives of local (often poor, mar-
+ginalised or less powerful )r e s i d e n t s ,b yb r e a k -
+ing their social networks and damaging their
+social capital. As Ray Forrest (2016) points
+out, ‘using gentrification processes as the ana-
+lytical lens places class at the centre of the
+analysis – or at least it should do if it is being
+deployed correctly’. As far as bottom-up
+struggles around collective consumption are
+concerned, gentrification is a politically effec-
+tive concept that brings together people from
+around the world, who are suffering from thethreats of eviction due to their areas being
+put into a higher and better use for extracting
+exchange value. We return to this point in the
+concluding discussion.
+Locating gentrification as part of
+multiple urban processes at work
+As Ley and Teo (2014: 1296) summarise,
+gentrification is thought to be a ‘conceptual
+category that provides a critical edge and
+some theoretical coherence to physical and
+social change incorporating eviction, displa-
+cement, demolition and redevelopment’.
+Nevertheless, it is important to probe the
+ways in which gentrification communicates
+with other theories to capture the full
+dynamics of urban transformation. Critics
+may argue that a city is gentrifying on the
+basis of one case, while other cases from the
+city may contradict this. Finding out which
+processes are becoming more dominant
+needs to be based on a more structural
+understanding of the political economy of a
+city and of the country in which cities are
+positioned. By definition, gentrification
+entails displacement, which suggests that
+displaced residents may contribute to densi-fication of other equivalently affordable
+neighbourhoods proximate to or afar from
+their original neighbourhood (see e.g. Shin,2008). Concurrent development of a low-rise
+neighbourhood’s densification could be seen
+as a simultaneous non-gentrifying process.
+Peter Marcuse’s (1986) discussion of exclu-sionary displacement also demonstrates the
+need of going beyond the neighbourhood
+scale for gentrification research. The gentri-fication literature often focuses on a singlecase study that involves a highly localised,
+contextual understanding of neighbourhood
+transition, but without adequate connectionwith wider urban processes. Therefore,before coming to an a priori conclusion that
+gentrification has a limited or extensive pres-
+ence in an East Asian city, it is recom-mended to go beyond the neighbourhood
+scale (e.g. Shin and Kim, 2016), possibly
+examining multiple cases in a comparativemanner (Ren and Luger, 2014).
+The approach advocated in this special
+issue is to pay attention to wider urban pro-cesses, and for urban theories to speak to each
+other in order to highlight and critically exam-
+ine the implications of an urban phenomenonsuch as neighbourhood redevelopment in arich, multifaceted way. For instance, high-
+lighting the scale of development-induced
+displacement facilitated by infrastructureprojects in Manila, th e Philippines, Choi
+(2016) explains how landed elites possess
+power to promote private development to cre-ate exclusive spaces, and how informal occu-pation of urban land and residents’ informal
+nature of employment propel such residents
+to face multiple vulnerabilities includingchances of direct and indirect displacement.She further hints at the possibility of how
+infrastructure construction may contribute to
+future elevation of property values in adjacentneighbourhoods, which in turn may prompt
+gentrification (see also Lees et al., 2016,
+Chapter 7, on the relationship between gentri-fication and infrastructure construction). Thishighlights the importance of not only having
+a longer-term perspective when investigatingShin et al. 461
+urban processes, but also going beyond the
+immediate boundary of urban changes to
+examine knock-on effects.
+Furthermore, as Shin (2016) highlights
+with regard to mainland China in transition
+from a planned economy to a market econ-omy, public assets including public housing
+have been subject to dispossession by local
+states. Some properties held by former villa-gers and their collectives may also remaininformal, and be positioned outside the for-
+mal real estate market. This is due to the
+legacy of socialist planning and its persistentdisjoint from the expanding housing and
+land market. While fragmented property
+rights often act as a barrier to the commodi-fication of urban space, entrepreneurial localstates as de facto landowners (Hsing, 2010;
+Shin, 2009b) resort to their state power to
+help expropriate properties from existingusers and owners, and turn them into com-
+modities for further accumulation. In this
+context, the process of expropriating realestate properties and existing users’ property
+rights could be understood by utilising the
+theory of ‘accumulation by dispossession’ (seee.g. Glassman, 2006; Harvey, 2005, 2006). Inthe broader context of Chinese cities’ urbani-
+sation and urban accumulation, this process
+of dispossession of people’s rights and theirproperties acts as a precursor to a gentrifica-
+tion that leads to the displacement of local
+residents who lose their decades-long attach-ment to residential spaces and social net-works. The process of commodification and
+class re-making of existing space can be
+broadly termed as ‘gentrification’, but themarriage between the theory of ‘accumulation
+by dispossession’ and ‘gentrification’ allows
+us to delineate the particularities of socialistand post-socialist relat ions and the specifici-
+ties of the (post-)socialist state in its role to
+intervene in urban socio-spatial restructuring
+(see Shin, 2016; see also Wu, 2015).
+In the context of seeing a fundamental
+political economic transition, historiclegacies may continue to exert influence on
+urban development trajectories (path depen-
+dency), while new innovations and the inclu-
+sion of new domestic/foreign actors create a
+break from the past (path breaking). McGee
+(2009) discusses the hybridity of city-making
+based on the combination of socialist and
+capitalist modes of production in times of
+transition. If urban spaces are subject to dif-
+ferent forces, they would also go through
+variegated experiences of transformation. As
+a transitional economy Vietnam is seeing a
+more controlled approach to city centre
+redevelopment and the relocation of its resi-dents. As Yip and Tran (2016) argue,
+Hanoi’s contemporary urban redevelopment
+has not produced extensive (direct) displace-
+ment due to the fact that it has focused
+largely on brownfield sites, faced the com-
+plex structure of property ownership (as a
+socialist legacy), and witnessed weak state
+capacity. Hanoi’s residents have also staged
+‘persistent and relentless struggles to claim
+their legal rights’ (Yip and Tran, 2016, this
+issue), thus resulting in a heavier emphasis on
+local residents’ re-hous ing. The characteristics
+of Hanoi’s urban redevelopment prompts them
+to claim that gentrification may not be applica-
+ble to the analysis of contemporary urban
+changes in Hanoi’s city centre, but they prefer
+not to rule out the possibility of gentrification
+looming over the city in the future when real
+estate redevelopment is seemingly likely to
+become more predatory, accompanied by the
+potential weakening of the protection of resi-dents’ rights.
+The nexus between the state and
+the capital
+In his afterword to the third edition of
+Uneven Development , the late Neil Smith
+(1984/2008) identified three key features
+associated with the rise of geoeconomics,
+seen from the perspective of neoliberal glo-
+balism. One of his key features was the rise462 Urban Studies 53(3)
+of gentrification as ‘a global urban strategy’,
+facilitated by the neoliberal transformation
+of the state. This coincided with the thesis of
+other researchers who also wanted todemonstrate the global reach of gentrifica-tion in recent years in the context of neoli-
+beralisation around the world (e.g. Atkinson
+and Bridge, 2005). The rise of new-build andstate-led gentrification from the mid-2000sin the UK and North America was also dis-cussed in the context of the increasing influ-
+ence of neoliberal states (Davidson and Lees,
+2005, 2010; Hackworth and Smith, 2001). Assuch, the question of the state and its neolib-eral transformation is paramount in contem-
+porary understandings of how gentrification
+unfolds. The importance of the state isemphatically put forward by Loı ¨c Wacquant
+(2008: 202) who suggests that ‘the primary
+engine behind the (re)allocation of people,
+resources and institutions in the city is thestate’, arguing that critics have paid lessattention to ‘the crucial role of the state inproducing not only space but the space of
+consumers and producers of housing’.
+This special issue examines the extent to
+which gentrification has emerged from or
+been hidden behind the context of condensedurbanisation in Asian developmental states,taking a more nuanced understanding of the
+neoliberalisation of the state and its relation-
+ship with gentrification (Park et al., 2012;see also Jou et al., 2016; Shin and Kim,2016). Studies on the Global East allow usto address this shortfall in existing studies,
+and to understand how gentrification can be
+part of urbanisation and urban accumula-tion strategies. While scholars have paidattention to geographical contingencies and
+to the contextual understanding of gentrifi-
+cation, there is a greater scope for gentrifica-tion researchers to take into account thepolitical economics of urban development innon-Western cities and in particular in the
+Global East. East Asian states have dis-
+played a strong presence in the economy andsociety, often displaying militaristic, authori-
+tarian characteristics (Leftwich, 1995; Park
+et al., 2012; Woo-Cumings, 1999). For a
+long period, liberal democracies were con-trolled or hindered in order to facilitatemobilisation of available resources for eco-
+nomic development and political gains.
+Economic prosperity through an export-oriented economy and investment in fixedassets was supported by the exercise of statepower to coalesce and suppress oppositional
+voices. Asian states addressed their own
+legitimacy through a particularistic combi-nation of selective/productivist welfare pro-grammes and brutal suppression of civil
+societies (Castells, 1992; Holliday, 2000).
+These are manifested in the way displace-ment is handled in times of urban restructur-ing, and in the way existing dilapidated
+(squatter/informal/formal) settlements were
+subject to upgrading, clearance and redeve-lopment. Asian states in the course of con-densed urbanisation and industrialisationhave also made efforts to take care of the
+politics of displacement, often resorting to
+the use of violence and co-optation strategiesto ensure clean sites are acquired for capital(re-)investment (Shin, 2016; Watson, 2011).
+Furthermore, this special issue provides a
+viewpoint that differs from the usual argu-
+ments on state-led gentrification in the
+Western context. Unlike the return of thestate in times of neoliberal roll-out statismthroughout the 1990s in particular, spear-heading state-led mega-projects and easing
+regulations to help finance speculative real
+estate projects (see Smith, 2002), East Asianstates, especially Tiger economies, have beenstrongly intervening in and guiding the
+channelling of surplus capital, purposefully,
+into the built environment. And, this is not
+necessarily as a result of the neoliberalisa-tion of the economies in the region but aspart of state building, urbanisation and
+industrialisation under developmental stat-
+ism (see Lees et al., 2016). These processesShin et al. 463
+have been supported by strong authoritarian
+states that have worked closely with, for
+example, the popular sector and foreign cap-
+ital in Singapore, large capitalists known aschaebols in South Korea, small and medium
+capitalists in Taiwan, large conglomerates in
+Japan having its origin in zaibatsu during
+the imperial era, and capital-owning classesunder the Suharto regime in Indonesia(McCormack, 1995; Park, 1998; Robison,1988; Woo-Cumings, 1999). State socialism
+in Vietnam and mainland China essentially
+fused the state and businesses together tocreate the state sector during the socialistera, which continues to exert influence upon
+contemporary urban development practices.
+Nevertheless, it should also be pointed
+out that more recent experiences have wit-
+nessed changes to the political economicconfigurations of the East Asian economies.Democratisation, decentralisation and liber-alisation have taken place, albeit in a varie-
+gated way. For instance, mainland China’s
+transition to a market economy has takenplace under the relatively strong leadershipof the Party State, while local states are
+given a certain degree of negotiated auton-
+omy in terms of making decisions on landuse and urban development projects (Shin,2016). This is in contrast with the situations
+in Vietnam, which is thought to display frag-
+mented state power and weak administrativecapacity (Yip and Tran, 2016). Indonesia,after its democratisation, is known to exhibit‘institutional gaps’, produced by a fragile
+regional government structure (Hudalah
+et al., 2016). In Taiwan, the neoliberalisationof its authoritarian developmental state,coupled with democratisation after the end
+of nearly four-decade-long martial law, has
+arguably weakened the tie between thenational and local governments, drivinglocal governments to be increasingly entre-preneurial in their pursuit for economic and
+real estate development (Jou et al., 2016). In
+the Philippines, landed elites continue toexert strong influence on planning and out-
+come of urban development (Choi, 2016).
+The need of contextualising such variegated
+political economies makes us become cau-tious about seeing gentrification as a simpletale of neo-colonial global process as
+Atkinson and Bridge (2005) did. It is impor-
+tant to view actually existing gentrificationprocesses as both historical and contextual,rather than created and imposed by externalforces. Hence, any discussion of gentrification
+in the West that misses out the role of the
+state needs to be reminded about how gentri-fication has shaped East Asian countries,where interventionist states have been guiding
+the societal and economic developments for
+much of their development trajectory andhave mutated over time vis-a `-vis pressures of
+democratisation, neoliberalisation and other
+political economic conjunctures.
+An interesting commonality that has
+emerged from some of the case studies in this
+special issue is the control of state-owned
+land as key assets. Hong Kong, Singapore,China and Vietnam all envisage the domi-nance of state land-ownership in urbanised
+areas. Taiwan is also an economy that sees a
+heavy presence of the state in land owner-ship (e.g. military ownership of key sites incities). The presence of large-scale public
+housing programmes in Singapore and
+Hong Kong, supported by their extensivepublic transport network and dense livingenvironment, is also argued to be minimisingresistance to displacement in times of redeve-
+lopment (Ley and Teo, 2014). According to
+La Grange and Pretorius (2016), HongKong has seen the presence of affordablehousing stocks and a lesser degree of social
+segregation in the city centre, but they argue
+that this situation is gradually changing, asthe city centre is subject to state-led gentrifi-cation in order to reap land/tax revenues forthe Hong Kong state and profits for real
+estate developers whose presence has been
+influential for much of Hong Kong’s recent464 Urban Studies 53(3)
+history (see Haila, 2000). Chang (2016) also
+provides a similar account of the state’spower in controlling and constraining moreautonomous forms of artistic inhabitation inheritage sites. Here, power is attributed tothe Singaporean state’s control of state landassets in addition to its authoritarian politi-cal culture. Mainland China is not an excep-tion in this regard, as Shin (2016) explains:state control of urban land assets and thereform of land administration has turnedentrepreneurial urban governments into defacto landlords (see also Shin, 2009b).Mainland Chinese cities are perhaps far more
+advanced in terms of wielding their power to
+remove socialist legacies in terms of creatingvibrant property markets, but this processhas come about due to the state exercising itspower to bring properties into the marketdomain through the dispossession of people’srights. What has become increasingly proble-matic in China’s large-scale redevelopment isthe displacement of ineligible private tenants,most of whom are migrant workers andtheir family members who go through socio-economic constraints and exclusionaryexperiences on a daily basis.
+Conclusion
+In this special issue, we have tried hard tomake sure not to ‘read gentrification in theGlobal South as simply the recreation of theperiphery (the urban South) in the image ofthe supposed centre (London or New York)’(Lees, 2012: 158). The special issue is anattempt to problematise our own under-
+standings of gentrification, which is all too
+often confined to the experiences of theso-called Global North, and sometimes toonarrowly understood as classic gentrificationby other scholars, often coming from a post-colonial perspective. We agree with Roy(2009) and Robinson (2011) when they arguefor a sort of free theory travelling and con-struction. We also appreciate their call todeconstruct and reconstruct theory from the
+South, and for academics from the North to
+be humble enough to incorporate theory-
+making from the South. The contributors to,and editors of, this special issue have madegreat strides towards these goals, namely the-
+orising, distorting, mutating and bringing into
+question the concept of gentrification itself, asseen from the perspective of the Global East.In so doing this special issue contributes toglobal debates and provides insightful inter-
+pretations of gentrifica tion that might be use-
+ful to scholars from the North as well.
+While we acknowledge and agree with the
+importance of provincialising urban theoriesand decentring urban theory-making(Chakrabarty, 2000; McFarlane, 2010;
+Robinson, 2011; Roy, 2009), we also call for
+the importance of entering into a healthierdialogue between gentrification researchersand post-colonial researchers. Instead ofdownplaying the usefulness of gentrification
+as a concept for those places experiencing
+informal land-markets or fragmented prop-erty relations (e.g. peri-urban or outer ruralspaces) (see Ghertner, 2015), it is important
+to have a longer-term perspective and under-
+stand how existing constraints are oftendealt with by the state to clear the pathwayto gentrification. Indeed, as La Grange and
+Pretorius (2016) acknowledge, the gentrifica-
+tion story remains incomplete. In HongKong, uncertainties loom over the city interms of continuing with its current practicesof heavy reliance on land sale for the govern-
+ment’s revenue generation combined with
+developers’ profit-making through new-buildgentrification. Property assets have contribu-ted to the widening social inequality in Hong
+Kong, and large-scale redevelopment proj-
+ects are facing an increasing degree of publicdiscontents. In Manila, Choi (2016) refers tothe possibility of the gentrification of informalsettlements as a result of infrastructure upgrad-
+ing, prompting us to question the relationship
+between development-induced displacementShin et al. 465
+and gentrification. Yip and Tran (2016) also
+take a reserved position about the future of
+Hanoi’s redevelopment practices, as they
+anticipate the possibility of new-build gentrifi-cation if and when predatory pursuit of profitstakes over from a more equitable social
+agenda.
+We also retain our opening position that
+gentrification as a critical conceptualisation
+remains useful. There is so much to learn
+from each other’s experiences in order toexplore more effective strategies to fightthreats of displacement. For instance,
+Taipei, which is reportedly subject to revan-
+chist urban policies may learn from Seoul orHong Kong, which provide public housingas part of in-kind compensation schemes for
+eligible displacees. However, Seoul’s experi-
+ence also provides a telling story of how theprovision of public housing as a fruit ofstruggles against the state could lead to theco-optation of displacees’ movements (Shin
+and Kim, 2016). In fact, the case reported
+by Jou et al. (2016, this issue) further sug-gests that neighbourhoods as sites of eman-cipatory and progressive politics could easily
+be usurped by financial and property capital
+if ‘the singular principal power of landeddeveloper interests’ are not disciplined. Theexperience of former villagers in Guangzhou
+is another telling story of how important it
+is for inhabitants to have full control of theneighbourhood redevelopment processinstead of being pushed over by the coalitionbetween the local state, the developer and
+the village collective (Shin, 2016). Hudalah
+et al. (2016) also emphasise the importanceof scrutinising the nature of Indonesia’sgrowth coalition, arguing that while the
+country’s democratic transition helped the
+government to consider a populist coalitionwith both capitalists and villagers, the gov-ernment–capitalist nexus had an upper handin order to achieve their common aim of
+reaping benefits from gentrification. In this
+regard, Vietnamese residents in Hanoi (Yipand Tran, 2016) have a lot to learn from
+their neighbouring economies in order not
+to lose their collective bargaining power that
+has helped hinder gentrification so far.
+Moreover, the usefulness of introducing
+the concept of gentrification to a placewhere urbanisation and redevelopment doesnot mobilise gentrification as an analyticalconcept lies in the capacity of ‘gentrification’
+to be used as a powerful discourse of socio-
+political mobilisation across national bound-aries (Lees, 2014c, forthcoming). It enableslocal inhabitants of one place/country to be
+readily connected with those in another
+place/country, realising that their fate of dis-placement in the midst of real estate specula-tion is not a singular experience but
+something that is shared by people around
+the country and across the world. In EastAsia in particular, such solidarity acrossboundaries provides a possibility for effec-tive resistance against the aggressive power
+of the state and capital to extract exchange
+value from land and housing, a key charac-teristic of urbanisation and urban develop-ment in the Global East repeatedly
+emphasised in this special issue. Indeed,
+from the contributed papers, we come tounderstand that the fate of former villagersin Guangzhou (Shin, 2016) and of slum
+dwellers in Seoul (Shin and Kim, 2016)
+mirrors that of Taipei’s inner-city residents(Jou et al., 2016) and of Hong Kong’s resi-dents living in dilapidated buildings subjectto state-led new-build gentrification (La
+Grange and Pretorius, 2016). They have all
+faced the threat of displacement and of los-ing their right to stay put in the midst of theconversion of their properties into a higher
+and better use, while their tenure security
+saw a varying degree of protection reflectingvariegated trajectories of regulatory prac-tices and historic struggles. Such accumula-tion strategies have been central to these
+economies (and elsewhere in the Global East
+too) and to the retention of power by their466 Urban Studies 53(3)
+political and economic elites. It is in this
+regard that local inhabitants’ struggle against
+gentrification and displacement, and by exten-sion their fight for collective consumption, has
+an immediate political significance.
+Acknowledgements
+We thank all the participants in these workshops
+and all the contributors to this special issue, aswell as Mark Stephens and Ruth Harkin at Urban
+Studies for their help and support with this special
+issue.
+Funding
+This special issue emerged out of a double work-shop entitled ‘Towards an emerging geography ofgentrification in the Global South’, part of theUrban Studies Seminar Series 2011–2012 funded
+by the Urban Studies Foundation. The overallaim of the two workshops, one held in London,the other in Santiago in Chile, was to broaden ourunderstanding of gentrification drawing concep-tually from the ‘new’ literature on comparativeurbanism and policy mobilities and practically on
+the knowledge of gentrification researchers work-
+ing on/in the Global South.

@@ -1,0 +1,826 @@
+1  
+ 
+ 
+PLEASE NOTE  
+This is the accepted version of the article, which is available at 
+https://journals.sagepub.com/doi/full/10.1177/0969776420963381 . 
+ 
+Full reference:  
+Tulumello S., Allegretti G. (202 1), “Articulating urban change in Southern Europe. 
+Gentrification, touristification and financialisation in Mouraria, Lisbon”, European Urban 
+and Regional Studies,  28(2), 111 -132. Doi: 10.1177/0969776420963381 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Articulating urban change in Southern Europe. Gentrification, 
+touristification and financialisation in Mouraria, Lisbon  
+ 
+Simone Tulumello (corresponding author)  
+Instituto de Ciências Sociais da Universidade de Lisboa  
+simone.tulumello@ics.ulisboa.pt  
+https:/ /orcid.org/0000 -0002 -6660 -3432  
+ 
+Giovanni Allegretti  
+Centre for Social Studies, Coimbra University, Portugal; School of Architecture and 
+Planning, University of the Witwatersrand, South Africa  
+giovanni.allegretti@ces.uc.pt  
+https://orcid.org/0000 -0001 -6234 -5168 
+ 
+Abstract  
+The global or planetary reach of gentrification has become a mains tream in critical urban 
+studies.  And yet,  the ‘travels’ of a concept originated in specific places and times have often 
+brought  about a loss of explanatory and strategic power.  In this article, we argue that  another 
+concept, that of articulation developed by Laclau and Mouffe, is particularly adequate to help  
+gentrification, touristification and financialisation to travel among places and levels of 
+abstraction . In order to  make this argument, we focus on Southern Europe,  whose cities  had 
+long been considered scarcely gentrifiable  and where,  more recently, critical urban 
+scholarship has made large use ogf gentrificat ion, touristification  and financialisation  to 
+3 explain the impacts of crisis, austerity, and afterwards economic rebound driven  by real estate 
+and tourism . We explor e in multi -scalar perspective  the trajectory of Mouraria, a historical 
+neighbourhood in Lisb on – and particularly the dimensions of housing and local politics . We 
+show how Mouraria , during  the last decade, shifted from  being  a ‘deviant’ case – capable of 
+taking advantage of neoliberal regeneration policies  in order  to keep  its social diversity an d 
+most  of its long-term residents  – toward  one ‘paradigmatic’ of urbanisation -as-accumulation 
+and contentious urban politics . We explain this shift by focusing on its multi -scalar 
+determinants ; conclud ing that present urban change in many Southern European cities should 
+be understood as the articulation of various processes , which  includ e gentrification, 
+touristification and financialisation . 
+ 
+Keywords : 
+Articulation; u rban regeneration ; neoliberal urban policy;  housing ; public participation; 
+social movements . 
+ 
+1. Introduction  
+ 
+In the aftermaths of the global financial crisis and deep  national  austerity policies  – often 
+under request of international lenders (Tulumello et al. 2020) –, Sou thern European cities are 
+ongoing  turbulent changes: they have become ‘battlegrounds’ (Cocola -Gant 2015) of  
+investment, speculation and displacement . Three concepts  generated in other contexts  – 
+gentrification, touristification and financialisation – have become linchpins of Southern 
+European critical urban studies, often with scarce attentiveness to their contextual 
+specificities (see Section 2). In this article, we question the use of these concepts, taking steps 
+4 from Thomas Malout as’ critique of the  travel  of concepts that are  ‘highly dependent on 
+contextual causality’ (2012: 34) ; and Sequera and Nofre’s argument (2018) against the  
+conflation of touristification and gentrification . On the one hand, we will provide further 
+evidence of the limits of the concept of gentrification per se  to explain  current processes  in 
+Southern European cities. On the other, however, we will argue, contra Sequera and Nofre’s 
+suggestion (2018) to ‘de -link’ touristification and gentrification, for an epis temological 
+approach based on the study of the  articulation (cf. Laclau and Mouffe 1985) of these  two 
+concepts, plus that of financialisation. This approach, we will show , helps  explain ing current 
+transformations , increasing the analytical and strategic po wer of the c oncepts of 
+gentrification, touristification and financialisation . In doing so, we contribute more widely to 
+the development of global urban studies (cf. Robinson 2016), by bringing fresh theoretical 
+insights from a context, Southern Europe – and specifically Lisbon – that have long remained  
+at the ‘borderlands’ of urban theorisation (Baptista 2013) and can help us further our 
+understanding of how concepts travel and are stretched . 
+Our epistemological strategy is exploring a case -study in multi -scalar and longitudinal 
+perspective . We focus on  the neighbourhood of Mouraria in Lisbon, a city  that has lost almost 
+a half of its population since the 1980s , where  regeneration policies have bee n around for 
+some three decades , bringing mixed results and, in some neighbourhoods,  displacement (e.g., 
+Mendes  2013) . Mouraria has been, since 2007, at the core of urban regeneration efforts by 
+the municipality – themselves crucial to the municipal anti -crisis strategy. During the years 
+in which Portug al was undergoing crisis and austerity  (circa 20 09-2014) , Mouraria managed 
+to take advantage of policies that elsewhere caused  displacement  (see Section 3). As of the 
+end of 2019, f our years into the economic recovery of Portugal, the panorama was radicall y 
+changed . While austerity wa s said to be over, and Lisbon to be  thriving thanks to tourism and 
+5 real estate  (see Section 4 ), Mouraria was experiencing a radical restructuring  of its socio -
+spatial  fabric  (see Section 5 ): on the one hand, processes described  by critical urban scholars 
+as gentrification , touristification  or ‘touris m gentrification ’; and, on the other, a 
+transformation of local politics, with a shift from public participation toward contentious  
+politics . 
+Keeping our theoretical goals in mind , we question the trajectory of change of Mouraria  
+– focusing on the intersection between hous ing and local politics – looking at two periods 
+that we characterise as the ‘crisis’ (2008 -2014) and ‘post -crisis’ (2015 -2019 ). Our 
+methodological approach is longitudinal case study analysis : we focus on two periods close  
+in time to foreground the factors  of change – see Tulumello (2016a) on how this strategy  
+allows  to ‘control’  for the context, allowing  theoris ation  on multi -scalar  causal determinants . 
+Following Flyvbjerg’s insights (2006) on case selection , we will show how Mouraria has 
+changed from bein g a ‘deviant’ to a ‘paradigmatic’ case. Deviant cases, where outputs of 
+processes are different from those expected, are particularly useful to problematise grand 
+theories: Mouraria, up until 2014, was deviant because  regeneration policies did not produce 
+the same pattern s of gentrification described  in other neighbourhoods  of Lisbon . 
+Paradigmatic cases, instead , ‘highlight  more general characteristics of the societies in 
+question’ (Flyvbjerg 2006: 232): we will show how Mouraria has  lately  become paradigma tic 
+of wider processes that are transforming cities throughout Southern Europe . 
+In operational terms, we take stock of , and repeat,  a study carried out  in Moura ria during 
+the ‘crisis’ period (Tulumello 2016b) and  based on Ley and Dobson’s systematisation (2008) 
+of the  (spatial, socio -political and policy)  factors capable of halting gentrification. We adopt 
+this strategy for three  reasons. First, b y repeating the same exercise for the ‘post -crisis’ period  
+and quest ioning why was Mouraria suddenly not capable of resisting external pressures  (see 
+6 Section 6) , we focus our attention on  the determinants for such a change.  Second , Ley and 
+Dobson’s framework helps  overcom ing the long -held divide among supply and demand 
+causes of gentrification (see Hamnett 1991); and , in so doing , opening up to questioning the  
+conceptual reach and explanatory power  of the concept in and of itself . Third, this  also allow s 
+us to put into the picture the political and institutional dimensions that variegate  global 
+processes in local contexts, therefore overcoming the problem, emphasised by Maloutas 
+(2012; 2018) , of fetishi sing gentrification and similar process es. 
+ 
+Methodology  
+ 
+Our reconstruction of the ‘crisis’ period  is based  on a previous work  based on  data 
+collected until December 2014 (Tulumello 2016b) . That article used case study research  – 
+using  evidences from policy document analysis, interviews with policymakers and 
+descri ptive statistical analyses (mostly from census data) – to analyse urban regeneration 
+policies and  their effects in Mouraria . We integrate Tulumello’s findings with systematic 
+literature review (see below).  
+We similarly  reconstruct ed the ‘post -crisis’ perio d using  case study research  and 
+triangulat ing mixed methods and sources of evidence, collected for ongoing projects  on 
+housing and participatory policies  in Mouraria and Lisbon  (see funding details ): 
+ 
+• Descriptive a nalysis of statistic  data to account for real estate and demographic processes. 
+A systematic comparison with  data available  for the ‘crisis’ period was impossible.  While 
+previous studies could rely on the 2011 national census , the next one will be carried out 
+in 2021. Though some data at the civil parish level (sub -municipal) are made available by 
+7 the Nat ional Institute for Statistics , the administrative reform approved in 2012 has 
+included Mouraria in a wider parish (Santa Maria Maior), which includes several other 
+neighbourhoods ( e.g. Baixa, Chiado, Castelo and Alfama).  The real -estate and 
+demographic trajectories of the latter  neighbourhood s are quite  different from those of 
+Mouraria , as processes described as gentrification and touristification predate those we 
+analyse in this article – this being the main  reason that  made Mouraria a ‘deviant case’ as 
+of late 2014  (Tulumello  2016b) . Data about the Santa Maria Maior  parish cannot  therefore  
+be used as  a proxy for Mouraria . Hence , we employed s tatistical data (collect ed through 
+other sources , including reports and grey literature ) that  refer to the area of pre -reform  
+parish of Socorro, which roughly corresponds to the perimeter of Mouraria.  
+• Media and journalistic sources, and particularly: generalist newspapers (e.g. Público, 
+Diário de Notícias, Expresso ) to support the reconstruction of planning and urban 
+development; and neighbourhood magazine Rosa Maria  (founded in 2010 by local 
+associations, discontinued in 2016 and then relaunched in December 2018) to deepen our 
+understanding of the perception of the neighbourhood by local non -profit and social 
+entrepreneur sector.  
+• Participant observation during mobilisations for the right to the city ,1 useful to 
+complement the understanding of political trends a nd community organisation . 
+• Finally, we carried out a  systematic literature review2 on scientific texts about Mouraria 
+published during the ‘ post-crisis’ period (2015 -2019) . We collected  42 works, 
+characterised by a significant internal variety.3 As 21 works  use data collected during the 
+‘post -crisis’ period, while 21 use data collected during the ‘crisis’ period only (Table 1),  
+ 
+1 With Habita  – Association for the Right to Housing and to the City ( www.habita.info/ ). 
+2 During January  2020, we interrogated Google Scholar, Web of Science and Scopus with terms referring to the 
+neighbourhood and its main  public spaces (‘Mouraria’, ‘Intendente’, ‘Martim Moniz’) ; afterward tracking  each 
+text’s references and citations on Google Scholar  to look for other relevant work s. 
+3 Five languages  (Portuguese, English, French , Spanish  and German) and  several typologies: 20 articles, 1 2 
+masters’ dissertations, 1 PhD thesis, 4 book chapters, 1 monograph  and 4 conference papers  
+8 we were able to  compare  the two groups of works  to question whether our peers had 
+notice d the change s we describe. Beyond carrying o ut a qualitative thematic analysis, we 
+performed a text analysis over the titles and keywords of the two groups : findings are 
+represented in Figures 1 and 2, which show the network of terms co -occurring in the same 
+text (bigger nodes are recurrent words, a nd darker nodes means that the word has 
+connections with several other words).  
+ 
+Table 1. Works on Mouraria published between 2015  and 2019  
+Based on data from ‘crisis’ period (2008 -2014)  Use data from  ‘post -crisis’ period (2015 -2019 ) 
+Bettencourt and Castro 2015  
+Carmo and Estevens 2017  
+Corte -Real 2015a  
+Corte -Real 2016  
+Corte -Real and Gomes 2017  
+Estevens 2018  
+Estevens et al. 2019  
+Galhardo 2015  
+Galhardo 2019  
+Matias 2015  
+Mendes, Padilla, and Azevedo 2016  
+Menezes 2015  
+Menezes 2019  
+Oliveira 2015  
+Oliveira and Padilla 2017  
+Padilla 2015  
+Padilla and Gallardo 2015  
+Sanchez 2015  
+Sanchez 2017  
+Silva and Maia 2017  
+Xavier and Almeida 2017  Almeida 2016  
+Bernardo 2016  
+Cardoso  TB 2017  
+Corte -Real 2015b  
+Ferreira 2016  
+Galhardo 2018  
+Gomes 2020* 
+Hortas 2016  
+Krähmer 2017  
+Lopes 2017  
+Mandoux 2019  
+Moya 2019  
+Moya and Batista 2016  
+Muselaers 2017  
+Oliveira 2019  
+Pellitero 2017  
+Ribeiro 2016  
+Santos, Ramalhete, and Soares 2017  
+Santos et al. 2016  
+Santos et al. 2017  
+Viana  2017  
+* Included in the review because published ahead of print on 10 January 2019.  
+ 
+ 
+ 
+ 
+9 FIGURES 1 AND 2 ABOUT HERE  
+Figure 1: Text analysis over titles and keywords of works on Mouraria  based on data 
+from ‘crisis’ period, 2008 -2014 (our elaboration).  
+Figure 2. Text analysis over titles and keywords of works on Mouraria that use also  data 
+from the ‘post -crisis’ period, 2015 -2019 (our elaboration).  
+ 
+2. From t ravelling  concepts  to articulation  
+ 
+Gentrification is  a ‘travelling concept’  (Maloutas 2018) . Originally developed to explain  
+influx of gentries and displacement  of wor king class es in late 20th century  British and North -
+American cities , gentrification  has been, in the new century, used  in critical acc ounts of urban 
+change worldwide . Some argue it is an inter -contextual, global or planetary, concept (e.g. 
+Atkinson and Br idge 2005; Le es et al. 2016) . 
+While  its global  nature  was becoming  mainst ream in cri tical urban studies,  Maloutas 
+argued  that gentrification  is a typical example of mid -range concept s, which are  ‘highly 
+dependent on contextual causality . […]  Looking for gentrification in increasingly varied 
+contexts displaces emphasis from causal mechanisms and processes to similarities  in 
+outcomes across contexts and leads to a loss of analytical rigour’ ( 2012: 34). Contextual 
+problems can be overcome, Maloutas added  (2018 ), only by adopting minimalistic 
+definitions  – e.g. the compresence of capital investment, inflow of wealthier groups and 
+expulsion of lower classes ( see Clark 2005)  –, therefore glossing over t he social , spatial and 
+policy characters that shaped  gentrification in cities like London, Chicago or New York . This 
+brings the risk  of falling in to the ‘theoretical banality’ (Maloutas  2018: 255) of concluding 
+that, in capitalist societies, wealthier groups have more power to decide where they want to 
+10 live. This conclusion, beyond lacking explanatory  power, has scarce strategic use, as it erases  
+those contextual characters that have slo wed down, or even halted, gentrification in several 
+places , including  Southern European cities  (Maloutas 2018 ). 
+Southern Europe is  an interesting case to further this discussion : its cities , where 
+gentrification was  once considered to be  marginal or absent  (e.g. Malheir os et al. 2013; 
+Tulumello 2016b ), have become central to  critical literature  on gentrification in the  aftermath 
+of the economic crisis  and during the following economic rebound  (e.g. Sequera and 
+Janoschka 2015; Annunziata and Lees 2016; Alexa ndri, 2018) . Concurrently, once at the 
+‘borderlands’ of urban theory (Baptista 2013; Tulumello 2016b), Southern Europe  has 
+become  a context of theoretical development . Observing  that t ourism -induced change (above 
+all, the flipping of residential into short -term rental units) often had a bigger role than  the 
+substituti on of lower for higher classes,  some Southern European scholars have stretch ed the 
+concept , suggesting that t ourism  is a new  ‘battleground’ (Cocola -Gant 2016) or stage for 
+‘symbolic violen ce’ (Ma nsilla, 2018) of gentrification. In his research in Lisbon, Mendes 
+(2017) adopted, and extended,  the concept of  ‘tourism gentrification’ coined by Kevin Fox 
+Gotham  in New Orleans  (2005). Mendes define d tourism gentrification as:  
+ 
+the transformation of working -class and historical neighbourhoods of the urban centre into 
+places for consumption and tourism, by way of expansion of the functions of amusement, 
+leisure and tourist ic rental (including, e.g., holiday and short -term rentals), which progressive ly 
+replace the traditional functions of residential housing, long -term rental and proximity retail, 
+thus worsening [processes of] displacement and residential segregation, emptying 
+neighbourhood of their original populations or making  it impossible to  low-income groups 
+access ing housing in those areas (2017: 491; our translation).  
+11  
+Mendes  further  widen ed gentrification by stripping  Clark’s  definition of the inflow of 
+wealthier groups. This simplification has gone hand in hand with the conflation with yet 
+another concept, financialisation ( see Mendes and Jara 2018) , already applied in  ‘semi -
+peripheral’  Southern European contexts (Rodrigues e t al. 2016) and imported into urban 
+studies  during the last decade or so  (see Aalbers 2019 a for a review ). Defined as the use of 
+real estate as asset through various financial instruments , financialisation  is a more abstract 
+concept tha n gentrification. Scholars  like Loretta Lees and colleagues  (2008) or Aalbers  
+(2019 b) have attempted at uniting gentrification and financialisation, by arguing that the 
+latter explains  the investment dimension in so -called fourth and fifth waves,4 which deepen ed 
+and expand ed gentrification through new instruments (e.g. platform economy).  
+These conceptual gesture s have contributed to show  how local  processe s are increasingly 
+embedded in  global (financial) flows: Maloutas  himself  and his colleagues  have recently 
+suggested  that short -term rental platforms may be making gentrifiable the once ungentrifiable 
+Athens (Balampanidis et al. 2019: 14 -15). And yet, conflat ing concepts with such different 
+nature ( some  context -bound , some  more abstract) reproduces the problems  previously 
+highlighted by Maloutas.  Once stripped of the gentr y, as in touristification and urban change  
+driven by financialisation, what is left of gentrification? This problem was explicitly, if 
+paradoxically,  acknowledged in recent studies from  Lisbon that describe d a ‘gentrification 
+without gentry’ (Krähmer 2017; Krähmer and Santangelo 2018). And yet, what is the point 
+ 
+4 Hackworth and Smith (2001) discussed three historical ‘waves’ of gentrification in Anglophone countries, 
+characterised by changing patterns and modes  – from sporadic gentrification, to its anchoring, and then its 
+return, with increasing role of large -scale capital and state policies. The fourth wave, theorised by Lees and her 
+colleagues (2008), is characterised by a deepening of financialisation and pr o-gentrification policies. Finally, 
+in the fifth wave finance has become the central actor, replacing the state in the process (Aalbers 2019b: 2).  
+12 of using gentrification in absence of gentr y, when the concepts of investment (for tourism, 
+speculation or whatnot)  and displacement  are at hand?  
+Sequera and Nofre (2018)  contributed  to th is debate by  theoretically  criticis ing the 
+incorporation of touristification within the gentrification framework . Gentrification and 
+touristification entail diff erent processes : different groups are displaced (working classes vs. 
+cross -class displacement), demographic trends are quite opposite (replacement vs. 
+depopulation) ; the property structure is different (homeownersh ip vs. real estate investment); 
+and the actors involved in  the two businesses often  have conflictual interests  (e.g. early 
+‘gentrifiers’ often become anti -touristification activists) . Sequera and Nofre therefore  
+advocated ‘de -linking’ touristification and gentrification.  Thus they did in a follow -up article 
+(Sequ era and Nofre 2019) based on research made in historical Alfama neighbourhood in 
+Lisbon:  there , touristification – accelerated  by short -term rental  since  2016/2017 – 
+interrupted pre-existing  processes of marginal gentrification and studentification. Different 
+are the results of Lopez -Gay and his colleagues’ study (2020)  on Barcelona  made form the 
+perspective of international mobility . There,  ‘floating’ European and North -American 
+populations  have creat ed territorial enclaves in the touristified centre of Ba rcelona , showing 
+that touristification and  – specific forms of – gentrification can coexist in (Southern 
+European ) historical centres.  
+Notwithstanding the empirical specificities that  partially  explain these different 
+conclusions – Lisbon and Barcelona are in very different stages of the processes here 
+described –, these  studies provide us with important, complementary conceptual reminders: 
+Sequera and Nofre (2018; 2019) are convincing in their critique of the conceptual unification 
+of gentrification  and touristification; while  Lopez -Gay and colleagues  (2020), by showing a 
+13 case of coexistence, warn us that we cannot ultimately de -link them . How to get out  of this 
+(apparent) paradox?  
+Since  the pro blem is with levels of abstraction and  conceptual  travel (see above), Stuart 
+Hall’s discussion  (1986: 7)  of modes of conceptualisation in Gramscian Marxism  can help 
+us. Hall reminded us that ‘ concepts can operate at very different levels of abstraction ’, but 
+that levels of abstraction should not be  ‘misread’ for  one another. As we have seen, concepts 
+like gentrification and touristification – born as quite concrete ones – have been forced to 
+take higher level of abstraction  to fit to  a variety of  different contexts . In the process  they 
+have been  extremely simplified ; and, when used at the local level, their (now higher) level of 
+abstraction has often been misread, making then  ultimately less analytically  (and 
+strategically) powerful. The challenge  is to make  these concept s travel without giving up  
+their concreteness.  Our proposal is to use them  through the lenses  of articulation , as it was 
+developed in Laclau and Mouffe’s discourse theory (1985). Articulation  is ‘any practice 
+establishing a relation among elements such that their identity is modified’ (Laclau and 
+Mouffe 1985: 105).  Developed to explain the construction of (discursive) forms of 
+hegemony, articulation allows to take ‘a middle position between st ructure and agency’ (De 
+Cleen and Stavrakakis 2017, 305), thus helping mediating between multi -scalar determinants 
+of change like transnational capital flows and local politics.  
+We argue that articulation is particularly adequate to connect  local dynamics  of change  
+with mid -range concepts like gentrification and touristification, and the relations between the 
+latter and an intermediate concept like financialisation.  In what follows, we will  provide 
+empirical substance to this claim  by focusing on the case o f Mouraria, its multi -scalar links 
+with Southern European phenomena , and these latter context’s wider  transformations . 
+ 
+14 3. Regeneration and local development: when Mouraria was a ‘deviant’ case  
+ 
+Mouraria is a historical neighbourhoo d in central Lisbon, cha racteris ed by significant 
+social diversity. Its spatial fabric , typical of Arabic urbanism,  is a maze of narrow alleys on 
+the slopes of two hills, with generous public spaces (Almirante Reis avenue and Martim 
+Moniz s quare) located on its western fringe. Th e neighbourhood has long been  a frontier -
+land, in -between the touristic neighbourhoods  of Baixa  and Castelo , and the residential Anjos  
+and Graça . Mouraria was one of those neighbourhoods that abound in Southern European 
+centres, where migrant populations could find  a ‘backdoor to the city’ (Malheiros 2010); 
+decades of institutional disinvestment have gone hand in hand with discourses about ‘decay’; 
+and, recentl y, regeneration  discourses and policies abounded . 
+In 2008,  the socialist municipal government ma de Mouraria the flagship of its 
+regenera tion strategy, mobilising  a number of programmes (Tulumello 2016b: Table A2) . 
+Requirements for refurbishment were simpli fied, municipally -owned dwellings were  sold to 
+boost private real estate and construction investment. The strategy for local development was 
+shaped around three pillars: public space  refurbishment ; stimulus to entrepreneurship and 
+tourism ; and improvement of services for vulnerable populations. While the economic crisis 
+hit Portugal (in 2009 ) and the country reques ted a financial bailout (in 2011 ), negotiating 
+deep austerity measures, the regeneration agenda became, together with the attraction of 
+tourism a nd international investment, the central feature of local  anti-crisis policies  (Seixas 
+et al. 2016) , further increasing the symbolic importance of Mouraria for the municipal  
+government. According to  several  authors (e.g. Corte -Real 2015; Tulumello 2016b; Carmo 
+and Estevens 2017 ), the regeneration strategy w as typical of neoliberal policymaking : 
+disproportionate investment on entrepreneurship and tourism when compared to social 
+15 cohesion polic ies; absence of p ublic housing policies ; focus on concepts like capacity 
+building, activation, partnership, participation and empowerment  – on neoliberal co -optation 
+of the participation agenda, see Mi raftab (2004) and Falanga (2018 ); and branding of cultural 
+activiti es (especially  Fado music) . 
+And yet, while  regeneration policies were fostering  gentrification and touristification in 
+other  neighbourhoods in central Lisbon (Mendes 2013; Nofre 2013), Mouraria walked a  
+different  path. Up until late 2014, real estate prices  were not growing , or were growing slower 
+than in other parts of  central  Lisbon  (Tulumello 2016b: 129 -132); and  the influx of young 
+households  with relatively low economic and relatively high cultural capital was not causing  
+displacement – rather , new and old residents were  creating networks crucial for local 
+development (Malheiros et al. 2013 ; Tulumello 2016b) . Indeed , studies  about the ‘crisis ’ 
+period (see Figure 1) are dominated by discussions about Mouraria’s ‘super -diversity’, 
+heritage and culture, and their role in  urban change and development (e.g. Bettencourt and 
+Castro 2015; Galhardo 2015 , 2019 ; Menezes 2015; Oliveira 2015;  Padilla 2015;  Padilla and 
+Gallardo 2015; Mendes, Padilla, and Azevedo 2016; Oliveira and Padilla 2017).  
+Mouraria was interpreted  as a space of negotiation  and conflict  between , on the one hand, 
+an institutional action driven by neoliberal ideas , and, on the other, a ‘dense’  social fabric  
+capable of organising on the grounds of its own socio -cultural diversity (Tulumello 2016b; 
+see also Carmo and Estevens 2017): the latter, Tulumello argued (2016b), was being able to 
+take advantage of  the contradictions and ambiguities of neoliberal urban policies to undergo 
+a path of local development. However, the question remained open ‘whether current trends 
+[would] consolidate in local development, increased diversity, and social cohesion – or turn 
+toward advanced stages of gentrification’ ( 2016b : 132).  
+16 Granted, signals existed of the ambiguity of ongoing processes, as exemplified by an 
+episode in 2012, when the president of the republic visited the regeneration works in 
+Mouraria. Activists from  cultural alternative centre dA Barbuda denounced that local drug 
+dealers cooperated with the presidential security detail to maintain order; and afterwards 
+threatened the activists, who had organised a protest (Largo da Severa N8 2012). The end of 
+the activi ties of the collective – described by politicians and tourist guides as ‘a bunch of 
+anarchists’ (Ropio 2012) – and the eviction, in May 2012, of another  squat (Casa de S. 
+Lázaro ), together with the clearance of graffiti and other ‘signs of dissent’, someho w 
+anticipated the future path of the neighbourhood. While leaving the place, the collectives 
+wrote a premonitory letter, arguing that ‘the people that are now expelling us [the drug 
+dealers and long -term residents more generally] are likely to be those tha t will be expelled in 
+turn by the process of “city cleansing”’ (Largo da Severa N8, 2012). But things would only 
+accelerate once processes starting in different places abruptly change d the context, in 
+Portugal and Lisbon – and to those processes we shall n ow turn.  
+ 
+4. ‘Post-austerity’ in Portugal and Lisbon ? 
+ 
+2015 was a year of sea changes  for Portugal. Despite the  conclusion of the bailout  and the 
+return to economic growth, the social impacts of austerity had eroded the support to the 
+centre -right government. November 2015 elections brought to power an unprecedented 
+coalition made up of the centre -left Socialist Party, and left -wing Communist Party and Left 
+Block, in support of a socialist government. The  new majority’s  discourse was 
+straightforward: it was time to turn the page of austerity . Some of the measures approved 
+during previous years, including  cuts to wages of public employees, tax increases and cuts to 
+17 allowances , have been reverted (Fernandes et al.  2018) ; and  the minimum -wage was 
+repeatedly increased.  Amid a favourable external environment, economic growth was driven 
+by export ation s, especially tourism , and then by the stimulus to domestic consumption due 
+to the easing  of austerity measures ( Teles 2018 ). This also proved pos itive for national 
+finances, with deficit plummeting. Soon, progressive commentators found  in Portugal  the 
+proof that an ‘alternative to austerity’ exist ed (Jones  2017; Alderman 20 18), while  a global 
+hype was building around Lisbon, now described as the ‘c oolest capital in Europe’  (Dunlop 
+2017 ). 
+There are , however,  reasons to be sceptical of th is narrative: housing is an excellent entry 
+point to expose  the ambiguous nature of the  ‘post -austerity’ age.  During the crisis , the 
+national government  approved , under request of international lenders, a number of measures 
+to liberalis e housing and real estate : a reform of spatial planning  (Law 31/2014 and Decree -
+Law 80/2015)  made real estate operations easier  (Tulumello et al. 2020 : 77; see EC 2012 : 
+78); a reform of the urban lease regime  (Law 31/2012)  eased the termination of rental 
+contracts ( Cardoso  2019 : 85; see EC 2011 : 87-88); and an extraordinary regime for 
+refurbishment  operations  (Decree -Law 53/2014) allowed for exceptions from building 
+regulations (see EC 2011 : 88). Additionally,  a Golden Visa scheme  (Law 29/2012)  was 
+approved to  grant access to the Schengen area when investing  in real estate .5 As tourism  
+boom ed in Portugal  – international arrivals increased 1 50% between 2009 and 20186 – and 
+in Lisbon, disruptive  effect s on the real estate  market are evident for instance in the boom of 
+ 
+5 Though the  scheme concedes authorisation of residence for other forms of investment, including capital 
+investment for job creation, 94% of authorisations (7, 735 out of  8,207) were conceded to investors in real estate 
+as of 2019 (Agência Lusa 2020) . 
+6 World Bank data (see https://data.worldbank .org/indicator/ST.INT.ARVL ). 
+18 short -term rentals.7 The hype surrounding Lisbon br ought  in town other groups with 
+purchasing power higher  than local residents ’: European pensioners  attracted by Portugal’s 
+good weather and fiscal incentives , international students  (see JLL and Uniplaces 201 9), and 
+‘digital nomads’ and startuppers – a field in which the municipality has  invested heavily.8 
+Investments eased by the reforms and growing international  demand have pushed real estate 
+prices  to the sky , with double digit s yearly grow ths almost everywhere in the city.  As a result, 
+more and more groups are being displaced  away fr om central areas , prompting local critical 
+researchers to us e the concepts of gentrification , touristification  and financialisation  (see 
+Section 2 ). 
+This scenario forced  housing into the core of the  political agenda . As the nati onal 
+government acknowledged the need of policy intervention  in 2017 , a newly appointed  
+Secretary of State for Housing ha s work ed on a number of measures to stimul ate long -term 
+affordable rentals ( included in the New Generation of Public Housing).9 Howeve r, the Prime 
+Minister and the Secretary of State repeatedly claimed that they ha d no intention to revert the 
+liberalisation of the housing market, and, indeed, none of the measures approved during the 
+austerity years has been abolished or substantially reformed  (Tulumello, 2019 a). Some  
+mitigation measure s have been undertaken : an act provid ing temporary suspension of 
+evictions of long-term tenant s in vulnerable conditions ( poor elderl ies or disabled  people ; 
+Law 30/2018 ) and a provision allowing  municipalities to put caps on short -term rentals (Law 
+62/2018 ; see Section 6 on its weak implementation in Lisbon ). 
+ 
+7 In Lisbon, 630 short -term rentals had been registered before the approval, in August 2014, of the new legal 
+regime (Decree -Law 128/2014) , which liberalised the market by equalising short -term rental to residential use. 
+From t hat date to the end of 2019, 18,447 more units have been registered, a 30 -fold increase. Data Turismo de 
+Portugal, available at https://registos.turismodeportugal.pt/HomePage.aspx . 
+8 See www.startuplisboa.com/ . 
+9 See www.portaldahabitacao.pt/pt/portal/habitacao/npgh.html . 
+19 In short, the field of housing give s us good reasons to be sceptical of the trumpeted ‘end’ 
+of austerity. This is confirmed by commentators  from quite different backgrounds – in left-
+wing magazines (Príncipe 2018; Teles 2018) and politic al science journals  alike  (Fernandes 
+et al. 2018) – who have argued  that not much had changed also in fields such health, 
+education, university, public transp ort, with investment stagnating or f urther plummet ing. 
+Real estate and tourism ha ve contributed to  foster ing that very economic growth that allowed 
+the government to revert some austerity measures while keeping a strict monetaris m – 
+achieving a superavit  in 2019 national budget. In this sense, the unwillingness to revert  
+previous  liberalisation measures  may be due to the fear of killing the ‘goose that laid the 
+golden egg’.  
+Austerity may have been eased,10 but this happened at the same time as austerity w as 
+becoming even more entrenched into the institu tional fabric (Tulumello 2019b). This has 
+been quite clear to social movements for the right to  housing, which have been growing in 
+intensity and conflictuality  at an unprecedented pace during the years of t he ‘post -crisis’  (Di 
+Giovanni 2019; Falanga  et al.  2019; Tulumello 2019b ; Accornero and Pinto 2020 ) – and, as 
+we will see below, this is mirrored in political transformations in Mouraria.  
+ 
+5. MourAirBnb: Mouraria become s ‘paradigmatic’  
+ 
+Rosa Maria  understo od that things were about  to change in 2015.  While , until then, the 
+local magazine was follow ing regeneration policies  with optimism , emphasising how local 
+associations had been capable of protecting vulnerable actors (see Tulumello 2016b: 129), 
+ 
+10 We use ‘may’ because the question remains open as to whether skyrocketing housing prices may have 
+counterbalanced  the benefits of the fall of unemployment and slight increases of wages.  
+20 articles  started to  raise concerns about gentrification  and speculation ( Lino 2015; Moura 
+2015) . In what follows, we trace the changes in the f ield of real estate and housing; and then 
+discuss political dynamics  (with  focus on the engagement in participatory policies and 
+contentious politics ), a crucial dimension of the local capacity to resist gentrification during 
+the ‘crisis’ period (cf. Tulum ello 2016b) . 
+ 
+Real estate and housing dynamics  
+ 
+Rosa Maria ’s concerns were confirmed as the neighbourhood bec ame the target for high-
+end real estate operations  (Pellitero 2017: 3 ; Quaternaire Portugal 2017: 140 -143). Among 
+these, AMouraria , advertised as ‘the only gated community with a huge garden, pool and 
+parking in the historic centre of Lisbon’ (apud Alemão 2017) , and characterised by 
+problematic issues, above all the authorisation given to build over an area appointed  by 
+planning instruments  to be a green public space (Alemão 2017 ). 
+Even more than by large  operations, the built environment has been reshaped  by tourism  
+– which has become a central topic in works about Mouraria during the ‘post -crisis’ period  
+(Figure 2 ; see especially Krähmer 2017; Lopes 2017; Muselaers 2017 ; Mandoux 2019 ) – and 
+particularly  short -term rental  (Figure 3) . Quaternaire Portugal (2017: 144) found that in the 
+area surrounding Olarias street short -term rental units were a few in 2013 and about 60 (or, 
+about 10% of the total stock) as of 2017.11 As of August 2019 , we found 454 active rentals 
+in AirBnb  and Home Away  (386 of which entire homes) , and 65 listings on Uniplaces, a 
+ 
+11 Part of t his growth may be  due to regulari sation s following the  creation of the legal regime of short -term 
+rentals in 2014 .  
+21 platform for student housing ,12 cumulatively more than 20% of the total stock .13 In the same 
+day we performed that  search,  we were able to find 10 apartments available for rent.14 Though 
+these data do not provide  conclusive evidence on the causal role of short -term on the 
+shrinking of l ong-term rental  – but see Cocola -Gant and Gago (2019 a) on this causal nexus 
+in close neighbourhood Alfama –, they are indicative of the status of the real estate market . 
+That intense speculative processes were  ongoing is made clear by the  fact that 470 apartment  
+transactions  were  registered between  the second quarter  of 2018  and the first of 2019 ,15 
+meaning that roughly  20% of the housing stock changed hands in just few months . 
+Unsurprisingly, prices have skyrocketed: while as of late 2014 housing prices were 
+significantly lower than in Lisbon,16 in the last quarter of 2019 the square meter was sold for 
+a median value of 3, 646 euros, that is, 14% more than the municipal average.17 
+ 
+FIGURE 3 ABOUT HERE  
+Figure 3. Hotels (red) and short -term rental facilities (black) registered in the centre of 
+Lisbon and Mouraria in 2018 (adapted from CML 2018: map 10).  
+ 
+These transformations were deeply felt by  local residents, in a social fabric characterised 
+by groups  with mid to low economic capital:  elderlies, low -income households and 
+ 
+12 Socorro  old parish area. Data : Market Minder by AirDna (available at www.airdna.co/ ); Uniplaces search 
+engine ( www.uniplaces.com/ ).  
+13 In Socorro parish, there were 2,091 flats in 2011  (data  national census , available at  www.ine.pt ). Due to 
+renewals and refurbishments, numbers are likely to be  slightly  higher at the present day.  
+14 We searched available listings on the ma jor websites for housing rental  (Imovirtual, Casa Sapo , Idealista and 
+Remax ), removing duplicates . 
+15 Data National Statistical Institute (see https://geohab.ine.pt/ ). 
+16 Rents in Mouraria costed about 83 % of the municipal average, while the average expenditure for mortg age 
+payment was about 70%  of the municipal average (our elaboration from Tulumello 2016b: Table 2).  
+17 Data National Statistical Institute (see https://geohab.ine.pt/ ) referent to 94 sales  – and not available before 
+2018 .  
+22 immigrants , but also younger newcomers  (Tulumello 2016b: Table 1).  Though statistical data 
+about evictions and rental contracts not renovated are not produced  at the local scale ,18 an 
+ethnographic account has  pictured displacement in Mouraria  (Muselaers 2017: 41) , 
+suggesting  that especially younger residents are being forced to leave the neighbourhood, 
+while some elderly households have been protected by specific provisions.  Indeed, we know 
+that this is not the case for young households only, as Habita – Association for the R ight to 
+Housing, which organises households  at risk of displacement, has seen since 2017 an 
+exponential growth of requests for help, including many elderly households from Mouraria.  
+Although for a complete picture of demographic processes we will have to wait until the 
+2021 census, real estate trends seem to be implying that the regeneration of the 
+neighbourhood is not bringing about the long -desired repopulation of Mouraria.  The best 
+quantitative picture available is provided by the  swift acceleration , since 2015 , of the  long-
+term loss of registered voters in the old Socorro parish area (Quaternaire Portugal 2017: 67).  
+For a qualitative perspective, we can mention a  local activist who noted  that many flats have 
+been bought by foreign individuals , who  took advantage of the fiscal incentives of the Non -
+permanent Resident Scheme, but often do not even reside in the neighbourhood for the six 
+months a year they are supposed to: ‘we wanted to rehabilitate to not have an empty 
+neighbourhood and now that we reh abilitate we have an empty neighbourhood all the same’ 
+(interviewed in Krähmer 2017: 54 ; see also Lança and Paula 2019) . 
+ 
+ 
+ 
+ 
+18 National level data show a steep growth of evictions in 2014, 2015, 2016 and 2017, and a decrease in 2018 
+(Neto 2019) . 
+23 Local politics, from participatory to contentious politics  
+ 
+Since 2007, Lisbon has  been  building an ‘incomplete system’ of participa tion by invitation  
+(Allegretti and Spada 2016 ).19 Mouraria – one of Lisbon’s  67 Priority Intervention Areas – 
+has been particularly active in  two programmes: the participatory budgeting  (PB)  and the 
+BIP-ZIP programme .20 
+In the two periods we are considerin g, Mouraria’s engagement adapted to the changing 
+context and  evolution of the  city’s approach . As previously discussed (Section 3), during the  
+years of  ‘crisis ’ the local community  maintain ed an intense level of participation to the 
+transformations of their neighbourhood. This allowed a neighbourhood hardly representing  
+0.5% of municipal  population to  conquer  22.8% of the resources distributed by the PB and 
+2.3% of the funds provided by BIP -ZIP from  2011 to 201 4.21 Many proposals, in th e ‘crisis’  
+period, were for ‘hard’ investments (a kindergarten, refurbishment  of public spaces and 
+buildings, refurbishment  of markets, an escalator ), but the winners were often immaterial 
+proposals, aimed at valuing welfare and social cohesion, promoting cultural identity and 
+multiculturalism, or innovation centres for improving access to health and employment, and 
+capacit y-building for local organis ations . At th at time, strategies like street meetings before 
+the voting of PB helped to concentrate local voting on fe w priorities . Several  works in our 
+review agree that the capacity of local actors to organise and attract participatory funds was 
+ 
+19 The first EU capital to launch  a municipal  participatory budgeting (PB) with co -decisional nature,  Lisbon 
+affected  the Portuguese panorama of PBs . With the transition of António Costa from mayor of Lisbon to Prime 
+Minister, Portugal has been among  the first countries to experiment PB at national level.  
+20 The latter – impleme nted yearly since 2011 – funds with up to 50,000 euros  local partnerships between parish 
+governments, informal groups and other stakeholders, to regenerate and improve the quality of life in 67 ‘critical 
+areas’ (see www.bipzip.cm -lisboa. pt). See Falanga (2019) for an overview.  
+21 Our elaboration of municipal data (see www.bipzip.cm -lisboa.pt ; www.lisboaparticipa.pt ) and Falanga 
+(2019).  
+24 crucial for local development during the ‘crisis’ period ( Padilla 2015; Tulumello 2016b; 
+Oliveira and Padilla 2017; Silva and Maia 2017; Xavier and  Almeida 2017) .22 
+Institutional changes since  2013 – reduced  resources , rules for funding small er projects  in 
+the PB (Allegretti and Antunes 2014; Allegretti, Dias and Antunes 2016) , changes in the 
+rules of BIP -ZIP23 – pushed Mouraria’s inhabitants and act ors to change their attitudes, and 
+their expansive contribution to participatory processes left room to a phase of small -scale 
+adjustments. The number of p roposals  plummeted – 43 were submitted to the two programs 
+until 2014, a dozen from 2015 to 2018 – and started changing,  with the domination of  green 
+spaces and gardens, fairs, cultural events and street cleaning. In time, the capacity of 
+mobilising locals for conquering funds was reduced , possibly an effect of the displacement 
+of inhabitants and  more gen erally a signal of shrinking  social  cohesion . At this point,  the 
+pocket -money distributed by participatory processes was just a drop in the sea of hard 
+investments on the area, and could cover, at most, small complementary actions for 
+improving the quality  of daily routine and the aesthetics of heavily refurbished spaces.24 This 
+possibly explains why, starting in 2014, several organi sations based in Mouraria 
+disseminated their presence as partners in 14 BIP -ZIP proposals for other areas, searching 
+for allia nces that could look beyond the physical limits of their neighbourhood.  
+While  participatory programmes were becoming less central to local development , 
+increasing city -wide conflictuality in the field of housing  reverberated in Mouraria . The most 
+relevant  episode  was the success  of the  mobilisation launched during the summer of 2017 in 
+ 
+22 Corte -Real (2015a; 2016) claims that local residents were not involved in the participatory processes, but 
+then admits that ‘new residents’ were involved, a dichotomy that glosses over the importance of new inhabitants 
+in the local development Mouraria ex perienced during the ‘crisis’ period (see Section 3).  
+23 For example, only entities rooted in the neighbourhood could submit bids  originally , while lately the 
+programme has been opened to external actors (Ribeiro 2016).  
+24 In 2018, the three projects presented to the BIP -ZIP programme concerned immaterial investments (youth 
+capacitation, waste management and composting).  
+25 defence of 16 households at risk of eviction because their landlord had sold the dwelling, 
+located in Lagares street, to a company that intended to flip it into luxu ry or short -term 
+rentals.25 The households  – and particularly the women – having  received a letter inform ing 
+that their contracts would not be renovated, decided to  organise  with the support of Habita 
+and other groups and individuals. Taking advantage of t he ongoing  campaign for the 
+municipal elections , which was building up around housing issues, the mobilisation 
+pressure d the municipality to either force the landlords to come to a deal or rehouse the 
+families inside  the neighbourhood.  A first protest, org anised during the festivities of the 
+patron of Lisbon, was p articipated by a couple hundred  persons, with a mix of long -term 
+resident s, new residents and activists from  groups like Habita or Stop Despejos.  Eventually, 
+the municipality stepped in and negoti ated with  the landlord t he renovat ion of  the contract 
+for five years  in exchange for expediting the decision on another development  (Pincha 2017) . 
+Granted,  the output wa s only a temporary halt to the eviction, and in many other cases – 
+which we knew because of our participation in the activities of Habita – residents did not 
+have the possibility or will to organise similar mobilisations. However, this process is worth 
+mentioning  for two reasons. First, because it saw the political empowerment of the women 
+that led the struggle (on the gendered dimensions of housing politics  in Lisbon , see 
+Hernandez 2018 ). And, second, considering a multi -scalar perspective, this  episode was part 
+and parcel of the building up of wider social movements for the right to housing  (see Section 
+4), for instance in the participation of the women of Lagares street to the  Caravan for the 
+Right to Housing, which travelled Portugal  in September 2017  to create  networks of 
+solidarity among struggles (Falanga et al. 2019) . 
+ 
+25 See a short movie by Left Hand Rotation , at https://vimeo. com/228956761 . 
+26 Another relevant case is that of Martim Moniz square, which has been during the last 
+couple of decades repeatedly transformed by the municipality in partnership with private 
+developers  (Gomes 2 020). The latest project , for a large leisure and retail development, was 
+announced without going  through the consultation mechanisms usually in place for 
+transformations of public spaces, generat ing a wave of protests  in early 2019 . A coalition of 
+local a nd non -local actors advocated the construction of a garden to contribute to the well -
+being of neighbouring areas and the municipal  sustainability strategy; and was successful in 
+putting a halt to the project, which is now being reconsidered by the municipa lity.26 
+In short , though limited and characterised by relatively fragile networks between residents 
+and activ ists, th ese episode s testif y the opening of the local social fabric to a more contentious 
+approach to politics and to a wider scale of struggle, city-wide  and indeed national.  
+ 
+6. Explaining the change: d iscussion  
+ 
+We have seen how  ‘deviant’ Mouraria suddenly became unable to partic ipate in, and even 
+take advantage of, the neoliberal regeneration policies favoured by the local government  –
+moving to building up resistance to increasing forces of displacement ; and that the reasons 
+for this shift  are multifactorial and located in proces ses at several levels – from chang ing 
+municipal participatory policies , all the way to European pressures for reform under  austerity.  
+Consequently, we can now question the factors of change, by  repeat ing the exercise 
+previously carried out to explain why local development in the ‘crisis’ period was not 
+producing displacement  (Tulumello 2016b) , using the three categories of factors capable of 
+ 
+26 See www.jardimartimoniz.pt . 
+27 halting gentrification (spatial, socio -political, policy) systematis ed by Ley and Dobson 
+(2008) . 
+First, let us consider  spatial characteristics and the supply of property  that may appeal  
+investors . With  Mouraria  being  located  in a perfect location for property development  next 
+to many amenities , a limit to gentrification was guaranteed by its Arabic spatial fabric, which 
+reduces  room for high -end housing and facilities like parking or green areas. This has 
+changed, in part, as big developments like AMouraria are restructuring the built environment 
+and the municipality has been refurbishing public space s with the goal of dematerialising the 
+spatial disadvantages of the neighbourhood  (see DN/Lusa 2018) . Maybe more importantly , 
+tourism  has made the  spatial disadvantage a competitive advantage : tourists are happy to 
+experience living in a ‘typical’ neighbourhood with narrow and steep streets; and the small 
+apartments of Mouraria are perfect for short -term rental.  
+Second, Ley and Dobson (2008) consider the social composition  and capacity for 
+mobil isation.  While in the ‘crisis’ period  Mouraria’s diversity and associative fabric had been 
+decisive for a type of social mobilisation capable of taking advantage of existing policies, 
+especially participatory ones; the same actors have found it harder to organise  once external 
+capital has become the first driver of urban change. At the same time , the ‘super -diversity’  
+of the neighbourhood (Padilla and Gallardo 2015; Tulumello 2016b; Oliveira and Padilla 
+2017)  is part and parcel of  the recent , if yet far fr om consolidated,  emergence of contentious 
+politics – for instance, the collaboration of Portuguese and Nepalese women with foreign 
+students and Portuguese activists in Lagares street. This topic deserve s further exploration, 
+as one could speculate that the  recent growth in, and new forms of, mobilisation may be 
+influenced by the influx , in central urban areas,  of educated and politicised youths , including 
+from countries, like Germany, Italy and France , with longer  tradition of social conflict in the 
+28 field o f housing  – an argument recently, if preliminarily, advanced for Lisbon more generally 
+(Cocola -Gant and Gago 2019b, 23; Accornero and Pinto 2020) .27 Though it is early to take 
+definitive conclusions  – and in need of specific empirical research –, hints exist of the 
+transformation of the political arena toward  growing awareness, among residents, of the 
+insufficiency of institutional participation in the face of global transformations such as the 
+ones that are impacting Mouraria . 
+Finally , Ley and Dob son consider the role of  policy  responses  to gentrification.  It was 
+already obvious , during the ‘crisis’ period , that the absence of robust  housing policies  was 
+the single most relevant factor that suggested a risk of displacement  (Tulumello 2016b) . As 
+national policies approved under  austerity impact ed Mouraria, this became even more 
+evident. The municipality, beyond punctual interventions like in the case of Lagares street, 
+has reacted in 2018, assigning 100 apartments to long -term residents in historical  
+neighbourhoods, and putting some limitations to  new licensing of short -term rentals  (see 
+CML 2018) . ‘Too little, too late’, one is tempted to comment as, for instance, the short -term 
+rental market was probably already saturated in Mouraria. Problematic is  also the 
+disconnection between  housing  and participatory policies,28 the latter having been crucial in 
+shaping social transformations, and more generally the scarce resources allocated to social 
+cohesion in face of the waterfall of investments in real estate and refurbishment.  
+ 
+ 
+27 Evidence exists of the low involvement of Portuguese in social movements (Accornero 2016). After the 
+mobilisations in the post -revolutionary years (see Santos 2014 ), organised movements in the field of housing 
+have virtually not existed. Habita, born as a collective around 2005, was the first group explicitly organising 
+around this issue (Di Giovanni 2017). Some scholars are arguing that some of the reasons are to b e found in the 
+aging and declining population of central urban areas, and then in the influx of individuals with political and 
+social resources for mobilisation, phenomena observed earlier in cities like Barcelona ( Cocola -Gant and Gago 
+2019b : 23; Accornero  and Pinto 2020) . 
+28 Local actors are aware of this , a survey on the BIP -ZIP programme showed (Ribeiro 2016: 145) . 
+29 7. Conclusions : from (touristic) gentrification to articulating  urban change  
+ 
+The conclusion  of the  trajectory of Mouraria  is quite  familiar : it is the story of urban 
+regeneration policies that, once successful, showed being desi gned to favour accumulation  
+over local development . And yet, this does not explain the process : that there was a phase of  
+local development; and how things changed. We sought to provide explanations by focusing 
+on two distinct, yet close, periods in time – the years of ‘crisis’ (2008 -2014) and ‘post -crisis’ 
+(2015 -2019) – and linking multi -scalar explanations and phenomena, from neighbourhood  
+politics to national policy changes, and global tourism and speculation flows. The multi -
+scalar analysis of ‘deviant’ Mouraria become ‘paradigmatic’ offers a number of takeaways 
+to a discussion of urban change . 
+With urban regeneration discourses and policies becoming  one of the hallmarks of the 
+Southern  European version of capitalism  as instruments of attraction of capital flows , and 
+facing the evidence that its cities are becoming increasingly shaped by global flows (cf. 
+Balampanidis et al. 2019), we intended to reflect on the capacity of  concepts like 
+gentrification , touristification and financialisation  to explain present trends . In Mouraria, 
+local residents are being replaced  only partially  by gentries , and above all  by temporary users, 
+tourists and the use of real esta te as financialised asset  – and this prompted critical scholars 
+to use the concepts of  ‘touris m gentrification’ (Mendes 2017 ) and  ‘gentrification without 
+gentry’ (Krähmer 2017; K rähmer and Santangelo 2018) . Our strategy to contribute to this 
+discussion was that of consider ing the factors  that once  halted gentrification in Mouraria  and 
+then were suddenly not capable of  doing it . If we were  expect ing that the change had been 
+caused  by transformations  of the local (spatial, socio -political or policy ) factors , we would 
+had been surprised : not much changed locally ; instead,  powerful  exogenous factors pushed 
+30 change. During the last decade , Mouraria was capable of halting – even countering, to some 
+extent – gentrification alone ; and , despite some successful, punctual resistances,  was 
+dramatically reshaped when gentrification  accumulated  with touristification and financial 
+speculation.  This story allows us to provide t wo types of takeaways – respectively with 
+analytical and strategic nature – for research on urban change in Southern Europe and, more 
+broadly, global urban studies.  
+In analytical terms, the case of Mouraria  gives empirical substance to Sequera and Nofre’s 
+argument (2018) about  the incapacity of gentrification to encompass tourism -driven change. 
+At the same time, however , contra their conclusive argument  – and in line with Lopez -Gay 
+and his colleagues’  conclusions (20 20) –, our case also suggests that  gentrification  and 
+touristification  (and financialisation ) cannot be de-linked  and analysed as independent 
+variables of urban change.  We have therefore resorted to articulation  as the lens to frame  
+these processes . In Mouraria,  because of significant  local resistances , displacement  happened  
+once gentrification  articulated with touri stification and financialisation, in the process losing 
+one of its core characters, the presence of a ‘gent ry’ replacing former residents.  To come 
+back to Maloutas’ definitional insights (2012; 2018), articulation does not strip these 
+concepts of their con textual characters, warning that some of them will be lost, and replaced 
+by other characters, when they travel. At the same time, this also allows to not reduce 
+gentrification to hyper -simplistic definitions in the process. In other words,  we have shown 
+that the high level of abstract ion of the concept of articulation  allows mid-range concepts like 
+gentrification and touristification,  and an intermediate concept like financialisation  to have 
+analytical power in contexts different from those where they origi nated .  
+Not only do these considerations constitute epistemological instruments  crucial to 
+fostering truly global urban studies; but they also help preventing the fetishization (Maloutas 
+31 2018)  of gentrification . The capacity of articulation to lie in betwe en structure and agency – 
+and therefore to explore the different ways in which these latter  interact and conflict at the 
+local level – open s up to the strategic thinking that is crucial to critical urban studies.  Coming 
+back to Mouraria’s  local politics, we have seen how, although social and cultural ‘density’ 
+(see Tulumello 2016b) can provide local fabrics with the instruments to take advanta ge of 
+some regeneration policies, our case  exemplifies the existence of  tipping points beyond 
+which local organisation is not enough – confirming that the structural problem is the way 
+mainstream regeneration policies are biased toward making a commodity o f urban space.  
+This brings to two types of  considera tions – respectively with a more institutional and a more 
+contentious  dimension – for the strategic  agenda of critical urban studies.  First, in line with 
+Maloutas’ suggestion (2012:34) to focus on causal mechanisms, by focusing on those local 
+aspects that have long made life tougher to real estate speculation in central urban areas (e.g., 
+low levels of spatial segregation, diversity of social fabrics and urban planning policies 
+traditionally based on regul ation) and how they recently changed, critical urban studies can 
+provide concrete instruments to local policy actors interested in challenging gentrification 
+and touristification.  
+Second, w hile historical uneven development patterns , halted by the economic  crisis,  have 
+been relaunched by austerity (see Hadjimichalis 2011), burgeoning evidences of 
+gentrification, touristification and financialisation  show that Southern Europe is moving, 
+from a region at the ‘borderlands’ of urban theory (Baptista 2013; Tulum ello 2016b), toward  
+becoming a paradigmatic space of  experimentation of new forms of  urbanisation -as-
+accumulation – and, at the same time, of the emergence of new politics and struggles for the 
+right to the city.  If, because of the increasing ly central  role of the circuit of urbanisation  for 
+global capitalism, the capacity of the ‘local’ in self -determining its own development path is 
+32 increasingly being limited by actors and dynamics at different  scales , we have observed that, 
+once again, this can only happ en on the ground  through specific articulations, which are 
+inevitably characterised by contradictions and fragilities . At the same time, this exercise also 
+warn s us of th e importance of building international networks and  scaling up , both for 
+producing  relevant  knowledge and for supporting political struggles in cities throughout the 
+world.  
+ 
+Funding  
+Simone Tulumello acknowledges funding from: Fundação para a Ciência e Tecnologia 
+(FCT), project ‘HOPES: HOusing PErspectives and Struggles. Futures  of housing 
+movements, policies and dynamics in Lisbon and beyond’ (PTDC/GES -URB/28826/2017); 
+European Commission (EC), project ‘CONTESTED_TERRITORY. From Contested 
+Territories to alternatives of development: Learning from Latin America’ (H2020 -MSCA -
+RISE -2019, grant 873082). Giovanni Allegretti acknowledges funding from: FCT, project 
+‘O orçamento participativo como instrumento inovador para reinventar as autarquias em 
+Portugal e Cabo Verde: uma análise crítica da performance e dos transfers’ (PTDC/CS -
+SOC/09 9134/2008); EC, project ‘EMPATIA – Platform Lab our in Urban Spaces’ (H2020, 
+grant 822638).  
+ 
+Acknowledgements  
+We had the opportunity to observe the mobilisations described in the article because one of 
+us is member of local association Habita; and we are g rateful to the residents in Lagares street 
+and activists of Habita, Stop Despejos and Jardim Martim Moniz for their action on the 
+33 ground. We are also grateful to the editors and two anonymous reviewers for constructive 
+commentaries that helped us strengthe n our theoretical argument.  
+ 

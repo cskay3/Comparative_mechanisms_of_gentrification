@@ -1,0 +1,914 @@
+Cities 130 (2022) 103881
+Available online 1 August 2022
+0264-2751/© 2022 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).Retheorizing state-led gentrification and minority displacement in the 
+Global South-East 
+Yael Shmaryahu-Yeshurun 
+Department of Sociology, University of California San Diego, United States of America   
+ARTICLE INFO  
+Keywords: 
+Gentrification 
+Nationalism 
+Global South-East 
+Ethnicity 
+Displacement 
+Contested cities ABSTRACT  
+Studies on gentrification emphasize the roles of the state and local authorities in promoting a process leading to 
+displacement of lower-income populations, mostly ethnic and racial minorities. Such studies, mostly from the 
+global North, present displacement as an unintentional outcome of class, racial, and ethnic intersection. Thus, the 
+ethno-national and racial mechanisms underlying state-led gentrification are left unarticulated. The current 
+research, studying from the southeastern perspective, challenges this narrative. I argue that in a state of eth-
+nonational conflict, gentrification in contested cities may serve as an institutional tool for achieving territorial 
+control and strengthening demographic dominancy of the majority. Based on in-depth interviews and docu-
+mentary analysis, this study analyzes the institutional mechanisms that shape gentrification in contested cities, 
+leading to displacement of minorities on an ethnonational and class basis. In doing so, this research outlines the 
+policy drivers, their implications, and the resistance of the minority residents.   
+1.Introduction 
+Over the last two decades, gentrification studies have moved beyond 
+the Anglo-Saxon academic sphere. Smith (2002) argues that gentrifica -
+tion is no longer an urban strategy found only in the Global North, but 
+has become a truly globalized process that has “densely connected into 
+the circuits of global capital and cultural circulation ” (p. 427). Seen as a 
+method to increase capital accumulation, the “global ” (Smith, 2002 ) or 
+“planetary ” (Lees et al., 2016 ) reach of gentrification gained popularity 
+worldwide. As a result, multiple studies of globalized gentrification 
+processes in cities emerged in developing countries (Betancur, 2014 ; 
+L´opez-Morales, 2015 ; Shin & L´opez-Morales, 2018 ; Waley, 2016 ). 
+Studies have highlighted gentrification as a product of global neoliber -
+alism (Lees et al., 2016 ; Slater, 2017 ). By “neoliberalism ” I mean the 
+“hypermarketed style of governance (i.e. government through and by 
+the market) that denigrates collective consumption and institutions. It is 
+also an ideological fetishization of pure, perfect markets as superior 
+allocative mechanisms for the distribution of public resources ” (Weber, 
+2002 : 520). 
+However, the perspective of the Global North, much of which reflects 
+Western, Euro-American opinions, does not always adequately depict 
+gentrification in the Global South. Specifically, it neglects the possibility 
+that in other geographical contexts, gentrification is more than a 
+neoliberal or economic process. In such cases, it may serve as a governmental tool for achieving territorial control and strengthening 
+the national presence. In other words, minority displacement is not 
+simply an unintentional side effect of economic disadvantage inter-
+secting with ethnicity and race; instead, this displacement is the product 
+of a nation-state's territorialization projects. Because such subtleties are 
+not examined in the dominant literature, the intentional, ethnonational, 
+and racial mechanisms of state-led gentrification have not been properly 
+identified. 
+The geographic particularity of the Global South has given rise to a 
+critique regarding the very use of the term “gentrification ” outside the 
+Global North context. Scholars of the post-colonial comparativist 
+approach advocate for theory construction from different places at 
+different times, without the act of “theory traveling ” (Maloutas, 2012 ). 
+This is because the latter, they claim, acts as a major imposition of 
+knowledge, a colonial exertion of intellectual power that must be de-
+tached from current urban studies. 
+Therefore, scholars have described displacement resulting from 
+urban policy in the Global South/Southeast using terms such as “urban 
+ethnocracy ” (Yacobi, 2009 ), “settler colonialism ” (Shafir, 1989 ), “neo-
+liberalized settler colonialism ” (Tomiak, 2017 ), and “neocolonial city” 
+and “gray spacing ” (Porter & Yiftachel, 2017 ). In this way, I argue, the 
+disconnect between the two bodies of knowledge intensifies, namely the 
+literature on nation-building projects, ethnocracy, and colonialism 
+versus literature on gentrification. Thus, there remains obscure the 
+E-mail address: Yael@ucsd.edu .  
+Contents lists available at ScienceDirect 
+Cities 
+journal homepage: www.elsevi er.com/loc ate/cities 
+https://doi.org/10.1016/j.cities.2022.103881 
+Received 22 July 2021; Received in revised form 13 July 2022; Accepted 21 July 2022   
+Cities 130 (2022) 103881
+2foundations and mechanisms of institutional racism, which allow the 
+commodification of space as well as the devaluation and dispossession of 
+people via gentrification (Kent-Stoll, 2020 ; Ellis-Young, 2022 ). 
+While I agree that we should avoid hastily adopting and “traveling ” 
+the concept of gentrification into the Global South, neither can we 
+completely abandon knowledge on these types of processes as we move 
+across contexts. As L´opez-Morales (2015) claims, the call to “unlearn ” 
+what we already know about gentrification may unnecessarily eliminate 
+some of the literature's most critical discussions, ones that help us 
+confront the injustices of capitalism through shared spaces of debate. 
+The generalization of extant cases, often varied under the same theo-
+retical framework, are in fact the bread and butter of social scientists. 
+They allow us to apply knowledge from one geographical context to 
+another. Therefore, I argue that there is intellectual value in creating 
+generic theoretical categories cutting across boundaries. 
+From this position, I will adopt Clark's (2005) generic definition of 
+gentrification to describe the phenomenon under study: 
+A process involving a change in the population of land-users such 
+that the new users are of a higher socio-economic status than the 
+previous users, together with an associated change in the built 
+environment through a reinvestment in fixed capital. …It does not 
+matter where, it does not matter when. 
+(p. 258) 
+I will further add to this definition that it does not matter why. 
+I will also implement Valle's (2021) approach to studying gentrifi -
+cation in the Global South, which (a) suggests both elastic and focused 
+perspectives, (b) eliminates unnecessary qualifiers, and (c) allows for 
+incorporation of individual cases' specificities as well as a judicious 
+interrogation of shared relations across spaces. I will investigate a 
+particular type of state-led gentrification in contested Israeli cities 
+beyond the economic angles. I hope to avoid assuming an “imitative 
+urbanism ” (Lees, 2012 ) or a diffusionist model with gentrification 
+originating in the “West ” and moving to the “East” and “South ” 
+(Betancur, 2014 ; Lees et al., 2016 ; L´opez-Morales, 2015 ). 
+Since the late 1960s, the state of Israel has encouraged settlement of 
+young middle-class Jewish populations organized in Zionist associations 
+into disadvantaged neighborhoods, specifically in Israel's socioeconomic 
+periphery and contested cities. Members of these associations, named 
+Garin Torani and Ayalim, are driven by both a Zionist and socioeco -
+nomic agenda. They participate in activities that supposedly strengthen 
+the social fabric of their local communities and Judaize these cities. 
+Following recent calls to analyze the various forms and natures of 
+gentrification outside the context of the Global North (Lees et al., 2016 ; 
+Shin & L´opez-Morales, 2018 ), and in light of the disconnect among 
+literature on gentrification theory and settler colonialism, ethnocracy, 
+and nation-building (Ellis-Young, 2022 ; Kent-Stoll, 2020 ), this study 
+will demonstrate how in the context of ethnonational conflict, the 
+capitalist tool of gentrification serves as a more subtle form of territorial 
+control. 
+Studying this phenomenon from a southeastern perspective (Yifta-
+chel, 2020 ), I will map five institutional mechanisms that promote 
+gentrification. In doing so, I will reveal the motives of the policy, 
+identifying in what way gentrification leads to minority displacement 
+and how the latter resist it. The methodological premise is that there are 
+institutional mechanisms which represent the deliberate and systematic 
+policy operating beyond the local context; these mechanisms can only be 
+revealed through the meticulous examination of consistent patterns 
+between different urban and organizational arenas. This gentrification 
+policy and its mechanisms will be conceptualized as a phenomenon of 
+“state-led ethno-gentrification, ” an extension of the term “ethno- 
+gentrification ” suggested by Monterescu (2015) . 
+Conceptualizing state-led ethno-gentrification, the study will expand 
+the gentrification literature to a context outside the Global North while 
+simultaneously emphasizing its particularity. This will help me sub-
+stantiate two arguments. First, I argue that in contemporary cities and specifically in the context of ethnonational conflicts between majority 
+and minority populations, gentrification cannot be investigated as a 
+purely economic process, detached from ethnonational, racial and po-
+litical agendas. I call on gentrification scholars worldwide, especially 
+those in areas inhabited by ethnic/racial minorities and indigenous 
+populations, not to assume that gentrification serves as an institutional 
+tool only for economic purposes, therefore causing an unintentional 
+byproduct of displaced minorities. Rather, such scholars should criti-
+cally examine the policy motivations for promoting gentrification. 
+Accordingly, it is critical to explore the deliberate covert and overt 
+mechanisms of minority displacement beyond the prevailing assump -
+tion that displacement is a natural outcome of economic marginaliza -
+tion. My exploration of gentrification's mechanisms in this study is 
+intended to provide an infrastructure for identifying similar and dis-
+similar mechanisms in other localities. Second, I argue that not every 
+urban policy that leads to minority displacement is purely colonialism; 
+instead, as I demonstrate below, it may involve economic opportunities 
+and interests as well as capitalist mechanisms that enable minority 
+displacement. It is therefore crucial to use the terms and concepts of 
+urban economics literature, such as “gentrification, ” to properly un-
+derstand the mechanism of minority displacement. In doing so, the study 
+will contribute to the connection between gentrification theory and 
+literature on settler colonialism, ethnocracy, and nation-state projects. 
+2.A side effect of state-led gentrification: minority displacement 
+in the Global North 
+The literature on gentrification has developed significantly over the 
+years. While initial studies describe gentrification as neighborhood 
+change driven by economic interests and individual choices, later 
+studies highlight the state as a key player in promoting the process 
+(Smith, 2002 ). In addition, they indicate not only class-based displace -
+ment following gentrification but also a displacement of ethnic and 
+racial minorities (Goetz, 2011 ). 
+In the Global North, racial or ethnic displacement is often explained 
+as a by-product of economic disadvantage that happens to intersect with 
+ethnicity and race, as opposed to resulting from intentionally racist 
+policies. Studies explain that Black, Latinx, and indigenous populations 
+are often overrepresented in lower-income groups and are likely to live 
+in impoverished urban areas that act as potential state-led gentrification 
+sites. Therefore, they are disproportionally vulnerable to displacement 
+pressures (Goetz, 2011 ; Wyly & Hammel, 2004 ). 
+Neil Smith's (1996) early conceptualization of the “urban frontier ” 
+and the “revanchist city” poses more recognition of gentrification's racist 
+and colonial dimension. As he demonstrated, both 19th-century Amer -
+ican colonialism and gentrification in New York City during the 1980s 
+and '90s received similar justifications via the colonial frontier myth, 
+leading to the displacement of indigenous, Black, and Latinx populations 
+from these spaces. While this major work does offer a sharp analysis of 
+the political economy of gentrification, it tends to reduce the colonial 
+element to a metaphor for class. 
+Even so, in the last decade, an evolving body of knowledge has 
+moved away from a class-reductionist lens to a more centralized focus 
+on policymakers' rhetoric regarding race and ethnicity when promoting 
+gentrification. In Rotterdam (Uitermark et al., 2007 ) an ethnic minority 
+concentration is depicted as damaging to the area's reputation, causing 
+social problems. This narrative encourages and legitimizes gentrifica -
+tion policy. Mele (2017) found that the white Republican political class 
+in Chester, Pennsylvania racialized the inner city, advertising it as un-
+worthy of investment in order to promote decline of the majority Black 
+population in the 1970s and '80s. Later, these politicians employed 
+racial discourse to justify gentrification as a necessary means in dealing 
+with people of color who supposedly inhibited development. 
+Recent scholarship has further emphasized the dimensions of racism 
+and colonialism in shaping urban space. Settler colonial rationalities 
+were articulated in Detroit when the local government prepared a Y. Shmaryahu-Yeshurun                                                                                                                                                                                                                       
+Cities 130 (2022) 103881
+3postindustrial urban frontier for resettlement and reinvestment 
+(Safransky, 2014 ). Moreover, Addie and Fraser (2019) demonstrated 
+how through gentrification in Cincinnati, Ohio, settler colonialism has 
+fundamentally redefined the social fabric of the urban space and pa-
+thologized Black populations as causing the neighborhood's economic 
+decline. Together, these cases show that settler colonialism in the Global 
+North is far from dormant. The settlers' desire for the frontier —and the 
+urban and governing institutions that produce it—limits the assumption 
+that the drivers of gentrification are purely neoliberal or economic in 
+orientation. 
+3.The visible hand of state-led gentrification: a view of the 
+Global South 
+Lees's (2012, p. 164) calls to “decolonize the gentrification literature 
+from Euro-American perspectives ” have contributed to the incorpora -
+tion of global southern countries into mainstream gentrification 
+research. Indeed, Lees et al. (2016) encourage researchers to undertake 
+fresh debate on the control and privatization of places that do not follow 
+the Western conception of a democratic public space. As Betancur 
+(2014) suggested, when analyzing gentrification outside the context of 
+the Global North, one should address both the broader economic forces 
+and the local political regimes. It is also crucial to analyze the broader 
+modes of political-economic development, such as regime shifts, since 
+differing processes of spatial restructuring have fostered differing pro-
+cesses of gentrification. 
+While in the West increased state participation in gentrification has 
+been associated with a turn towards neoliberalism, in the Global South, 
+the neoliberal and authoritarian state is not only allowing but stimu -
+lating the process. It accomplishes this through the commodification and 
+privatization of land and extensive forced expulsion of residents in what 
+has been described as “mega-displacement ” (Lees et al., 2016 ; L´opez- 
+Morales, 2015 ; L´opez-Morales et al., 2021 ). Alongside these authori -
+tarian states, political elites play a pivotal role in reimagining city- 
+making in the Global South, deciding how resources are to be allo-
+cated in terms of production and consumption. We see an example of 
+this is Abu Dhabi and Lebanon (Shin & L´opez-Morales, 2018 ). 
+Thus, in many cases, gentrification in the Global South has become a 
+political process involving active discrimination towards ethnic minor -
+ities. For example, the Indian government's Slum Rehabilitation Scheme 
+(SRS) in Mumbai in the late 1990s led to massive demolishing of 
+informal structures, as well as eviction and homelessness of North In-
+dians and Muslims. Xenophobic campaigns by the local political party, 
+Shiv Sena, further aggravated conditions of evictees (Doshi, 2013 ). 
+Similarly, in Brazil, existing ethnic oppressions were intensified through 
+a series of tactics, including military occupation and policing of the fa-
+velas (slums), globalizing mega-events, and large-scale state-led urban 
+development projects (Lees et al., 2016 ; L´opez-Morales et al., 2021 ). 
+Furthermore, Krijnen and De Beukelaer (2015) argue that a post- 
+colonial perspective should look beyond the “usual suspects ” of Euro- 
+American geography and consider the role of war and conflict in 
+displacement and creating rent gaps in the Global South. In their study 
+on Beirut, they claim that the crises of conflict and war have provided 
+the opportunity for spatial fixes. Reduction in unemployment, economic 
+growth, and increase in housing prices are linked to post-war recon -
+struction and redevelopment. These issues are also identified as drivers 
+of state-led gentrification in Belfast (Murtagh, 2011 ), Sarajevo, and 
+Herzegovina (Pobric & Robinson, 2019 ). War zones have caused refugee 
+concentrations in various cities such as Tarlabas ¸ı in Istanbul, which 
+subsequently encouraged state-led gentrification as a tool to dislocate 
+refugees, rehabilitate the stigmatized area, and revive national heritage 
+(Tsavdaroglou, 2020 ). 4.State-led gentrification and urban ethnocracy: a lens from 
+Israel 
+Studies on spatial policy in Israel have highlighted the state's eth-
+nonational motivations to build the Jewish nation-state during the 
+conflict between Arabs and Jews. This policy, which promotes hierar -
+chies between Arabs and Jews, has been described as “ethnocracy ” 
+(Yiftachel, 1997 ) and “settler colonialism ” (Shafir, 1989 ). Similarly, in 
+Israel's contested cities, the “urban ethnocracy ” (Yacobi, 2009 ) pro-
+moted Judaization of the space and segregation between Jews and 
+Arabs. 
+Seventy years after the 1948 Arab-Israeli War, the Israeli contested 
+cities of Lydda, Jaffa and Acre represent well the state's ethnonational 
+motivations behind the urban Judaization. These cities were the modern 
+urban centers of Mandatory Palestine and officially transformed into 
+Jewish cities during the first years of Israeli statehood. The majority of 
+Arabs there had escaped or was expelled during the war. The state seized 
+Arab land and property through the Absentee Property Law (1950) , 
+some of which was used later for public housing. Simultaneously, the 
+state settled these cities with mass numbers of Jewish immigrants and 
+refugees from Europe and the Middle East (Monterescu, 2015 ). In Lydda, 
+located in central Israel, 30 % of the 80,931 residents are Arabs. In Jaffa, 
+also in the center, 31 % of its 60,000 residents are Arabs. In the northern 
+district, the city of Acre has about 49,500 residents, 33 % of whom are 
+Arabs (Central Bureau of Statistics, 2020 ).1 These cities have suffered 
+long-term neglect, urban decline, and disinvestment, which preceded 
+and intensified during gentrification. Despite new development, they 
+are still rated low in the socioeconomic rating of the CBS.2 This is 
+especially true for Arabs, who suffer from poor housing conditions, low 
+socioeconomic status and housing policy discrimination (Yacobi, 2009 ), 
+though they are highly supported by welfare services (Central Bureau of 
+Statistics, 2021 ). 
+Although scholars have emphasized the ethnocratic and colonial 
+aspects of spatial policy in Israel, only a few studies have addressed 
+specifically the gentrification process and its connection to displacement 
+of the Arab minority. Monterescu (2015) used the term “ethno-gentri -
+fication ” to highlight how Jewish gentrifiers in Jaffa cause Arab mi-
+nority displacement. Zaban (2016) showed ethnonational stratification 
+as well as class inequalities between Arabs and Jews, resulting in 
+gentrification in Jerusalem. In proposing the term “state-led ethno- 
+gentrification, ” Shmaryahu-Yeshurun and Ben-Porat (2020) argued that 
+though gentrification in Acre is presented as an economic process 
+beneficial to all, the state both promoted and concealed national control 
+and ethnonational domination in the territory. Gentrification in Acre 
+also redefined the religious character of the city, in what Luz (2022) 
+described as “religious gentrification. ” 
+Despite these studies' contributing significantly to our understanding 
+of the ethnonational context of state-led gentrification, to date only in-
+dividual case studies have been presented without providing compre -
+hensive mapping of the consistent institutional mechanisms that shape 
+gentrification and lead to minority displacement. The research below is 
+designed to help create such a framework. 
+1 Despite Arab displacement from one neighborhood to another in the same 
+city, and even to outside the cities, over the last twenty years there has been a 
+moderate increase in the relative and absolute proportion of the Arab popula -
+tion. This increase can be explained as the result of a mass migration of Jewish 
+populations out of these cities, a natural increase in Arab populations, and a low 
+rate of migration of Arabs into city limits.  
+2 There are no CBS data regarding Jaffa as one urban entity, since it is 
+calculated together with Tel Aviv. However, from income level data, public 
+housing rates and supported welfare rates, one can learn about the low socio -
+economic rate of Jaffa residents (Monterescu, 2015 ). Y. Shmaryahu-Yeshurun                                                                                                                                                                                                                       
+Cities 130 (2022) 103881
+45.Methods 
+I conducted this study using the qualitative method of case studies 
+(Yin, 2009 ) of two settlement associations: Garin Torani and Ayalim. 
+The studies occurred in three urban arenas: Lydda (Lod), Jaffa and Acre 
+(Akko). The study included 82 semi-structured, in-depth interviews. In 
+terms of demographics, 35 interviewees were newcomers and founders 
+of settlement organizations, 30 were local Arab residents, and 17 were 
+local policymakers from the cities of Lydda, Jaffa3 and Acre. Most of the 
+interviews were conducted between 2017 and 2019 and some in 2021. 
+71 interviews were face-to-face meetings and 11 occurred by phone. The 
+sampling strategy included snowball sampling to identify and reach 
+influential people involved in the processes studied. Lasting between 
+thirty and ninety minutes, all interviews were audiotaped and tran-
+scribed. Interviewees' names have been changed for confidentiality. 
+In addition, I analyzed 520 documents, including government policy 
+documents (Knesset committee protocols, laws, work plans of govern -
+ment ministries, queries, judgments, budget documents, government 
+resolutions, calls for support for Garin Torani members, tenders, etc.), 
+municipal policy documents (planning documents, annual reports, ten-
+ders, outline plans, etc.), newcomers' organization documents (annual 
+plans, vision documents, budget, videos, etc.), and articles from the local 
+and national press and online forums. 
+6.The newcomers: Zionist NGOs in the role of ethno- 
+gentrification 
+Garin Torani is a group of middle-class Jewish religious families, 
+mostly young and educated as part of the “creative class. ” (Florida, 
+2002 ). These families purchase apartments and move in disadvantaged 
+neighborhoods to volunteer with disadvantaged populations, Judaize 
+space, and disseminate Zionist and religious ideology among the general 
+population. The first Garin Torani group was established in the late 
+1960s. Today, there are over 80 similar initiatives scattered around the 
+country (Reichner, 2013 ). The settlement of Garin Torani in contested 
+cities specifically occurred from the 1990s. In Lydda, the Garin Torani 
+was founded in 1994 and is the largest settlement in Israel with about 
+one thousand families. They live mainly in the neighborhoods of Ramat 
+Elyashiv, Neve Zeit, Neve Nof, and Ramat Eshkol, as well as Ramet and 
+Givat HaZeitim. Acre's Garin Torani was founded in 1997 and has about 
+200 families living primarily in the religious neighborhood of Neot 
+Eliyahu and in the north of the city. The Garin Torani in Jaffa was 
+established in 2007, spreading in the city's neighborhoods, mainly in the 
+Givat Ha'aliya neighborhood, Ajami, Lev Jaffa and Jaffa Areas C and D. 
+The Ayalim movement was established in 2002 to strengthen Zionist 
+settlement and encourage social involvement in disadvantaged neigh -
+borhoods, mostly in the Negev and Galilee but also in Lydda. Ayalim 
+implements its mission by establishing student villages and inhabiting 
+public housing apartments for both its religious and secular student 
+members. Ayalim founded 15 villages and eight alumni groups, reaching 
+a membership of more than 1200 students (Ayalim, n.d.). In 2007, 
+Ayalim Student Village was founded in Old Acre, populating 20 mem-
+bers. In Lydda, two Ayalim complexes populate about 140 members. The 
+first complex was established in 2011 in the city center on Herzl Street 
+for about 60 students. The second one was founded in 2013 and popu -
+lated about 80 members. As for Jaffa, Ayalim does not operate there. 
+Ethno-gentrification, as I describe below, is state-led and facilitates a 
+coalition of state actors, state-owned public housing companies, local 
+municipalities, and Zionist associations. It is accomplished by five major 
+mechanisms directed at encouraging Jewish settlers to inhabit contested 
+cities. The process, as I will show, is met by local Arab residents who feel 
+threatened by ethno-gentrification and are prone to displacement. 7.Five institutional mechanisms of ethno-gentrification 
+7.1. Establishment of new neighborhoods for settlement associations 
+Establishing neighborhoods for middle-class religious Jewish pop-
+ulations in disadvantaged spaces is a key institutional mechanism pro-
+moting ethno-gentrification in Israeli contested cities. This is 
+implemented through allocating land and granting building rights in 
+public land to settlement associations that have a goal to populate 
+neighborhoods. 
+In Lydda, the Ramat Elyashiv neighborhood was inaugurated in 
+2004, populated two years later, and as of 2015, the neighborhood has 
+about 500 middle-class families (see Figs. 1 and 2). Ramat Elyashiv was 
+motivated both by economic goals and incentives, as in many other 
+gentrification cases, and an ethnonational agenda, unique to this case. 
+Regarding economic process, the neighborhood was established in a 
+neglected area characterized by crime and drugs. Constructing the 
+neighborhood involved evicting local residents (who were living there 
+illegally) after providing them financial compensation. They were 
+replaced by middle-class residents who purchased the new apartments. 
+Construction of the new neighborhood has led to a significant rise in real 
+estate value in the area over the years,4 turning it into one of the most 
+popular neighborhoods in the city among the middle-class, national 
+religious sector in Israel. 
+However, it was also motivated by and promoted Judaization of 
+Lydda in several ways. First, it was deliberately placed as the buffer 
+point between the northern Arab neighborhoods and the southern 
+Jewish neighborhoods in order to halt expansion of the Arab sector there 
+(Reichner, 2013 ). Second, the evicted local residents were mostly Arabs, 
+who relocated to nearby neighborhoods of Kerem al-Tufah, Ramat 
+Eshkol and Banit. These. Finally, the neighborhood's residences were 
+intended for religious Jews only. 
+Fig. 1.Ramat Elyashiv neighborhood, Lydda. 
+Note. Photograph taken by the author. 
+3 In Jaffa, in contrast to Acre and Lydda, only members of the Garin Torani 
+were interviewed since there is no settlement of Ayalim Association in the city. 4 While the Garin Torani purchased the land for 555 NIS (7 NIS or 2.09 USD 
+per apartment) and reduced development fees, in 2009 the average price per 
+square meter was 7030 NIS (about 800,000 NIS or 238,770 USD per apart -
+ment). A decade later in 2021, the price doubled to 16,909 NIS per square 
+meter (about 1.6 million NIS or 478,000 USD per apartment). Since its estab -
+lishment, the prices of apartments in the neighborhood have been higher than 
+the average prices of apartments in the city (data analysis from the Madeleine 
+website: https://www.madlan.co.il ). Y. Shmaryahu-Yeshurun                                                                                                                                                                                                                       
+Cities 130 (2022) 103881
+5In 2000, founder of Garin Torani recruited the support of then-prime 
+minister Ariel Sharon and the Ministry of Housing to create the neigh -
+borhood. In 2003, the Israel Lands Administration published a selective 
+tender for “religious associations ” to build the neighborhood on an area 
+of 5031 square meters, including 76 apartment units in the first stage. 
+Garin Torani won the tender, purchasing the land for seven Israeli new 
+shekels (a little over 2 USD) per unit and reducing development fees 
+(Israel Land Administration, 2003 ). Later in 2007, a second tender was 
+issued for the construction of 352 more housing units. The Kardan Real 
+Estate Enterprise and Development company won the tender and mar-
+keted the apartments to religious Jewish populations. According to the 
+description of Yair Revivo, mayor of Lydda, gentrification represents the 
+global paradigm for rehabilitating disadvantaged neighborhoods 
+through the middle class while incorporating an ethnonational agenda, 
+unique to the context of ethnological conflict: 
+The members of Garin Torani were a positive bright spot in the 
+difficult years of Lydda. They came here when there was a traffic jam 
+to leave the city…Young educated couples with children [came] … It 
+was a dramatic move that also affected our local education and 
+community, causing residents to renew their faith in the city…We 
+are not ashamed to raise the Zionist flag and promote the Jewish 
+character here … Garin is the most important settlement enterprise 
+completed in the country in the last twenty years. They simply saved 
+a strategic city in the state of Israel. It is likely that without Garin 
+Torani, the migration trend would have continued, and Lydda today 
+would be an Arab city that dominates our only airport. 
+(Revivo, 2015, in Reichner, 2015 ) 
+Similarly, the Garin members mention the economic incentive to buy 
+a cheap apartment in the city center, a classic case of gentrification. 
+They also cite their motivation to strengthen Lydda's Jewish character. 
+As Orit, a Garin Torani member, noted: 
+There are some who came just because of the cheap price of the 
+apartments … The value of the apartments doubled within a few 
+years … Nevertheless, the actual act of living here has its own ide-
+ology and value … It is important to Judaize the place … They [the 
+Arabs] are not supposed to live here. This is our land. 
+State-led gentrification has led to ambivalent feelings among Arab 
+residents; while welcoming the economic development and improved 
+infrastructure of the city, they are being displaced physically and eth-
+nonationally. As Marwan, an Arab resident, recounted: On the one hand, residents say there is an improvement to the city 
+because once a population that is caring for the environment and 
+public space came, it helped. But on the other hand, it raised housing 
+prices and hurt its character … We have conflict because this is a 
+nationalist project. 
+Arab residents claim that these projects express a policy seeking to 
+displace them. As Advocate Khaled a-Zaberga, an Arab resident, 
+claimed: “The intention of these settlers is to bring about the expulsion 
+of Arabs from the mixed cities. The state wants to expel us” (in Levy & 
+Liebek, 2013 ). Arabs also explained that rising prices in Lydda and state- 
+led gentrification projects are leading them to move to older and cheaper 
+apartments in less structurally sound neighborhoods, such as the Banit 
+neighborhood and Ramat Eshkol. Some even leave the city for nearby 
+villages such as Kafr Qasim. Alternatively, others move in with their 
+parents and add a living room illegally. 
+A Jewish-religious complex was also established in Jaffa. In contrast 
+to Lydda, where the tender for the land was “tailor-made ” for the 
+initiative and planning of Garin Torani, in Jaffa it was open. In 2009, the 
+Israel Land Administration (ILA) published a tender (Israel Land 
+Administration, 2009 ) for purchasing land at 6 Ger Tzedek Street, which 
+covers 426 square meters. Seven families from Garin Torani organized as 
+a purchasing group and submitted a bid for NIS 1,890,000 (about 
+604,500 USD). Arab entrepreneurs also approached the tender, but since 
+they submitted lower bids, they lost. As a result, the Garin Torani fam-
+ilies won the tender and constructed a residential building on the land. 
+Despite the ethnonational agenda behind this process, the economic 
+leverage of the majority group played a key role in state-led ethno- 
+gentrification, similar to classical gentrification. In this case, the mi-
+nority displacement was not a product of pure colonialism but an eco-
+nomic opportunity that capitalism and gentrification provided the more 
+affluent majority group. 
+In the same year, the ILA published another tender for construction 
+of 20 housing units on 1337 square meters of land on Sternhartz Street in 
+the Ajami neighborhood of Jaffa (Ha'Etrog project). Prior to announcing 
+the tender, the ILA evicted the local vegetable merchants, offering them 
+financial compensation. A company named Be'emuna-Housing to the 
+National Religious Public Ltd. established a purchasing group of reli-
+gious Zionist families (the Garin Torani) to bid for the land and establish 
+a residential complex. The company won the tender and built three-story 
+buildings with a total of 20 apartments and penthouses (see Fig. 3). 
+The founder of the Garin Torani, David, described the motivations 
+for constructing the complex: 
+Fig. 2.Ramat Elyashiv neighborhood, aerial view. 
+Note. From Ramat Elyashiv Neighborhood Committee , [Photograph of Ramat 
+Elyashiv neighborhood], by Grinberg, I., (n.d.) https://sites.google.com/site/el 
+yashivneighborhood/ . 
+Fig. 3.A residential building in the Ha'Etrog complex in Jaffa. 
+Note. Photograph taken by the author. Y. Shmaryahu-Yeshurun                                                                                                                                                                                                                       
+Cities 130 (2022) 103881
+6The residents of Jaffa did not believe that middle-income young 
+families would come to live here. They suffered from an aging pop-
+ulation and a lack of children … also from the criminality of the Arab 
+population…. They felt that Jaffa is being lost and [that] the Jewish 
+identity was also being lost. Therefore, we came to Jaffa to 
+strengthen the Jewish identity of its residents. 
+(David, personal communication, 2021) 
+Arab residents in Jaffa claimed that by allocating the public land to a 
+company that discriminates against them in apartment marketing, the 
+government essentially promoted their displacement. As Knesset mem-
+ber Afou Agbaria claimed in a Knesset committee meeting: “The 
+declared goal of the project developer is to Judaize the city and exclude 
+its Arab residents” (Interior and Environmental Protection Committee, 
+2009). Arab residents claim that rising prices in Jaffa are compelling 
+residents to leave for other cities such as Tayibe, Tira, Qasim village, 
+Lydda, Ramla, and Bat-Yam. 
+At the same meeting, Advocate Amir Badran, a city council member 
+and representative of the Association for Jaffa Arabs, explained: 
+My parents and I lived in this area… It is impossible to ignore the 
+housing crisis [of Arabs]… the land reserves of the Israel Land 
+Administration have run out, so the little that is left, we must keep. If 
+it goes to other populations, it hurts us twice—the first time because 
+the state's commitment to solve our housing crisis could not be met, 
+and the second time, because they introduce a foreign group that will 
+surely harm coexistence. Therefore, there is resistance. 
+(Interior and Environmental Protection Committee, 2009) 
+Arab residents, activists, and human rights organizations argued that 
+the state has a responsibility to ensure that whichever company won the 
+tender would not discriminate against residents on an ethnonational 
+basis. A coalition of organizations attempted to halt construction of the 
+Ajami housing project through a court petition in 2009, and in 2010 they 
+also appealed to the Supreme Court (AdminA 1789/10, 2010). The Su-
+preme Court rejected the petition on the grounds of fait accompli since 
+the project was in advanced stages. Thus, in 2020, the complex was 
+inhabited by Zionist religious families organized as Garin Torani mem-
+bers. However, following this case, the ILA has confirmed that for future 
+tenders, it will prohibit participating developers from practicing 
+discrimination when marketing and populating housing units. 
+Similar to Lydda, a “tailor-made” tender for a religious neighborhood 
+was published in Acre. In 2005, the rabbi of Garin Torani founded an 
+association aimed at creating a religious neighborhood for Acre. After 
+identifying appropriate land, Garin Torani members recruited policy -
+makers in local municipality and government to obtain building rights 
+for construction. Garin Torani then organized as a purchasing group 
+called the Association for the Construction of a Religious Neighbo -
+rhood—Acre, winning the tender published in 2011 from the ILA. A 
+religious neighborhood called Neve/Neot Eliyahu was established and 
+populated by 153 religious Jewish families. The ILA published another 
+tender for construction of a smaller residential complex with 43 housing 
+units, which the Association for the Development of Acre and Con-
+struction won. This association is another branch of Garin Torani. 
+Construction of the neighborhood, which began in 2013, was 
+populated within three years and officially inaugurated in 2017. 
+Admission to the neighborhood was granted to religious Jews only, 
+conditional on the approval of Garin Torani's rabbi. The Garin Torani 
+CEO, Shlomo Klein, explained their motivation for establishing the 
+neighborhood: 
+What made us come to Acre is the distress of the dwindling Jewish 
+population in the city… They felt they were being pushed out, so we 
+wanted to strengthen the Jewish hold on the city… One day there 
+could be an Arab majority in Acre, the consequences of which would 
+be severe because it would become an Arab city and not a mixed one. 
+(2015, as cited in Yahav, 2015) When speaking at a community building event in Acre, Prime Min-
+ister Benjamin Netanyahu demonstrated the integration of ethno -
+nationalism and economic motivations within state-led gentrification: 
+These groups… All of them [are] Zionists, all of them passionate 
+about taking action. This is expressed through the spirit of volun -
+teerism that is quite simply refreshing and provides a tremendous 
+amount of hope… [they are engaged] in cultural activities in the 
+community, in strengthening the Jewish and Zionist identity of the 
+city… They contribute to society, overcome hardship… I want to 
+thank you all—you are truly genuine pioneers of our time. 
+(Israeli Prime Minister's Office, 2012) 
+Resisting the policy, a coalition of organizations tried petitioning the 
+Haifa District Court in 2012 to cancel the association's winning of the 
+tender due to ethnic discrimination. In their lawsuit, they mentioned the 
+ILA's commitment to equal marketing following the Jaffa case, aiming to 
+cancel Garin Torani's successful bid. The court rejected their petition on 
+the grounds that merely publishing the project as intended for the reli-
+gious Jewish population does not adequately prove that Arab residents 
+seeking to purchase an apartment in the complex will be denied (Case 
+(DC Hi), 2012). This proof was solidified later, after the neighborhood 
+had already been established. Sami Hawari, an Arab resident who 
+wanted to purchase an apartment and was denied, sued the contractor 
+company over ethnonational discrimination and won the lawsuit. Ac-
+cording to him: 
+The discriminatory marketing of apartments in the new neighbor -
+hood is just one of many examples of discrimination against Arab 
+residents in city housing. They evict Arab residents from Old Acre 
+and prevent them from living with dignity in other neighborhoods. 
+This creates a severe sense of discrimination, claiming that we are 
+second-class citizens. 
+(Hawari, 2012, cited in Hodi, 2012) 
+I argue that establishment of religious neighborhoods in such con-
+tested cities expresses state-led ethno-gentrification. It explicitly com-
+bines economic motivations of developers with the ethnonational 
+motivations of a middle-class population desiring to strengthen the 
+Jewish presence and character of the cities. 
+7.2. Privatization of public housing for settlement associations 
+Privatizing public housing to settlement associations is a second 
+institutional mechanism for promoting ethno-gentrification. In a multi- 
+stage process, the state transfers ownership of public housing apart -
+ments from private Arab ownership to private Jewish ownership (see 
+Table 1). Initially, these apartments were managed by the Custodian of 
+Absentee Property, who then transferred them to the Development Au-
+thority and later to government housing companies. The housing com-
+panies then rented them out to sheltered tenants. At these stages, 
+although management and use of the apartments were transferred to the 
+state, they remained Arab-owned. This changed with the governmental 
+resolution to sell the apartments to private hands (Transfer of Property 
+Law, 1950; Government Resolution No. 1543, 1997; Council Resolution 
+No. 921, 2001). 
+A prominent example of this mechanism is the transfer of four 
+buildings that were originally absentee properties in the Old City of Acre 
+in 2007 to the previously mentioned Ayalim Association. The organi -
+zation used the buildings to house about 20 of its members. State-led 
+gentrification through privatization of public housing has both a 
+neoliberal agenda, like global gentrification, and an ethnonational 
+agenda, particular to the contested space. First of all, it serves as a relief 
+to the economic burden of maintaining apartments and improving 
+neighborhood visibility. As described in the website of New Amidar (n. 
+d.): Y. Shmaryahu-Yeshurun                                                                                                                                                                                                                       
+Cities 130 (2022) 103881
+7They renovate apartments of the elderly population and improve the 
+image of public space in disadvantaged neighborhoods. The combi -
+nation of young people who live in these neighborhoods alongside 
+public housing residents leads to a significant improvement in living 
+conditions in the neighborhoods, improving their atmosphere. 
+Second, public housing privatization carries its own ethnonational 
+motivation, as the mayor's advisor detailed: 
+We need once and for all to end poverty, crime, vandalism, drugs, 
+and the isolation of Arabs in the Old City… [So we] brought in 
+Ayalim Association. We wanted to realize the potential of the Old 
+City, to be aesthetic and to promote culture … if Arabs would buy 
+these properties, it would not make this change … so if the Old City is 
+developing and there are also Jews living there, is that not something 
+positive at the national level too? 
+(Anonymous, personal communication, 2021) 
+Ayalim members also presented the Jewish presence as preventing 
+the radicalization of Arab society in Acre. As Ayalim director Yafit 
+mentioned: 
+Ayalim's goal is [to create a] Zionist Jewish presence … there was a 
+strong presence of radical elements of the outlawed Islamic move -
+ment. When Ayalim came in, it was the first time that Jews lived here 
+and the status quo was changed. 
+(Yafit, personal communication, 2021) 
+The buildings in question (see Fig. 4) were transferred to the Ayalim 
+Association through the Jewish Agency. This process exempted Ayalim 
+from holding a tender under the mandatory tender regulations. As David Harari, CEO of the Old Acre Development Company, explained, “We 
+transferred assets to the Jewish Agency, which is exempt from the ten-
+der, and the agency transferred the assets to an organization like Aya-
+lim” (in Khoury, 2010 ). Property privatization involved many stages and 
+players, alternately using tools of privatization and nationalization (see 
+Table 1). The process's final stage was the transfer of properties from 
+Arab ownership to Jewish ownership. 
+Arab residents of Old Acre claimed that this policy displaced them on 
+both an economic and ethnonational basis. Just like with the Lydda case, 
+they stated that rising prices in old Acre are causing residents to leave for 
+nearby villages or move in with their parents illegally. Many of them 
+gathered in the streets to protest this change. As noted by Khatib, a 
+resident of Old Acre, “We've lived in the Old City for 72 years, my father 
+was born here and my grandfather... the state does not want Arabs here; 
+maybe some Arabs, but not a majority ” (H. Khatib, personal communi -
+cation, 2017). 
+While in Acre privatizing public housing succeeded without a tender, 
+in Jaffa a public tender was published for Building No. 15 on Ziona 
+Tagger Street. The building, abandoned by its Arab owners in 1948, was 
+transferred according to the Absentee Property Law to the governmental 
+Company of Amidar, which housed Jewish families and later put the 
+building up for sale (Absentee Property Law, 1950 ). After changing 
+ownership multiple times, the building was eventually transferred in 
+2016 to the Shirat Moshe Yeshiva for housing its students. The yeshiva (a 
+Jewish educational institution for men) was established in Jaffa as part 
+of the Garin Torani settlement in Jaffa. The head of the yeshiva, Eliyahu 
+Mali, emphasized their national motivation for settling in Jaffa: 
+There is an accelerated spiritual problem here, and our job is to 
+revive the Jewish Torah and prayer. [It's part] of a general move to 
+bring the spirit of Judaism back to the cities of the center … The new 
+enterprise of Zionism should be spiritual Zionism. 
+(2016, in Kashti, 2016 ) 
+Both ethno-gentrification and resistance to it have intensified over 
+the years. 
+In 2021 after the rabbi and CEO tried to purchase another apartment 
+for the yeshiva in Jaffa, they were attacked by young Arab residents. 
+Later, Arabs and Jews together protested what they perceived as eth-
+nonational and class displacement following the state-led gentrification. 
+They carried signs in the streets reading, “Jaffa not for sale, ” “the Yes-
+hiva —shit of neighbors, ” “The White City in the Service of Capital, ” and 
+“The Market is Free —If You Are Rich and Jewish ”. 
+In Jaffa, we see examples of both neoliberal and ethnonational 
+gentrification. Neo-liberal gentrification caused the displacement of 
+disadvantaged Jewish and Arab residents by middle- and upper-class 
+populations; among these more affluent populations were also Arabs. 
+Ethnonational gentrification, on the other hand, is described by Arab 
+residents as a policy that displaced them mostly on an ethnonational 
+basis. Table 1 
+Privatization of public housing for the Ayalim Association. 
+Note. Table designed by the author. 
+Fig. 4.An Ayalim Association building in the Old City. 
+Note. Photograph taken by the author. Y. Shmaryahu-Yeshurun                                                                                                                                                                                                                       
+Cities 130 (2022) 103881
+87.3. Allocating public buildings and privatizing public services to 
+settlement associations 
+Another institutional mechanism that promotes ethno-gentrification 
+is allocating municipalities' public buildings and privatizing public ser-
+vices to the settlement associations. In Acre, the municipal government 
+has allocated public assets in the eastern area to benefit the offices of 
+Garin Torani. In addition, it has transferred to Garin Torani budgets and 
+responsibilities for providing certain welfare and educational services. 
+These include enrichment classes in schools and centers for children and 
+youth at risk. Such municipal actions transformed Garin Torani into an 
+executive arm of city government. 
+Similarly, the Tel Aviv-Yafo municipality allocated public assets to 
+the Garin Torani in Jaffa. One of these assets, located at 16 Toulouse 
+Street next to the Shirat Moshe Yeshiva, is used for Torah study and 
+prayers by the yeshiva students. In Lydda, the municipality allocated 
+public buildings and land for housing and activities of both the Garin 
+Torani and Ayalim associations. For example, management of the Den-
+ver Community Center and Chicago Community Center was transferred 
+to Garin Torani, who initially provided their services only for the Jewish 
+population. Later, due to resistance from Arab residents, the Chicago 
+community center was also opened to the Arab population. H. Samer, an 
+Arab activist in the neighborhood, commented: 
+We want to live together [Arab and Jews] … I was one of the fighters 
+for opening the community center to Arabs as well... ... Why not 
+invest in the local population? Why do we not have community 
+centers? After all, it is impossible not to be jealous. Garin Torani 
+came here and got everything … buildings, a budget, a separate 
+community center system just for them … why don't we? 
+(Personal communication, 2019) 
+Similarly, the municipality of Lydda allocated buildings to the Aya-
+lim Association. In 2011, public land on Herzl Street in the city center 
+was allocated for establishing Ayalim's student village. On land equaling 
+2.4 dunams (approximately 2870 square yards), Ayalim built a two-story 
+residential building for housing about 70 of its members. In 2013, the 
+municipality allocated a second building for student housing on Kdoshi 
+Kehilat Mezrich street. The Israeli Ministry of Finance provided Ayalim 
+funds for renovating the formerly abandoned building (see Fig. 5), after 
+which 40 organization members moved in. Local residents outside of the 
+organization claim that these complexes are gated and inaccessible to 
+them (see Fig. 6), as Bahalul explained: 
+The Ayalim complex is built in a public area, which was open in the 
+past as part of a public park. Then the area was closed with a fence and they added a gate… As a mother, for me it could have been a 
+great area to spend time with my son, but not anymore. 
+(H. Bahalul, personal communication, 2019) 
+7.4. Selective governmental budgeting 
+The state of Israel provides budgets for selective settlement associ -
+ations. These budgets are provided through many government minis -
+tries, including the Ministry for the Development of the Periphery, the 
+Negev and the Galilee, the Ministry of Agriculture and Rural Develop -
+ment, the Ministry of Construction and Housing, and the Ministry of 
+Education. In 2013, for example, 110 million Israeli new shekels 
+(approximately 33.5 million USD) were allocated to settlement associ -
+ations from different ministries (State Comptroller of Israel, 2017 , pp. 
+253). 
+Analysis of seven calls from government ministries to support set-
+tlement associations, published between 2012 and 2017, reveal that 
+governmental support is conditional. Specifically, it depends on the 
+associations' obligation to strengthen Jewish identity and Zionism, serve 
+in the military or at the national level, and recruit a high percentage of 
+newcomers (i.e., Israeli natives from other cities). In 2011, for example, 
+the Ministry for the Development of the Periphery, the Negev and the 
+Galilee set a goal to bring 600,000 new residents to those areas by 2020 
+(Ministry of the Negev Galilee 2011 work plan, personal communica -
+tion). In practice, these criteria in many cases either directly or indi-
+rectly exclude local Arab residents from governmental support. 
+In addition, some government ministries, and in particular the 
+Ministry of Education, selectively publish calls for supporting associa -
+tions such as Garin Torani. These calls for support do not allow other 
+groups, such as local individuals, to apply for governmental support. 
+Finally, over the years the state has provided budgets for particular as-
+sociations. For example, between 2005 and 2013, the government 
+allocated resources to the Ayalim Association (Government Resolutions 
+Nos. 1041, 3651, 3796, and 1200 ). 
+7.5. Symbolic capital and incentive 
+The last and most covert institutional mechanism of promoting 
+ethno-gentrification is the government's effort to symbolically portray 
+settlement associations as a force for good in their nation. When poli-
+cymakers visit contested cities during their election campaigns, they 
+tend to focus their visits on the settlement associations' projects. These 
+projects are well photographed, casting visions of reviving the cities and 
+Fig. 5.Renovated student village on formerly public land. 
+Note. Photograph taken by the author. 
+Fig. 6.Gated fence surrounding Ayalim Student Housing. 
+Note. Photograph taken by the author. Y. Shmaryahu-Yeshurun                                                                                                                                                                                                                       
+Cities 130 (2022) 103881
+9making the desert bloom (see, for example, Ziderman, 2013 ; Ayalim 
+Official, 2012 ). Such trips allow policymakers to show their public 
+involvement with and support of Zionism. Analyzing the policymakers' 
+standpoint, as expressed in official speeches between 2012 and 2019, 
+reveals that settlement association members are presented as salt of the 
+earth, modern pioneers, Zionist, and quality activist residents (see, for 
+example, Israeli Prime Minister's Office, 2012 ). The locals, Jews, and 
+Arabs, on the other hand, are presented as passive or problematic pop-
+ulations. As Prime Minister Naftali Bennett (cited in Schechter, 2012 ) 
+mentioned: 
+The city of Acre is becoming Arab … There is Arabic music, Muslim 
+flags … many harassments. In the Old City, most of the signs are in 
+Arabic, not in Hebrew … The Jews do not survive and therefore 
+leave … We met a group of caring young people in Acre who want to 
+save the city—Garin Torani members who left the center of the 
+country and came to settle in Acre. The Ayalim Organization who 
+settles in the heart of the Old City… has wonderful people working in 
+education, welfare … The state is a Jewish state, and it must maintain 
+its character as such. 
+8.Conclusion: towards a state-led ethno-gentrification theory 
+In conceptualizing state-led ethno-gentrification and its mechanisms, 
+this study contributes to the expansion of gentrification literature to a 
+context outside the Global North. Simultaneously, it avoids the imple -
+mentation of a diffusionist model with gentrification originating in the 
+“West ” and moving to the “East” and “South ” (Betancur, 2014 ; Lees 
+et al., 2016 ; L´opez-Morales, 2015 ). 
+While the conventional narratives of state-led gentrification from the 
+Global North focus on its neoliberal and economic motivations (Lees 
+et al., 2016 ; Smith, 2002 ), the southeastern perspective (Yiftachel, 
+2020 ) presented in this research reveals the ethnonational dimension 
+behind the policy. It draws attention to a particular type of state-led 
+gentrification, driven not only by economic motivations to redevelop 
+disadvantaged urban spaces but also by the nation-state's need to 
+strengthen the presence of its ethnic majority in contested cities. 
+Accordingly, in this type of state-led ethno-gentrification, minority 
+displacement results directly from nation-state territorialization projects 
+rather than appearing as a side effect of economic disadvantage inter-
+secting with ethnicity and race. Whereas gentrification literature has 
+emphasized economic pressure and class disadvantage as the core di-
+mensions leading to minority displacement, in settler colonialism liter-
+ature, minority displacement is described as a direct and intentional 
+result following national politics. In contrast, this study addresses the 
+recent call to bridge gentrification theory and the literature on settler 
+colonialism, ethnocracy, and the nation-state project (Ellis-Young, 2022 ; 
+Kent-Stoll, 2020 ), showing that gentrification as an urban agenda can 
+also be a tool for national agendas. 
+As demonstrated, state-led ethno-gentrification processes are not 
+sporadic but are consistently organized across at least three contested 
+cities in Israel and two Zionist settlement associations operating in these 
+cities. Through a meticulous examination of consistent patterns in these 
+spaces, five institutional mechanisms of state-led ethno-gentrification 
+are revealed. These include the establishment of religious neighbor -
+hoods, privatization of public housing for Zionist settlement associa -
+tions, allocation of public buildings and privatizing public services to 
+those associations, allocation of selective governmental budgeting, and 
+finally, symbolic incentive to the Zionist settlement associations. 
+As Valle (2021) suggests, studying state-led gentrification from the 
+Global South generates a fuller understanding of how displacement in 
+different contexts happens. This minimizes the absolutist language and 
+hegemonic understandings that center North American and European 
+middle-class gentrifiers, economic trajectories, political histories, and 
+property regimes. 
+Despite the specific context of this case study, my findings call on gentrification scholars generally, especially those in ethnic/racial mi-
+nority and indigenous areas, to critically examine the policy motivations 
+for promoting gentrification. Such scholars should not assume that 
+gentrification unintentionally displaces minorities as an institutional -
+ized economic tool. Rather, the study encourages further exploration of 
+minority displacement beyond the prevailing assumption that such 
+displacement is a product of economic marginalization (Goetz, 2011 ; 
+Wyly & Hammel, 2004 ). This insight is significant because it helps us 
+understand how in the capitalist era, the nation-state no longer needs the 
+use of overt, military, or government force to advance its national goals. 
+Under the disguise of a free market, states may mobilize economic 
+redevelopment projects such as gentrification as more subtle forms of 
+territorial control over spaces featuring a conflict between the ethno -
+national majority and minority. Second, the findings call on scholars of 
+settler colonialism and contested cities to avoid hastily labeling any 
+urban policy leading to minority displacement as “colonialism. ” Rather, 
+scholars should carefully identify the economic opportunities, interests, 
+and capitalist mechanisms that enable such displacement. 
+Finally, using the southeastern perspective to study state-led 
+gentrification in Israel is an attempt to problematize the common 
+practice of grouping all regions other than Western European and North 
+American into the Global South. As Paul Waley (2016) comments, “[t]he 
+space created by the global East can be used to sidestep or better to 
+deconstruct the dominant dualism of global North and global South. ” 
+Thus, state-led ethno-gentrification represents a challenge to the domi -
+nant northwestern perspective of neoliberalism and economic devel -
+opment as the primary force behind gentrification. It also contradicts the 
+Global South perspective, focused mainly on generating growth by the 
+“neoliberal and authoritarian ” state or the nexus of large businesses and 
+political elites. Ethno-gentrification pushes us to observe specific types 
+of state-led gentrification, driven by ethnonationalist forces in spaces 
+characterized by conflict between the ethnonational majority and mi-
+nority around the globe. Future studies on other cases of state-led ethno- 
+gentrification and its mechanisms and the comparison between them 
+will help create a fuller understanding of minority displacement, not 
+only as a product of the unintentional class-ethnicity intersection, but of 
+deliberate policy, an angle that is obscured in today's urban literature 
+(Ellis-Young, 2022 ; Kent-Stoll, 2020 ; Porter & Yiftachel, 2017 ). 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+The data that has been used is confidential. 
+Acknowledgements 
+I would like to thank my PhD mentor, Professor Guy Ben-Porat from 
+Ben Gurion University, for his guidance and advice; Professor Daniel 
+Monterescu from the Central European University for working together 
+on the case of Jaffa; my interviewees in Acre, Lydda and Jaffa who 
+shared their experiences with me; and the anonymous reviewers who 
+gave me constructive and valuable feedback. 

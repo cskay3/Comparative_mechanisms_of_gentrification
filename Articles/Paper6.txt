@@ -1,0 +1,779 @@
+Provincial gentrification intheGlobalNorth –Aliterature review
+JanKube ˇsa,Zolt´anKov´acsb,c,*
+aDepartment ofGeography, University ofSouthBohemia inˇCesk´eBudˇejovice,37115ˇCesk´eBudˇejovice,Jeronýmova 10,CzechRepublic
+bUniversity ofSzeged,Department ofHumanGeography, H-6722 Szeged,Egyetem u.2,Hungary
+cHUN-REN Research CentreforAstronomy andEarthSciences, Geographical Institute, H-1112 Budapest, Buda ¨orsiút45,Hungary
+ARTICLE INFO
+Keywords:
+Literature review
+Provincial gentrification
+Marginalgentrification
+State-ledgentrification
+New-build gentrification
+TourismgentrificationABSTRACT
+Thisstudyaimstoexplorethemaincharacteristics ofgentrification inprovincial citiesintheGlobalNorth.The
+paperbuildsonrecentfindingsofgentrification researchinprovincial citiesfocusingonthedemandside.Forthe
+sakeofthestudyaliterature reviewwasconducted following thePRISMAguidelines. Thepaperconcludes that
+gentrification inprovincial citiesissomewhat delayed,lessdynamicandoftenincomplete compared togentri-
+ficationinmetropolises. Whileinmetropolises, yuppiesareprimarily attracted bywell-paid jobsandenter-
+tainmentintheinnercity,provincial gentrifiers tendtoutilizethepracticalbenefitsofinner-city living(e.g.,
+qualityofhousing,safety,andaccessibility). Amongthevarioustypesofgentrification, marginalgentrification
+seemstobemorewidespread inprovincial cities.Insmallerprovincial citieswithuniversities, studentgentri-
+ficationtendstobecommon, whereastourismgentrification oftendominates incitieswithvaluablehistorical
+buildings. Favorable conditions fornew-build andgreengentrification insmallerprovincial citiesaresustained
+byarelatively goodsupplyofunder-utilized sites,high-quality greeneryandothernaturalelements. Future
+researchshoulddevotemoreattentionnotonlytothedifferentfactorsofgentrification inglobalandprovincial
+cities,butalsotodeveloping conceptual explanations inthesedifferentcontexts.
+1.Introduction
+Bythe1980s,gentrification hadbecomeoneofthemostwidespread
+urbanphenomena changingthesocialandphysicalenvironment ofthe
+inner-city neighborhoods ofNorthAmerican andWesternEuropean
+metropolises. Landlords andreal-estate developers ofadvanced capi-
+talistcitiesrenovated dilapidated buildings foranewemerging social
+class:thehigh-status, inner-city-oriented professionals andmanagerial
+workers,commonly knownasgentrifiers. Thedarksideofthisprocess
+wasthegradualdisplacement oflong-term residents, beinginmostcases
+relatively poor,lesseducated, elderly,andmarginalized. Simulta-
+neously,asystematic studyofgentrification appeared intheliterature
+withaplethoraofconceptsanddefinitions constructed mainlyonthe
+basisofthemetropolises oftheGlobalNorth(Rose,1984;Smith,1979).
+Bythe1990s,evidenceofgentrification wasalreadyreportedfromcities
+ofthesemi-periphery, including thepost-socialist countries ofCentral
+andEasternEurope(CEE)(see,e.g.,Kov´acs,1998;Sýkora,1999).
+However, pastresearchongentrification hasfocusednearlyexclusively
+onmajorurbancentersfromthetopoftheurbanhierarchy, whatR´erat
+andLees(2011)referredtoas“metropolitan gentrification ”.Although intheearly1990sgentrification hasalsostartedtoevolve
+incitiesdowntheurbanhierarchy (Smith,2005;N.Smith,2002),little
+attentionhasbeenpaidtogentrification insmallercities(Prouseetal.,
+2015;Tr´ocs´anyietal.,2024).Thiswasalsoacknowledged bySmithand
+Graves(2005),orMarkleyandSharma(2016)whoarguedthatmost
+groundbreaking studiesingentrification researchhaveconcentrated on
+theexperiences ofglobalcitiesandgentrification insmallercitieshas
+beenoverlooked. Studyingthetrajectories andmotivations ofgentrifiers
+inmetropolitan Zurichandprovincial Neuch ˆatelinSwitzerland R´erat
+(2012)cametotheconclusion thatthedifference betweenurbancon-
+texts(metropolitan versusprovincial gentrification) matters, as
+nonfamily gentrifiers withlifestyleconsiderations wereoverrepresented
+inthemetropolitan gentrification process,whereasprovincial gentrifi-
+cationinvolvedmoretraditional households (including families). Ina
+studyonthepopulation changeintwoprovincial Britishcitycenters
+(BristolandSwansea) TallonandBromley(2004)alsoemphasized the
+importance ofeveryday, mundane, banalandroutineaspectsofcitylife
+amongprovincial gentrifiers likebeingclosetoworkplace andcon-
+sumption asopposedtolifestylemotivations. Alongsimilarlines,dis-
+cussingthearchitectural outcomes oftheculture-led regeneration of
+*Corresponding authorat:University ofSzeged,Department ofHumanGeography, H-6722Szeged,Egyetemu.2,Hungary.
+E-mailaddresses: kubes@pf.jcu.cz (J.Kube ˇs),zkovacs@iif.hu (Z.Kov´acs).
+ContentslistsavailableatScienceDirect
+Cities
+journal homepage: www.elsevi er.com/loc ate/cities
+https://doi.org/10.1016/j.cities.2024.105586
+Received3May2024;Receivedinrevisedform4November 2024;Accepted 12November 2024Cities  157 (2025)  105586  
+Available  online  21 November  2024  
+0264-2751/©  2024  The Authors.  Published  by Elsevier  Ltd. This is an open access  article  under  the CC BY-NC-ND  license  ( http://creativecommons.org/licenses/by-  
+nc-nd/4.0/  ). 
+Knoxville's CenterCityMarkleyandSharma(2016)notethatthebuilt
+landscape ofthegentrifying neighborhood isdominated bycost-
+effectivenewconstructions ratherthanrestorations partlybecausethe
+supplyofbuildings suitableforrestoration islimitedduetothesmall
+sizeofthecity.Aretheresidential motivations andlifestylesofgentri-
+fiersaswellasthepotentials ofgentrification insmallercitiesreally
+differentfromthosedescribed inmetropolises? Thisgapintheliterature
+isthestartingpointofthispaperwhichaimstocapturethespecial
+featuresof“provincial gentrification ”,atermcoinedbyBridge(2003)
+compared tothemetropolitan versionoftheprocess.
+Theaimofthisstudyistoidentify thespecialcharacteristics anddi-
+versityofinner-city gentrification inprovincial contexts intheGlobalNorth
+basedontheexistingliterature. Anumberofurbanresearchers drawthe
+attentiontothespecificity oftheprocesses takingplaceinsmallercities
+compared tothelargecities(metropolises), andtotheunexplored
+character ofthese “provincial ”urbanprocesses –seee.g.Robinson
+(2002),Lees(2006),BellandJayne(2009)andothers.Thedominant
+focusoftheliterature ongentrification isstudyingthedemandsideof
+theprocess,documenting theresidential actorsandtypesofgentrifica-
+tion(seee.g.Janssenetal.,2023;Lees,2018;Leesetal.,2013;Ley,
+1996;R´erat,2012;R´eratetal.,2010).Atthesametimelessattentionis
+paidtothesupplysideofgentrification including developers and
+institutional investors(suchasinsurance companies orpensionfunds).
+Inthisreviewpaperwealsofocusonthemainresidential actorsof
+gentrification, andwetrytoscrutinize howdifferentauthorshave
+definedthesocialhabitusandspatialbehaviorofgentrifiers invading
+theinner-city neighborhoods ofprovincial cities.Withtheseobjectives
+inmindwetrytoaddressthefollowing researchquestions:
+(i)Whatarethemaincharacteristics ofprovincial gentrification and
+towhatextentdotheydifferfromthoseofmetropolitan
+gentrification?
+(ii)Whoaretheresidential actors(gentrifiers) ofprovincial gentri-
+fication,andwhataretheirmainmotivations?
+Basedontheexistingliterature dealingbothwithprovincial and
+metropolitan gentrification, weassumethat(1)thespeedandintensity
+ofprovincial gentrification islowerthanthatofmetropolitan gentrifi-
+cation(see,e.g.,Bridge,2003;Dutton,2005)and(2)unlikeinmetro-
+polises,theclassicformofgentrification islessprevalent inprovincial
+cities,whiledifferentalternatives ofmarginalgentrification aremore
+common(see,e.g.,Tallon &Bromley,2004;R´erat,2012).Asystematic
+reviewoftheexistingliterature canmakegeneralizations andconcep-
+tualizations ofprovincial gentrification possible,whichmayprovidea
+commongroundforresearchers engagedinthefield.Inlightoftheoriginalconceptofgentrification (Glass,1964),this
+studyfocusesonlyonchangesininner-city residential neighborhoods,
+on“inner-city gentrification ”(Ley,1986).Processes referredtoas
+gentrification, butnottakingplaceininner-city neighborhoods (e.g.,in
+suburbanorrurallocations), willnotbeconsidered. Also,LGBTQ,racial-
+ethnicandreligiousformsofgentrification arenotdiscussed inthe
+paper,becausetheyarealreadyveryfarfromGlass'soriginalconceptof
+gentrification meaningthedisplacement ofpoorlong-term residentsina
+neighborhood bythenewlyarrivingrich.Wealsoexcludedcommercial
+gentrification fromthescopeofthestudybecauseitisacommercially
+basedprocessofservicetransformation ratherthanapopulation ex-
+change.Thenumberofpapersongentrification inLatinAmerican,
+Chinese,andothercitiesoftheGlobalSouthhasgrownrecently,and
+someofthemhaveaclearfocusonprovincial cities(Ackermann &
+Visser,2016;Situmorang etal.,2020).However, wehavenotcovered
+theminthisreview,becauseasBetancur(2014),Díaz-Parra (2021),Ren
+(2015),Zhuetal.(2022)andmanyotherspointedout,gentrification in
+citiesoftheGlobalSouthisstronglyinfluenced bythespecificculture
+andthelocalpoliticalcontext(i.e.nationalandlocalpolicies),andthis
+bodyofliterature workswiththeconceptofgentrification somewhat
+uncritically andflexibly.Moreover, thegentrification literature inthe
+GlobalSouthisdevotedalmostexclusively tometropolises suchasSao
+Paulo,RiodeJaneiro,SantiagodeChile,BuenosAiresandotherLatin
+American metropolises, aswellasBeijing,Shanghai, Guangzhou and
+othermillioncitiesinChina,andonlyafewofthemdealwithprovincial
+cities.
+Thestructureofthispaperisasfollows.First,weintroduce themain
+factors,residential actorsandtypesofgentrification observed inthe
+innercitiesofmetropolises, suchascapitalcitiesandmillioncities.Next,
+webrieflydescribeourmethodology. Thesubsequent sectionpresents
+themainfindingsregarding individual typesandresidential actorsof
+provincial gentrification, primarily basedontheliterature. Wethen
+compareanddiscussthemainpeculiarities ofprovincial andmetro-
+politangentrification, anddrawourconclusions.
+2.Gentrification anditsresidential actorsandtypes
+Inthissection,webrieflypresentselectedaspectsofgentrification
+analyzedinmetropolises, sothattheycanbeusedincharacterizing the
+peculiarities ofprovincial gentrification. According totheoriginal
+concept,gentrification referstoaprocessinwhichpeoplewithhigher
+socioeconomic status(gentrifiers) areattractedtophysically upgrading
+inner-city neighborhoods whilelong-term low-income residents are
+displaced (Glass,1964;Rose,1984;Smith,1979).Thisprocessresultsto
+theimprovement ofthebuiltenvironment andpublicinfrastructure of
+Table1
+Typology ofinner-city gentrification.
+Typesofinner-city gentrification Mainresidential actors
+Stages(types)ofclassicgentrification ​
+-pioneering gentrification (Hamnett &Williams, 1980) -pioneers
+-traditional (mature)gentrification (Glass,1964) -yuppiesandyupps
+-super-gentrification (Lees,2003) -super-gentrifiers
+Complementary typesofgentrification ​
+-marginalgentrification (Rose,1984) -marginalgentrifiers
+-gentrification throughyoungtransitory urbanites (Haaseetal.,2009) -youngtransitory urbanites
+-studentgentrification (Ley,1996) -university students
+Specificformsofgentrification ​
+-organized state-ledand/orcity-ledgentrification (Lees,2000) -variousgroupsofgentrifiers
+-new-build gentrification (Lambert &Boddy,2002) -mainlyyoungandaffluentgentrifiers
+-tele-gentrification (Gentileetal.,2015) -richpeopleworkingabroad
+-greengentrification (Dooling,2009) -environmentally orientedgentrifiers
+-tourismgentrification (Gotham,2005) -tourists
+(Source:ownelaboration.)J.Kube ˇsandZ.Kov´acs Cities  157 (2025)  105586  
+2 
+theinner-city neighborhood aswellastherisingprestigeofthearea.
+Explanations ofgentrification focusonboththeconsumption (demand
+side)andproduction (supplyside)frameworks oftheprocess.Onthe
+demandside,middle-class newcomers desireandsearchforeasily
+accessible inner-city well-paid jobsandurbanamenities –including
+entertainment andculture,andaninspiring residential environment
+wheretheycanpursuetheirlifestyle.According tothesupplyside
+explanation, gentrification isdrivenbytherealestateindustryina
+processinwhichdevelopers canutilizetherentgap/value gapofinner-
+citylocationsthroughinvestments. Stateandcitypoliticians canalso
+supportorevenorganizethisprocess.Table1summarizes themain
+typesandformsofinner-city gentrification described intheliterature
+andtherelevantresidential actors(gentrifiers).
+Historicinner-city neighborhoods withaffordable housingand
+distinctgeniuslocifirstattractlessaffluentinner-city-oriented pioneer
+households, including artists,students,hipsters,andyoungpeoplewho
+belongtodifferentsub-cultures, andevensomeyoungentrepreneurs.
+Hamnett andWilliams (1980)referredtothisfirststageofclassic
+gentrification as“pioneering gentrification ”.Thedisplacement oflong-
+termresidentswithlowerincomesismoreorlessabsentatthisstage,
+asisthemassrefurbishment ofthelocalhousingstock.Oncethe
+attentionofthemoreaffluentstrataturnstotheneighborhood andthe
+localhousingstockgoesthroughamoresubstantial modernization,
+“traditional (ormature)gentrification ”evolves,drivenbyhighly-
+educated, well-paid, inner-city oriented,self-centered, andoftensingle
+youngurbanprofessionals; the“yuppies ”.Karsten(2003)widenedthis
+groupbyincluding youngurbanprofessional familieswithchildren;the
+“yupps ”(i.e.,youngurbanprofessional parents).Inanadvanced stageof
+gentrification, Lees(2003)documented eventhedisplacement ofyup-
+piesandyuppsfromthemostprestigious neighborhoods ofglobalcities
+byaffluent “super-gentrifiers ”inaprocessshecalled “super-
+gentrification ”.
+Amongthecomplementary typesofgentrification “marginalgentrifi-
+cation ”(Rose,1984)isknownfromtheless-exposed inner-city neigh-
+borhoods ofmetropolises (Doucetetal.,2011).Itisassociated with
+“marginalgentrifiers ”whoarealsowell-educated, youngerinner-city
+orientedpeople,butwithlowerincomethanyuppiesandyupps.The
+arrivalofyoungsinglepeoplefromthecountryside insearchofinter-
+estingandrelatively well-paid employment intheinnercityhasbeen
+described as“gentrification throughyoungtransitory urbanites ”by
+severalauthors(Buzaretal.,2007;Haaseetal.,2009;Haase,Gross-
+mann, &Steinführer, 2012;Seo,2002).So-called “studentgentrifica-
+tion”alsobelongstothecomplementary typesofthephenomenon.
+Studentscanbecomeactorsingentrification whentheyrentandshare
+apartments ininner-city tenement housesandhencecontribute tothe
+risingimageofsuchneighborhoods (Ley,1996).SmithandHolt(2007)
+referredtostudentsas“apprentice gentrifiers ”,notingthatsomeofthem
+maylaterbecomefull-fledged gentrifiers.
+Specificformsofgentrification donotsomuchdetermine thetypesof
+residential actorsofgentrification asprimarily bytheapplication of
+certainorganizational procedures andspecificfocusofgentrification.
+Theycoverinner-city upgrading processes inwhichdifferentactors
+contribute purposefully orunintentionally totheupgrading ofthebuilt
+environment andthearchitectural andsocialtransformation ofa
+neighborhood.
+Insomecases,thetransformation canbefinancially, legislatively,
+andorganizationally supported bythelocalgovernment orplanning
+authorities inanefforttoimprovethephysical,social,andeconomic
+milieuofaninner-city neighborhood. Thisprocesshasbeenlabeled
+“organized gentrification ”(Lees,2000),oreven “controlled ”or“state-
+led”gentrification (Ogrodowczyk, 2024).Newly-built upmarket hous-
+ingincentrallocations oftenattractyoungwealthypeoplewhocan
+affordtobuyorrentapartments theregenerating theprocessof“new-
+buildgentrification ”(Lambert &Boddy,2002).Richexpatsworkingabroadcanalsoinvesttheircapitalininner-city (new)apartments where
+theycontribute toso-called “tele-gentrification ”byGentileetal.(2015).
+Recently, “green(environmental, ecological) gentrification ”has
+beendescribed intheliterature (seeGould &Lewis,2012),withsub-
+typesof“climaticgentrification ”and “low-carbon gentrification ”
+(Bouzarovski etal.,2018).Duringthisprocess,ecologically oriented
+peoplemovetoinnercitieswheretheyoccupyeco-efficient and/orlow-
+energyhousingand/orapartments nearhigh-quality greenspaces(see,
+e.g.,Dooling,2009;Gould &Lewis,2012).Gotham(2005)coinedthe
+term “tourismgentrification ”,describing howurbanspacesaretrans-
+formedtocatertourists,oftendisplacing long-term residentsbytaking
+andrefurbishing apartments inattractive inner-city areas.Withtherise
+ofonlineplatforms, tourism-led gentrification hasintensified leadingto
+termslike “Airbnb-gentrification ”or“Uber-gentrification. ”Inthenext
+section,themethodology forselectingpublications fortheliterature
+reviewispresented.
+3.Materials andmethods
+Thisstudyaimedtocreateapoolofrelevantacademic publications
+dealingwithgentrification inprovincial cities.Asthereisnoconsensus
+intheliterature regarding thedefinition ofaprovincial city,weapplied
+thefollowing criteriafordefiningprovincial citiesinthisstudy.Cities
+withlessthan1millioninhabitants areconsidered provincial cities;
+however, capitalcitiesbetween500,000and1millioninhabitants are
+omitted,duetotheirpositioninthenationalurbansystemsandtheir
+embeddedness inglobalcapitalflows,astheyoftenexhibitmetropolitan
+characteristics andprocesses(e.g.,Helsinki,Oslo,Dublin).Furthermore,
+wedefined “largeprovincial cities ”asthosewithpopulations between
+500,000and1million, “medium-sized provincial cities ”asthosewith
+populations between250,000and499,999,and“smallprovincial cities ”
+asthosewithpopulations below250,000.
+Forthesakeofthisstudy,asystematic literature searchwascon-
+ductedfollowing thesimplified PRISMAmethod(Moheretal.,2009,see
+alsoJanssenetal.,2023).First,searchexpressions corresponding tothe
+researchquestions ofthepaperwereidentified. Second,theonlineda-
+tabasesofGoogleScholar,WebofScienceandScopuswereusedto
+searchforrelevantscholarlyliterature usingthesearchterms “provin-
+cialcity, ”“smallcity, ”“second-tier city”or“third-tier city”andtheir
+connection withindividual keywords of“gentrification ”,“gentrifier ”or
+“provincial gentrification ”(Fig.1).Simultaneously, byexamining the
+references citedbytheselectedstudiesnewpublications wereaddedto
+thedatabasewhichcontained intotal160records.
+Inthesubsequent phasesofscreening, publications focusingonly
+partiallyongentrification, ordealingwithracial,ethnic,LGBTQand
+commercial variantsofgentrification, orexamining provincial gentri-
+ficationintheGlobalSouth,andpublications withlimitedrelevance to
+theresearchquestions wereexcluded. Finally,betweenMarch2023and
+May2024intotal127publications wereselectedfortheanalysis.All
+papersusedforthisreviewarepeer-reviewed academic publications
+providing detailsonthecomposition ofgentrifiers andtheparticular-
+itiesofgentrification inprovincial citiesoftheGlobalNorth.
+Duringtheanalysisawrittenreportwaspreparedforeachselected
+publication. Itcontained thestudydesign,datagranularity andthemain
+findingsofthepaperrelatedtothereview(research) questions. We
+aimedtounveilgroupsofpublications following similarapproaches and
+reachingsimilarconclusions. Next,asynthesis ofknowledge about
+residential actors(gentrifiers) andtypes(orsubtypes) ofgentrification
+inprovincial citieswasmadeinseveralrounds.Theresultsweresum-
+marizedintables.Simultaneously, knowledge wasextracted fromthe
+publications regarding thedifferences betweenresidential actors(gen-
+trifiers)andtypes(orsubtypes) ofgentrification inmetropolitan and
+nonmetropolitan contexts. Thesefindingsprovided thebasisforthe
+Discussion section.J.Kube ˇsandZ.Kov´acs Cities  157 (2025)  105586  
+3 
+4.Typesofprovincial gentrification
+4.1.Classicgentrification inprovincial cities
+Concepts andtermselaborated forgentrification intop-tiercities
+mayhavesomewhat differentcontentinprovincial cities,aslocal
+framework conditions cansubstantially differ.Unlikeinmetropolises,
+thearrivalofpioneerstoinner-city neighborhoods isnotnecessarily
+triggeredbyarchitectural valuesorgeniuslociinnonmetropolitan con-
+texts.According toProuseetal.(2015)pioneersoftenchoosebetter
+apartments oroccupycertainblockswithbetter-quality housingand
+moreattractive residential environments (seeTable2).Inaddition,the
+composition ofpioneersdiffers;morerepresented groupsincludemod-
+ernleftistintellectuals (Ley&Dobson,2008),youngmiddle-classfamilies,singlemotherswithchildren,anduniversity studentsrather
+thanartists,bohemians andrepresentatives ofdifferentsubcultures.
+Traditional gentrification withyuppieswasobservedinUSprovin-
+cialcitiesasearlyasthe1990s(Bondi,1999;Schuleretal.,1992)and
+continued intothe2000s(Smith &Graves,2005;Yonto &Schuch,
+2020).Gentrification drivenbyfinanciers hasbeenidentified inseveral
+UKcities(Bromleyetal.,2007),suchas,thecenterofLeeds,whichhas
+becomearegionalhubforfinancialservicesandhometofinanceand
+businessprofessionals whomigratedfromLondon(Dutton,2003).The
+influxofaffluentfinanciers andbusinessmen hasalsobeennotedin
+certainUS“NewSouthCities ”,suchasCharlotte (Yonto&Thill,2020).
+Analyzing inner-city regeneration processes, HaaseandRink(2015)also
+identified traditional gentrifiers inlargeprovincial Leipzigwhooccupy
+renovated houseswithlarge,luxurious andexpensive apartments built
+Fig.1.PRISMAflowchart oftheselectionofpublications forsystematic review.
+Table2
+Classicgentrification inprovincial cities.
+Pioneering gentrification
+RuoppilaandK¨ahrik(2003) –Estonia/Tallinn/Kadriorg ,StandlandKrupickaite (2004) –Lithuania/Vilnius/U ˇzupis,CameronandCoaffee(2005) –UK/Gateshead ,GlatterandWiest
+(2007) –E.Germany/Dresden/ ¨AußereNeustad,Thomasetal.(2008) –E.Germany/Magdeburg/Buckau ,LeyandDobson(2008) –Canada/Vancouver/Grandview-Woodland ,Th¨orn
+(2012) –Sweden/Gothenburg/Haga ,Nuttetal.(2013) –Estonia/Tartu/Supilinn ,Prouseetal.(2015) –Canada/ Halifax/G ¨ottingen.
+Traditional gentrification
+Schuleretal.(1992) –USA/Cleveland/Ohio City,Bondi(1999) –UK/Edinburgh ,Dutton(2003,2005) –UK/Leeds,SmithandGraves(2005) –USA/Charlotte/Fourth Ward,Glatterand
+Wiest(2007) –E.Germany/Dresden/ ¨AußerenNeustadt,Bromleyetal.(2007) –UK/Birmingham, Bristol,CardiffandSwansea,Hedinetal.(2012) –Sweden/ Gothenburg andMalm ¨o,
+HaaseandRink(2015) –E.Germany/Leipzig ,YontoandThill(2020) –USA/Charlotte ,YontoandSchuch(2020) –USA/Charlotte.
+Super-gentrification
+Hedinetal.(2012) –Sweden/Gothenburg andMalm ¨o.J.Kube ˇsandZ.Kov´acs Cities  157 (2025)  105586  
+4 
+duringthelate19thcenturyurbanboom(Gründerzeit ).
+4.2.Complementary typesofgentrification inprovincial cities
+Complementary typesofgentrification areidentified according to
+thedominance ofacertaingroupofatypicalresidential actors,suchas
+marginalgentrifiers, youngtransitory urbanites, andstudents.Bridge
+(2003)andDutton(2003)highlighted thesignificant presenceofmar-
+ginalgentrifiers inBristol,Leeds,andotherBritishprovincial cities(see
+Table3).Bridge(2006)explained thisphenomenon throughthepres-
+enceofalargenumberofwell-educated butmoderately paidpublic-
+sectoremployees. Bondi(1999)underlined theimportance ofrela-
+tivelysecure,career-oriented singlewomeninEdinburgh's marginal
+gentrification. Incasesofmarginalgentrification, somelong-term poor
+residentsmayremainintheneighborhood. Prouseetal.(2015)referred
+tothisprocess(inCanadian Halifax)as“incomplete gentrification ”and
+GalsterandBooza(2007)introduced theterm “bipolarneighborhood ”
+withinthiscontext.ThisprocesswasalsodetectedinZaandam inthe
+northern partoftheNetherlands, whereDutchmarginal gentrifiers
+displaced poorforeignimmigrants (Keskiner &Waldring, 2023).Mar-
+ginalgentrification isalsoprevalent inprovincial citiesacrosspost-
+socialistCentralandEasternEurope(CEE)(e.g.,Sagan &Grabkowska,
+2012;orGrabkowska, 2015inGda´nsk),whereincomeandwealthdis-
+paritieshavenotyetreachedWesternlevels.Marginalgentrification has
+evenbeendocumented inhigher-quality prefabricated housingestates
+closetothecentersofPolishandCzechcities(Gądecki,2014;Kube ˇs,
+2017).
+Examining socio-demographic changes inPolishandCzech
+nonmetropolitan innercities,Haaseetal.(2009)emphasized the
+importance of“youngtransitory urbanites ”(abbreviated as“ytus”)who
+migratefromruralareas,smallertowns,orevenfromsuburban homes
+oftheirparents(Kube ˇs,2017).Theyaredrawnbywell-paidjobsandthe
+allureofanindependent urbanlifeinthecitycenter.Inlaterstagesof
+theirlife,theymaybecomemarginal gentrifiers, yuppies,yupps,or
+suburbanites (Haase,Grossmann, &Steinführer, 2012),buttheymay
+alsoreturnhome,attractedbycheaperruralhousing(Kube ˇs&Kov´acs,
+2020).Holmetal.(2015)described themas“contingent gentrifiers ”,
+whoresideinrentedorsharedaccommodations “hereandnow ”,where
+thequalityofhousingislessimportant forthem.Haase,Grossmann, and
+Steinführer (2012)werereluctanttolabelytusasgentrifiers duetotheir
+poorerhousingconditions andtransienturbanpresence.However, ifthe
+long-term residentsaredisplaced, ytusaregentrifiers. Officialstatistics
+oftenoverlookthisprocessbecausethepresenceofytusininner-city
+locationsareoftenunregistered andtemporary.
+Theprocessof“studentgentrification ”(andthewholestudentifica-
+tion)inprovincial university citiesandtownshasgainedconsiderableattention intheliterature. According toHubbard(2008),university
+studentsconstitute morethan10%ofthepopulation insmallerUK
+university citiesandoccupiedover20%ofapartments insomeinner-
+cityneighborhoods. Studentgentrification werereportedalsoinother
+European cities(e.g.,Nuttetal.,2013;Wiest&Hill,2004),andinCa-
+nadiancitieslikeWaterloo, wherecorporatized “new-build studentifi-
+cation ”emergedasprivatedevelopers realizedthesignificant demand
+forrentalhousingamongstudentsthatcouldnotbeaccommodated by
+freerentalstocks(Revington, 2022).Youngacademics employed at
+universities andresearchinstitutes alsocontribute tothisprocess
+(K¨ahriketal.,2016).Thegrowingconcentration ofstudentgentrifiers in
+someinner-city neighborhoods canleadtorisingrents,displacement of
+localpeople,andhousingshortages (see,e.g.,Sageetal.,2012;
+Gonz ´alez&Hodkinson, 2014).Tensionsbetweenstudentgentrifiers and
+long-time residentsmustsometimes beresolvedbycityanduniversity
+authorities (Hubbard, 2008).IntheUK,studentdormitories havebeen
+expanding inrecentyearsduetoinvestments fromthestate,university,
+anddevelopers (Smith &Hubbard, 2014).Thistrendmaypotentially
+reduceoccupancy ratesandrentalpricesininner-city housingstocks,a
+phenomenon labeledas“de-studentification ”byKintonetal.(2016).
+Anewphenomenon ofstudentification hasemergedintheSelwerd
+neighborhood ofGroningen, auniversity townintheNetherlands,
+whereamixofstudentsandelderlyresidentscoexist.Somestudentslive
+rent-freewithseniorsinapartments whileproviding themassistance
+(Lager&vanHoven,2019).Revington (2022)examined thephenom-
+enonofco-housing betweenstudentsandyoungersingleresidentsinthe
+innercityofWaterloo, Canada,labelingit“post-studentification ”.The
+processofstudentgentrification hasalsointensified inprovincial cities
+ofCEEcountriesafterthecollapseofstatesocialism. Thiswasthecasein
+citiesintheeasternpartofGermany, wherestudentscouldaffordtorent
+high-quality inner-city apartments afterGermanreunification (Wiest&
+Hill,2004).InlessaffluentCEEcountries, studentstypically rent
+cheaperapartments oflowerquality(e.g.,Fabulaetal.,2017;Murzyn-
+Kupisz &Szmytkowska, 2015).
+4.3.Specifictypesofgentrification inprovincial cities
+Amongthewidespectrum of“specificformsofgentrification, ”
+controlled ororganized formsoftheprocessarenotable.InLeeds,
+controlled gentrification occurredaspartofacity-ledinitiativeaimedat
+promoting socialmixingandphysicalregeneration (Gonz ´alez&Hod-
+kinson,2014).Similarly, inRotterdam, whereinterventions focusedon
+reducingcrimeratesintheinnercityinvolvedactiveparticipation of
+housingcooperatives (Doucet &Koenders, 2018;Uitermark etal.,
+2007).Organized andcontrolled gentrification hasbeenfacilitated by
+thehighshareofpubliclyownedrentalhousinginsomeprovincial citiesTable3
+Complementary typesofgentrification inprovincial cities.
+Marginalgentrification
+Bondi(1999) –UK/Edinburgh/Stockbridge ,Bridge(2003,2006,2007) –UK/Bristol/Westville ,Dutton(2003) –UK/Leeds,TallonandBromley(2004) –UK/Bristol andSwansea,
+HjortholandBjørnskau(2005) –Norway/Trondheim andBergen,Doucetetal.(2011) –Netherlands/Rotterdam andUK/Glasgow, Wardetal.(2010) –UK/Manchester/ Chorlton,Sagan
+andGrabkowska (2012) –Poland/Gda ´nsk,Gądecki(2014) –Poland/Nowa Huta,Prouseetal.(2015) –Canada/Halifax ,Hochstenbach andvanGent(2015) –Netherlands/Rotterdam ,
+Grabkowska (2015) –Poland/ Gda´nsk/Wrzeszcz Dolny,Grabkowska andFrankowski (2016) –Poland/Gda ´nsk/Wrzeszcz ,K¨ahriketal.(2016) –Estonia/Tartu andCzechia/ ˇCesk´e
+Budˇejovice,KeskinerandWaldring (2023) –Netherlands/Zaandam .
+Gentrification throughyoungtransitory urbanites
+Seo(2002) –UK/Manchester andGlasgow,Buzaretal.(2007) –E.Germany/Leipzig/Altlindenau andNeustadt-Neusch ¨onefeld,Thomasetal.(2008) –E.Germany/Magdeburg/Buckau ,
+Haaseetal.(2009) –Czechia/Brno andPoland/ Ł´od´z,Steinführer andHaase(2009) –E.Germany/Leipzig ,Steinführer etal.(2010) –Poland/ Ł´odzandCzechia/ Brno,Haase,
+Grossmann, andSteinführer (2012) –Czechia/Brno andPoland/ Ł´od´z,Haase,Herfert,etal.(2012) –E.Germany/Leipzig ,K¨ahriketal.(2015) –Estonia/Tallinn ,K¨ahriketal.(2016) –
+Estonia/Tartu andCzechia/ ˇCesk´eBudˇejovice.Fabulaetal.(2017) –Hungary/Budapest.
+Studentification, studentgentrification
+InUK:Smith(2005) –UK/Leeds,SmithandHolt(2007) –UKprovincial cities,Hubbard(2008) –UK/Cambridge, Oxford,Brighton, Nottingham, CardiffandLeeds,Sageetal.(2012) –
+UK/Loughborough andBrighton/ ElmGrove,Smithetal.(2014) –UK/Nottingham, SalfordandRushcliffe, SmithandHubbard(2014) –UK/Cardiff,Exeter,Swansea andHull,Gonz ´alez
+andHodkinson (2014) –UK/Leeds,Kintonetal.(2016) –UK/Loughborough ,Ruiu(2017) –UK/Newcastle ,Kintonetal.(2018) –UK/Loughborough.
+OutsideUK:WiestandHill(2004) –E.Germany/Leipzig/Südvorstadt ,Wiest(2006) –E.Germany/Magdeburg/ Buckau,GlatterandWiest(2007) –E.Germany/Dresden ,Kenna(2011) –
+Ireland/Cork ,Hiobetal.(2012) –Estonia/ Tartu/Supilinn ,Gastaldi(2013) –Italy/Genoa ,Nuttetal.(2013) –Estonia/Tartu/Supilinn ,Murzyn-Kupisz andSzmytkowska (2015) –
+Poland/Gda ´nsk,Grabkowska andFrankowski (2016) –Poland/Gda ´nsk/Wrzeszcz ,K¨ahriketal.(2016) –Czechia/ ˇCesk´eBudˇejoviceandEstonia/Tartu ,LagerandvanHoven(2019) –
+Netherlands/Groningen ,Miessner(2021) –W.Germany/Goettingen, Revington (2022) –Canada/Waterloo .J.Kube ˇsandZ.Kov´acs Cities  157 (2025)  105586  
+5 
+ofCEE(Ogrodowczyk, 2024).After1990,thepopulation ofEastGerman
+provincial citiesdeclinedconsiderably duetoextensivemigration tothe
+westernpartofthecountry.Inresponse, thenationalgovernment,
+subsidized therenovation andimprovement ofold,partiallyempty
+inner-city tenement blocksandsupported thearrivalofnewresidents
+(oftenyoungpeople).Theresultwastheso-called “softgentrification
+withoutdisplacement ”(see,e.g.,Wiest &Hill,2004andothersin
+Table4).
+Thetransformation ofprovincial “lostindustrial (orrusty)cities ”
+affectedbydeindustrialization inrecentdecadesmeritsspecialattention
+ingentrification research.Localgovernments inthesecitieshaveoften
+supported therenovation ofdilapidated housesandpublicspacesin
+formerworking-class neighborhoods toattractyoungerandmore
+affluentpeople(see,e.g.,Rofe,2004;Rousseau, 2009).Someofthese
+neighborhoods havebecomeprestigious residential areas(McIntyre,
+2006),showingclearsignsofgentrification. However, theseeffortswere
+notalwayssuccessful (Rousseau, 2012).
+Theorganized “brutalgentrification ”plannedintheinnercityof
+SwedishLandskrona (Baeten &Listerborn, 2015)tellsadifferentstory.
+Theadjective “brutal ”referstotheplanaimedatrelocating foreign
+immigrants fromtheinnercityandextensively modernizing thelocal
+housingstockafteramajorpoliticalchangeinthecity'sleadership. A
+similarprocesshasbeenreportedintheneglected historiccoreof
+Veszpr ´em,Hungary, wherehistorically valuablebutdilapidated houses
+wereregenerated byentrepreneurs andlong-term residentsunderthe
+supervision ofthemunicipality, whilemarginalized Romaresidents
+wereofferedfinancialcompensation tofindapartments outsidethecity
+(Nagy&Tim´ar,2012).
+Thereisarapidlygrowingbodyofliterature on“new-build gentri-
+fication ”inprovincial cities(Boddy,2007;Cameron, 2003;Graham,
+2023;Jak´obczyk-Gryszkiewicz etal.,2014;Kube ˇs,2017;Marci ´nczak&
+Sagan,2011;Rebernik, 2013).According toCameron (2003),Boddy
+(2007),andTallonandBromley(2004),thenumberofnewandpartially
+subsidized multi-apartment houseshassignificantly grownintheinner
+citiesofUKprovincial citiessincetheturnofthemillennium. This
+processcouldbeassociated withthe“GoingforGrowth ”policyimple-
+mentedintheprovincial citiesinthenorthoftheUKundergoing
+massivedeindustrialization inanattempttoimprovethephysical
+environment oflocalworking-class neighborhoods andattractmiddle-
+classhouseholds (Cameron, 2003).IntheCanadian provincial cityof
+Calgary,thelocalleadership aimedtoattractthecreativeclasstothe
+innercity;however, theresultwasmainlynew-build gentrification
+(Graham,2023).Inpost-socialist CEE,theresidential actorsdriving
+new-build gentrification areprimarily affluentresidents, includingwealthyforeigners andreturnees fromtheWest(Holmetal.,2015),as
+theprocessislargelyunsubsidized.
+Recently, “greengentrification ”hasoccurredinprovincial cities.The
+renovation ofexistingparksanddevelopment ofnewgreenareasin
+inner-city locations haveoftenstimulated gentrification innearby
+blocks(see,e.g.,Goossens etal.,2020inGhent;Alietal.,2020in
+Leipzig).TheflatcoastofFloridaandtheentiresoutheastern USare
+increasingly beingthreatened byhurricanes andrisingoceanlevels.
+Therefore, developers andwealthypeopleareinterested inhigherlo-
+cationsinprovincial citiesalongthecoast,whichcanresultinso-called
+“climategentrification ”(Keenanetal.,2018).Bouzarovski etal.(2018)
+identified “low-carbon gentrification ”andrelateddisplacement in
+Gda´nsk,Poland,underthepretextofresponding toclimatechangeand
+energyefficiency imperatives.
+Theprocessof“tourismgentrification ”hasbeenreportedmainly
+fromsouthernEuropean provincial cities,whereinner-city residentscan
+bedividedintotwogroups:thosewhofearovertourismandresulting
+tourismgentrification, andthosewhosupportorprofitfromtheprocess
+(Almeida-Garcia etal.,2021).TheinnercityofSevilleprovidesagood
+exampleofthesimultaneous presenceoftourismgentrification through
+AirbnbandHomeAway, aswellastraditional gentrification (Jover&
+Díaz-Parra, 2020).NewOrleanspresentsacasewhereentertainment
+companies broughttourismgentrification anddisplacement tothecity
+center(Gotham,2005).
+Evaluating theimpactsoftourismgentrification, Hübscher (2019)
+arguedthattheprocesscanbealifesaverforneglected historically
+valuablehousesin“sleepy ”provincial cities.Forexample,ACoru ˜na(La
+Coru ˜na)experiences anacceptable co-existence oftourismgentrifica-
+tion,city-ledresidential gentrification, andcommercial gentrification
+(Rodríguez-Barc ´onetal.,2020).Areasonable numberofapartments and
+housesoccupiedbytouristscanimproveofthelocaleconomyandthe
+useofvacanthousingstockintheSpanishprovincial cityofPontevedra
+(Torres-Out ´on,2020).VicarioandMartinez-Monje (2003)predict
+physicalregeneration andgentrification intheLaViejaneighborhood of
+Bilbao,Spain,inconnection withtheopeningofamajormodernart
+museum. Duetoover-tourism, amajorportionoftheoriginalin-
+habitants leftthehistorical centerofVenice.Theirformerresidences
+havebeenconverted intohotels,guesthouses, andluxuryapartments
+cateringtoprominent artistsandculturally orientedpeople,thereby
+preserving someresidential buildingsinthecitycenter(Minoia,2017).
+Inordertorevealthespecialfeaturesofprovincial gentrification in
+thenextsection,wewillcompareanddiscussthefactors,actorsand
+typesofthisprocessdescribed intheliterature devotedtometropolitan
+andprovincial cities.Table4
+Specificgentrification inprovincial cities –types,studiesandcities.
+Controlled andorganized gentrification
+Charlesworth andRobb(1988) –W.Germany/Nürnberg ,Wagner(1995) –USA/Baltimore, Cameron(2003) –UK/Newcastle,WiestandHill(2004) –E.Germany/Leipzig ,McIntyre
+(2006) –UKGlasgow,Uitermark etal.(2007) –Netherlands/Rotterdam/Hoogvliet ,GlatterandWiest(2007) –E.Germany/Dresden/ ¨AußerenNeustadt,Rousseau (2009) –France/
+Roubaix andUKSheffield,NagyandTim´ar(2012) –Hungary/Veszpr ´em,Rousseau (2012) –France/Roubaix ,vanDenBerg(2013) –Netherland/Rotterdam ,Gonz ´alezandHodkinson
+(2014) –UK/Leeds, HaaseandRink(2015) –E.Germany/Leipzig ,BaetenandListerborn (2015) –Sweden/Landskrona ,Th¨ornandHolgersson (2016) –Sweden/Gothenburg/New
+Kvilleb ¨acken,MarkleyandSharma(2016) –USA/Knoxville ,Stouten(2017) –Netherlands/Rotterdam/Katendrecht ,DoucetandKoenders (2018) –Netherlands/Rotterdam/
+Afrikaanderwijk, Graham(2023) –Canada/Calgary/East Village,Ogrodowczyk (2024) –Poland/ Ł´od´z.
+New-build gentrification
+Cameron(2003) –UK/Newcastle ,Rofe(2004) –Australia/Newcastle ,Boddy(2007) –UK/Bristol, Leeds,Newcastle, Edinburgh, CardiffandSwansea,Bromleyetal.(2007) –UK/
+Birmingham, Bristol,CardiffandSwansea,Marci ´nczakandSagan(2011) –Poland/ Ł´od´z,R´erat(2012) –Switzerland/Zürich andNeuch ˆatel,Haase,Herfert,etal.(2012) –E.Germany/
+Leipzig,Rebernik(2013) –Slovenia/Lubljana ,Rochovsk ´aetal.(2013) –Slovakia/ Bratislava,Holmetal.(2015) –E.Germany/Leipzig andPoland/ Ł´od´z,Jak´obczyk-Gryszkiewicz etal.
+(2014) –Poland/ Ł´od´z,Jak´obczyk-Gryszkiewicz etal.(2017) –Poland/Gda ´nskandŁ´od´z/Letnica andWrzeszcz,Kube ˇs(2017) –Czechia/ ˇCesk´eBudˇejovice/Pra ˇzsk´epˇredm ˇestí,Ellis-Young
+andDoucet(2021) –Canada/Kitchener andWaterloo, Graham(2023) –Canada/Calgary/East Village.
+Greengentrification
+Bouzarovski etal.(2018) –Poland/Gda ´nsk/Letnica ,Keenanetal.(2018) –USA/Miami/Dade County,Alietal.(2020) –EastGermany/Leipzig/Lene-Voigt-Park, Goossensetal.(2020) –
+Belgium/Ghent ,RigolonandN´emeth(2020) –USA/US cities, Łaszkiewicz (2023) –Poland/ Ł´od´z.
+Tourismgentrification
+VicarioandMartinez-Monje (2003) –Spain/Bilbao/La Vieja,Gotham(2005) –US/New Orleans/French Quarter,Minoia(2017) –Italy/Venice ,Hübscher (2019) –Spain/Santa Cruzde
+T./Buenos AiresandLosLlanos,Gonz ´alez-P ´erez(2020) –Spain/Palma deMallorca,Domínguez-Mujica etal.(2020) –Spain/Las PalmasdeG.C./Isleta-Puerto-Guanarteme ,Domínguez-
+Parraga(2020) –Spain/C ´aceres,JoverandDíaz-Parra (2020) –Spain/Seville/ Alameda,Torres-Out ´on(2020) –Spain/Pontevedra, Rodríguez-Barc ´onetal.(2020) –Spain/A Coru ˜na,
+Almeida-Garcia etal.(2021) –Spain/M ´alagaandPoland/Krak ´ow,Katsinas(2021) –Greece/Thessaloniki ,Mermet(2022) –Iceland/Reykjavík ,Noblejasetal.(2023) –Spain/M ´alaga.J.Kube ˇsandZ.Kov´acs Cities  157 (2025)  105586  
+6 
+5.Discussion
+Thisresearchnotonlyidentified arobustandexpanding bodyof
+literature ongentrification inprovincial citiesbutalsoexamined the
+factors,actorsandtypesofthisprocess.Basedontheliteraturereview,it
+isevidentthatgentrification inprovincial citiesisgenerallydelayed,has
+alowerintensity, andisoftenincomplete compared togentrification in
+metropolises (e.g.,Bridge,2003;Dutton,2005amongothers).Tallon
+andBromley(2004),Bromleyetal.(2007),andProuseetal.(2015)
+compared gentrification insmallandlargeprovincial cities,andpro-
+videdevidencethatthepositionofcitiesbypopulation sizemattersin
+thiscontext.Bridge(2003)alsonotedthatgentrifiers inLondonexhibit
+alltheimportant characteristics offullgentrifiers, whilethoseinpro-
+vincialBristoldisplayonlysomeofthesecharacteristics. Butexamples
+ofhighergentrification intensityinprovincial citiesarereportedfrom
+smallercities,suchasKingston, Canada,whereadominant university
+playsacentralrole(Meligrana &Skaburskis, 2005).Whencomparing
+themechanisms ofmetropolitan andprovincial gentrification, Lees
+(2000),Dutton(2003),SmithandGraves(2005),andButler(2007)
+foundthatprovincial gentrification hasmanysimilarities withmetro-
+politangentrification, buttheprocessalsohasitsownpeculiarities.
+Dutton(2005)arguedthatmetropolitan andprovincial gentrification
+aretwodifferentprocesses.
+Theeconomic benefitsofgentrification knownfrommetropolises
+canalsobeobservedinprovincial cities –thearrivalofrelatively rich
+gentrifiers bringsmoreincometoprovincial citiesfromtaxesdueto
+higherpropertyvaluesandbusinesstaxes,andprovincial gentrification
+improvesalsothetechnicalinfrastructure andservicefacilities(Bridge,
+2006;Ciesi ´ołka&Ma´ckiewicz, 2020;Dutton,2005;Torres-Out ´on,
+2020).Compared tothemetropolises, however,theseeconomic benefits
+aresomewhat lower.According tostatepricemaps,rentpricesininner
+citydistrictsofCzechprovincial citiesareabout59%compared toinner
+Prague.Thisislessbeneficial tohomeowners anddevelopers inpro-
+vincialgentrification, butbeneficial toprovincial marginal, studentand
+transitory gentrifiers. However, theeconomic costsassociated with
+providing housingforpeopledisplaced bygentrification andtheneed
+forgreatersupportforneighborhoods affectedbythearrivalofdis-
+placedpeople,whichalsoexistinprovincial cities,cannotbeignored
+(Glynn,2008;Prouseetal.,2015).
+According toSlater(2002),gentrification “trickles ”or“cascades ”
+downfrommetropolitan toprovincial citiesthroughthehierarchical
+spatialdiffusion. Atkinson andBridge(2005)notedthesubsequent
+transferofcapitalanddevelopers' effortstorenovateinnercitiesfrom
+metropolises toprovincial cities.Inadditiontothegeneralfactorsand
+actorsofgentrification, Dutton(2003)drewattention tothelocal
+(regional) causesofearlygentrification developments inLeeds,suchas
+earlystudentgentrification, city-controlled gentrification, andmigra-
+tionoffinanciers fromLondon.According toLees(2006),thetiny
+AtlanticPortlandnearBostonexperienced gentrification veryearlydue
+tothegrowthofthemiddleclassemployed inserviceinthisculture-led
+andhistoriccity.
+Inthepublications, wenotedinteresting territorial linksbetween
+gentrification inprovincial citiesandmetropolises. Bondi(1999)and
+Dutton(2003)highlighted themovement ofFIREspecialists from
+metropolitan headquarters toprosperous provincial cities,generating
+provincial gentrification. Ocejo(2019)notedthatthosedisplaced by
+gentrification ininnerNewYorklaterestablished themselves asgen-
+trifiersinsurrounding towns.NelsonandFrost(2022)notedthe
+migration ofgentrifiers frommetropolises tosmallcitiesandtowns
+duringtheCovid-19pandemic. Ellis-Young andDoucet(2021)detailed
+gentrification intwosmallerCanadian provincial cities,facilitated by
+theintroduction ofarapidtramlinktothelargernearbycityof
+Waterloo.
+Thedifferences betweengentrification inmetropolises andprovin-
+cialgentrification canbepartlyexplained byvariations amongrespec-
+tivegentrifiers, whichresultfromcapitalaccumulation. Potentialgentrifiers inprovincial citiesaresuppliedlesswithwell-paid jobsin
+services, aswellascorresponding culturalandleisureactivities
+compared tometropolises, andtheirfinancialpowerismorelimited
+(Butler &Robson,2003).According toBridge(2003)andTallonand
+Bromley(2004),themotivations ofgentrifiers alsotendtobesomewhat
+different. Inprovincial cities,gentrification isoftendrivenbythe
+practicalbenefitsofinner-city living,whilemetropolitan areasempha-
+sizetheattractiveness ofdowntown jobs,entertainment, andcultural
+amenities indowntown areas.Bromleyetal.(2007)andR´erat(2012)
+providedevidencethatfamilygentrifiers aremoresignificantly involved
+ingentrification inprovincial cities,whileinmetropolises, gentrifiers
+areoftensinglesandcoupleswithoutchildren.Inmetropolises, gentri-
+ficationisalsosupported bylargenationalandtransnational developers
+andforeigngentrifiers (Sýkora &Bouzarovski, 2012),inprovincial
+cities,gentrification isbasedmoreonlocalandregionalresources
+(Prouseetal.,2015).
+Insmallprovincial citieswithvaluablearchitecture, historicurban
+fabric,andgeniusloci,pioneering gentrification isoftenledbylocal
+artists,artisticcraftsmen, andconservationists whoarealsoaccompa-
+niedbystudentsandyoungpeople.Inmetropolises, thesepioneersare
+usuallylaterreplacedbymoreaffluentgentrifiers ofhigherstatus.In
+gentrified neighborhoods ofprovincial cities,someofthewealthier
+long-term residentsmaychoosetoremainintheneighborhood after
+renovation, aphenomenon described as“community gentrifiers ”
+(Bridge,2003;Wardetal.,2010),eventhoughtheydonotdisplace
+anybody.
+Compared tometropolises, thepooloftraditional gentrifiers in
+provincial citiesisoftenlimitedastheyaremainlythe“product ”ofwell-
+paidjobsinsectorslikefinance,insurance, andrealestate(FIRE),in-
+formation andcommunication technology (ICT),andotherhigh-tech
+sectorswhichareusuallyunderrepresented insmallercities(Bromley
+etal.,2005).However, thismaydifferinlargerprovincial citiesthat
+havebecomeimportant regionalcentersoffinance,trade,andtechno-
+logicaldevelopment, likeEdinburgh (Bondi,1999),Leeds(Dutton,
+2003),Bristol(Bromleyetal.,2007),orCharlotte (Yonto &Schuch,
+2020).
+Theextentofrenovations ingentrified neighborhoods differsbe-
+tweenprovincial citiesandmetropolises. Forexample,inthegentrified
+partsoftheCzechprovincial cityofˇCesk ´eBudˇejovice,approximately 50
+%ofbuildingswererenovated (Kube ˇs(2017),whileinthecapitalcityof
+Prague,thefigurewas63%(Pancov ´a,2023).Alowerlevelofdynamism
+isalsoreflectedbythegreaterpersistence oftheoriginalpoorpopula-
+tionintheinner-city neighborhoods ofprovincial cities(seeBillingham,
+2017).Inmetropolises, gentrification tendstospreadthroughout the
+neighborhood, whileinsmallerprovincial cities,itmaybelimitedto
+certainstreetsorpocketswithintheneighborhood (Prouseetal.,2015;
+Ruoppila &K¨ahrik,2003).
+Thepresenceofyoungtransitory urbanites (ytus)hasbeendocu-
+mentedinmanyprovincial citiesofvaryingsizes(seeTable3).The
+growingdemandforhighereducation inrecentdecadeshasledtoan
+increaseinthenumberofprovincial universities andtheirstudent
+populations, contributing tothegrowthofstudentgentrification (see
+studieslistedinTable3).ManyoftheUK'sprovincial university cities
+havehigherproportions ofuniversity studentsandmorepronounced
+studentgentrification thanLondon(HESA,2023;Hubbard, 2008).The
+influxofyounggentrifiers (mainlyuniversity students,ytus,andyoung
+marginal gentrifiers) intotheinnerareasofprovincial citiescan
+significantly rejuvenate thisagingenvironment (Tallon &Bromley,
+2004;Moos,2016).
+Identifying commonfeaturesofcontrolled andorganized gentrifi-
+cationinprovincial citiesischallenging duetothediversehousing
+policiesandregeneration strategies oflocalmunicipalities (Tallon &
+Bromley,2004).Moreover, bothlocalandnationalpoliciesandstrate-
+giesasfactorscanchangequickly,particularly withshiftsingovernment
+leadership, whicharemorecommoninsmallercities(seeBaeten &
+Listerborn, 2015).Amongthelostindustrial andrustycitiesimpactedbyJ.Kube ˇsandZ.Kov´acs Cities  157 (2025)  105586  
+7 
+controlled ororganized regeneration andsubsequent gentrification,
+provincial citiesareoverrepresented. Conversely, metropolises are
+usuallylessindustrialized, haveamorebalancedbusinessstructure, and
+hence,theybetterovercome challenges causedbydeindustrialization.
+Smallerprovincial citiesoftenlaunchsubsidyprogramaimedat
+constructing newaffordable housingforyounglocalfamilieswithlower
+incomes(Bromleyetal.,2005;Tallon &Bromley,2004),apracticeless
+commoninmetropolises. According totheauthors'calculations, the
+pricepersquaremeterofanewapartment insmallCzechprovincial
+citiesisonlyapproximately two-thirds thatofmetropolitan Prague.
+Opportunities fornewconstruction alsodiffer,asthereismorevacant
+landintheinnercitiesofprovincial citiescompared tometropolises.
+Thesefactorscreatefavorable conditions fornew-build gentrification in
+provincial cities(Boddy,2007;Ellis-Young &Doucet,2021;Lambert &
+Boddy,2002;R´erat,2012).Koumparelou etal.(2023)evenobserved
+theproliferation ofsingle-family homesonbrownfield sitesnearthe
+centerofprovincial Leipzig,whichtheyidentified asinner-city subur-
+banization andasnew-build gentrification.
+Amongspecifictypesofgentrification, greenandtourismgentrifi-
+cationdeservespecialattentionwhencomparing provincial citiesand
+metropolises. Smallerprovincial citiesusuallyhavegoodconditions for
+greengentrification thankstotheirextensive andhigh-quality green
+spaces(cityparks,publicgardens)andnaturalfeatures(e.g.riverbanks)
+intheinnercityandonitsoutskirts. Significant tourismgentrification
+tendstobeevidentinsmallerprovincial citieswithsignificant tourist
+traffic(Torres-Out ´on,2020andothers).Itmayadversely impacthous-
+ingpricesforlocalresidents (Domínguez-Parraga, 2020;Gonz ´alez-
+P´erez,2020).Localgovernments ofsuchcitiesactivelystrivetoretain
+residents ininner-city areastopreventthemfrombecoming “ghost
+towns ”outsidethetouristseason.
+6.Conclusions
+Thestudyofgentrification hasoverwhelmingly focusedonlarge
+urbancentersintheliterature, leavingprovincial citiescomparatively
+unstudied inthisregard.Thisreviewaimedtoscrutinize themost
+important differences inthemechanisms, residential actorsandtypesof
+gentrification betweenmetropolises andprovincial citieswithless
+diverseeconomies andlesspolarizedpopulations. Acertainlimitation of
+thisstudyisthatthecasestudiesanalyzedareonlyfromtheGlobal
+Northandtheirfocusispredominantly onthedemandsideofthe
+process.
+Basedonthereviewedliterature, wecanconcludethatgentrification
+inprovincial citiestendstobesomewhat weakeranddelayedcompared
+tothatinmetropolises. Provincial gentrifiers placemoreemphasis on
+thepracticalbenefitsofinner-city livingoverculturalandentertainment
+amenities andlifestylemotivations, whicharemoresignificant for
+metropolitan yuppiesandyupps.Theliterature suggeststhatgentrifi-
+cationinprovincial citiesoftenexhibitsamixedpatternwithinneigh-
+borhoods, involving pioneer,marginal, ytus,student,andtraditional
+gentrifiers, sometimes itisinfluenced bylocalgovernment. Thethreatof
+displacement duetoupwardeconomic pressurehasoftenbeenlessse-
+vereinprovincial cities,andsomevulnerable residents remainin
+gentrified neighborhoods. Intheprestigious inner-city neighborhoods of
+metropolises, gentrification tendstobemorepronounced anduniform
+initseffects;ithasamoreextensive coverage, resultingingreater
+displacement oforiginalresidents.
+Whilethereviewed papersoftensuggestthatgentrification inpro-
+vincialcitiesisgenerallylessintensethaninmetropolises (thefirstinput
+assumption) andlessintenseinsmallerprovincial citiesthaninmid-
+sized,thischaracterization doesnotapplyacrossallprovincial cities
+andtypesofgentrification. Extensive studentgentrification canbefound
+insmallerprovincial university cities,strongpioneering gentrification is
+oftendescribed forsmallerprovincial citieswithvaluablehistorical
+cores,androbusttourismgentrification cantakeplaceinsmallpro-
+vincialcitieswithsignificant touristattractions. Smallerprovincial citiesalsohavegoodpreconditions fornew-build andgreengentrification.
+Theliterature analysisconfirmed thatclassicgentrification occursona
+smallerscaleinthesecities,withmarginalgentrification beingmore
+widespread inprovincial citiescompared tometropolises (thesecond
+assumption).
+Existingstudiesonprovincial gentrification arebasedondiverse
+methodologies thatprovideempirical evidencefromprovincial cities
+worldwide. However, onlyafewstudieshavedeveloped solidtheoret-
+icalframeworks thatprovidenewconceptual ideas.Futureresearch
+should,therefore, paymoreattentionnotonlytothedifferentcharac-
+teristicsofgentrification inmetropolitan andprovincial cities,butalso
+tothedevelopmental (i.e.supply)factorsandconceptual explanations
+oftheprocessinthesedifferentcontexts.
+CRediTauthorship contribution statement
+JanKube ˇs:Writing –originaldraft,Methodology, Formalanalysis,
+Conceptualization. Zolt´anKov´acs:Writing –originaldraft,Supervi-
+sion,Conceptualization.
+Acknowledgements
+Thisresearchwassupported bytheHungarian Scientific Research
+Fund(OTKA)grantagreement K_135546, andtheNationalResearch,
+Development andInnovation FundoftheMinistryofInnovation and
+Technology, Hungary, undertheTKP2021-NVA-09 fundingscheme.
+Dataavailability
+Nodatawasusedfortheresearchdescribed inthearticle.

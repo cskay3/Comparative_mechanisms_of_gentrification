@@ -1,0 +1,989 @@
+International Journal of Sustainable Development Research  
+2026, Vol. 12, No. 2, pp. 108 –123 
+https://doi.org/10.11648/j.ijsdr.20261202.13   
+ 
+ 
+ 
+Received:  29 April 2026; Accepted:  21 May 2026; Published:  5 June 2026  
+ Copyright: © The Author(s), 2026. Published by Science Publishing Group. This is an Open Access  article, distributed 
+under the terms of the Creative Commons Attribution 4.0 License ( http://creativecommons.org/licenses/by/4.0/ ), which 
+permits unrestricted u se, distribution and reproduction in any medium, provided the original work is properly cited.  
+ 
+Research Article  
+Stakeholders Engagement in the Gentrification Process in 
+Sub Sahara Africa: Constrains and Pathways for Bamenda 
+City, North West Region, Cameroon  
+Mildred Endam Acha*  
+Department of Geography, University of Bamenda, Bamenda City, Cameroon  
+ 
+Abstract  
+Stakeholders and policy instruments in different context construe gentrification. Successful neighborhood rehabilitation acro ss 
+the globe is a product of active stakeholders’ engagement. However, in Sub Sahara Africa, successful neighbourhood 
+revitalization is precluded by numerous constrains. While much scholarly works on gentrification focuses on trends and patter ns, 
+more comprehensive studies are required to a) examine the r ole and lead stakeholder in the gentrification process in Bamenda, 
+b) investigate constrains to stakeholder’s efforts in gentrifying the city of Bamenda. The study employed the exploratory, su rvey 
+and comparative research designs suitable to monitor and co mpare the activities of different stakeholders, 18 key informant 
+interviews were conducted with different categories of stakeholders to understand their role and constrains. This was 
+complimented by administering 180 questionnaire to the general population  using the purposive sampling and snowball 
+techniques. Secondary data was obtained from exploring project documents of stakeholders and diverse scientific works of 
+scholars. Quantitative and qualitative methods using SPSS version 20 and Micro Excel version  2016 were used to analyse data. 
+The Chi Square test was utilize to ascertain the lead stakeholder in the gentrification process in Bamenda. Findings reveal t hat 
+multiple stakeholders categorized into international, state and local stakeholders are involve d in the gentrification process in 
+Bamenda. While local stakeholders lead gentrification in Bamenda all three categories of stakeholders play crucial roles in 
+leading gentrification. However, the process is constrained by political instability, financial l imitations, institutional lapses, 
+administrative gridlock inter alia. To sustainably enhance stakeholders’ effort in the gentrification process of Sub Sahara, this 
+paper therefore recommends the following policy actions. Streamlining and standardizing admi nistrative procedures to reduce 
+administrative gridlock, encouraging more inter -departmental coordination to foster collaboration with task specification to 
+minimize institutional lapses, tax relief programs, land value capture and incentivising developmen tal attempts to minimize 
+financial burden among others.  
+Keywords  
+Gentrification, Stakeholders Engagement, Neighbourhood Rehabilitation, Constrains, Bamenda  
+ 
+  
+
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+109 1. Introduction  
+Gentrification is a multi -faceted and contested socio -spa-
+tial process that reshapes urban environments through capi-
+tal reinvestment [1]. Gentrification has become so omnipres-
+ent and in many countries, the term has entered everyday vo-
+cabulary. However, it w as invented by the British -German 
+Sociologist Ruth Glass 1964 who describe gentrification as 
+the invasion and upgrading of the working class quarters of 
+London by the Middle -class [5] Over the years, the literature 
+on gentrification has conceptually and ge ographically ex-
+panded [14]. A growing body of critical literature highlights 
+how gentrification is represented as a positive policy instru-
+ment to enhance, inter alia ; the liveability, social order and 
+residential composition of disadvantaged neighbourhoods  to 
+prevent negative neighbourhood effects [14]. Gentrification 
+is the rebuild of a specific deteriorated region or neighbour-
+hood into a more affluent and well -developed neighbour-
+hood [2]. A crucial element of state -led gentrification is the 
+way it is repr esented by policymakers, other stakeholders 
+and in general discourse [18]. 
+Active stakeholder engagement and effective organizer 
+management are crucial for participatory neighbourhood reha-
+bilitation [20]. Stakeholders and policy instruments in differ-
+ent co ntext construe gentrification. In Nord -Neukö lln the term 
+is heavily contested and policymakers attempt to refute accu-
+sations of gentrification, while in the Indische Buurt, the pro-
+cess is explicitly pursued as a positive policy instrument by 
+policymakers. Three context -specific elements that can influ-
+ence stakeholders’ representations include; the characteristics 
+of in-moving, sitting and out -moving residents; the employed 
+timeframe to assess neighbourhood change; and the perceived 
+extent and form of influe nce of local institutions on urban re-
+generation. Stakeholders can potentially emphasise or sup-
+press these contextual elements in their representations of lo-
+calised gentrification processes to their own interests [14]. Lo-
+cal governments may promote neighbou rhood gentrification 
+as a social mixing strategy in order to dissolve minority con-
+centrations. This is rooted in the commonly held policy belief 
+that minority concentration may pose a threat to local social 
+order, [28]. Deliberate stakeholder engagements c an lead to 
+the revitalisation of deteriorating neighbourhoods, as demon-
+strated by numerous successful cases worldwide [6]. 
+The American city of San Francisco makes many headlines 
+for its gentrified culture and change because of the growth in 
+Information Te chnology (IT) increasingly transforming it into 
+a place only for engineers and IT professionals. Mexico City  
+is becoming more and more expensive for locals to live in the 
+CBD area, as artists, wealthy stores and labels occupy the City. 
+The landscape of urb an America has changed radically over 
+the last two decades as extensive gentrification often depicted 
+as an influx of white middle -class residents moving into poor 
+minority neighbourhoods, has become a major force in some 
+of the nation's largest urban area s [15]. Gentrification in many 
+Asian, South American and African cities are typically much more forceful, occurring much more rapidly and produces 
+stronger explosions than those in North America and Euro-
+pean cases, [29]. Urban expansion and transformation is most 
+rapid in the developing world where cities gain an average of 
+about ﬁve million residents or inhabitants monthly [3]. In de-
+veloping countries, the role of state policies and local govern-
+ments are confirmed as gentrification drivers [16]. Hence, 
+gentrification is no longer seen as a problem for policy -makers, 
+but a solution as such is widely promoted in urban policy. 
+While much scholarly works on gentrification focuses on the 
+global North, Africa presents unique socio -economic, politi-
+cal, and spatial  dynamics that warrant investigation. Sub -Sa-
+hara Africa, characterized by rapid urbanization, persistent in-
+equality, and diverse cultural landscapes, offers a rich yet un-
+derexplored field for understanding the drivers and implica-
+tions of gentrification [19]. For several years, the gentrifica-
+tion process in Sub -Sahara Africa has witnessed the interven-
+tion of diverse international institutions and development 
+agencies in a bid to promote development agenda based on 
+International Corporation. Socio -economic up grading marks 
+these interventions, however their efforts are confronted by 
+enormous challenges.  
+In Cameroon, multiple stakeholders trigger the gentrification 
+process through socio -economic activities shaped by govern-
+ment policies in the form of legislation s. Bamenda is the main 
+town of the North -west Region that doubles as the capital of the 
+region and Mezam division harbouring a good number of the 
+regional delegations and major institutions and is the foci for 
+business in the region. Given this setting, di verse stakeholders 
+are pulled into the city with varied interest. However, institu-
+tional and functional changes by different stakeholders are char-
+acterised by overlapping roles and responsibilities with un-
+clear/inadequate public policies and strategies for  redevelop-
+ment. Added to this is the absence of a supervisory mechanism 
+to coordinate their activities and enhance sustainability. This is 
+worsen by the unstable socio -political atmosphere that deters 
+investments and disrupts development progress. This has  re-
+sulted in the zigzag and unsustainable transformation pattern 
+given that most stakeholders are temporal. Many studies have 
+focused on gentrification patterns, trends and development im-
+plications [2], variation in sprawl and land use change [10], In-
+stitutions and local Development in Mezam [22]. However, 
+stakeholders role and constrains in the gentrification process 
+constitute a minimal portion of literature. This Paper therefore 
+brings to focused the role of different stakeholders, and con-
+strains in the gentrification process in Bamenda. This aligns 
+with Sustainable Development Goal 17, aimed at strengthening 
+the means of implementation and revitalize the global partner-
+ship for sustainable development; Target 3 and 4 are focused on 
+“mobilizing additional financial resources for developing coun-
+tries from multiple sources which constitute the myriad of 
+stakeholders operation in Bamenda.  
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+110 2. Conceptual Underpinning  
+Freeman, R E.  [11], views s takeholders traditionally as any 
+group or individual who can affect or affected by the achieve-
+ments of the organisation’s objectives. [6], assumes stakeholders 
+should evolved from three areas; public policy, organizational 
+management and international deve lopment. [24], looks at 
+“stakeholders as individual or groups that have an interest or 
+some aspects of rights or ownership in the project, can contribute 
+in the form of knowledge or support, or can impact or be im-
+pacted by the project. [2] considers the te rm stakeholder to mean 
+any group, institution, or individuals with a declared or conceiv-
+able purpose or stake in a policy concern initiating or influencing 
+and those affected by any activity that transforms the landscape.  
+In the context of this study, stak eholders involve all international, 
+state and local agents who take active role in any initiative to 
+bring about transformation in Bamenda base on their objectives 
+as well as those affected by the change.  
+Gentrification is an enigmatic process and an outco me of 
+many interrelated factors, including housing demand and price, 
+employment patterns, government regulation and funding, 
+class and racial dynamics and local city -planning initiatives [8, 
+25] considers gentrification  as “the process whereby the char-
+acter of a poor urban area is changed by wealthier people mov-
+ing in, improving housing, and attracting new businesses, typ-
+ically displacing current inhabitants in the process. This paper 
+views gentrification in Bamenda as an inheren tly spatio -tem-
+poral process accelerated by the influx of diverse stakeholders whose policies and activities, transform the city, resulting in 
+increased service provision, infrastructural development as 
+well as higher property value (rents rise, increased l and value, 
+commodity prices) and displacement of urban dwellers. This 
+concept is anchored on model of neighbourhood change by 
+[12] wherein, the lifespan of an areas can be postponed end-
+lessly through governmental interventions, developers, public 
+agencies and neighbourhood groups base on public sector pol-
+icies. Different social and economic facilities in Bamenda 
+have been upgraded to postpone their life span. This study 
+therefore strives to examine the role and constrain of the de-
+velopers behind the gentrif ication process in Bamenda.  
+3. Study Area and Methodology  
+The study covers the city of Bamenda made up of three sub 
+divisions (Bamenda I, II and III) in the Mezam division of the 
+North West Region of Cameroon. Bamenda is the capital of 
+the Northwest region , located between latitude 5 °94” and 5 °98” 
+north of the Equator and longitude 10.15 ° and 10.18 ° east of 
+the Greenwich Meridian, situated at elevation 1258 meters 
+above sea level [21]). Figure 1  presents the location of 
+Bamenda. Recurrent transformations by  multiple stakeholders 
+are haphazardly observed across the city in different sectors, 
+with questionable sustainability issues, necessitating this 
+study.  
+ 
+Source: Bamenda City Council (2020) and Administrative limits of Cameroon  (NIC, 2020)  
+Figure 1 . Location of the Bamenda Municipality in Mezam Division of the North West Region of Cameroon.  
+
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+111  
+3.1. Ethics and Consent to Participation 
+Declarations  
+Prior to field work, a written authorization to carry out t his 
+study was obtained from the Senior Divisional Officer for 
+Bamenda who was made to understand the objectives and 
+need for this study. For every institution visited, the institu-
+tional heads were shown this authorization note from the SDO 
+and made to unde rstand the purpose of the study and verbal 
+permission obtained for interview and data requested from 
+their projects. A similar procedure was followed for question-
+naire administration with the population. The study ensured 
+the population properly understood  the motives of the study 
+and willingly participated. They were all guaranteed of the 
+confidentiality of the data provided and the anonymity of their 
+responses.  
+3.2. Research Design  
+This study employed the survey, exploratory and compara-
+tive research designs suitable to monitor the activities of dif-
+ferent stakeholders and compare their level of involvement in 
+the gentrification process in Bamenda. Primary data was got-
+ten through a 40 -50 minutes 18 Key Informant Interviews 
+with sectorial ministries, dev elopment agencies, the councils 
+and other developers, to identify with field evidence their do-
+main of intervention and constrains. To have an overview of 
+the role of the Bamenda City Council (BCC) and the three sub 
+divisional councils as well as other stak eholders’ interventions 
+through the councils, a number of persons within these insti-
+tutions were interviewed. These included, the Town Planner 
+at BCC, Director of Urban Development at BCC, Director of 
+Administrative Affairs at the BCC, to know the partners  work-
+ing with the council. The Council Development Officers 
+(CDO) of the three sub divisional councils and some techni-
+cians at the technical service were interviewed to have a mas-
+tery of the council projects and how other stakeholders inter-
+vene. At the Reg ional Delegation of Housing and Urban De-
+velopment (MINDUH), the Chief of Service for Social Urban 
+Development and the Chief of Local Partnership and Planning, 
+were interviewed on the projects of MINDUH and develop-
+ment partners in the housing sector in Bame nda. Other stake-
+holders interviewed were the Project Coordinator of GP -IRDP (Grass field Integrated Rural Development Project) together 
+with the Socio -Economist in charge of Capacity Building and 
+Gender, provided information on the its projects within the 
+Municipality and partners. The Social Mediator and Urban 
+Planner at C2d (Debt Relief and Development Contract) was 
+interviewed about the mission of their program and areas of 
+intervention in transforming the city of Bamenda. Edge Com-
+pany was covered as one  of the stakeholders transforming the 
+Municipality of Bamenda. Faith -based institutions and Local 
+Development Associations were equally interviewed on their 
+projects, partners and constrains.  
+Beside interviews, 180 questionnaires administered to 
+household heads using the random sampling technique and 
+field measurements using the GPS tool and GPS Map Camera 
+Lite version 1.8.3, was used to locate some development pro-
+jects by stakeholders. GPS coordinates for transformed facili-
+ties were collected during fieldw ork. For each of the services, 
+three reference coordinates XYZ were collected as well as 
+georeferenced pictures, which were later downloaded into GIS 
+environment, processed, then spatialized for various thematic 
+maps to show the spatial distribution of the  different facilities. 
+Secondary data was gotten from Council Development Plans 
+of the three sub divisions of Bamenda, annual project reports 
+of the various development agents, brochures and articles in 
+diverse scientific journals and dissertations. Data g otten was 
+analyzed descriptively and inferentially.  
+For ethical clearance, prior to field survey and investiga-
+tions, an authorization was obtained from the Senior Divi-
+sional Officer for Bamenda, to carry out this study. For every 
+institution visited, the a uthorization from the SDO was pre-
+sented to the institutional heads who were made to understand 
+clearly the objectives of this paper and confidentiality of in-
+formation guaranteed.  
+4. Results  
+4.1. Role of Stakeholders in the Gentrification 
+Process in Bamenda  
+The focus here was to identify and categorise lead stake-
+holders and examine how they engage in gentrifying the city 
+of Bamenda and constrains encountered.  
+4.2. Stakeholders Engagement in the Gentrification Process in Bamenda  
+Table 1 . Categorisation of Stakeholders in the gentrification process in Bamenda.  
+Category  Stakeholder  Tools  Operational institutions or 
+Channels  
+International  African Development Bank  
+French Development Agency (AFD), The French Government, 
+French Development Corporation (FDC), Japanese Funds, World State, Regional and 
+Internationa l laws  C2d, GP. DERUDEP, PNDP, 
+FEICOM  
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+112 Category  Stakeholder  Tools  Operational institutions or 
+Channels  
+Bank, PLAN Cameroon  
+European Union, External NGOs  
+World Health Organisation, UNIDO, UN Habitat, Dordrech -
+Holland Council  
+Union of Council of Cameroon Association, (UCCA),  
+State  The presidency, The Parliament  
+Sectorial Ministries (MINDUH  
+Education (MINEDUBM, MINESEC, MINESUP, MINPMESSA, 
+MINDDEVEL, MINEPAT, MINSANTE, MINTP and Councils  National and Inter-
+national Laws  Divisional Delegations, Divi-
+sional Offices, Councils, Edu-
+cational Institutions, Banks, 
+PBF, PNDP, FEICOM  
+Local or Inter-
+nal Stakehold-
+ers Local Population (land lords, Urban dwellers, Real Estate Devel-
+opers,  
+Religious institutions (Catholic, Presbyterian and Baptist)  
+Non-Governmental Organizations (Plan International, SHUMAS)  
+VDAs (BAMEDCA, MACUDA, MBACUDA, NDECA, CHO-
+DECA, NDA, NCDA)  
+Companies (Edge company)  National and Com-
+munity Laws  Traditional authorities 
+(Chiefs/Fons, Quarter heads)  
+Source: Fieldwork, (2025)  
+Multiple stakeholders are involved in the gentrification pro-
+cess in Bamenda. Field inquiries reveal that the different 
+stakeholders intervene through different channels, programs 
+and activities in Bamenda. Three main categories of stake-
+holders are identified; these are international, the state, and lo-
+cal stakeholders indicated on Table 1 . 
+4.2.1. Involvement of International Stakeholders in 
+the Gentrification Process of Bamenda  
+A host of international stakeholders intervene in the  gentri-
+fication process in Bamenda via the government of Cameroon 
+through programs in varied sectors. This is based on conven-
+tions or protocol agreements ratified with the Cameroon gov-
+ernment. These stakeholders identified on Table 1 , function 
+through prog rams and local institutions in specific sectors and 
+seasons. The following section presents the involvement of 
+different international stakeholders in the gentrification pro-
+cess of Bamenda.  
+(i). African Development Bank (ADB) and Islamic 
+Development Bank ( IDB)  
+The ADB and IDB, contribute to the gentrification process 
+in Bamenda by financing, projects like road construction, 
+health/educational structures, water projects in the form of 
+boreholes etc. This is achieved by funding projects managed 
+by the Grass field Participatory and Decentralized Rural De-
+velopment Project (GP -DERUDEP). The construction of 
+Medical Centers in Alabukam and a primary School in 
+Bayelle are some of the projects funded by ADB and IDB.  (ii). Union of Council of Cameroon Association, 
+(UCCA)  
+UCCA works with Bamenda I, II and III councils via pro-
+grams like National Community Driven Development Pro-
+gram (PNDP), GP -DERUDEP) to constructed and rehabili-
+tated roads in Bamenda III, bridges and market sheds in 
+Bamenda I ( Table 2 ). Through the Unio n of Councils, the 
+Trinkwasser -Trier City Germany and the Bamenda III Coun-
+cil realised the Bamenda III giant water purification plant, 
+which filters and supplies 60.000 litters of water per hour from 
+2021 till date, against 40.000 liters in 2016. A project  worth 
+above 3 billion, supplying close to 3,240 homes [4]). This wa-
+ter plant was optimized in 2021 with a digital and analogue 
+system to manage the purification process to resolve earlier 
+challenges. A solar system with advanced pumps installed to 
+enable distribution to communities at higher altitude. This up-
+graded water plant is one of the most reliable and has im-
+proved living conditions across the city.  
+(iii). The French Government  
+The French Government via the Debt Relief and Develop-
+ment Contract (C2D),  a project under MINDUH, has injected 
+over 30 billion FCFA for economic development of the city of 
+Bamenda initiated by the French government to aid Cameroon 
+Government. Phase I of the projects focused on small urban 
+facilities include; pedestrian bridges,  lighting spots, garbage 
+platforms, playgrounds and public toilets in schools. Figure 2  
+presents some of the projects of C2D in its first phase that have 
+transformed the Municipality of Bamenda.  
+ 
+ 
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+113  
+Source: Fieldwork, (2023)  
+Figure 2 . Upgraded playground, bridge and toilet facility. A1&A2 are new sport facilities upgraded in Bamendakwe, B1 & B2 are pedestria n 
+bridge in Mbefi Bamenda II, while C1 & C2 are old and new toilet facilities, in Bamenda 1.  
+(iv). The World Bank and the European Union  
+Through Ministry of Transport (MINT), the World Bank 
+and European Union have sponsored road projects in 
+Bamenda amongst them is the recent road expansion project 
+from Ecole de Champion through Amour Mezam, to Finance 
+Junction - Ayaba – Hospital Roundabout back through Food 
+Market, City Chemist to Veterinary Junction. This project has 
+seen the construction of 5 major bridges within the City. The 
+World Bank in collaboration with MINSANTE intervene in 
+the health sector th rough the Performance -Based Financing 
+(PBF) in collaboration with the International Development 
+Association (IDA) funds, the Health Results Innovation Trust 
+Fund (HRITF) etc. The European Union via the Support Pro-
+gramme for Decentralised Capacity Building for Urban De-
+velopment (PACDDU) program constructed the Fish Pond 
+road, Afrique Nouvel road, rehabilitated New Lay -Out road, 
+Finance Junction -Ntambesi Junction in 2005 and a host of 
+other projects.  
+4.2.2. Involvement of the State in the Gentrification 
+Proce ss in Bamenda  
+The state intervenes via its sectorial ministries in collabora-
+tion with the city council and sub -divisional councils. Through presidential decrees, state institutions for gentrifica-
+tion are created even the sub divisional councils in Bamenda 
+and other development agencies. The central institutions focus 
+on policy development while the agencies serve as operational 
+institutions, transforming policies into practical realities and 
+putting in place operational tools like the Council Develop-
+ment Pl ans. The state intervene in socio economic activities 
+across the health, educational commercial and transport sector 
+among others. The sectorial ministries engage in gentrification 
+in varied ways.  
+(i). The Ministry of Economy, Planning and 
+Regional Development, (MINEPAT)  
+Reorganized by Decree Nº  2008/220 of 4th July 2008, 
+MINEPAT serves as supervisory authority to the National 
+Community Driven Programme (PNDP) aimed at supporting 
+councils in the process of decentralization and financing micro 
+project s like road network rehabilitation, schools, health facil-
+ities etc. Using the credit allocation system, PNDP has fi-
+nanced micro projects in all the councils ( Table 2 ), with multi 
+donors like; the World Bank, the French Development Corpo-
+ration (FDC), Japane se Funds, Germans and European Union. 
+During the third phase, PNDP has constructed socio -economic 
+infrastructure in the City of Bamenda Figure 3 . 
+ 
+Source: Fieldwork (2025)  
+Figure 3 . Old and upgraded Council structures in Bamend a I, II & III funded by FEICOM.  
+
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+114 Table 2 . Some Projects Funded by PNDP in the Bamenda I, II & III Municipalities.  
+COUNCIL  LOCALITY  PROJECTS  
+Bamenda I  Atomelah  Construction of 10m bridge linking Abumunchui 1 and Abumunchui 2 Villages.  
+Bamenda I  Bamendakwe  Construction of twenty (20) modern locked up sheds in Bamenda 1 main market/park, at 
+Bamendakwe village (phase 1)  
+And forty five (45) modern locked (phase 2)  
+Bamenda I  Ntanche  Construction of a bridge o f span 10m linking Ntanche and Anindoh 2 Villages  
+Bamenda II  Njanga hill  Construction of a 9m bridge linking cooperative college and Njanga hill  
+Bamenda II  Matsam  Stepping down and extension of electricity supply from Matsam to Ngoh quarter with mv/lv of 80m 
+and lv of 1420m with a transformer of h61-100kva/30kv  
+Bamenda II  Food market  Construction of a Box Culvert Linking Food Market - General Hospital In Nitob 7, Bamenda II Sub-
+division  
+Bamenda III  Teken  Construction of a 5m span bridge at Teken Quarter in the Bamenda III Council area  
+Bamenda II I Upper Bayelle  Construction & opening of road 750m (Morihno store -Mandela Street) and construction of 11 RC 
+box culverts at Upper Bayelle quarter  
+Bamenda III  Ntilah, Sisia  Construction of a 5m span bridge linking Ntilah and Mbefi  and the bridge linking Sisia II and Sisia 
+III, and the Mbala bridge (7m Span)  
+Source: Council Annual Reports, PNDP Annual Reports and Fieldwork, (2025)  
+(ii). Ministry of Urban Development and Housing 
+(MINDUH)  
+MINDUH works via th e Regional Delegation in collaboration 
+with the Bamenda City Council and Sub -divisional Councils to 
+follow up and implement town -planning laws by regulating 
+building construction through building permits ( Table 3 ) and 
+demolition permits. It is involve with  the construction of Low 
+Cost Housing in line with the policy of affordable housing for all 
+(SDG, 11 target 1&2) and recently works with the Debt Relief 
+and Development Contract (C2D) to upgrade some socio -eco-
+nomic facilities in the Municipality of Bamenda . (iii). Ministry of Decentralization and Local 
+Development (MINDDEVEL)  
+MINDDEVEL serves as supervisory authority for the Spe-
+cial Council Support Fund for Mutual Assistance (FEICOM). 
+It has financed several projects in Bamenda through the coun-
+cils, inter a lia is the construction of magnificent structures for 
+the three sub -divisional councils and the City Council between 
+2010 and 2013 (Council Development Plans for Bamenda I, II 
+and III, 2019, 2020, 2021) shown in Figure 3 . 
+(iv). Ministry of Public Health (MINSANTE)  
+Table 3 . Evolution in Building Permits issued by MINDUH (1972 -2022).  
+Purpose of structure  Years  Total  
+1972 -1982  1983 -1996  1997 -2007  2007 -2016  2016 -2022  1972 -2022  
+Residential  1,004  1,053  1,653  2,300  2,800  8,810  
+Commercial  170 195 235 320 280 1200  
+Public building  20 32 85 108 120 365 
+Fences (security/privacy)  5 23 63 97 203 391 
+Commercial/Residential  23 36 65 101 135 360 
+Public/Residential  - - 11 18 32 61 
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+115 Purpose of structure  Years  Total  
+1972 -1982  1983 -1996  1997 -2007  2007 -2016  2016 -2022  1972 -2022  
+Total  1,222  1339  2112  2944  3570  11,187  
+Source:  Building Permit Records book, BCC, (2022)  
+It ensures health facilities are spatially located to meet the 
+health needs of the population, leads health campaigns to cre-
+ate awareness and capacity building of health personnel. De-
+signs and implement health policies like the Performance Base 
+Financing (PBF) lunged in 2012 but became operational in 
+Bamenda in 2017. Field inquiry reveal that among the pro-
+grams of MINSATE, PBF has greatly transform the health 
+sector both public and private  by motivating quality health fa-
+cilities and services through monitoring health care perfor-
+mance and facilities of all health institutions. It works in col-
+laboration with Doctors without Borders, World Health Or-
+ganisation (WHO), the Health Districts and al l health facilities 
+to ensure health infrastructure and medical care are upgraded 
+in Bamenda. The upgrading of CMI Nkwen to a District Hos-
+pital by Decree No 1673/MISANTE of 27 April 2021, is 
+thanks to the PBF and similar decisions from MINSATE have 
+upgrade  other health facilities like former Bingo Annex, Acha Annex, St Blaise etc. from health centers to hospitals.  
+Table 3  indicate evolution in building permit issued by 
+MINDUH in collaboration with the council revealing how she 
+engages in the gentrification process in Bamenda.  
+(v). The City Council and Sub -divisional Councils  
+Bamenda I, II and III sub division and the city council serv-
+ing as operational institutions for most international and sec-
+torial ministries, have transformed the city by executing pr i-
+ority projects earmarked in the Council Development Plan 
+(CDP) renewable every five years, and the Land Use Plan. Ta-
+ble 4  present sample projects by the City council within the 
+sub divisions of the Municipality. The Bamenda City Council 
+and Sub -divisional  councils collaborate with the central gov-
+ernment as well as decentralized state services, Civil Society 
+Organizations and other developers to gentrify the City.  
+Table 4 . Sampled Projects within the Bamenda  Sub Divisional Councils 2008 -2025.  
+Council  No. of projects  Percent  
+Bamenda I  110 24.7 
+Bamenda II  190 42.6 
+Bamenda III  145 32.5 
+Total  445 100 
+Source: Council Annual Reports and CDPs Bamenda  I, II and III, (2025), complimented by Interview with the Council Development Officers 
+(CDOs), 2025  
+Table 4  indicate the dominance of projects in Bamenda II, 
+(45.33%), followed by Bamenda III (33,33%) and least in 
+Bamenda I ( 21,33%). This disparity is explained by the differ-
+ences in population density which is a determining factor for 
+project allocation. These projects cuts across the health, edu-
+cations, commercial and road network development.  4.3. Role of Local Institutions in the 
+Gentrification Process in Bamenda  
+These embody religious, traditional institutions and Non -
+Governmental Organisations as well as traditional authorities. 
+(Table 5 ). 
+ 
+ 
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+116 Table 5 . Key Local Institutions in the Gentrification process in the Municipality of Bamenda.  
+Local Stakeholders (Non -State Institutions)  Activities  
+Religious institutions (Catholic, Presbyterian and Baptist)  Spiritual and moral formation of the population, Construct 
+religious, educational and health facilities, and multipurpose 
+halls, and other socio -economic facilities like radio stations, 
+financial cooperatives, craft etc.  
+Non-Governmental Organizations (NGOs) like Plan International, 
+SHUMAS  Construct educational facilities and meet the needs of the vulner-
+able 
+Common Initiative Groups (CIGs)  Acquire and share skills on farming techniques and inputs from 
+Development Programs  
+Village Development Associations (VDAs)  
+Bamendankwe Development and Cultural Association  (BAMEDCA)  
+Mankon Cultural and deve lopment Association (MACUDA)  
+Mbatu Cultural and Development Association (MBACUDA  
+Nsongwa Development and Cultural Association (NDECA)  
+Chomba Development  And Cultural Association , (CHODECA)  
+Nkwen Development Association (NDA)  
+Ndzah Cultural and Development Association (NCDA)  Lead and support projects initiated by the community like, road 
+maintenance, bridges, community halls, rural electrification 
+among others.  
+Serve as main grassroots partner for state and donor institutions  
+Identify and prioritize needs an d projects  
+Mobilizes the population and raise funds  
+Execute, evaluate and monitor projects  
+Sustain the tradition and culture  
+Companies (Edge company)  Construct roads, public buildings, and create jobs  
+Real Estate developers (Immaculate Construction Icon)  Design plans for modern buildings and construct them  
+Traditional authorities (Chiefs/Fons, Quarter heads)  Coordinate and manage community development projects like 
+water schemes, earth road maintenance, and cultural preserva-
+tion, and oversees neighbourho od projects.  
+The urban dwellers  Invest in business, construct magnificent structures and set up so-
+cio-economic facilities like schools, health units, filling stations 
+etc. 
+Landlords  Build houses, determines rents, renovates and refurbish houses.  
+Source:  Fieldwork, (2024)  
+Table 5  reveal diverse ways local institutions engage in the gentrification process in Bamenda. Religious institutions for ex-
+ample play multiple roles indicated on Figure 4 . 
+ 
+Figure 4 . Holistic Involvement of Religious Institutions in t he gentrification process in Bamenda.  
+
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+117 Field reality reveal that the three categories of stakeholders identified (International, State and local) operate using diff erent 
+tools, interest, channels and approaches. However, no single stakeholder operate in iso lation, but in an operational chain ( Figure 
+5). 
+ 
+Source: Author’s Conception, (2025)  
+Figure 5 . Stakeholders network in the gentrification process of Bamenda.  
+Figure 5  indicate that international stakeholder operate 
+through programs in synergy with the sectorial ministries via 
+operational institutions like the councils and local stakehold-
+ers. World Bank and Islamic bank for example fund projects 
+of GP -DERUDEP, PNDP, C2d  etc. working in partnership 
+with Sectorial Ministries like; MINDUH, Ministry of Small 
+and Medium Sized Enterprises, Social Economy and Handi-
+craft (MINPMESSA) and Councils to meet the needs of the 
+local population which culminate in gentrification.  
+Prior t o field study, the researcher sought to ascertain the 
+lead stakeholder out of the three categories identified, in the gentrification process in Bamenda. This verification focuses 
+on comparing the role of the different stakeholders in the gen-
+trification pro cess by examining the frequency of their activi-
+ties. Field reality revealed that the construction of roads, 
+bridges and culverts are the prime duty of the state via its op-
+erational institutions. However, the transformation process 
+that has upgraded the cit y of Bamenda is a function of many 
+aspects among which are the spatial growth of educational in-
+stitutions, transport hubs, commercial, health and housing de-
+velopment. Figure 6  present the dominant activities of Stake-
+holders in the gentrification process in  Bamenda.  
+ 
+Source: Fieldwork; (2025)  
+Figure 6 . Dominant activity of stakeholders in the gentrification process in Bamenda.  
+ 
+
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+118 Field evidence reveal that the construction of houses is the 
+most dominant ac tivity (25.6%) that gentrifies the Municipal-
+ity, and the least activity is growth in hotels and Mini cite. The 
+X2 was used to ascertain the lead stakeholder in the gentrifi-
+cation process in Bamenda on the premises that “State socio -
+economic involvement in the gentrification process in 
+Bamenda largely override those of local stakeholders in the 
+city”. The results are presented on Table 6 . 
+The Chi Square 𝑥2=∑(𝑂𝑖−𝐸𝑖)2
+𝐸𝑖 
+Where;  𝑥2 = chi squared  
+∑ = Sum Total  
+𝑂𝑖 = observed value  
+𝐸𝑖 = expected value  
+The results indicate that there is significant difference be-
+tween the observed and expected frequencies, χ2(2) = 9.615, 
+P =.008. Since the calculated (9.615) value is grater than the 
+P-value (.008), we conclude that “Local stakeholders socio -
+economic involv ement in the gentrification process in 
+Bamenda largely override those of other stakeholders”. Alt-
+hough local stakeholders dominate the process, no stakeholder 
+is solely responsible for the gentrification process in Bamenda.  
+Tabl e 6. Chi Square Test for Dominant Stakeholder in the  gentrification  process in Bamenda.  
+Category  Observed  Expected  Chi-square (df) P -value:  
+International stakeholders  95 130 
+9.615 (0.008)  
+The State  125 130 
+Local stakeholders  170 130  
+ 
+5. Constraints Encountered by 
+Stakeholders in the Gentrification 
+Process in Bamenda  
+Stakeholders’ socio -economic activities have somewhat en-
+gendered gentrification in the municipality of Bamenda how-
+ever, their activities are hamp ered by the following, Figure 7 . 
+ 
+Source: Fieldwork, (2025)  
+Figure 7 . Stakeholders Constraints in the Municipality of Bamenda.  
+ 5.1. Political Instability  
+The socio -political ridden atmosphere characterized by fre-
+quent gunshots, rampant kidnapping, lootin g, massive killing, 
+arson and related crimes from 2016 till date, has deter invest-
+ments and gentrification in Bamenda. 19% of the population 
+observed that political instability hampers stakeholders’ effort 
+in the gentrification process in Bamenda. Many dev elopment 
+initiatives have been deviated or aborted by the socio -political 
+crisis. Many houses, businesses and educational institutions 
+have been burned down and others shutdown. This is the case 
+with GTSS Alabukam, GTHS Chomba, whose structures were 
+burned  down between 2018 -2020, and many public schools 
+temporally shutdown. Socio -political instability has created a 
+timid atmosphere deterring growth, hampering stakeholder’s 
+engagement, putting most investments at risk of destruction. 
+This creates scepticism that leaves areas that were rapidly un-
+dergoing transformation static. The Referral Hospital at Ntam-
+bang in Bamenda III, initiated since 2015, until date is aban-
+doned due to the socio -political crisis. The Mbengwei Park 
+market with 100 modern sheds construc ted in 2015 and the 
+lone Low Cost Housing constructed by the government since 
+2016 (Figure 8 ) is currently being used by the military and not 
+the urban dwellers for whom it was meant. The recent road en-
+largement project from welcome to Bamenda to Hospital Round 
+About have delayed till now after massive demolition as well as 
+many other projects due to the crisis ridden atmosphere . 
+ 
+
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+119  
+A, Low cost housing and B, Referral hospital project abandoned.  Source: Fieldwork, (2025)  
+Figure 8 . Underused and Uncompleted Projects in the Municipality of Bamenda.  
+5.2. Financial Constraints  
+Gentrification in Bamenda is constrained by inadequate fi-
+nance indicated by 17% of the population. The upgrading pro-
+cess (new -built, r efurbishment, commercial development, ser-
+vice provision etc.) requires huge finances. Regardless of the 
+multiple financial institutions, that grants loans to the popula-
+tion, the rise in commodity prices constrains and limits stake-
+holders from venturing int o huge projects. It takes twice or 
+even more money to carry out similar projects of the 80s and 
+90s. The meagre salary, unemployment and economic hard-
+ship of the population hinders massive gentrification in 
+Bamenda. An interview session with a property own er at Fun-
+cha Junction Bamenda whose structure is in decrepit state re-
+veal that “ I would have refurbished this structure completely, 
+but the financial estimate is higher than the cost I constructed 
+this house in the 80s. I may only change a few sheets of zi nc 
+where leakage is profuse”.  In another interview with a resi-
+dent of an incomplete dwelling, he revealed, “I have lived in 
+this structure for 10 year in this state. I am unable to do the 
+finishing reflecting my desired taste due to the financial cost 
+it entails ”. Two educational institutions sampled gave a simi-
+lar respond. The poor quality facilities dominantly ravaging 
+the city are associated to financial constraints.  
+5.3. Gentrification and Institutional Lapses 
+(Inadequate Public Policy)  
+Institutions cha rged with policy implementation are crucial 
+stakeholders in the gentrification process in Bamenda. Field 
+study reveal that 17% of the population observe that institu-
+tional lapses is a hindrance to gentrification. Bamenda lacks 
+harmonious organization of la nd use and development. The 
+city is characterized by inadequate space allocation for human 
+activities, incompatibility of human activities due to lack of 
+appropriate segregation, incompatible land use developments, 
+project delays, conflicting plans and coo rdination. Following 
+the Building Regulations of the Master Plan of Bamenda City, 
+whenever any provision of these regulation is violated, a con-
+travention notice is served on the land user or developer. The 
+applicability of this is far fetch. The constructi on of houses in untheorized areas points to the inadequacy in public policy. 
+Fieldwork and interviews with some occupants of wetlands 
+and structures that violet minimum set back limits to the arte-
+rial road, reveal that they are in possession of building pe rmits, 
+which is ironical. The victims of the demolition process ac-
+companying the road expansion project do possess building 
+permits and land certificates granted by the same authorities 
+demolishing the structures years later. This lack of foresight 
+by town  planners, distorts the gentrification process especially 
+when huge investments are at risk of demolition meanwhile 
+owners of such projects have legal backings to justify their 
+existence.  
+5.4. Administrative Gridlock  
+The procedure required for the formaliz ation of most devel-
+opmental activities and businesses is rigorous, 16% of the 
+population reveal that administrative gridlock hampers the 
+gentrification process in Bamenda. This include taxes, legal 
+procedure for authorization either for an institution or f or en-
+terprises and others. The procedure, time and finances re-
+quired for formalisation is a hindrance to gentrification. Ob-
+taining a land certificate from the authorities concerned for 
+example is a process that many bypass because of the complex 
+requiremen ts involved. The huge taxes levied on some busi-
+nesses and the huge amounts required to establish license be-
+fore operating deters most investors, propelling informal path-
+ways and clandestine establishments. The complex process 
+entail in obtaining a building  permit has made most develop-
+ers bypass it.  
+5.5. Politics and Polity  
+Linked to institutional lapses is politics, which refers to the 
+activities of the government, members of the law, making 
+body or people who influence the way a country is governed. 
+It has  to do with agenda setting for the population per season. 
+14% of the population reveal that politics hinders the gentrifi-
+cation process in Bamenda. The irrational distribution of ser-
+vices (electricity and water supply), biased development, cor-
+ruption and e mbezzlement of funds, misappropriation of funds, 
+
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+120 self-centeredness that characterizes Cameroon’s political sys-
+tem retards gentrification. Most projects are poorly executed 
+due to the mismanagement or embezzlement of funds. Others 
+are realized, but no acces s given to the intended users, the low 
+cost housing along the new road is a typical example.  
+Polity refers to the embedded structures or contextual cir-
+cumstances and settings (desires, cultural settings, beliefs and 
+opportunities). Polity hampers the gentr ification process as 
+observed by 12% of the population. Some projects have not 
+been successfully realized in certain neighbourhoods because 
+of polity (the financial means of the population their belief 
+systems, the cultural setting of the population). A ma jority of 
+the population of Bamenda lacks the financial means to up-
+grade their facilities. The inability for some neighbourhoods 
+(Futru, Mbelem, Ntambang etc.) to have access to the 
+Bamenda III council water which rather supplies neighbour-
+hoods far away is  linked to their desire to have autonomy over 
+the local community water with the belief that if the council 
+supply them water, she can subsequently gain autonomy over 
+their local community water schemes. This exemplifies how 
+polity constrain gentrification . Away from these, numerous 
+other constrains limits the to gentrification process in 
+Bamenda city.  
+6. Discussions  
+The results reveal multiple stakeholders involved in the 
+gentrification process in Bamenda either through road and 
+other infrastructural devel opments. This is evident via the 
+multiple socio -economic upgrading across the city. Although 
+field evidence reveal local stakeholder lead the gentrification 
+process in Bamenda, no single stakeholder is solely responsi-
+ble for gentrifying Bamenda. This align s with the ideas of [16] 
+that gentrification actors range from economically marginal, 
+young educated, builders, landlords, mortgage lenders, tenants, 
+corporate investor, developers, real estate agents, bank and 
+government agencies. Their numerous activitie s have signifi-
+cantly upgraded Bamenda I, a municipality that for decades 
+only had administrative structures. However, in the present 
+decade multiple stakeholder intervention have brought about 
+munificent residential and socio -economic structures increas-
+ing its appeal. This corroborated the findings of [9] that devel-
+opment projects bring new amenities to a neighbourhood and 
+increases its appeal. Similarly,  [26] noted that the process of 
+neighbourhood change is perceived by some as rejuvenating 
+communities , creating desirable neighbourhoods for the mid-
+dle class. The State plays a crucial role beyond local develop-
+ment to creating collaboration with donors whose financial 
+aids have seen many infrastructural development. This is in 
+line with the ideas of [17], that the state is the traditional 
+source for investments and reinvestments into development 
+projects for infrastructure improvement. The study reveal that 
+multiple socio -economic facilities have been provided and 
+others rehabilitated or refurbished. Commerci al structures, 
+residential structures, roads and bridges in decrepit state across the city are upgraded by efforts of different stakehold-
+ers. Ntambag for example (Old Town) was one of the most 
+deteriorated neighbourhood (slump) in Bamenda however, 
+this nei ghbourhood has been revitalised with the construction 
+of roads linking the streets and the old structures upgraded. 
+Similar actions are ongoing in different neighbourhoods, gen-
+trifying the city. This aligns with the idea of [7], that deliberate 
+stakeholder  engagements can lead to the revitalisation of de-
+teriorating neighbourhoods. In the same light, [20], noted that 
+active stakeholder engagement and effective organizer man-
+agement are crucial for participatory neighbourhood rehabili-
+tation.  
+The major role of the state is policy formulation. This in-
+clude; Conventions, Laws, Decrees, Orders, and Municipal 
+Deliberations that forms the legal framework that shapes the 
+gentrification process in Bamenda. These policies are mainly 
+formulated by the state and implement ed using different chan-
+nels. All other policies by international or local stakeholders 
+must align with state statutory order. This corroborates [23] 
+that the state is more systematically involved through policy 
+(subsidies, tax, incentives, planning regulat ions) and capital 
+(land provision) in the gentrification process. Similar view is 
+shared by [28], that government at the local, state, and federal 
+levels sets the conditions for and catalyses gentrification pro-
+cesses through public subsidy and policy, howe ver in the case 
+of Bamenda subsidies have not play any major role in the gen-
+trification process. The study revealed a network of stakehold-
+ers categorised into International, State and Local involved in 
+the gentrification process in Bamenda. This implies no  single 
+stakeholder can boast that the transformation ongoing in the 
+Municipality is principally attributed to his or her singular role. 
+Gentrification therefore culminates from the cumulative in-
+volvement of many stakeholders. This corroborates the ideas 
+of [22], who noted that there is a synergic strategy in Mezam 
+Division that stems from the joint activities of every institu-
+tion with the grassroots  population for local development. He 
+further emphasized that local development strategies are con-
+tinuously being fine -tuned by the multiple actors involved in 
+the development process. In the same vein, [28] emphasized a 
+nexus of actors that facilitate the  gentrification process; devel-
+opers, builders, mortgage lenders, government agencies, and 
+real estate agents.  
+Although gentrification rejuvenates neighbourhoods in 
+Bamenda, a number of constrains hamper the process, this in-
+clude political instability, fina ncial limitations, institutional 
+lapses politics and polity. Political instability in Bamenda 
+since 2016 has slowed down many projects because either the 
+investors and workers of the project are threatened by insecu-
+rity or the intended purpose of the proje ct is untenable because 
+of displacement. This corroborates the ideas of Norwegian 
+Refugee Council (NRC, [27] that millions of people have been 
+displaced by 2024 fleeing from different countries, linked to 
+violence, insecurity posing a problem to gentrifica tion. Simi-
+larly, [1] observed that insecurity associated with the socio -
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+121 political crisis within the current decade has become promi-
+nent in triggering displacement to different directions of the 
+city, constraining gentrification. Inadequate public policy do  
+not only manifest through incompatible land use develop-
+ments, project delays, conflicting plans and coordination but 
+through failing to mitigates gentrifications negative impacts 
+such as displacement and unaffordable housing. This is not 
+different from th e ideas of [19] who highlights the dispropor-
+tionate impacts of gentrification on historically disadvantaged 
+groups, remaking that policies to mitigate these effects remain 
+underdeveloped. Gentrification in Bamenda is hampered by 
+politics and polity which a re contextual circumstances and set-
+tings constraining gentrification, contrary to the idea of [13] 
+that East Malaysia possess unique cultural draws, such as cul-
+tural histories, architecture, and customs, which tend to propel 
+gentrification.  
+7. Conclusion  
+The gentrification process in Bamenda is the outcome of the 
+interventions of multiple stakeholders. Results reveal a wide 
+range of international, state and local institutions operating in 
+Bamenda, whose activities gentrify the city. The state in syn-
+ergy wit h sectorial ministries is responsible for policy devel-
+opment and financing, in collaboration with foreign partners 
+via operational institutions like the PNDP, GP -DERUDEP 
+C2D, work in synergy to transform the Municipality of 
+Bamenda. The visible results of several socio -economic de-
+velopment across the city (schools, health, roads, markets, set-
+tlements etc.) as well as capacity building of the local popula-
+tion are indicative of their collaboration. However, institu-
+tional lapses, financial constrains, socio -political instability, 
+administrative gridlocks and polity significantly hamper the 
+gentrification process in Bamenda. Nevertheless, there is still 
+a need to intensify stakeholders’ involvement to efficiently en-
+hance the gentrification process in Bamenda, in  order to keep 
+postponing the city’s lifespan in alignment with the model of 
+neighbourhood change by [12]. This study contributes to aca-
+demic discourse as well as offers practical guidance for urban 
+planners navigating constrains to gentrification. Address ing 
+constrains to gentrification necessitates governance frame-
+works that are responsive to the political and socio -spatial dy-
+namics of Sub -Sahara African Cities and Cameroon cities spe-
+cifically. This paper therefore recommends that administrative 
+procedure s be streamline and standardized to reduce adminis-
+trative gridlocks, encourage more inter -departmental coordi-
+nation to foster collaboration between stakeholders to mini-
+mize institutional lapses. To address financial constrain the 
+paper recommends that tax relief programs, land value capture 
+and commodity prize control be implemented and strengthen 
+participatory governance through effective community en-
+gagement. The study highlights the need for policies that bal-
+ance urban dynamics and demographic complexiti es in order 
+to enhance stakeholders’ engagement in the gentrification pro-
+cess in Sun -Sahara Africa in alignment with SDGs 17 focused on strengthening global partnership for sustainable develop-
+ment.  
+Abbreviations  
+ADB  African Development Bank  
+AFD  French Development Agency  
+BAMEDCA  Bamendankwe Development and 
+Cultural Association  
+C2D  Debt Relief and Development Contract  
+CDO  Council Development Officer  
+CDP  Council Development Plan  
+CHODECA  Chomba Development and Cultural 
+Association  
+CIGs  Common Initiati ve Groups  
+FDC  French Development Corporation  
+FEICOM  Special Council Support Fund for 
+Mutual Assistance  
+GP-DERUDEP  Grassfield Participatory and 
+Decentralized Rural Development 
+Project  
+HRITF  Health Results Innovation Trust Fund  
+IDA International Development Association  
+IDB Islamic Development Bank  
+MACUDA  Mankon Cultural and Development 
+Association  
+MBACUDA  Mbatu Cultural and Development 
+Association  
+MINDDEVEL  Ministry of Decentralization and Local 
+Development  
+MINDUH  Ministry of Urban Development and 
+Housing  
+MINEPAT  Ministry of Economy, Planning and 
+Regional Development  
+MINPMESSA  Ministry of Small and Medium Sized 
+Enterprises, Social Economy and 
+Handicraft  
+MINT  Ministry of Transport  
+NCDA  Ndzah Cultural and Development 
+Association  
+NDA Nkwen Development Association  
+NDECA  Nsongwa Development and Cultural 
+Association  
+NGOs  Non-Governmental Organizations  
+PACDDU  Support Programme for Decentralised 
+Capacity Building for Urban 
+Development  
+PBF Performance -Based Financing  
+PNDP  National Community Driven 
+Programme / National Community 
+Driven Development Program  
+UCCA  Union of Council of Cameroon 
+Association  
+VDAs  Village Development Associations  
+WHO  World Health Organisation  
+International Journal of Sustainable Development Research   http://www.sciencepg.com/journal/ijsdr  
+ 
+122 Author Contributions  
+Mildred Endam Acha: Conceptualization, Data Curation, 
+Formal analysis, Methodology, Investigation, Visualization, 
+Writing  – original draft, Writing – review & editing  
+Conflicts of Interest  
+The author declares no conflicts of interest . 

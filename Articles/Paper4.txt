@@ -1,0 +1,587 @@
+ Electronic  copy available at: http://ssrn.com/abstract=2717489 
+www.liser.luWORKING PAPERSPrivate rental-led 
+gentrification in England: displacement, commodification and dispossession
+Antoine Paccoud 1, 2
+1 LISER, Luxembourg
+2 London School of Economics and Political Science, United Kingdomn° 2015-06 December 2015
+ Electronic  copy available at: http://ssrn.com/abstract=2717489 
+ LISER Working Papers are intended to make research findings available and stimulate comments and discussion. 
+They have been approved for circulation but are to be considered preliminary. They have not been edited and have not 
+been subject to any peer review. 
+The views expressed in this paper are those of the author(s) and do not necessarily reflect views of LISER. 
+Errors and omissions are the sole responsibility of the author(s).
+Private rental -led gentrification in Engl and: 
+displacement, commodification and  dispossession  
+Antoine Paccoud  
+London School of Economics and Political Science, LISER  
+December 2 015 
+ 
+ 
+Abstract  
+While central to early gentrification studies, the idea that social and tenure changes were inseparably linked 
+to displacement has recently fallen out of research in the field. This has led to difficulties in the context of a 
+recent shift in the tenure tra jectory associated with gentrification. While the process has historically been 
+linked to an increase in home ownership in the UK, the situation today is marked by the return of the private 
+rental sector, a return associated with the rise of buy -to-let inv estors, the loss of social housing and quickly 
+escalating rents. Gentrification operating in the UK today must thus be thought of as private rental -led 
+gentrification – transitions to private rental in the context of social upscaling. This is shown through  a 
+detailed comparison of small -area social and tenure  data from the 2001 and 2011 UK Census es. While this 
+tenure shift has been documented in gentrifying areas over the years, little is known about its impacts on 
+local neighbourhoods. This is a dangerous blind -spot as private rental -led gentrification is more pernicious 
+than gentrification linked to ownership: it is currently more widespread and likely to displace poorer 
+residents, creates commodified spaces and its production dispossesses low -income owner s.  
+ 
+Key words : gentrification, displacement, tenure, London  
+  
+Introduction  
+While there are many discussions of gentrification as a social change, the process is much less 
+often viewed as a change in tenure. But these two dimensions are inseparable: gentrifi cation is 
+by definition a social change, but one that can take place through a numb er of different tenure 
+trajectories . The issue is that there has been no detailed empirical investigation of the types of 
+changes in tenure link ed to gentrification processe s – instead, the concept remains closely tied 
+to the idea of home ownership. Viewed in this narrow way, gentrification as a concept does not 
+seem to offer much for the analysis of current urban change. In the UK , for example,  recent  
+discussions have focuse d on the rise of buy -to-let investors, the loss of social housing and  on 
+the affordability of private rents.  
+ 
+To gain more traction on these crucial questions, this paper  draws on a comparison of small -
+area social and tenure data from the 2001 and 2011 ce nsuses to argue that g entrification needs 
+to be seen as operating through two broad tenure changes in English metropolitan regions: 
+transitions either to ownership or to private rental in the context of social upscaling. While the 
+first of these forms has been extensively documented in the litera ture on gentrification, much 
+less is known about the second. This is a dangerous blind -spot as private rental -led 
+gentrification is more pernicious: it is  currently  more widespread and likely to displace poorer 
+residents, creates commodified spaces and its production dispossesses low -income owners . 
+ 
+The paper starts by showing the empirical existence of these two types of gentrification in the 
+English metropolitan landscape . It then interrogates the gentrification literature’s  current  focus 
+on social rather than tenure change, a surprising fact given its establishment at a time when a 
+shift to ownership dominated and given the important work done on other tenure trajectories 
+in gentrifying areas. The focus then tu rns to an evaluation of private rental -led gentrification . 
+The aim here will be to draw out some of the theoretical implications of thinking more broadly 
+of gentrification as a process in which social and tenure changes intersect.  
+The two gentrifications  in English metropolitan regions  
+The return of private renting  
+The UK housing market has experienced a marked return of private renting as  a significant 
+tenure category since the early 1990s1. This is noteworthy since private renting had almost 
+disappeared: wh ile 76% of households privately rented in 1918, only 9% did so in 1991. This 
+was compensated by a growth in both social renting and in home ownership – the former 
+peaking at 31% of households in 1981 and the latter at 69% of households in 2001. The return 
+of private renting was precipitated by the 1988 Housing Act which allowed landlords to more 
+easily retake possession of their property and limited the length of tenancies . This form of 
+tenure then  increas ed from 9%  of households  in 1991 to 12% in 2001 , and  then to 18%2 in 
+2011.  This translates into a 1.7 million rise in the number of households private renting between 
+2001 and 2011. These large changes in the tenure structure of UK housing clearly have an 
+impact on the way in which gentrification plays out in its neighbourhoods. But as will be shown 
+in a later section, the literature on gentrification in the UK has not caught up with the swing 
+back to private renting initiated with the 1988 Housing Act.  
+This is problematic since the return of private rentin g has trickled down to the neighbourhood 
+level, bringing with it new types of tenure changes accompanying gentrification. B etween the 
+2001 and 2011 censuses, gentrification accompanied by a transition to or increase in private 
+rental has overtaken the more  ‘classical’ type of gentrification associated with incr eases in 
+homeownership. T hese two types of gentrification will be referred to as ownership -led 
+gentrification (OG) and private rental -led ge ntrification (PRG).  The next section will describe  
+the tenure changes associated with OG and PRG and  justify  their treatment as gentrification.  
+  
+                                                      
+1 The figures in this paragraph are from the ONS (2013) . 
+2 In London, 26% of households rented privately in 2011, now the second largest tenure category (GLA 2014)  
+Tenure changes involved in recent  UK gentrification  
+In this study , OG and PRG  are identified according to th e tenure change that accompan ies the 
+social upscaling3 of a small census area4. Tenure  types have been aggregated into three main 
+categories: owners, social renters  and private renters5. Three  tenure changes6 are associated 
+with each type of gentrification respectively: a sole increase in either owned or priv ate rented 
+units , a transfer of social rented units to either own ership or private rental , and the replacement 
+of owned by private rented dwellings and vice versa . To put it more simply, OG is associated 
+with sole increases or transfers to ownership and PR G with sole increases or transfers to private 
+rental.  
+All of these tenure changes can be understood  as gentrif ication under the right conditions. To 
+draw these out, PRG and OG  tenure changes will be assessed using the four criteria of a widely 
+used definition of gentrification:  “(1) reinvestment of capital; (2) social upgrading of locale 
+by incoming high -income groups; (3) landscape change; and (4) direct or indirect 
+displacement7 of low -income groups”  (Davidson and Lees 2005: 1170). The second crite ria is 
+already met since the article only focuses on those OAs in which social upscaling has occurred 
+between 2001 and 2011. In what follows, the other three criteria will be used to evaluate PRG 
+and OG tenure changes.  
+The pair of tenure change s most reco gnisably  a form of gentrification  is the  transfer of social 
+housing to either private rental (1,744 OAs) or ownership (1,356 OAs). This can occur through 
+the sale on the open market by Councils or Housing Associations of social rented dwellings, 
+which are then purchased and  either inhabited or put for rent by the new owner. Whether this 
+is achieved through refurbishment or by knocking down estates and rebuilding in the same 
+place, it is clear that this type of tenure change involves capital reinvestment (1) . Landscape 
+change will be more  drastic in the latter case, but even refurbishment will leave a physical trace 
+(3). Finally, the loss of social tenants makes it clear that this type of tenure change is 
+accompanied by direct disp lacement of low -income group s (4).  
+                                                      
+3 The method used to identify local areas with social upscaling between 2001 and 2011 can be found in the Appendix.  
+4 Output Area s (OA) have a  population of between 100 and 625 people. At this scale,  areas tend to be more homogeneous and  
+changes in tenure or social class a re thus more easily identified.  As for all census geographies, changes to OAs are made 
+between censuses to reflect population and social change. For the 2011 census, 2.6% of OAs were changed , yielding 114,197 
+OAs comparable between 2001 and 2011 . This means that this analysis does not consider social and tenure changes that 
+occurred in OAs having undergone a large population change (such as the destruction of large estates, construction of large 
+new builds, etc.).  
+5 This grouping of tenure catego ries is not unproblematic. For example, Watt (2009) discusses the often contentious transfer 
+of Local Authority housing to Registered Social Landlords in London.  
+6 See the Appendix  for methodological detail . Another pair of tenure changes was discarded because of its small size: transfers 
+of owned and social rented units to private rental (53 OAs) and transfers of social and private rental to ownership (13 OAs).   
+7 They are referring to Marcuse’s (1985) ‘exclu sionary displacement’ here.  
+Sole increases in priv ate rental or ownership  are achieved if subdivision or rebuilding leads to 
+more units of that type, without the  data showing a change in  the other two tenure types (which 
+means some units of these types are provided in the new  build or as part of the subdivision). 
+Both subdivision  and rebuilding  are clearly a reinvestment of capital (1)  and similarly to the 
+case above also involve landscape change (3). Direct displacement is likely to have occurred if 
+those leaving the area wer e predominantly renters (either social or private ). Criteria  4 is thus 
+met only in areas in which ownership was not the majority tenure in 2001 . This yields 1,853 
+OAs for  the sole increases of private rental and 489 OAs for  the sole increases in ownership 
+that can be considered gentrifying.  
+In the next pair, only the replacement of owned by private rental will be considered in the rest 
+of the article as there were only 74 OAs out of the 114,197 OAs in English metropolitan r egions 
+which experienced a replacement of private rented by owned  (in itself a sign that the 
+momentum is clearly in favour of transitions to private rental) . As will be shown in a later 
+section, the transfer of owned to private rental can be understood as a process of buy -to-let. In 
+this process, it can be assumed that refurbishment is needed to meet the needs of the incoming 
+wealthier residents (1, 3). While  direct displacement cannot be linke d to this tenure change8, it 
+can be assumed that buy -to-let in a context of upscaling l eads to rapidly increasing property 
+prices. This is likel y to lead to  a very high  risk of direct displacement  in the near future  as 
+landlords  increase  rents and  social housing  providers  consider sellin g off stock (4). But t his 
+can on ly occur where  non-owners were the majority in both 2001 and 2011, yielding 1,246 
+OAs of this type .  
+A momentum in favour of private rental -led gentrification  
+OG and PRG can thus take a number of forms depending on the tenure change involved, but 
+each one displays the necessary features of gentrification. Some of these forms can be linked 
+to already existing direct displacement (if there was a depart ure of renters) whi le others  are 
+likely to cause direct displacement  in the near future  by increasing  property prices in the area.  
+But all can be linked to Marcuse’s (1985) ‘exclusionary displacement’ (when low -income 
+groups are no longer able to move  into the area) and ‘pre ssure of  displacement’ (when changes 
+in the area  affect households beyond those actually displaced).  
+PRG and OG have  distinct spatial distributions in England. The two maps in Figure 1 below 
+show the percentages of OAs in English Local Authorities (LAs) in  which there has been OG 
+                                                      
+8 As it is not possible to tell why owners are leaving the area . 
+and PRG between 2001 and 2011  (based on the five tenure changes described above) . As the 
+focus of this study is on urban gentrification, only LAs belonging to metropolitan regions are 
+included9.  
+ 
+Figure 1: Spatial distribution of  OG and PRG in English metropolitan regions  
+What is immediately clear is  that there is a form of gentrification  active over the entirety of the 
+English metropolitan landscape. But this breadth of operation can be attributed to PRG rather 
+than to OG. Indeed , tenure changes linked to OG are barely found in Greater London and in 
+other urban centres in the Southern half of the UK. In contrast, PRG is occurring in urban 
+centres and metropolitan fringes alike, and in each of the English regions. PRG has taken cen tre 
+stage in the gentrification of English metropolitan regions.  
+But t his is a situation that has not been adequately treated by the gentrification literature, for 
+which gentrification is  either  still closely tied to a transition to ownership  or has uncoupled  
+from tenure change altogether . The need to think through the implications of PRG  comes out 
+clearly in this footnote to a study of London between 1981 and 2001: “ in the UK, it has been 
+traditional to equate gentrification with owner -occupation whi ch has not been the case in 
+North America. It might be that the conception of gentrification now needs to include those 
+who rent in such areas; given the growth of this tenure during 1991 –2001, this would seem 
+                                                      
+9 To identify LAs belonging to metropolitan regions, the method  in Paccoud (2011)  was used . This method uses 
+satellite imagery to visually identify those LAs that have a significant proportion of built -up land and which are 
+contiguous to a large urban settlement.  
+
+reasonable”  (Butler et al. 2008: 86). The next section provides an overview of the treatment 
+of tenure  change  in gentrification research.  
+Gentrification and tenure change  
+Glass first identified the process of gentrification in 1963 London, just as home ownership had 
+started to increase in a city wher e there were still more private renters than owners. Over half 
+a century later, the recent return to private renting in the UK signals a need to rethink a concept 
+which has remained bound to home ownership. The assumed link between gentrification and 
+home ownership was only contingent – as the discussion below will show, other tenure changes 
+have been found in gentrifying areas. What is surprising is that recent approaches to 
+gentrification have de -emphasised tenure change in gentrifying areas.   
+Gentrificat ion as home ownership in the UK  
+Glass ’ initial definition of gentrification clearly established the process as concerned with 
+ownership: properties “ have been taken over, when their leases have expired, and have become 
+elegant, expensive residences"  (Glass  1988: 138 ). Elsewhere, the focus on ownership is even 
+more explicit. In the context of a “switch from suburban to urban aspirations”  (Glass 1988: 
+154):  “it is such upper and middle class people, especially, who think of acquiring - and who 
+indeed need and  can afford to acquire - some of sort of a home, if only a pied à terre, near 
+their places of work ” (Glass 1988: 141).   
+What is interesting however, is that Glass thought that the “new demand for homes near the 
+metropolitan centre is bound to remain largely unsatisfied”  (Glass 1988: 154), an illustration 
+of the relative marginality of the phenomenon at that time. This was before the introduction of 
+Mortgage Interest Relief At S ource (MIRAS) in 1969 which was so effective in encouraging 
+home ownership.  In 1969 also, a new Housing Act was introduced which provided incentives 
+for improvement grants, which Hamnett (1973) found to be strongly linked to gentrification . 
+These new  polic ies seem to have led to a shift in real estate investment strategies: “as t he return 
+on rented property steadily fell behind comparable investment opportunities, landlords by their 
+own volition or by the prompting of their agents sought to gain vacant possession and sell”  
+(Williams 1976: 72). The Rent Act 1977 – which prevented u nlawful eviction and re -
+establish ed some security of tenure – pushed investors even more strongly towards ownership.  
+Thus, by the early 1980s, and until the 1988 Housing Act which revalued private rental 
+opportunities, gentrification in the UK was occurri ng in a context in which “previously rented 
+property with or without vacant possession became available in large quantities in these inner 
+areas, and because of the relatively low price, good location, and other factors they were 
+purchased for owner occupa tion”  (Hamnett and Williams 1980: 483). Gentrification in 
+London, between 1961 and 1981, was thus closely tied to a “process of tenurial transformation 
+from private renting to owner occupation”  (Hamnett 1986: 403) . This occurred to such a large 
+extent beca use landlords operated as  “rational profit maximizers, closely in tune with 
+competing investment opportunities ” (Hamnett and Randolph 1984: 269) . This is the context 
+in which Bridge could assert when looking back on the 1980s “there is a striking tenure shift 
+away from council and private rental tenures in favour of owner -occupation” (Bridge 1994: 
+40). 
+So while it was normal for gentrification to be tied to ownership in this period of ‘flat break -
+up’, w hat is interesting is that gentrification has continued to be tied to homeownership, even 
+with the return  of private renting  (and in the context of the significant tax advantages available 
+to buy-to-let investors ). UK-based gentrification research seems to have carried forward the 
+initial, and contingent, link between gentrification and ownership. In 1991, even though Warde 
+distinguished between “the activities of large -scale property developers who buy a large tract 
+of land to build a condominium and those of individual households t hat buy an old house in an 
+'improving neighbourhood' and set about restoring it”  (Warde 1991: 224), the fact remains 
+that the end state of both these properties will still be owner -occupation. The focus seems to 
+have shifted to the “ question of why individ ual owner gentrifiers undertake gentrification ” 
+(Hamnett 1992: 118).  And in  the study of middle class gentrifiers in London, Butler and 
+Robson (2001, 2003) seem to have excluded non -gentrifiers (and thus renters) from their in -
+depth interviews, something w hich can also be found in Bondi (1999).  
+Hamnett and Butler ’s (2010 ) remark that recent growth in private rental in London was “ a 
+dramatic turnaround from previous decades and the result of both the establishment of assured 
+tenancies and the re -emergence of private landlordism in Britain through what is known as 
+‘buy-to-let’”  (Hamnett and Butler 2010: 59-60), has thus not been pick ed by gentrification 
+researchers in the UK.  The gentrification imaginary has remained bound to home ownership.  
+Gentrification  and tenure change  elsewhere  
+While g entrification in the UK has been associated with home ownership only because that 
+was the form  of tenure most strongly incentivised  at the time of its early study , the situation 
+elsewhere was a little different. Of course, there are many examples of early gentrification 
+research in the United State s where it is assumed to be tied  to ownership. For example, 
+gentrifiers were often called ‘renovators’ who purchase d inner city housing’  (Laska and Spain 
+1980)  or resettlers who were purchasing their first home (Gale 1979), and even Smith (1979) 
+refers to gentrifiers as rehabilitators. Here too, surveys an d interviews tar geted homeowners  
+only, such as , in Gale (1979) and Laska and Spain (1979): “o nly those people who had bought 
+homes in the preceding three years and were occupying these homes were included in the 
+survey”  (Laska and Spain 1979: 524).  
+But oth er work provided crucial  insights into other tenure changes that could occur in  
+gentrifying  areas . A major study here is that of Smith (1979) in Society Hill study in 
+Philadelphia. There, he found three ‘gentrifiers’ : (a) professional developers who purchase 
+property, redevelop it, and resell for profit; (b) occupier developers who buy and redevelop 
+property and inhabit it after completion; (c) landlord developers who rent it to tenants after 
+rehabilitation”  (Smith 1979: 546).  The difference between w hat he calls professional and 
+landlord developers highlights  the existence of two different types of tenure trajectories in 
+gentrifying areas : whatever the initial tenure of the property, gentrification can occur with 
+either its transfer to ownership or wi th its transfer to private rental . This is similar to the findings 
+of DeGiovanni and Paulson’s (1984) comparative study of gentrifying neighbourhoods in 
+Philadelphia and Atlanta: “renters in revitalizing neighborhoods may be forced to move if the 
+property is sold and converted to owner -occupancy, rehabilitated for higher -income renters , 
+or converted to condominiums or cooperatives”  (DeGiovanni and Paulson 1984: 218).  What 
+is missing here, and which will be attempted in the third section of this paper, is a discussion 
+of how these tenure trajectories may have different impacts on local neighbourhoods.  
+A number of interesting studies were conducted in Australia: by Logan in 1982,  Maher in 1985  
+and Engels in 1999 . For Logan, the issue was that the consensual d efinition of gentrification 
+included ‘rising occupancy status’ as one of it s key characteristics but that he was not finding 
+any marked transition to ownership in the areas he investigated. Instead, he concluded that 
+“changes in the rental householder popu lation explain much of the ‘emergence of a new gentry 
+class’ in inner Melbourne, particularly in the most traditionally working -class”  (Logan 1982: 
+86). Maher (1985) was in a similar situation: “ if a move to owner occupancy is a basic element 
+of the gentri fication process, then that is not what is happening in inner Melbourne”  (Maher 
+1985: 7). Engel’s (1999) detailed work on the process of gentrification in a S ydney  suburb 
+contradicted the “popular view that the gentrification process is driven purely by ow ner-
+occupiers, not by small -scale absentee owners and their middle -class tenants”  (Engels 1999: 
+1490). What is so interesting about this work is that it explicitly argues that “there can be more 
+than one trajectory to neighbourhood change associated with gentrification”  (Engels 1999: 
+1479). In their own way, all three of these studies had already identified transitions to private 
+rental -led gentrification.  
+Another interesting example is Clark’s (1992) study of gentrification in Stockholm with its 
+focus on  conversion s from rental to tenant ownership  which can take two forms. Either “the 
+tenants take the initiative to form a tenant -owner association and purchase the property in 
+accordance with the tenants' right of pre -emption”  (Clark 1992: 23)  or a landlord  “first empties 
+a building of tenants in order to do a total modernisation of the building, and then sells to a 
+tenant -owner association”  (Clark 1992: 23). Even more imp ortant is Clark’s (1992) point that 
+these have different effects, even though both look  similar in aggregate statistics – both lead to 
+gentrification and follow a simi lar tenure trajectory. H ow gentrification is produced thus 
+becomes crucial, a point that will be returned to in a later discussion on buy -to-let 
+gentrification.  
+In all these c ases gentrification occurred through tenure trajectories in which ownership was 
+not the central component. Instead, many of these studies discuss a type of gentrification much 
+closer to the PRG discussed in this article. It thus is surprising that  recent g entrification research 
+has on the whole distanced itself from tenure change.  
+Gentrification without tenure  change  
+More recent g entrification research has favoured definitions of gentrification based on the 
+change in the socioeconomic characterist ics of the  resident population. The debate between 
+Ley and Smith in the late 1980s is a good illustration of this new orientation. While Ley (1986) 
+used “ a change in household social status, independent of the housing stock involved, which 
+might be either renovated or redeveloped units”  (Ley 1986: 526) as an indicator for 
+gentrification, Smith (1987) thought that gentrification is “not only a social change but also, 
+at the neighborhood scale, a physical change in the housing stock and an economic change in 
+the land a nd housing markets ” (Smith 1987: 463) . His ‘fix’ entailed looking  at rent and income 
+measures, indicators put to the test in his Harlem s tudy (Schaffer and Smith 1986). The crucial 
+point here is that tenure seems to have dropped out of the analysis of gent rification. This rest 
+of this section will show  how this can be problematic.  
+Recent  attempts to broaden out gentrification  have at times stretched the concept a little too 
+far. For example, it is not clear that super -gentrification – “the transformation of  already 
+gentrified, prosperous and solidly upper -middle -class neighbourhoods into much more 
+exclusive and expensive  enclaves ” (Lees 2003: 2487)  – really involves the type of social 
+change usually associated with gentrification. It doesn’t seem to be linke d to tenure change or 
+displacement either: “there is little evidence of continued social displacement in Barnsbury – 
+the stock of suitable housing has long been converted ” (Butler and Lees 2006: 469). A similar 
+question can be asked about new -build gentrif ication, which involves “ the large -scale 
+deployment of economic capital by developers ” (Davidson and Lees 2005)  but in which 
+building is done on reclaimed land. This means that there is no base from which social (or 
+tenure) change could be observed. What i s problematic in the case of new -build gentrification 
+is that the concept ends up conflating self -contained developments on brownfield sites – 
+“neighbourhood considerations are significant because of their abse nce in this form of 
+gentrification” (Davidson 2007) – with developments that come to replace demolished council 
+estates such as Aylesbury  (Davidson and Lees 2010: 403). The latter involves a social and 
+tenure change (and thus displacement), the former features neither. A clear presence of  tenure 
+and s ocial change (and of course displacement) might need to be made more central to 
+definitions of gentrification to ma ke sure the concept isn’t accused of being ‘chaotic’ again 
+(Rose 1984) . 
+In the case of two other research strands, the focus has shifted to h ighly salient forms of social 
+change, perhaps to the detriment of more ordinary forms of displacement. One of these is the 
+focus on gentrification as a mode of cultural consumption. For Mills, gentrification is deeply 
+implicated in the “the 'discovery' of ever-new scarce commodities which can act as vehicles 
+for status”  (Mills 1988: 186), for Zukin it is in part “ a mode of high -status cultural 
+consumption ” (Zukin 1987: 144). But both of these accounts are focused on very specific 
+building types – historical  or architecturally distinct for Zukin, pos t-modern architecture in 
+Mills – thus perhaps  obscuring the production of gentrified landscapes that are more functional 
+and commodified than status -enhancing. This is paralleled in the idea that gentrification ha s 
+recently entered a third wave  (Hackworth and Smith  2001 ), in which the state now plays a 
+significant role . This has perhaps given the state too much attention. For example, Watt (2013) 
+speaks of a ‘state induced rent gap’ to refer to the contrast between  the current use of land as a 
+council estate and its “potentially large value if only the resident base could be made to 
+change”  (Watt 2013: 102).  But i n ‘selling’ an estate to a developer, the local state may only be 
+reacting to budget ary shortfalls and a  rent gap created by intense private activity around the 
+site to raise property values. Focusing on  the most visible forms of change should not obscure 
+more ordinary forms of displacement . This point will be returned to in the next section in the 
+context o f an estimate of OG and PRG induced displacement.  
+The final strand of gentrification research to be discussed here is that which emerged from 
+Lees’ early comparative work (Lees 1994), and which has broadened to a focus on ‘geographies  
+of gentrification ’ (Lees 2000),  gentrification and c omparative urbanism (Lees 2012)  and more 
+recently o n global gentrifications (Lees et al. 2015 ). And while tenure trajectories played an 
+importan t role in the early comparison – “the leasehold system in England affects the timing of  
+gentrification and the tenure system the flow of gentrification, this is less  apparent in the US ” 
+(Lees 1994: 2 15) – this seems to have slowly dropped out of  more recent work . But it seems 
+as though the comparison of gentrification processes acro ss different contexts would be 
+strengthened if it ensured that similar types of tenure trajectories  were being compared. For 
+example, there might be more differences between OG and PRG in England than between 
+forms of PRG in cities in completely different geographical contexts  
+Recent strands of gentrification research have thus distanced themselves from considerations 
+of tenure change. This is both surprising given the important studies which centred on tenure 
+trajectories other than those to ownership and problematic given the issues that accompany a 
+neglec t of tenure change: concept stretching, a focus on the highly visible and more difficult 
+comparison s. To show the importance  of considering tenure change alongside social change in 
+the study of gentrifica tion, the next section will discuss the differences between OG and PRG. 
+The key point is that PRG is more pernicious than OG for three main reasons: it is more likely 
+to displace poorer residents, creates commodified spaces and dispossesses low -income owne rs.  
+Private rental gentrification: an evaluation  
+More likely to displace  
+This section will show than in addition to being more widespread in English metropolitan 
+regions PRG is al so associated with a higher burden  of displacement for low -income 
+populations, especially as concerns the risk of direct  displaceme nt linked to buy -to-let. As table  
+1 below indicates10, both OG and PRG are associated with potentially large numbers of directly 
+                                                      
+10 Direct displacement is defined as the forced movement of low -income renters (either social or private) due either to the 
+destruction of the dwelling the y inhabited (either for purposes of subdivision or new build construction) or to its sale by 
+Councils of Housing Associations. Direct displacement is thus estimated as the number of low -income individuals lost in OAs 
+where social and private renters were e ither the majority in 2001 or those who left the area in greatest numbers. These figures 
+do not take into account those displaced from projects that involved population numbers large enough to render 2001 -2011 
+OA level comparison impossible. Using Marcuse’ s (1985) ‘last -resident displacement’ only (and thus not ‘chain 
+displaced low -income residents.  While the average loss per OA is actually higher in OG tenure 
+changes (25.3) than in PRG tenure changes (21.5), the danger of PRG is clearly apparent in the 
+significant ly larger  displacement associated with s ole increases in private rental (30,313) rather  
+than in ownership (9,211). Though this tenure change has the lowest average loss per OA 
+(16.4), it points to a process that may be occurring under the radar of current gentrification 
+studies (which as discussed in the section above tends to focus on highl y visible changes ). 
+Subdivisions and small new builds  – ordinary displacement – tend to be less noticed but, as a 
+whole, also contribute heavily towards the displacement occurring under PRG.  
+ 
+Table 1: Estimates of direct displacement linked to OG and PRG  
+Tenure change  Type of 
+gentrification  OAs with 
+potential 
+displac ement  Estimated 
+number of 
+displaced 
+(2001 -2011)  Average 
+number 
+displaced by 
+OA 
+Sole increase in private rental where 
+ownership was not the majority 
+tenure in 2001  PRG  1,853  30,313  16.4 
+Private rented replacing social 
+rented  PRG  1,744  47,105  27 
+Total PRG   3,597 77,418  21.5 
+Sole increase in owned where 
+ownership was not the majority 
+tenure in 2001  OG 489 9,211  18.8 
+Owner replacing social rented  OG 1,356  37,468  27.6 
+Total  OG  1,845  46,679  25.3 
+ 
+But the clearest indication of the higher potential for PRG to lead to displacement can be found 
+in buy -to-let areas, which ha ve no significant equivalent in OG. As detailed early in the article, 
+buy-to-let occurring in non -owner majority areas can be linked  to a risk of direct  displacement 
+because it can lead to rent increases (which threaten low -income private renters) and sales of 
+Council or Housing Association property (which affect social renters).  In the 1,246 non -owner 
+majority OAs in which there was evidence of a process of buy -to-let between 2001 and 2011, 
+there are an estimated 115,25211 low-income residents aged 16 -74  sti ll renting  in 2011  (either 
+privately or socially). As more of the remaining owned units are inhabited by wealthy tenants, 
+the pressure on private rents and social housing will continue to increase. While not all  of these 
+residents will have to leave the ar ea because of buy -to-let in the short term , this process will 
+clearly lead to a long -term transformation of these areas – again pointing to the operation of 
+                                                      
+displacement’) seems appropriate in this context as the tenure change likely to have led to the forced departure of the previ ous 
+occupant is only assumed to have happened once in the decade be tween the two censuses.  
+11 This number may be lower given that some of these low -income residents may be owners, but may be higher if the knock -
+on effect of increasing housing prices on proximate areas (and their social and private renters) could be factore d in. 
+‘ordinary displacement’. PRG thus  seems to  more seriously undermine the ability of poorer 
+residents  to remain in the city than at any other point in the ‘age of gentrification’. And this 
+displacement has  impact ed some groups more than others12. 
+What is worrying is that PRG is being intensified by Coalition government programmes: Help 
+to Buy (linked to ra pidly increasing property prices), the revitalisation of the Right to Buy 
+(which threatens the remaining social housing stock) and Welfare Reform. The latter is 
+especially problematic as it puts the new private rental dwellings largely out of reach of the 
+most marginalised. Hamnett (2010) has drawn out the implications of the housing benefit 
+reform: “low-income households on H ousing Benefit  will be effectively excluded from the 
+private -rented sector in much of central London, reinforcing the impact of chang es in social 
+class and high house prices on the social and tenure structure of London ” (Hamnett 2010: 
+2818). And Fenton et al (2013) have described the commodification of social renting that is 
+currently occurring through the “ move to personal subsidies fo r open -market renting ”, a trend 
+which “means that the socio -spatial organisation of the city is more decisively determined by 
+market pricing, as well as diminishing security and determination for low -income tenants”  
+(Fenton et al 2013: 377) . The displaceme nt pressures associated with PRG will thus only 
+exacerbate and be exacerbated by these government programmes.  
+Creating commodified  spaces  
+In addition to being more likely to displace, PRG impacts neighbourhoods in a manner very 
+different to OG. This can be  seen by focusing on their different temporalities and on the agents 
+involved.  OG can be thought of as both immediate and slow: with its inhabitation by the new 
+wealthy owner, gentrification is realised, but its benefits only materialise  in the long term w hen 
+the property is sold on. In co ntrast, PRG is delayed but fast. The property is only truly gentrified 
+with the arrival of a tenant paying rent equal to proximate h igh-income areas, which may be 
+achieved only after a sequence of tenants paying increasing  rents. But as long as tenants are 
+secured, rental returns are received quickly.  There are thus also different agents involved  in 
+sealing the gentrification process: in OG, it is the purchaser who is likely to stay in the area 
+over the mid - to long -term wh ile in PRG it is the sequence of short -term tenants. This has an 
+implication for who is to be considered the ‘gentrifier’ in PRG . The starting point should be 
+Smith’s call to see gentrifiers as the “producers of gentrified properties – builders, property 
+owners, estate agents, local governments, banks and building societies”  (Smith 1992: 113 ). 
+                                                      
+12 For a comparison of the movements of first and second generation migrants of selected ethnicities in London 
+between 2001 and 2011, see Paccoud (2014).  
+The question then becomes: can PRG tenants be added to the list of ‘producers of gentrified 
+properties’ ? 
+Looking back at Smith’s (1979) “landlord developers who rent it to tenants after 
+rehabilitation”  (Smith 1979: 546), the answer seems to be no – gentrification  is only the act of 
+rehabilitation  by the landlord. But PRG cannot be reduced to rehabilitation alone. While 
+modern new -builds and renovated terraced housing m ay attract relatively wealthier tenants, the 
+area remains majority low -income and there must be a limit to the rent that can be demanded. 
+Gentrification is not achieved until the ‘rent al income ’ gap has been closed between the current 
+rent and what could b e asked if the area  were predominantly high -income (such as what is 
+achieved in already gentrified proximate areas with similar accessibility and built form). 
+Tenants thus play  an important part in making sure the initial rehabilitated unit becomes a 
+gentrified property: they accept rents and possibly rent increases, passively (or actively) 
+produce a change in the offer of goods and services and informally market the area throug h 
+social interaction. From this perspective, each individual tenant in PRG areas is participating 
+in the process. It thus seems as though PRG necessitates a broadening out  of Smith’s (1992) 
+‘producers of gentrified properties’ to account both for ‘direct p roduction’ (developers, 
+landlords, estate agents, etc.) and ‘indirect production’ (tenants).  
+Viewing tenants in PRG areas are indirect producers of gentrified properties makes it possible 
+to think of  PRG as ‘gentrification at a distance’. Neither the devel oper/landlord nor any 
+particular tenant is present throughout the entirety of the gentrification process – as the owner 
+in OG necessarily is. Gentrification thus becomes faceless and more insensitive to the 
+attachment of low -income groups to place. PRG has  the potential to depoliticise gentrification 
+and the displacement it causes by removing a ‘palpable’ gentrifier from the process. Former 
+low-income residents are steadily replaced by a sequence of increasingly wealthy tenants who 
+may have little sense of how the area, and its residents, used to be.  
+But this also means that ‘gentrification at a distance’ has a distinctive effect on local use values. 
+While the immediate gentrification in OG means that there has been a significant buy -in to the 
+area, and that  the new owner has a stake in its mid- to long-term development , with PRG the 
+fact is that neither the direct nor the indirect producer have such an interest.  Both  are geared 
+towards the short term , a reflection of the fact that current legislation provide s little security of 
+tenure and imposes no limits on rent increases. This favours the direct producer’s attempts to 
+close the ‘rental income’ gap: tenant churn is likely to be high, which offers opportunities for 
+rent increases as the area as a whole loses  its low -income population. The direct producer is 
+likely to build or refurbish the property to a high enough standard to entice high -income renters 
+but may then minimise maintenance once tenants are secured, what can be called ‘strategic 
+maintenance’. The  indirect producer may also be in a short -term orientation, with some 
+populations, such as graduates or recent wealthier migrants, likely to rent for a while before 
+setting down more permanent roots.  
+This is not to say that private rental cannot be associa ted with investment in local use values  
+but only to highlight that the conditions of PRG push both direct and indirect producers of 
+gentrified properties to disinvest from the dwelling and the local area more generally. This 
+tends to create commodified and functional landscapes that serve the needs of a new and 
+wealthier transient population rather than those of the more established population.  And 
+although neither direct nor indirect producers invest in local use values, gentrification  – and its 
+attached d isplacement pre ssures on low -income population – is in operation.   
+Dispossessing  low-income owners  
+Another  important question is raised by the PRG tenure change described as the transfer of 
+owned units to private rental. As highlighted in the case of Clark  (1992), it is important to look 
+more closely at how similar outcomes may be differently produced. In this case, two 
+possibilities exist: either the low -income owner put s the property for rent (what can be called 
+‘incumbent landlordism’) or this owner sell s the property to a new owner who puts it for rent 
+(what is referred to as ‘buy -to-let’). The first scenario opens the possibility that this form of 
+PRG may in some way benefit the low -income owners in gentrifying areas. This would be 
+unique to the current  gentrification landscape as all of the other four tenure changes identified 
+involve the investment of significant amounts of capital, no matter whether the units end up 
+inhabited by the owner or by a tenant.  
+However, the evidence clearly points to a pred ominance of buy -to-let in these areas. This can 
+be shown by looking at the type of low -income owner which left the area between 2001 and 
+2011. The assumption here is that a low -income owner can only afford to offer the property for 
+rent if it is already ow ned in full. Rental income can then be used to pay a mortgage on (or 
+rent) another property13. A departure of low -income owners who fully owned their property 
+can thus be associated with a capture of the rental income by these individuals. On the other 
+hand, if the owner still has a mortgage to p ay on the property, selling and transferring the 
+                                                      
+13 It is assumed that the owner has the capital required for refurbishment.  
+mortgage to another property seems the more likely scenario. This means that the gains from 
+rental income are captured by the new, capital -rich, owner.  
+Using this  method, it was found that 39.9% of OAs have seen an exclusive decrease of owners 
+with a mortgage (497 OAs) and a further 28.7% a majority14 decrease of such properties (357 
+OAs). 68.5% of OAs with this tenure change are thus serving new (and presumably cap ital-
+rich) owners rather than the low -income owners that once lived in the area. In only 4.2% of 
+OAs (52) and 6.7% of OAs (83) has there been a sole or majority departure of fully owning 
+low-income owners respectively. The remaining 19.7% of OAs (246) have  witnessed 
+departures of both types of owners15. Buy -to-let rather than low -income owners putting their 
+properties for rent thus seems to account for the vast majority of transfers of owned to private 
+rental, dispossessing low -income owners of potential ren tal income. It is clear that this type of 
+PRG can only be produced by those with enough capital to focus on more than one property at 
+the same time, and not ‘incumbent landlords’.  
+It might thus be time to strip the idea of gentrification of its social mobi lity imaginary, the idea 
+that it is an enrichment strategy open to the many. The issue is that the commonly used 
+definitions do not clearly make a distinction between users and producers of gentrified 
+properties, thus leaving open the possibility that some  of the gentrifiers are either ‘owner 
+occupiers’ or ‘incumbent landlords’. For example, for Clark, “gentrification is a process 
+involving a change in the population of land -users such that the new users are of a higher 
+socio -economic status than the previo us users, together with an associated change in the built 
+environment through a reinvestment in fixed capital”  (Clark 2005: 263). This definition clearly 
+accommodates the three types of gentrifiers Smith (1979) identified, as well as gentrification 
+produce d by an incumbent landlord. But even Smith’s (2000) definition – “the reinvestment 
+of capital at the urban centre, which is designed to produce space for a more affluent class of 
+people than currently occupies that space”  (Smith 2000: 294) – and that by Da vidson and 
+Lees’ (2005) quoted early in the paper and which both focus more heavily on capital 
+reinvestment do not allow for a distinction to be made between  relatively  minute amounts of 
+capital invested by an incumbent landlord to prepare the dwelling for  private re ntal and the 
+capital needed to destroy a council estate and rebuild in its place . Both ‘injections of capital’ 
+serve the same purpose of producing “ space for a more affluent class of people than currently 
+occupies that space”  (Smith 2000: 294), but with very different social consequences.  
+                                                      
+14 A majority decrease here is defined as a decrease in one type of owner that is over twice as large as the other.  
+15 There were 98,250  owners with a mortgage and 46,187  fully owni ng in 2001 in these OAs.  
+Emphasising that the reinvestment of capital in gentrifying areas comes from capital -rich 
+sources, and is thus dispossessing low -income owners, might be a way to make this distinction 
+clearer.  
+Conclusions  
+There  are thus two gentrifications occurring simultaneously in English metropolitan regions, 
+but only OG has been adequately treated in the gentrification literature. This is problematic 
+since disregarding tenure change in the study of social change can lead to  concept stretching, 
+a focus on the highly visible forms of gentrification and can become an obstacle to the 
+comparison of gentrification processes in different places. But it is also an issue because PRG 
+is in many ways more pernicious than OG: it is asso ciated with more wides pread displacement, 
+creates  commodified spaces and dispossesses low -income owners.  
+This paper thus provides some evidence on the way in which PRG has re -intensified the 
+impacts of gentrification in the UK metropolitan system. With mor e returns on investment now 
+available through buy -to-let, the transfer of council estates to private rental and the 
+intensification of the offer of private rental units, gentrification has latched on to a different set 
+of tenure trajectories. These have ha d the consequence of increasing the polarisation of the 
+cities it has affected, especially th rough displacement, both past and to come. This offers a 
+strong rebuke to the claim that “ the polarisation thesis has proved extremely influential, 
+although its ev idential basis is sometimes shaky and often runs contrary to the picture provided 
+by official statistic s” (Butler, Hamnett and Ramsden 2008: 69).  
+And it lends credence to an approach which centres on the ability of gentrification to adapt 
+itself to the ch anging policy environment, and thus to the relative investment opportunities of 
+different tenure trajectories. An  adaptation that is  allowed to occur because  “the construction 
+of new gentrification complexes in central cities across the world has become an  increasingly 
+unassailable capital accumulation strategy for competing urban economies ” (Smith 2002: 
+443). PRG can be stopped if rent controls and more secure private rental tenancies are reinstated 
+– but gentrification will continue as long as real estate  remains “ a centrepiece of the city’s 
+productive economy, an end in itself ” (Smith 2002: 443).  

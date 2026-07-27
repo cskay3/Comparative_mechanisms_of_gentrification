@@ -1,0 +1,1954 @@
+Unequal Displacement: Gentriﬁcation, Racial
+Stratiﬁcation, and Residential Destinations
+in Philadelphia1
+Jackelyn Hwang
+Stanford University
+Lei Ding
+Federal Reserve Bank of Philadelphia
+Drawing from sociological theory and research on residential mobil-
+ity and neighborhood strati ﬁcation, which primarily explain urban
+decline and persistent segregation, the authors propose a frameworkfor examining residential displacement in the context of gentri ﬁca-
+tion. Using this framework, this study assesses how gentri ﬁcation shapes
+whether and where disadvantaged residents move, using a unique large-scale consumer credit database of residents in Philadelphia from 2002to 2014. The authors ﬁnd that gentri ﬁcation ’s consequences on the res-
+idential mobility patterns of ﬁnancially disadvantaged residents are
+unequally distributed by the racial contexts in which gentri ﬁcation is
+taking place. The authors argue that mechanisms of racial strati ﬁca-
+tion that govern both the valuation of neighborhoods and neighbor-hood sorting patterns explain these differences. They also ﬁnd that gen-
+triﬁcation is indirectly displacing disadvantaged residents over time.
+Their analysis demonstrates how gentri ﬁcation in the 21st century is
+fundamentally structured by racial strati ﬁcation and recon ﬁguring the
+urban landscape and residential sorting in ways that exacerbate neigh-borhood inequality by race and class.
+Large-scale economic and demographic transformations and the perpetua-
+tion of discriminatory housing policies and neighborhood preferences left many
+1The authors thank the AJS reviewers, Jacob Faber, David Grusky, Robert M. Hunt,
+Tomás Jiménez, Douglas Massey, Ann Owens, Elizabeth Roberto, and audiences of
+© 2020 by The University of Chicago. All rights reserved.
+0002-9602/2020/12602-0004$10.00
+354 AJSVolume 126 Number 2 (September 2020): 354 –406
+
+inner-city and predominantly Black neighborhoods depopulated and in dire
+conditions during the latter half of the 20th century (Wilson 1987; Massey
+and Denton 1993). But after decades of decline, some low-income centralcity neighborhoods have gentri ﬁed—they are undergoing a socioeconomic
+upgrading characterized by reinvestment and the in-migration of middle-
+and upper-class residents (Smith 1998).
+2Although gentri ﬁcation had been
+occurring in pockets throughout large cities for several decades, its rate
+and spread have increased substantially since the late 1990s (Hackworth
+and Smith 2001; Hwang and Lin 2016), spurring increased public and schol-arly debate about the redistribution of disadvantaged urban residents (At-
+kinson 2004).
+Sociological theory and research on residential mobility and neighbor-
+hood strati ﬁcation underscore how race-based neighborhood preferences
+and racially strati ﬁed residential sorting are central to explaining the de-
+cline of urban neighborhoods and cities, White ﬂight and White residents ’
+avoidance of central city (particularly minority) neighborhoods, and persis-
+tent segregation. These mechanisms may have served well for explaining
+much of the 20th century, but the intensi ﬁcation and spread of gentri ﬁca-
+tion, particularly to Black urban neighborhoods, implies a fundamental
+shift in neighborhood preferences and sorting. Whether and how these pro-
+cesses apply to gentri ﬁcation and its consequences requires further empiri-
+cal analysis of who can stay, who moves out, who can move in, and where
+people can move in general as neighborhoods gentrify.
+Numerous studies employing a range of methods have examined whether
+and how gentri ﬁcation leads to residential displacement, producing a mixed
+set of results and overall conclusions (Brown-Saracino 2017). Qualitative
+accounts tend to document the unscrupulous ways low-income residentsin gentrifying neighborhoods, particula rly minority neighborhoods, are forced
+out of their homes and priced out of their gentrifying neighborhoods. In
+these accounts, middle- and upper-class newcomers arrive, businesses turn
+2Although there is no clear consensus in the literature over the de ﬁnition of gentri ﬁca-
+tion, we use this broad conceptualization, which generally aligns with most research
+and does not assume residential displacement or racial turnover for which evidence is
+mixed.various workshops, seminars, and conferences for their helpful feedback. This researchwas supported in part by the Eunice Kennedy Shriver National Institute of Child Health
+and Human Development of the National Institutes of Health (grant T32HD007163). The
+views expressed in this article are those of the authors and do not necessarily re ﬂect the views
+of the Federal Reserve Bank of Philadelphia, the Federal Reserve System, or the National
+Institutes of Health. Direct correspondence to Jackelyn Hwang, Department of Sociology,
+450 Jane Stanford Way, Building 120, Stanford, California 94305. E-mail: jihwang@
+stanford.eduUnequal Displacement
+355
+
+over, housing prices soar, neighborhoods whiten, all resulting in communi-
+ties becoming “lost ”and their cultural histories erased (e.g., Wellman 1979,
+p. 1204; Zukin 2010; Hyra 2014). Yet quantitative inquiries produce weakor no evidence that disadvantaged or minority residents in gentrifying neigh-
+borhoods move more, in general or involuntarily, than they would if they
+lived in lower-income neighborhoods that do not gentrify (e.g., Freeman2005; McKinnish, Walsh, and White 2010; Ellen and O ’Regan 2011; Ding,
+Hwang, and Divringi 2016; Martin and Beck 2018). Nor do quantitative
+studies ﬁnd that gentri ﬁcation disproportionately occurs in minority, espe-
+cially predominantly Black, neighborhoods (e.g., Owens 2012; Hwang and
+Sampson 2014). While gentri ﬁcation is increasingly occurring in minority,
+including Black, neighborhoods compared to the past (Owens 2012; Free-man and Cai 2015), gentri ﬁcation is not the dominant trend in these neigh-
+borhoods. Some scholars have even concluded that the portrayal of gentri-
+ﬁcation ’s negative consequences for low-income and minority residents is
+“overstated ”(Brown-Saracino 2017, p. 526).
+We argue that the existing research on gentri ﬁcation has taken a limited
+view of residential displacement that focuses on whether residents move (for
+a review, see Carlson 2020). This focus obscures the complex reality of res-
+idential mobility, particularly among disadvantaged residents. Socioeconom-
+ically disadvantaged residents often experience forced moves regardless ofgentri ﬁcation, resulting from exploitative landlords and ﬁnancial instability
+(Desmond 2016), while those in gentrifying neighborhoods may try to stay
+as long as possible (Freeman 2006; Ellen and O ’Regan 2011). Residents in
+both gentrifying and nongentrifying ne ighborhoods also make planned moves,
+which are often upward, when the opportunity arises (Rossi 1980; DeLuca,
+Garboden, and Rosenblatt 2013). Such opportunities may be more likely ingentrifying neighborhoods where increasing values allow some to cash out.
+Thus, gentri ﬁcation can serve as a mechanism that exacerbates ﬁnancial dis-
+advantage for some as costs rise, inducing an involuntary and constrainedmove. But gentri ﬁcation can also induce an upward move, providing ﬁnan-
+cial advantage to others.
+Perhaps more importantly, focusing e xclusively on whether residents move
+ignores the context of racial strati ﬁcation that imbues the housing market,
+from the valuation of neighborhoods to discriminatory practices by landlords
+and realtors, to informational differences that lead to strati ﬁed neighborhood
+destinations (Logan and Molotch 1987; Massey and Denton 1993; Charles
+2003; Sampson and Sharkey 2008; Krysan and Crowder 2018). Despite gen-
+triﬁcation ’s increasing prevalence in predominantly Black neighborhoods
+relative to the past (Owens 2012; Freeman and Cai 2015), gentri ﬁcation is
+slower and residents more vulnerable to exploitative landlords in these
+neighborhoods (Pattillo 2007; Hwang and Sampson 2014; Desmond andShollenberger 2015). Thus, while some residents may make voluntary orAmerican Journal of Sociology
+356
+
+planned moves as a result of the dynamics of gentri ﬁcation and others may
+make involuntary moves, the constraints of these moves likely differ across
+neighborhoods and their residents by race.
+In this study, we expand the analytical purview of residential displace-
+ment to examine where disadvantaged residents move when they move —
+from both within and outside of gentrifying neighborhoods. In doing so,our analysis offers a clearer view of the consequences of gentri ﬁcation on
+residential outcomes. Given the compounding evidence showing that living
+in disadvantaged neighborhoods can have detrimental effects on individu-als’life chances (Sharkey and Faber 2014), the destination of movers from
+gentrifying neighborhoods bears out the material consequences of gentri ﬁca-
+tion in full. Moreover, knowing where disadvantaged movers —including
+movers from beyond gentrifying neighborhoods —e n du pa l l o w sf o ra na s s e s s -
+ment of whether and how gentri ﬁcation is restructuring the economic space of
+cities and surrounding areas as gentrifying neighborhoods become unafford-able and shift where disadvantaged movers end up (Newman and Wyly
+2006; Davidson 2008; Sampson and Sharkey 2008).
+The fact that the residential destinations of movers has been overlooked
+in the empirical research on gentri ﬁcation is partly due data limitations.
+Drawing on a large-scale restricted consumer credit database of more than
+50,000 randomly sampled adult residents with ﬁnancial credit records in
+Philadelphia, Pennsylvania, from 2002 to 2014, this study is the ﬁrst to our
+knowledge to empirically examine how gentri ﬁcation is associated with whether
+and where disadvantaged residents move and whether this relationshipvaries across the neighborhood racial contexts in which gentri ﬁcation is tak-
+ing place.
+We demonstrate that gentri ﬁcation ’s consequences on the residential mo-
+bility patterns of ﬁnancially disadvantaged residents in Philadelphia are
+unequally distributed by neighborhood racial composition. Financially dis-
+advantaged residents in gentrifying census tracts —characterized by high
+inﬂuxes of higher socioeconomic status (SES) residents and high increases
+in housing prices —do not move more often than those in nongentrifying
+tracts across neighborhood racial compositions. However, ﬁnancially disad-
+vantaged movers from once predominantly Black gentrifying tracts, which
+comprise half of the gentrifying tracts in Philadelphia, tend to end up in more
+disadvantaged tracts than where those moving from other gentrifying tractsend up, and they end up in similar neighborhoods to those moving from non-
+gentrifying tracts. In other words, ﬁnancially disadvantaged residents who move
+from tracts that were not predominantly Black bene ﬁt from gentri ﬁcation
+in terms of locational attainment, whereas those moving from once predom-
+inantly Black tracts do not. We also show that ﬁnancially disadvantaged in-
+dividuals moving to and within the city are increasingly likely over time toend up in disadvantaged tracts that are not experiencing gentri ﬁcation. ThisUnequal Displacement
+357
+
+pattern of intracity residential mobility re ﬂects how gentri ﬁcation reduces
+the overall pool of neighborhoods accessible to ﬁnancially disadvantaged
+residents within the city.
+These ﬁndings bring the consequences of gentri ﬁcation in the 21st century
+into fuller focus. Gentri ﬁcation is recon ﬁguring the urban landscape by shrink-
+ing residential options within cities for disadvantaged residents and expand-ingthem for more advantagedresidents. Because mechanisms ofracial strat-
+iﬁcation continue to govern both the valuation of neighborhoods and
+residential sorting patterns, the bene ﬁt of gentri ﬁcation as a mechanism of
+ﬁnancial advantage disproportionately accrues to those in non-Black gentri-
+fying neighborhoods, providing access to a broader set of neighborhoods,
+while those from Black gentrifying tracts are relegated to less advantagedneighborhoods and face fewer options within the city —exhibiting similar
+mobility patterns as other disadvantaged residents from nongentrifying neigh-
+borhoods. Taken together, our ﬁndings show how the consequences of gentri-
+ﬁcation are fundamentally structured by racial strati ﬁcation and help ex-
+plain how gentri ﬁcation is a mechanism that restructures residential sorting
+in racialized ways that exacerbate neighborhood inequality by race and classin cities today.
+RESIDENTIAL MOBILITY, NEIGHBORHOOD CHANGE,
+AND RACIAL STRATIFICATION
+The neighborhood changes associated with the spread of gentri ﬁcation have
+stimulated a growing body of research on its consequences, particularly sur-
+rounding residential displacement (Atkinson 2004).3Despite the rapid growth
+in scholarship on the topic, studies, particularly those using quantitative
+approaches, do not ﬁnd consistent empirical evidence that gentri ﬁcation
+is associated with higher rates of moving out of a neighborhood in generalor involuntarily. However, insights from qualitative accounts and surveys
+of gentri ﬁcation ’s consequences on residential mobility, research on the
+residential instability of the urban poor, and scholarship on neighborhoodsorting and racial strati ﬁcation highlight the complexity of residential mobil-
+ity. We draw on this research to guide our framework for improving our
+understanding of gentri ﬁcation ’s consequences.
+3Important consequences associated with displacement examined by others include ad-
+ditional ﬁnancial burdens for residents (Newman and Wyly 2006); social, cultural, and
+political displacement and exclusion (Anderson 1990; Martin 2007; Zukin 2010; Hyra
+2014); and the displacement of businesses, amenities, and land use (Marcuse 1986; David-
+son 2008).American Journal of Sociology
+358
+
+Gentri ﬁcation and Residential Mobility
+Qualitative accounts document the various ways by which residential dis-
+placement takes place in gentrifying neighborhoods: formal processes such
+as eviction or tax foreclosure, housing demolition or ownership conversion
+of rental units, landlord neglect or harassment, ﬁnancial inducements offered
+by landlords or developers to entice existing residents to leave, or household
+decisions in response to rising costs and ﬁnancial hardship (Marcuse 1986;
+Newman and Wyly 2006; Brown-Saracino 2017). These different scenariosunderscore the fact that the distinction between forced and voluntary moves
+resulting from gentri ﬁcation can be unclear. Before a neighborhood begins
+gentrifying, residents may have purchased or inherited homes when valueswere cheap, while others may have been paying low rents to build wealth
+to eventually move elsewhere. As housing values increase with gentri ﬁca-
+tion, some households may be able to take advantage of the increased neigh-borhood value to sell their homes for a large pro ﬁt or by receiving payouts
+from developers or landlords, who may be incentivized to rehabilitate prop-
+erties to take advantage of larger potential pro ﬁts. Thus, for some households,
+gentri ﬁcation can serve as a pathway to upward locational attainment. In this
+scenario, moves are both forced by gentri ﬁcation yet voluntary, planned, and
+potentially bene ﬁcial. As with most existing data, including ours, capturing
+the circumstances of moves is limited (for an exception, see Desmond and
+Shollenberger [2015]). Earlier studies on gentri ﬁcation and displacement use
+survey data asking whether moves were involuntary (e.g., Freeman 2005),but these data lack speci ﬁc information to distinguish among the complexity
+of circumstances associated with gentri ﬁcation described above.
+Other studies suggest that poor residents in gentrifying neighborhoods
+may be more inclined to stay in their neighborhoods. Surveys and interviews
+reveal that lower-SES and long-term households in gentrifying neighbor-
+hoods report higher levels of neighborhood satisfaction, which may explainwhy households try to stay if they can (Freeman 2006; Ellen and O ’Regan
+2011). Studies show how disadvantaged residents stay in gentrifying neigh-
+borhoods because many have housing subsidies; other residents increase thenumber of people living in a housing unit or employ other strategies to bear
+the increased costs (Freeman 2006; Newman and Wyly 2006; Ellen and
+O’Regan 2011). Finally, some long-term, low-SES residents are homeown-
+ers who purchased or inherited their homes when values were cheap, and
+thus they have more protections from rising costs than renters (Ding et al.
+2016; Martin and Beck 2018). Thus, most of the neighborhood-level demo-graphic changes in gentrifying neighborhoods re ﬂect the in ﬂux of higher-
+SES and predominantly White residents ﬁlling vacant units, including new
+construction, rather than the out-migration of lower-SES residents (Freeman2005; McKinnish et al. 2010; Ellen and O ’Regan 2011).Unequal Displacement
+359
+
+Residential Instability among the Urban Poor
+Recent research documenting the residential instability of the urban poor
+shows that disadvantaged residents in urban neighborhoods move relatively
+often regardless of gentri ﬁcation (Desmond 2016). Desmond (2016) demon-
+strates how processes like eviction and landlord harassment and neglect oc-cur often in poor urban neighborhoods. Thus, out-migration rates among
+disadvantaged residents in nongentrifying neighborhoods —the comparison
+group—may be exceptionally high because many of these neighborhoods are
+among the poorest, where disadvantaged residents frequently experience
+residential instability (Newman and Wyly 2006). Insights from works by
+DeLuca et al. (2013) and Desmond and Shollenberger (2015) point to the im-portance of where residents move for understanding the constraints of res-
+idential mobility for disadvantaged residents. While some residents make
+voluntary and planned moves to better neighborhoods, minority and disad-
+vantaged residents are more likely to move under forced circumstances, result-
+ing in moves to neighborhoods with similar or worse quality compared to
+their origin neighborhood.
+Residential Mobility and Racial Strati ﬁcation
+Even when making voluntary and planned moves, some residents, partic-
+ularly racial minorities, may end up in similar or worse quality neighbor-
+hoods because of place strati ﬁcation processes. Although race and ethnicity
+are central to the public discourse and debates on gentri ﬁcation and dis-
+placement, surprisingly few studies on the subject systematically consider
+residential strati ﬁcation by race. Place strati ﬁcation perspectives argue that
+residential sorting patterns re ﬂect racial inequalities that are not fully ex-
+plained by socioeconomic indicators. Predominantly Black neighborhoods
+are consistently preferred less and valued lower than neighborhoods with
+greater shares of White residents (Charles 2003). Further, Black and Whiteresidents, net of socioeconomic differences, persistently tend to move to and
+from neighborhoods with starkly different social and economic conditions
+and racial and ethnic compositions from each other (Sampson and Sharkey2008; Crowder, Pais, and South 2012). Crowder and South (2005) ﬁnd that
+Black residents are substantially more likely than White residents to move
+from nonpoor to poor census tracts and less likely to move from poor to non-poor census tracts. Explanations for such differences include distinct pref-
+erences among the housing and neighborhood options available, the ability
+to realize such preferences because of discriminatory processes throughoutvarious aspects of the housing market, and the information that residents
+have on these options through social networks or realtors (Charles 2003;
+Crowder et al. 2012; Krysan and Crowder 2018).American Journal of Sociology
+360
+
+Historically, gentri ﬁcation in predominantly minority neighborhoods,
+particularly African-American neighborhoods, was relatively rare and in-
+stead more likely to occur in racially and ethnically diverse neighborhoodsor those with fewer shares of Black residents (Freeman 2009; Hwang and
+Sampson 2014; Bader and Warkentien 2016). However, gentri ﬁcation is
+more likely to occur in predominantly Black neighborhoods in recent de-cades compared with the past (Owens 2012; Freeman and Cai 2015), al-
+though gentri ﬁcation in these neighborhoods may be slower or stagnant
+(Hwang and Sampson 2014). Nonetheless, gentri ﬁcation ’s increasing occur-
+rence in once predominantly Black neighborhoods presents potentially dis-
+tinct implications for disadvantaged residents in these neighborhoods,
+given the racialized structure of the housing market faced by minorities andof how Black neighborhoods are valued. Indeed, ethnographic accounts of
+gentri ﬁcation in minority neighborhoods show that low-income minority res-
+idents experience distinct challenges associated with their marginal positionsin society. In Latino neighborhoods in Chicago, for example, Betancur (2011)
+highlights how gentri ﬁcation destroyed place-based networks and institu-
+tions on which racial and ethnic minorities rely for social support and oppor-tunities, causing many low-SES Latinos to disperse to other disadvantaged
+neighborhoods. Pattillo (2007) portrays a similar vulnerability among disad-
+vantaged, long-term Black residents in a predominantly Black Chicagoneighborhood gentri ﬁed by middle-class Black residents.
+Our data do not contain information on individuals ’race, but we can ex-
+amine whether the residential mobility patterns from gentrifying censustracts differ by their racial composition. Disadvantaged residents in gentri-
+fying tracts with fewer shares of Black residents may be better positioned
+than other ﬁnancially disadvantaged movers either to stay in their tracts
+or to take advantage of increased housing values and wealth building to
+move upward, despite moving in response to gentri ﬁcation. Yet, disadvan-
+taged residents who move from Black gentrifying tracts may be subject toless favorable circumstances. For example, their neighborhoods may be val-
+ued less, thus providing them with lower cash offers to move, or landlords
+and developers may engage in more exploitative practices in these neigh-borhoods to drive disadvantaged residents out as they gentrify. Further,
+if the movers from predominantly Black neighborhoods are indeed Black,
+they may also experience discrimination in the housing market or havedistinct constraints that lead them to sort into disadvantaged tracts, regard-
+less of whether their moves were voluntary or planned (Sampson and Sharkey
+2008; Crowder et al. 2012; Desm ond and Shollenberger 2015).
+While we cannot distinguish whether and to what extent racialized mech-
+anisms are occurring at the individual or tract level in this study, our anal-
+ysis provides a necessary step to further our understanding of gentri ﬁcation ’sUnequal Displacement
+361
+
+consequences. To our knowledge, McKinnish et al. ’s (2010) analysis of gen-
+triﬁcation and displacement from 1990 to 2000 is the only quantitative study
+that examines differences between Black and non-Black tracts. Their studydid not examine residents ’destinations and took place when gentri ﬁcation in
+Black neighborhoods was less prevalent, and they do not ﬁnd elevated rates
+of out-migration among low-SES or Black residents in Black gentrifyingtracts.
+Altogether, prior research on gentri ﬁcation and displacement has focused
+primarily on two trajectories for disadvantaged residents in gentrifyingneighborhoods —staying or moving —but moves can differ in important ways.
+Whether moving as a function of gentri ﬁcation is forced or voluntary is not
+clear-cut, but knowing where disadvantaged residents end up when theymove provides a clearer view of the consequences of gentri ﬁcation. Due to
+limited data, only a few studies, to our knowledge, have examined where
+residents from gentrifying neighborhoods move (Freeman 2005; Newmanand Wyly 2006; Ding et al. 2016). Freeman (2005) examined whether resi-
+dents move within or outside of their census tracts using data from the
+Panel Study of Income Dynamics (PSID) but did not examine character-istics of residents ’destinations. Newman and Wyly (2006) examined sub-
+borough destinations in New York City, which have populations greater than
+100,000, of residents who reported being displaced, but these geographiesare too large to assess the implications of the destinations of residents. Fi-
+nally, Ding et al. (2016) use similar data to our study ’s to assess out-migration
+rates and whether ﬁnancially disadvantaged movers are more likely to move
+to a tract in a lower quintile of median household income than their origin
+tract. While informative, because nongentrifying tracts are in low-income
+quintiles, it is not surprising that they ﬁnd that residents in these tracts
+are less likely than movers from gentrifying tracts to move to tracts with
+lower-income quintiles than their origin. Thus, our understanding of how
+gentri ﬁcation affects residential strati ﬁcation remains limited from these
+analyses.
+Residential Sorting and Neighborhood Strati ﬁcation
+Most research on residential mobility and gentri ﬁcation has focused on in-
+dividual processes, but the aggregate consequence of residential ﬂows asso-
+ciated with gentri ﬁcation has implications for broader patterns of residential
+strati ﬁcation (Sampson and Sharkey 2008). Gentri ﬁcation implies a restruc-
+turing of the economic space of cities. Scholars have argued that gentri ﬁca-
+tion can indirectly displace residents by reducing affordable neighborhood
+options for all disadvantaged residents (Newman and Wyly 2006; DavidsonAmerican Journal of Sociology
+362
+
+2008; Slater 2009). As a result, ﬁnancially disadvantaged residents who re-
+main in the city are increasingly concentrated in a reduced set of afford-
+able neighborhoods. This can also increase the suburbanization of poverty(Kneebone and Berube 2013).
+The increased concentration of disadvantaged residents in fewer neigh-
+borhoods within the city, coupled with increasing af ﬂuence in gentrifying
+neighborhoods, increases inequality between neighborhoods at the bottom
+of the hierarchy and the rest of a city ’s neighborhoods. Thus, even if disad-
+vantaged individuals do not move more frequently from gentrifying neigh-borhoods relative to nongentrifying neighborhoods, as studies consistently
+ﬁnd, residential sorting among disadvantaged movers associated with the
+spread of gentri ﬁcation can result in emergent patterns of neighborhood in-
+equality within a city and new dynamics of inequality within the suburbs.
+To our knowledge, no studies on gentri ﬁcation have examined this broader
+process of indirect displacement with information on where residents moveas gentri ﬁcation spreads.
+THE CURRENT STUDY
+Our study aims to expand our understanding of the consequences of urban
+neighborhood change in cities today by proposing a broader framework forexamining displacement in the context of gentri ﬁcation. First, we argue that
+the implications of gentri ﬁcation concern not only whether someone moves
+but also the characteristics of where that person moves. Given that gentri-ﬁcation can provide ﬁnancial advantage to some but exacerbate ﬁnancial
+disadvantage for others, where individual households move sheds light
+on the material consequences of gentri ﬁcation in full. Second, we theorize
+that gentri ﬁcation and displacement are embedded in a racially strati ﬁed
+housing market. Third, we propose that the consequences of gentri ﬁcation
+on residential strati ﬁcation also concern residential mobility patterns of res-
+idents beyond those in gentrifying neighborhoods. Gentri ﬁcation ’s effect on
+individuals ’residential mobility patterns in turn affect broader patterns of
+neighborhood inequality. This framework guides our analysis.
+Given prior research on gentri ﬁcation, displacement, and residential mo-
+bility, we expect that ﬁnancially disadvantaged residents are equally or
+more likely to stay in gentrifying tracts relative to disadvantaged residentsfrom nongentrifying tracts. We also expect those from gentrifying tracts to
+end up in neighborhoods similar to those of disadvantaged residents mov-
+ing from nongentrifying tracts because the literature on residential instabilityamong the urban poor suggests that ﬁnancially disadvantaged residents
+from gentrifying tracts will tend to move downward, whereas residents from
+nongentrifying tracts will tend to churn among poor neighborhoods. It is alsoUnequal Displacement
+363
+
+plausible that residents from gentrifying tracts will tend to move upward, as
+they are more likely to cash in on the increased value of gentrifying neighbor-
+hoods and will therefore end up in more advantaged neighborhoods than dothose from nongentrifying tracts.
+While disadvantaged residents from both gentrifying and nongentrifying
+tracts may often move under unfavorable circumstances and end up in dis-advantaged neighborhoods, we expect to ﬁnd heterogeneity in the residen-
+tial mobility patterns depending on where residents move from following
+prior research on residential strati ﬁcation by race. Speci ﬁcally, we expect that
+ﬁnancially disadvantaged movers from gentrifying tracts that have lower
+shares of Black residents will have lower likelihoods of moving, and, among
+movers, they will move to better neighborhoods compared to those movingfrom tracts that were once predominantly Black and to those moving from
+nongentrifying tracts. Finally, we hypothesize that indirect displacement is
+occurring, such that ﬁnancially disadvantaged residents in general who
+are moving to or within the city are increasingly less likely to move to gen-
+trifying tracts and increasingly more likely to move to nongentrifying tracts
+compared to other tracts over time.
+Credit Scores and Residential Strati ﬁcation
+Our analysis focuses on residential mobility patterns among ﬁnancially dis-
+advantaged residents, as measured by credit scores. Credit scores are a mea-
+sure of an individual ’s ability to pay debt without defaulting and serve as
+an increasingly important and often overlooked dimension of strati ﬁcation,
+particularly in the housing market (Poon 2009; Wherry, Seefeldt, and Al-
+varez 2019). Although credit scores were originally used to screen loan ap-plicants, banks now use them to stratify credit offerings, loan products, and
+interest rates. In addition, a variety of institutions beyond banks increasingly
+rely on credit scores for assessing the worthiness and responsibility of indi-viduals: employers use credit scores to screen job applicants, landlords use
+them to screen tenants, and insurance companies use them to calculate prices
+(Mester 1997; Fellowes 2006; Poon 2009; Wherry et al. 2019). For under-standing residential displacement in the context of gentri ﬁcation, low credit
+scores, as well as the lack of a credit score, re ﬂectﬁnancial disadvantage and
+serve as a good gauge of vulnerability to displacement. If the primary mech-anism of gentri ﬁcation-induced displacement is increased cost burdens, then
+those with low or missing credit scores are more likely to feel the conse-
+quences of these cost burdens and face further limitations in housing searchesif they move.
+Credit bureaus incorporate a variety of factors that relate to loan perfor-
+mance to compute credit scores, including previous payment history, out-standing debts, length of credit history, new accounts opened, and typesAmerican Journal of Sociology
+364
+
+of credit used (Federal Reserve Board 2007; Fair Isaac Corporation 2015).
+Delinquency, large increases in one ’s debt, and events of public record (e.g.,
+bankruptcy or foreclosure) often lead to low credit scores (Anderson 2007). Be-cause the age of accounts is positively associated with credit scores, younger
+adults generally have lower scores than older ones, but the other factors have
+much greater in ﬂuence in determining credit scores (Fair Isaac Corporation
+2015). While credit bureaus do not factor race, gender, or income into the cal-
+culations, they correlate highly with race and income levels (Bostic, Calem,
+and Wachter 2005; Brevoort, Grimm, and Kambara 2016; Wherry et al.2019). Nonetheless, individuals with low credit scores may span the income
+or wealth distributions, and low scores better re ﬂect individuals ’ability to
+bear ﬁnancial burdens. For example, Mester (1997) found that credit scores
+better predict foreclosure than income. Thus, credit scores represent a novel
+and distinct dimension of SES that can also limit or expand opportunities for
+individuals, particularly in the housing market.
+Credit records, however, exclude individuals who do not have Social Se-
+curity numbers (SSNs; e.g., noncitizens and unauthorized immigrants) or
+a credit history —approximately 26 million Americans, or one in 10 adults
+(Brevoort et al. 2016). While Wherry et al. (2019) estimate that 45 million
+U.S. adults do not have any credit score, nearly half of these adults are rep-
+resented in our data. Credit records include anyone with a past foreclosure orbankruptcy or individuals whose ﬁles only consist of closed or authorized
+user accounts. These individuals are often lower-income consumers and typ-
+ically have missing scores, which indicates a “thin ”ﬁle—aﬁle containing very
+few accounts or new credit such that there is too little information to estimate
+a score (Brevoort et al. 2016, p. 26). Despite the advantages of credit records
+for capturing ﬁnancial disadvantage and residential histories, these data dis-
+proportionately exclude low-SES residents; thus, our analysis likely underes-
+timates the extent to which gentri ﬁcation affects low-SES residents ’mobility
+patterns.
+Research Setting
+Our study is a case study of Philadelphia. Given the heterogeneity across
+housing and labor markets and policies and the complexity of each one
+(Crowder et al. 2012), a case study of a single city allows us to carefully in-terpret and explain residential mobility patterns associated with gentri ﬁca-
+tion. A national analysis that controls for unobserved heterogeneity across
+cities can obfuscate important processes and inhibit our ability to under-stand what processes are at work. By focusing on a single city, we can also
+identify gentri ﬁcation more reliably and check our measures against local
+knowledge and city-speci ﬁc data. Operationalizing gentri ﬁcation has been
+notoriously challenging in the gentri ﬁcation literature, especially becauseUnequal Displacement
+365
+
+gentri ﬁcation has distinct characteristics across different cities and over time.
+Applying uniform criteria does not always capture areas undergoing similar
+changes or experiencing the socioeconomic transformations that are consis-tent with local understandings and qualitative depictions of gentri ﬁcation
+(Wyly and Hammel 1999; Owens 2012; Barton 2016). Because our data set
+contains more than 50,000 adult residents in the city of Philadelphia alone —
+a major advantage of our data set over other longitudinal data sets with geo-
+graphic information, such as the PSID —it provides us with the necessary
+statistical power to examine residential mobility patterns associated withgentri ﬁcation within a single city and to stratify across various subpopula-
+tions within census tracts.
+Philadelphia is well suited for a study of gentri ﬁcation and residential
+mobility patterns. Not only does much of the sociological literature on res-
+idential strati ﬁcation and segregation examine Philadelphia itself (e.g., Du
+Bois 1899; Anderson 1990; Hunter 2013), Philadelphia also shares manysimilarities with other cities featured prominently in this literature. Phila-
+delphia experienced large-scale socioeconomic and population declines dur-
+ing the latter half of the 20th century, leaving many inner-city neighbor-hoods with high vacancy and poverty rates and ripe for redevelopment
+(Smith 1996). Like other cities with similar histories of urban growth and
+decline, Philadelphia has a substantial share of Black residents, comprising44% of the population in 2016 and the largest racial group in the city, and
+very high levels of Black-White segregation (Massey and Denton 1993). In
+recent decades, especially since 2000, gentri ﬁcation has expanded and accel-
+erated in many Philadelphia neighborhoods abetted by property tax pro-
+grams, a vibrant central business distric t, and strong anchor institutions (e.g.,
+Drexel University, Temple University, University of Pennsylvania; Gillenand Westrum 2014). Despite housing price declines and slowed construction
+during the Great Recession, gentri ﬁcation has continued to spread (Pew
+Charitable Trusts 2011).
+4Philadelphia is not experiencing the extreme
+housing demand and price increases of the handful of cities with more lim-
+ited housing supply, like San Francisco or New York City, but gentri ﬁca-
+tion has now spread well beyond the handful of “superstar cities ”(Gyourko,
+Mayer, and Sinai 2013, p. 167) over the last 20 years to Philadelphia and
+other cities with looser housing markets that have formed the basis for urban
+sociological theory and research (Hwang and Lin 2016).
+Philadelphia, nonetheless, has some unique characteristics that may lower
+the degree to which disadvantaged residents move compared to other cities.
+4The Philadelphia metropolitan area experienced a relatively low foreclosure rate during
+the housing crisis compared with other large metropolitan areas (Pew Charitable Trusts
+2011).American Journal of Sociology
+366
+
+First, Philadelphia has a high vacancy rate relative to other large U.S. cities
+(Capperis, Ellen, and Karfunkel 2015), although a recent report found sharp
+declines in low-cost rental units in gentrifying neighborhoods in Philadelphiafrom 2000 to 2014 (Chizeck 2017). In addition, before 2014, the city had not
+assessed its properties, particularly older ones, for decades, which allowed
+long-term homeowners in gentrifying neighborhoods to avoid property taxincreases.
+5Finally, Philadelphia has a historically high home ownership rate
+relative to other large cities (Capperis et al. 2015).
+DATA AND MEASURES
+Our data come from the Federal Reserve Bank of New York/Equifax Con-
+sumer Credit Panel (CCP). These restricted data provide quarterly informa-
+tion on individuals ’year of birth; credit characteristics; and the quantity,
+balance, and payment activity of mortgages and other credit accounts fromJune 2002 to June 2014 for an anonymized 5% random sample of adult con-
+sumers with SSNs and a credit history —having at least one public record
+(e.g., bankruptcy or foreclosure) or at least one credit account currently re-ported with Equifax (Lee and van der Klaauw 2010).
+6Most importantly
+for our study, the data provide individuals ’census tracts (based on Census
+2000 boundaries). The data, however, do not provide important demographicinformation, such as race, ethnicity, and income. While other longitudinal
+data sets, such as the PSID, contain richer demographic information, they
+have limited samples within cities and neighborhoods.
+The CCP data are designed to provide a representative sample of individ-
+ual consumers across the nation in any given quarter. Thus, younger indi-
+viduals who develop credit histories and new immigrants are generally added,and older consumers who die, emigrate from the United States, or have a pro-
+longed period of inactivity are generally dropped. Approximately 1% –3% of
+consumers are dropped from the panel, while a similar share of consumers isadded each year. Because of this data structure and our focus on Philadel-
+phia, we do not examine residential stability for the same individual over
+5Any effects from the city ’s tax programs implemented in 2014 are beyond the period of
+our analysis.
+6The CCP data begin in 1999, but we begin our analysis in June 2002 because Wardrip
+and Hunt (2013) found that the geographic information before 2002 was less precise. Files
+of consumers with one of ﬁve numbers in the last two digits of their SSN are selected into
+the sample. The data that Equifax makes available to researchers do not include actual
+SSNs or any other identifying information, such as names, full addresses, or demograph-
+ics (apart from age). About 5% of households have multiple adults in the CCP sample;
+results are similar when we exclude individuals in the same household.Unequal Displacement
+367
+
+a longer period for this study. Instead, we construct our analytic data set by
+considering each year of CCP data as a separate cohort for which we observe
+mobility over an interval of one year. This strategy mitigates the potentialbias introduced by the attrition and adjustment of the study sample. Our an-
+alytic sample consists of 517,429 person-years for residents living in the city
+of Philadelphia at any point in 2002 –13.
+7
+Compared with estimates in Philadelphia from the ACS, the population
+size and age distribution are similar, particularly for individuals between 25
+and 65 years old. Because the sampling universe of these data excludes in-dividuals with no credit history, the ACS population estimates for those
+younger than 25 years are larger than the CCP estimates, and the CCP es-
+timates are slightly higher for individuals older than 65 years, which is likelybecause ﬁles for recently deceased individuals have not yet been removed.
+We exclude individuals younger than 25 years and older than 84 years in
+our analysis. This exclusion also ensures that we do not include college-age residents who are highly residentially mobile and often live in gentrifying
+areas associated with universities.
+8We present results including populations
+that are 65 –84 years old because studies suggest that older individuals may
+experience displacement from gentri ﬁcation (Henig 1981), but results are
+similar in separate analyses that exclude these individuals and that include
+18–24-year-olds.
+The CCP data report the Equifax Risk Score (hereafter, the Score) —a
+proprietary credit score estimating the likelihood that an individual will re-
+pay his or her debts without defaulting. The Score ranges from 280 to 850,with a low Score indicating lower ﬁnancial health.
+9Our main subgroup of
+interest is residents with Scores below 580 —a commonly used cutoff in
+credit underwriting that captures ﬁnancially unstable residents —and indi-
+viduals who are in the data but do not have Scores.10We group individuals
+without Scores with low-Score residents in the analysis since having no or
+few credit accounts generally indicates ﬁnancial instability (Calem, Gillen,
+and Wachter 2004). Among our sample, 26.6% have Scores below 580, and
+10.1% do not have Scores. The distribution of residents with low or missing
+7We excluded data from 2004 because the mobility rate in that year was abnormally high
+compared with other years and with estimates from the American Community Survey
+(ACS), which is likely due to a change in the internal geocoding system made by the data
+vendor in 2004.
+8Because we do not have information on individuals ’school enrollment status, our anal-
+ysis may include students who are age 25 years and older.
+9The three major credit bureaus —Equifax, Transunion, and Experian —collect con-
+sumer information independently and produce credit scores using various scoring mod-
+els. While the scores are similar, they use slightly different scales.
+10For example, the of ﬁcial minimum FICO score cutoff for low down-payment products
+for a Federal Housing Administration loan is 580 (see http://archives.hud.gov/news
+/2010/pr10-016.cfm).American Journal of Sociology
+368
+
+Scores (we refer to this group as low-Score residents hereafter) in our sample
+across gentri ﬁable census tracts is higher in socioeconomically disadvan-
+taged tracts and those with higher shares of Black residents.
+Measuring Gentri ﬁcation
+For this study and consistent with characterizations in the literature, we con-
+ceptualize gentri ﬁcation as a socioeconomic transformation composed of
+both an in ﬂux of residents with relatively higher SES and an increase in
+housing prices in previously low-income central city neighborhoods.11We
+construct a measure of gentri ﬁcation with 2000 decennial U.S. census data
+and ACS 2009 –13ﬁve-year estimates for census tracts located in the city of
+Philadelphia. We use census tracts as our unit of analysis for uniformity
+across our multiple data sets. We harmonized these data to the Census 2000
+tract boundaries using the method employed by Brown University ’s Longi-
+tudinal Tract Data Base, which uses both population and areal weighting.
+We exclude 16 census tracts with fewer t han 50 residents or with no housing
+units during the period of the analysis, re sulting in a sample of 365 census tracts.
+The year 2000 is our baseline, and we examine tract-level changes from
+2000 to 2013.12Following existing approaches (e.g., Wyly and Hammel
+1999; Freeman 2005; Ding et al. 2016), we consider tracts to be gentrifyingif they were gentri ﬁable—if they were previously relatively low-income tracts
+such that they could undergo revitalization —and exhibited socioeconomic
+upgrading. We categorize tracts as gentri ﬁable if they had a median house-
+hold income below the citywide median household income in 2000.
+13We
+use only income because other indicators —such as education levels, rent, or
+home values —as thresholds exclude downtown and university areas where
+gentri ﬁcation is prevalent.
+11Although some scholars document gentri ﬁcation in rural towns or suburbs or describe
+it as a citywide phenomenon, we adhere to the classic conception of it as a central city
+phenomenon occurring at the neighborhood level.
+12We use 2013 hereafter, but most data are based on 2009 –13 ACS ﬁve-year estimates.
+13This approach excludes neighborhoods undergoing “super-gentri ﬁcation ”(Lees 2000,
+p. 398) that may have gentri ﬁed in earlier periods and had a median household income
+above the citywide median in 2000. This is consistent with the working de ﬁnition of gen-
+triﬁcation used in this article as a phenomenon that occurs in previously low-income, cen-
+tral city neighborhoods. Nearly 80% of tracts that were gentrifying over the 10- or 20-year
+periods before 2000, according to our measure, were still gentri ﬁable in 2000. We also do
+not use metropolitan-wide incomes as the threshold like some studies (e.g., Freeman
+2005) because, in Philadelphia, over 80% of central city tracts, including those that are
+widely considered wealthy areas, fall below this threshold. We separately examined tracts
+in the bottom quartile of the tract income distribution to determine whether we are onlycapturing trends among tracts that begin the period with relatively more advantage. About
+half of the gentrifying tracts begin in the bottom quartile, and our substantive results are
+generally similar. We note when there are differences, and results are available on request.Unequal Displacement
+369
+
+We consider a tract to be gentrifying if it experienced a percentage in-
+crease above the median increase across all of the city ’s tracts in either its
+median gross rent or median home value and an increase above the medianincrease across the city ’s tracts in its share of college-educated residents.
+14
+We consider gentri ﬁable tracts that do not meet these criteria as nongen-
+trifying . We require shifts in both house prices and residents, to avoid cat-
+egorizing tracts as gentrifying with housing price spillovers but without de-
+mographic changes. We also include changes in either housing values or
+rents because both measures re ﬂect shifts in various amenities and invest-
+ment in a tract, but shifts in one dimension do not always occur in step with
+the other.15We include shifts in the educational status of the population
+over 25 years old because this better re ﬂects the in ﬂux of young profession-
+als often associated with gentri ﬁcation compared with other measures such
+as household income, particularly for artists, nonpro ﬁt workers, and youn-
+ger workers with lower paying jobs (Ley 1996). Education status also bettercaptures the in ﬂux of new residents rather than incumbent upward mobility
+(Freeman 2005).
+Figure 1 displays a map of Philadelphia and identi ﬁes tracts that were
+gentrifying, nongentrifying, and nongentri ﬁable during 2000 –2013. Of the
+365 census tracts in our analysis, 184 were gentri ﬁable in 2000, of which 56
+were gentrifying. The map also distinguishes census tracts that were morethan 50% Black from those that were less than 50% Black in 2000. We pre-
+sent results only distinguishing between Black and non-Black tracts because,
+while the Latino and Asian populations have grown substantially since 2000in Philadelphia, there are few predominantly Latino and Asian tracts. Of
+the 184 gentri ﬁable tracts, 109 of these tracts were more than 50% Black
+in 2000, and 75 were not. Of the tracts that were over 50% Black, 28 weregentrifying according to our measure; the other 28 gentrifying tracts were
+less than 50% Black in 2000. Thus, 25.7% (28 of 109) of predominantly
+Black low-income tracts gentri ﬁed, while 37.3% (28 of 75) of non-Black
+low-income tracts gentri ﬁed. This is consistent with quantitative scholar-
+ship that ﬁnds that gentri ﬁcation is less likely in Black neighborhoods com-
+pared to others. Nonetheless, 50% of gentrifying tracts are predominantlyBlack, and, given the historical persistence of neglect and disinvestment
+14Alternative measures that use metropolitan-wide median increases as thresholds or
+include tracts with percentage increases in income above the citywide median produce
+similar results. We also considered various stages and rates of gentri ﬁcation. Our main
+results are qualitatively similar for tracts that are experiencing more rapid rates of gen-
+triﬁcation or that have been gentrifying since before 2000, which both capture tracts in
+the more advanced stages of gentri ﬁcation. These results are available on request.
+15Indeed, only about one-third of gentri ﬁable tracts experience both substantial increases
+in rents and home values over the period. In gentri ﬁable tracts in Philadelphia, median
+home values increased at faster rates than median rents.American Journal of Sociology
+370
+
+in predominantly Black tracts, its substantial presence across gentrifying
+tracts make this phenomenon notable in the public sphere. Black andnon-Black tracts in our sample are generally divided into the eastern and
+western sides of the city, with tracts in the downtown and university areas
+as exceptions.
+To ground truth our measures, we examined the demographic and hous-
+ing characteristics from the U.S. census and 2013 ACS data for these tracts,
+facilitated focus groups with local researchers and practitioners, andcompared our measures against two alternative indicators of gentri ﬁcation
+FIG.1 .—Gentrifying and nongentrifying Black ( >50% Black) and non-Black ( <50%
+Black) census tracts in the city of Philadelphia, 2000 –2013. Authors ’deﬁnition based
+on data from Census 2000, the 2009 –13 ACS, and U.S. Census TIGER/Line Shape ﬁles.Unequal Displacement
+371
+
+used in past research: coffee shops (Papachristos et al. 2011), using data
+obtained from the Esri Business Locations Database from 2006 to 2012
+(https://doc.arcgis.com/en/esri-d emographics/data/business.htm), and ﬁled build-
+ing permits (Helms 2003), using data obtained from the Department of
+Licenses and Inspections in Philadelphia from 2009 to 2013. Table 1, which
+presents descriptive characteristics of tracts in each gentri ﬁcation category,
+illustrates that our measure is consist ent with characteristics often asso-
+ciated with gentri ﬁcation. Compared with nongentrifying tracts, gentrifying
+tracts had greater increases in the shar es of White residents, college-educated
+residents, median home values, and rent s. In addition, gentrifying tracts had
+greater decreases in shares of Black residents and poverty rates and greater
+increases in renters. While tracts that were gentrifying over the period be-gan with similar levels of median household incomes, poverty, and median
+rents as those that did not gentrify, gentrifying tracts had higher shares of
+college-educated residents and higher home values at the beginning of theperiod. Tracts that we identi ﬁed as gentrifying also had far greater numbers
+of building permits per 100 housing units, greater numbers of coffee shops
+per 100 residents, and greater increases in the number of coffee shops.
+Comparisons between Black gentrifying (B-G) and Black nongentrifying
+(B-NG) tracts and between non-Black gentrifying (NB-G) and non-Black
+nongentrifying (NB-NG) tracts yield similar differences (see table 1). Blackand non-Black tracts, however, are notably different from each other and
+reﬂect the reality of racial strati ﬁcation in Philadelphia. While B-G and
+B-NG tracts had similar racial compositions at the beginning of the period,NB-NG tracts were much more racially mixed compared to NB-G tracts.
+Most of the racial changes observed in the averages of gentrifying tracts oc-
+cur among the B-G tracts, having average declines in the share of Black res-idents by 18.5% and average increases in share of White residents by 13.6%.
+NB-G tracts also experienced declines in their Black shares but only by
+4.7%. Black tracts began the period with lower median rents and housingvalues on average compared to non-Black tracts. Although B-G tracts had
+greater average percentage increases in home values and rents compared
+with NB-G tracts, home values and rents in B-G tracts were still substantiallylower on average by the end of the period, re ﬂecting a persistent racial hier-
+archy among gentrifying tracts.
+Neighborhood Quality Indicators
+We assess four dimensions of the tracts to which residents move: (1) violent
+crime rates, (2) disadvantage, (3) median household income, and (4) school
+test scores. We obtained tract-level violent crime rates using geocoded data
+from the Philadelphia Neighborhood Information System for 2002 –5 andAmerican Journal of Sociology
+372
+
+TABLE 1
+Descriptive Statistics of Census Tracts by Gentri ﬁcation Category
+GENTRIFYING NONGENTRIFYING
+NON-
+GENTRIFIABLE All BlackNon-
+Black All BlackNon-
+Black
+Mean initial tract
+characteristics, 2002:
+Population. . . . . . . . . . . . . . 3,753 3,569 3,937 4,330 4,335 4,321 4,143
+% of population non-
+Hispanic White . . . . . . . . 35.2 12.0 58.4 17.4 7.1 35.2 62.6
+% of population non-
+Hispanic Black . . . . . . . . 48.2 80.9 15.5 64.6 87.6 24.9 27.1
+% renters . . . . . . . . . . . . . . . 57.1 60.7 53.5 45.9 47.1 43.9 35.4
+% vacancies. . . . . . . . . . . . . 16.4 20.3 12.5 15.4 17.2 12.4 7.0% college educated . . . . . . . 19.0 15.8 22.3 8.6 8.0 9.7 28.8% below poverty. . . . . . . . . 34.5 36.0 33.0 35.3 34.0 37.5 11.9
+Median home value
+(2013 $) . . . . . . . . . . . . . . 99,567 87,499 111,635 61,438 57,628 68,006 157,321
+Median rent (2013 $). . . . . . 609 537 681 564 543 600 823Crime rate . . . . . . . . . . . . . . 9.8 11.1 8.5 10.5 10.7 10.1 3.0
+Disadvantage index . . . . . . 2.9 3.8 2.0 4.3 4.3 4.5 2.3
+Median household income
+(2013 $) . . . . . . . . . . . . . . 30,460 28,711 32,209 29,745 29,783 29,680 60,066
+Public school test scores . . . 55.3 36.3 70.3 37.0 32.0 47.3 75.4
+Number of subsidized
+housing units (2016) . . . . 179.2 264.1 94.3 160.0 213.7 67.4 28.6
+Distance to city hall
+(miles) . . . . . . . . . . . . . . . 2.0 2.1 2.0 4.2 3.8 4.8 6.9
+Distance to universities
+(miles) . . . . . . . . . . . . . . . 1.7 1.3 2.0 2.5 2.2 3.1 5.5
+Mean change in tract
+characteristics, 2002 –13:
+Population. . . . . . . . . . . . . . 72.4 230.9 175.7 268.12218.9 192.0 122.0
+% non-Hispanic White . . . . 6.3 13.6 21.024.5 2.5211.4 27.1
+% non-Hispanic Black . . . . 211.6218.524.7 2.322.3 3.1 1.5
+% renters . . . . . . . . . . . . . . . 2.9 2.6 3.2 8.4 8.0 9.0 2.6
+% vacancies. . . . . . . . . . . . . .9 21.2 2.9 2.1 2.5 1.3 1.8
+% college educated . . . . . . . 13.9 14.4 13.4 1.2 1.2 1.3 5.3% below poverty. . . . . . . . . 23.62.426.8 4.1 3.6 4.8 3.2
+Median home value
+(% change). . . . . . . . . . . . 105.5 110.0 101.0 45.8 49.7 39.2 45.9
+Median rent (% change) . . . 28.2 31.5 24.9 4.3 3.1 6.4 10.1Crime rate . . . . . . . . . . . . . . 22.923.522.3 1.1 1.1 1.0 .4
+Disadvantage index . . . . . . 21.621.721.6 2.12.3 .3 .0
+Median household income
+(% change). . . . . . . . . . . . 23.1 5.5 40.6 216.2216.4216.0
+26.9
+Public school test scores . . . 20.7 20.1 21.2 16.5 15.4 18.6 16.3
+Number of tracts . . . . . . . . . . 56 28 28 128 81 47 181
+NOTE.—Authors ’calculations using linearly interpolated data from Census 2000, 2009 –
+13 ACS, the Philadelphia Police Department, the Pennsylvania Department of Education,
+and the National Housing Preservation Database.
+
+the Philadelphia Police Department for 2006 –14.16These rates include non-
+negligent homicide, aggravated assault, and rape and are per 1,000 residents
+in linearly interpolated tract populations from Census 2000 and the 2009 –
+13 ACS estimates.
+For disadvantage and median household income, we use Census 2000 data
+and the 2009 –13 ACS ﬁve-year estimates, linearly interpolated for 2002 –14.
+We follow Wodtke, Harding, and Elwert (2011) and employ principal com-
+ponent analysis —a statistical method that converts a set of variables that
+may be correlated into a set of linearly uncorrelated variables —to construct
+a composite measure of disadvantage. The disadvantage index is derived
+from the ﬁrst principal component of the following indicators: percentage
+unemployed, percentage of residents living below the poverty level, percent-age of families headed by a female, percentage of families on public assis-
+tance, percentage of residents older than 25 years with less than a high school
+degree, percentage of residents older than 25 years with at least a college de-gree, and percentage of employed residents in professional or managerial oc-
+cupations. In 2000, the resulting index ranged from 21.87 to 9.37, with higher
+values indicating more disadvantage. All variables included are correlatedwith the disadvantage index in their expected directions.
+We obtained elementary school test scores on the Pennsylvania System of
+School Assessment, an annual standardized exam that measures studentachievement in reading, mathematics, science, and writing, from the Penn-
+sylvania Department of Education.
+17For each elementary school in Phila-
+delphia, we calculated the sum of the proportion of students in the highestgrade level in the school (grades 4 or 5) scoring pro ﬁcient or advanced —the
+standard required by federal guidelines for student progress. Using elemen-
+tary school catchment area boundary maps from 2003 and 2009 –14, we
+matched everyone ’s census block in the sample to the appropriate school
+catchment area and test scores using the 2003 boundaries for 2003 –8 data
+and the boundaries for their corresponding years for the 2009 –14 data.
+Table 1 shows that gentrifying tracts on average begin the period with
+slightly lower levels of crime and disadvantage and higher income and test
+scores than nongentrifying tracts, and they had greater improvements on allmeasures. Further, B-G tracts have higher levels of crime and disadvantage
+and lower income and test scores compared with NB-G tracts in 2000. The
+16The data from the Philadelphia Neighborhood Information System come from the
+Cartographic Modeling Lab at the University of Pennsylvania but are no longer avail-able online. We have made the data used in this study available in our data repository.
+The data for 2002 –5 only include aggravated assault. To calculate violent crime rates
+for these years, we used linear predictions based on the relationship between aggravated
+assault and violent crime, using the 2006 –14 data.
+17The data source no longer provides data prior to 2015. We have made the data used in
+this study available in our data repository.American Journal of Sociology
+374
+
+improvements in these measures between B-G and NB-G tracts are similar,
+except B-G tracts had much smaller increases in income.18
+METHODS
+Our analysis of residential mobility patterns in the context of gentri ﬁcation
+and whether this varies by tract racial composition consists of three steps.
+Weﬁrst examine the relationship between gentri ﬁcation and out-migration
+rates among low-Score residents in our data to test whether mobility rates inour data are consistent with prior ﬁndings and whether they differ by tract
+racial composition. Then, we assess where low-Score residents move from
+gentrifying tracts relative to those in nongentrifying tracts, and we considertwo different types of outcomes: (1) the destination type (outside the city,
+nongentri ﬁable, gentrifying, or nongentrifying tracts) and (2) the destina-
+tion quality, measured by four separate indicators —crime rates, a disad-
+vantage index, income, and school test scores. For all these analyses, we test
+whether there are differences in residential mobility patterns from predom-
+inantly Black tracts compared to non-Black tracts.
+It is important to note our expectations given the counterfactual for these
+analyses. If gentri ﬁcation does indeed have negative consequences for indi-
+viduals ’residential destinations, we expect that the types and quality of the
+residential destinations will not differ among low-Score residents between
+movers from gentrifying and nongentrifying tracts. In other words, we ex-
+pect that ﬁnancially disadvantaged residents from gentrifying tracts tend
+to move downward into nongentrifying tracts, whereas residents from non-
+gentrifying tracts churn among nongentrifying tracts. Finally, we examine
+where residents are moving over time, to assess whether low-Score moversare increasingly moving to nongentrifying tracts, re ﬂecting indirect displace-
+ment as tracts gentrify throughout Philadelphia. Table 2 summarizes each
+analysis described below.
+Out-Migration
+We estimate a linear probability model predicting whether a resident lives
+in a tract different from his or her origin tract one year before based on whether
+one lives in a gentrifying tract and one ’s Score category. For the purposes of
+this study, we do not count moves within tracts because such a move would
+not re ﬂect any change between the characteristics of the origin and destina-
+tion tracts. While a resident may also move multiple times in a short period,we only count one ’s origin and destination over a one-year span in case of
+lagged address reporting. We use a linear model instead of a logistic or probit
+18Unrestricted data and relevant code are availa ble at https://purl.stanford.edu/sn305sy2961.Unequal Displacement
+375
+
+TABLE 2
+Summary of Analyses
+Analysis Outcome Model Sample Quantity of Interest Result
+Out-migration Moved from origin tract Linear probability Residents in gentri ﬁable tracts Probability of out-migration
+for low-Score residents
+in gentrifying vs.
+nongentrifying tractsFigure 2,
+table A2
+Residential
+destination
+typeDestination type (outside of city
+[reference], nongentri ﬁable,
+gentrifying, nongentrifying)First stage: probit;
+second stage:
+multinomial logistic
+regressionFirst stage: residents in gentri ﬁable
+tracts; second stage: movers
+from gentri ﬁable tractsProbability of moving to
+tract types for low-Score
+residents from gentrifying
+vs. nongentrifying tractsFigure 3,
+table A3
+Residential
+destination
+qualityDestination percentile: crime,
+disadvantage index, median
+household income, school test
+scoresFirst stage: probit;
+second stage:
+ordinary least squares
+regressionFirst stage: residents in
+gentri ﬁable tracts; second
+stage: within-city movers
+from gentri ﬁable tractsPredicted tract quality for
+low-Score residents
+from gentrifying vs.
+nongentrifying tractsFigure 4,
+table A4
+Residential
+destinations
+across the
+cityDestination type (nongentri ﬁable,
+gentrifying, nongentrifying
+[reference])Multinomial logistic
+regression by cohort
+periods (boom, bust,
+recovery)Residents moving to or within
+PhiladelphiaProbability of moving to
+nongentrifying tracts
+over time for low-Score
+residentsFigure 5
+
+model primarily because our models rely on interaction terms, for which the
+interpretation of coef ﬁcients is problematic in logistic and probit models (Ai
+and Norton 2003; Mood 2010). Results are similar using these alternatives,and table A1 presents results from a logistic regression model.
+Our main independent variables are a set of dummy indicators for an in-
+dividual ’s Score (no Score or Score below 580, 580 –649, and 650 –749, with
+above 750 as the reference category), a dichotomous variable for whether or
+not one ’s origin tract is gentrifying, and a vector of interaction terms be-
+tween the gentri ﬁcation variable and each Score category. The interaction
+terms allow us to test whether low-Score residents in gentrifying tracts ex-
+perience mobility patterns different from those in nongentrifying tracts. We
+also run these models and the next set of models replacing the gentri ﬁcation
+dichotomous indicator and interaction terms with indicators of the racial
+composition and gentri ﬁcation category of the tract (B-G, NB-G, B-NG,
+and NB-NG [reference category]), to test whether residential mobility pat-terns of low-Score residents vary by the origin tract racial composition.
+We control for observed individual and household characteristics that
+may also in ﬂuence residential sorting patterns. Studies on residential mobil-
+ity show that SES, life-cycle factors (e.g., age, marital status, family status),
+tenure status, and unanticipated changes such as job loss or eviction in ﬂu-
+ence moving decisions (Kendig 1984; Kan 1999; Crowder et al. 2012). Al-though the CCP has limited demographic information, we control for age
+as a proxy for one ’s stage in the life cycle, the number of household members
+with credit records and SSNs as a proxy for overcrowding, whether an in-dividual or any household member has at least one mortgage as a proxy
+for homeowners, and whether the individual or a household member has at
+least one seriously delinquent (90 1days) account, which may re ﬂect an un-
+anticipated change that imposes a ﬁnancial burden.
+19We also include ﬁxed
+effects for each cohort to control for time trends.
+We include tract-level controls based on the origin tract that may in ﬂu-
+ence one ’s probability of moving: proximity measures for the distance to
+city hall, a proxy for downtown; the nearest distance to major university
+areas (Temple University or University City), a proxy for other major em-ployers in the city; the share of vacancies, obtained from U.S. census and
+ACS data; subsidized housing units in each tract, determined from 2016
+19ACS estimates indicate that about 40% of households in owner-occupied units in Phil-
+adelphia do not have a mortgage, which is higher than the national average (35.7%). Be-
+cause of this discrepancy, we do not analyze separately for potential renters. When we
+examine residents with a mortgage vs. those without one, we ﬁnd similar but stronger
+trends among residents without a mortgage. Note, too, that results are similar in modelsexcluding the delinquency variable. The data do not provide direct information on length
+in residency. When we include a dummy variable for whether an individual lived in the
+census tract for more than two years and exclude early cohorts, the main results are similar.Unequal Displacement
+377
+
+address-level data from the National Housing Preservation Database.20De-
+scriptive statistics for these variables are in table 1 and show that gentrify-
+ing tracts have more subsidized housing and are generally closer to down-town and universities relative to nongentrifying tracts. Notably, B-G tracts
+had higher vacancy rates in 2000 and more subsidized housing compared
+with all other tracts.
+Residential Destination Type
+Next, we examine movers ’destination type. Given that residential mobility
+is a two-stage process, we follow prior approaches and estimate a two-stage
+model in which we ﬁrst estimate whether one moves or stays in a census
+tract and then assess the destinations of the movers in the second stage ofthe model (Massey, Gross, and Shibuya 1994; Crowder et al. 2012). Single-
+stage models of only movers and without the correction produce substantively
+similar results for all models. Our intention in using this selection model is toadjust for observable differences between movers and stayers before com-
+paring the residential outcomes of movers. Because there are likely differ-
+ences between movers and stayers that our data do not capture and, relat-edly, a relationship between moving or staying and where residents move,
+we caution an interpretation of these estimates as the direct and unbiased
+causal effect of gentri ﬁcation.
+Theﬁrst-stage model predicts whether an individual lives in a census
+tract different from his or her origin tract over a one-year period using a
+probit model. We include the same set of variables as the model describedabove, except we exclude the interaction terms between the gentri ﬁcation
+indicators and Scores. For the second stage, we predict the types of tracts
+to which residents move over the one-year period using a multinomial logis-tic regression model, with moves outside of the city as the reference category.
+The second stage only considers movers and includes a Heckman correc-
+tion (the inverse Mills ratio) to adjust for bias in our estimates that occursbecause only movers are included. This model includes the individual- and
+household-level control variables used above, proximity to downtown and
+university areas of the origin tract, and cohort ﬁxed effects. In contrast to
+theﬁrst stage of the model, the second stage excludes the tract-level shares
+of vacancies and subsidized housing, which predict the likelihood of moving
+but not where residents move and serve as the exclusion restrictions in ourtwo-stage model. The second-stage model also includes the gentri ﬁcation in-
+dicators and interaction terms between the gentri ﬁcation variables and the
+Score categories.
+20These data provide a listing of all active federally subsidized housing properties for
+nine separate funding streams, including Section 8 Project-Based Rental Assistance, Pub-
+lic Housing, and Low-Income Housing Tax Cr edit. See https://preservationdatabase
+.org/documentation/data-notes/ for details.American Journal of Sociology
+378
+
+Residential Destination Quality
+To analyze destination characteristics, we restrict the analysis to within-city
+movers because, despite trends of increasing poverty in the suburbs across
+the United States (Kneebone and Berube 2013), the vast majority of suburbs
+in Philadelphia are much more advantaged than its central city tracts on ourmeasures, and tract-level measures for crime and school test scores are not
+available outside of the city. The ﬁrst-stage model predicts whether an indi-
+vidual moved to a tract within the city over a one-year period using the probitmodel described above. The second-stage model uses the same exclusion re-
+strictions as above and estimates an ordinary least squares regression model
+predicting the percentile of movers ’destination tracts for each indicator
+(crime, disadvantage, income, and test scores) in separate models. In addi-
+tion to the variables included in the analysis above and the Heckman cor-
+rection, we include a lagged variable of the percentile rank of movers ’origin
+tract quality indicator.
+21
+Residential Destinations across the City
+Last, we estimate a multinomial logistic regression model predicting whether
+residents moving into and around Philadelphia move into nongentri ﬁable,
+gentrifying, or nongentrifying (reference category) tracts. We include vari-
+ables for Score categories, and control variables include the type of tract from
+which the resident is moving (outside the city, gentrifying, nongentrifying, ornongentri ﬁable tracts), cohort ﬁxed effects, and identical individual- and
+household-level control variables as above. We separately consider cohorts
+who moved during the housing boom (2002 –7), the housing bust (2008 –11),
+and the recovery (2012 –14) and test whether the likelihood of moving into
+nongentrifying tracts changes over time for low-Score residents. We present
+results from three separate models for these periods for interpretation, butmodels including all cohorts and interac tion terms between cohorts and Scores
+yield similar results.
+RESULTS
+Out-Migration
+Table 3 presents descriptive statistics of the individual residents in our
+pooled sample who lived in the city of Philadelphia at any point from 2002
+to 2013. The table also separates the sample by residents ’origin tract types.
+About 10% of the sample moves each year, and gentrifying tracts had out-migration rates 3.0 percentage points higher than nongentrifying tracts.
+21Following Allison (1990), we use a lagged regression model rather than a change model
+because it is likely that one ’s initial origin tract characteristics, whether the tract gentri-
+ﬁes, and one ’s destination characteristics are correlated.Unequal Displacement
+379
+
+As expected, nongentrifying tracts had more residents with missing or low
+Scores, while nongentri ﬁable tracts had more residents with high Scores and
+mortgages. Relative to nongentrifying and nongentri ﬁable tracts, gentrifying
+tracts had more residents ages 25 –34 years and a greater share of households
+with one adult.
+When we compare tracts by racial composition, non-Black tracts had
+higher out-migration rates compared to Black tracts among both gentrify-
+ing and nongentrifying tracts. B-G tracts had more residents with low andTABLE 3
+Descriptive Statistics of Sample of Philadelphia Residents from 2002 to2013
+VARIABLEALL
+RESIDENTSGENTRIFYING NONGENTRIFYING
+NON-
+GENTRIFIABLE All BlackNon-
+Black All BlackNon-
+Black
+Person-years 517,429 68,069 31,663 36,406 169,617 111,415 58,202 279,743
+% of sample. . 100.0 13.2 6.1 7.0 32.8 21.5 11.2 54.1
+Moved . . . . . . . . 9.4 11.0 10.3 11.6 8.3 7.8 9.1 9.8
+Equifax Risk
+Score:
+No Score . . . . . 10.4 12.7 15.2 10.4 15.2 15.6 14.3 6.9280–579 . . . . . 25.6 25.8 32.7 19.8 36.7 38.2 33.9 18.9
+580–649 . . . . . 17.3 17.4 18.7 16.2 20.6 20.6 20.5 15.3
+650–749 . . . . . 22.1 22.7 19.0 25.9 17.1 16.2 18.9 25.1
+7501. . . . . . . 24.6 21.6 14.5 27.7 10.4 9.4 12.4 33.9
+Mean Score . . 656.2 650.9 624.7 672.5 609.5 604.2 619.6 683.2
+SD Score . . . . 112.3 109.8 108.1 106.5 102.4 101.1 103.9 109.4
+Age:
+25–34. . . . . . . 22.7 26.7 26.1 27.2 22.1 20.2 25.8 22.1
+35–44. . . . . . . 20.1 20.6 20.6 20.6 20.8 19.6 23.2 19.5
+45–54. . . . . . . 20.0 18.3 19.1 17.7 20.8 21.2 20.0 19.9
+55–64. . . . . . . 15.8 14.1 13.7 14.5 15.4 16.4 13.6 16.4
+≥65. . . . . . . . . 21.5 20.2 20.5 20.0 20.9 22.7 17.4 22.1
+Adult household
+size (includes
+only thosewith credit):
+1. . . . . . . . . . . 19.5 24.9 24.4 25.2 20.1 20.5 19.4 17.8
+2. . . . . . . . . . . 28.8 28.2 27.8 28.6 25.7 25.5 26.0 30.7
+31. . . . . . . . . 51.8 46.9 47.8 46.1 54.3 54.0 54.6 51.5
+11mortgages in
+household . . 32.1 23.0 19.2 26.4 19.2 17.1 23.1 42.2
+11delinquent
+(901days)
+accounts inhousehold . . 20.1 19.3 22.9 16.1 26.2 27.8 23.3 16.5
+N
+OTE.—Authors ’calculations using data from the CCP. Results are for the full set of pooled
+person-years and, therefore, can include the same individual more than once. With the excep-
+tion of person-years, mean score, and SD, all values are percentages.American Journal of Sociology
+380
+
+missing Scores and delinquent accounts and fewer residents with mortgages
+relative to NB-G tracts. Further, the Score distribution is substantially
+higher in NB-G tracts compared to other gentri ﬁable tracts, which suggests
+that the gentri ﬁcation in these tracts is farther along than in B-G tracts.
+Table 4 presents mobility patterns for the low-Score residents in the sam-
+ple who lived in a gentri ﬁable tract at any point from 2002 to 2013. The sec-
+ond and third columns of the table display the share of residents in the
+pooled sample who are stayers and movers by their origin tract type. The
+remaining columns, which we discuss later, are a residential change matrixindicating the type of tract to which residents move, with the percentages
+only including residents who moved. Like the trends presented in table 3,
+low-Score residents have higher out-migration rates from gentrifying tracts(8.2%) than from nongentrifying tracts (7.7%), but this difference is much
+smaller compared to the 3.0 percentage point difference for all residents.
+This indicates that higher-Score residents comprise a greater share of theout-migration in gentrifying tracts. While the out-migration rate was higher
+in non-Black tracts compared to Black tracts for all residents, these rates
+were similar among low-Score residents.
+Once we control for individual, household, and tract characteristics in
+linear probability models predicting out-migration, we ﬁnd that low-Score
+residents in gentrifying tracts are less likely to move than low-Score resi-dents in nongentrifying tracts. The ﬁrst bar in ﬁgure 2 displays the differ-
+ence in the predicted probability of moving from a gentrifying compared
+with a nongentrifying tract for the average low-Score resident.
+22Table A2
+displays the regression results for the main variables and a summary of co-
+efﬁcients and results from F-tests comparing movers from different tracts by
+gentri ﬁcation category. The difference in the probabilities is .008, which is
+over a 10% difference. (The mobility rate among low-Score movers in the
+sample is 7.8%.) Additional individual- and household-variables positively
+associated with out-migration include single households and households with-out mortgages.
+When we examine out-migration rates by the racial composition of tracts,
+weﬁnd that the difference between low-Score residents in gentrifying and
+nongentrifying tracts is driven by relatively high out-migration rates in
+B-NG tracts, which the last three bars in ﬁgure 2 illustrate. There is no dif-
+ference between NB-G and NB-NG tracts, but low-Score residents in B-Gtracts are signi ﬁcantly less likely to move than similar residents in B-NG
+tracts, which suggests that residential instability among disadvantaged res-
+idents is particularly high in B-NG tracts. There is no signi ﬁcant difference
+22The average low-Score mover is 33 –44 years old in the 2007 cohort, with an adult
+household size of two, no mortgage or delinquent accounts, and average levels of all other
+controls.Unequal Displacement
+381
+
+TABLE 4
+Neighborhood Change Matrix for Low-Score Residents in Analytic Sample
+ORIGIN TRACT TOTALSTAYERS
+(%)MOVERS
+(%)DESTINATION TRACT (MOVERS ONLY)ANDODDS OF MOVING TO EACH DESTINATION TYPE
+(VS.NONGENTRIFYING TRACTS )
+Out of City Nongentri ﬁable Gentrifying All TypesNongentrifying
+(%) % Odds % Odds % Odds % Odds
+Gentrifying:
+All tracts . . . . . . 26,165 91.8 8.2 30.3 .92 20.0 .60 16.7 .50 67.0 2.03 33.0Black . . . . . . . . . 15,166 91.8 8.2 26.8 .64 16.3 .39 14.7 .35 57.8 1.37 42.2
+Non-Black. . . . . 10,999 91.8 8.2 35.2 1.71 25.0 1.22 19.3 .94 79.5 3.88 20.5
+Nongentrifying:
+All tracts . . . . . . 88,025 92.3 7.7 26.5 .62 21.9 .51 8.5 .20 56.9 1.32 43.1Black . . . . . . . . . 59,970 92.3 7.7 26.7 .61 20.1 .46 9.4 .22 56.2 1.28 43.9
+Non-Black. . . . . 28,055 92.3 7.7 26.2 .63 26.0 .63 6.4 .15 58.5 1.41 41.5
+N
+OTE.—Authors ’calculations using data from Census 2000, 2009 –13 ACS, and the CCP. Percentages are row percentages. Percentages for destination
+tracts are out of the total number of movers in each Score category. Results are for the full set of pooled person-years and, therefore, can include the s ame
+individual more than once.
+
+in the probability of moving from B-G and NB-G tracts for low-Score res-
+idents, shown by the fourth bar in the ﬁgure.
+Overall, the results contrast popular narratives of gentri ﬁcation and dis-
+placement but support our ﬁrst hypothesis that low-Score residents in gen-
+trifying tracts are not more likely to move compared with low-Score residents
+in nongentrifying tracts. The ﬁndings are generally consistent with recent
+quantitative studies on displacement focusing on whether people move
+andﬁndings demonstrating the high levels of residential instability that dis-
+advantaged residents in disadvantaged, speci ﬁcally Black, neighborhoods
+face.
+Residential Destination Type
+Now, we turn to where low-Score residents move if they move. The latter
+set of columns of table 4 show that the largest proportions of low-Score
+movers from all gentrifying tracts moved to nongentrifying tracts (33.0%)
+or outside of the city (30.3%). But, if we compare movers by the racial com-position of their origin tracts, over 40% of low-Score movers from B-G tracts
+move to low-income, nongentrifying tracts, re ﬂecting downward moves. By
+contrast, low-Score movers from NB-G tracts make far more upward moves:
+FIG.2 .—Differences in predicted probabilities of moving for the average low-Score
+resident in gentri ﬁable tracts ( N5237,686). Based on results from linear probability
+models predicting moves for all residents living in gentri ﬁable tracts in the city of Phila-
+delphia from 2002 to 2013 (excluding 2004). Estimation is based on data from the CCP,Census 2000, and 2009 –13 ACS. Regression results for main variables are displayed in
+table A2.
+1P<.10, * P<.05, ** P<.01, *** P<.001 (two-tailed tests).Unequal Displacement
+383
+
+only 20.5% of movers move to nongentrifying tracts, while 19.3% move to
+other gentrifying tracts, 25.0% to nongentri ﬁable tracts, and 35.2% to outside
+of Philadelphia —areas with signi ﬁcantly higher SES levels than Philadelphia
+tracts. The odds ratios of moving to each destination type relative to nongen-
+trifying tracts re ﬂect the relative differences in locational attainment for those
+moving from gentrifying relative to nongentrifying tracts. In other words, thelocational gains by moving laterally to another gentrifying neighborhood
+or moving upward to a nongentri ﬁable tract or out of the city are 2.6 times
+ðð3:88=1:41Þ=ð1:37=1:28Þ52:58Þgreater for low-Score movers from NB-G
+tracts compared to B-G tracts. While the odds ratio for residents from Black
+tracts ð1:37=1:2851:07Þindicates that gentri ﬁcation provides some gains
+for these residents, this is small and substantially lower than for non-Blacktracts.
+The results are similar after we account for individual, household, and
+tract characteristics and selective differences between movers and stayerswith two-stage models. Table A3 presents coef ﬁcients and standard errors
+from the models for the main variables and results from F-tests compar-
+ing movers from different tract types. Low-Score movers from gentrifyingtracts are less likely to move to nongentrifying tracts compared with similar
+movers from nongentrifying tracts, which counters our second hypothesis
+that residents from gentrifying tracts are just as likely to move to non-gentrifying tracts compared with ﬁnancially disadvantaged residents mov-
+ing from nongentrifying tracts and better supports the alternative hypoth-
+esis that gentri ﬁcation increases the likelihood of cashing in on the increased
+value of the neighborhood. However, distinguishing tracts by racial compo-
+sition reveals signi ﬁcant differences among gentrifying tracts. Figure 3 pres-
+ents comparisons of the predicted probabilities of moving to each tract typefor average low-Score movers by their origin tract ’s gentri ﬁcation status
+and racial composition. Each panel represents the destination type. The ﬁrst
+set of bars in each panel compares NB-G and NB-NG tracts, and the secondset of bars compares B-G and B-NG tracts to examine differences within
+tract compositions. The third set of bars compares NB-G and B-G tracts
+to examine differential trajectories of residents by tract racial compositionin gentrifying tracts.
+Overall, low-Score residents moving from NB-G tracts exhibit distinct
+residential trajectories compared to other low-Score movers. They have asigniﬁcantly lower probability than movers from B-G and nongentrifying
+tracts—Black or non-Black —of moving to nongentrifying tracts and a sig-
+niﬁ
+cantly higher probability than all other low-Score movers of moving out
+of the city. Given that 35% of the city ’s census tracts are nongentrifying, low-
+Score residents moving from B-G and nongentrifying tracts are dispropor-
+tionately more likely to move to nongentrifying tracts. Compared to moversfrom B-G tracts, low-Score movers from NB-G tracts also have a higherAmerican Journal of Sociology
+384
+
+FIG.3 .—Predicted probabilities of moving to each tract type for the average low-Score resident in gentri ﬁable tracts. First-stage N5237,686;
+second-stage N521,504. Based on results from two-stage models in which the ﬁrst stage predicts moves for all residents living in gentri ﬁable tracts
+in the city of Philadelphia from 2002 to 2013 (excluding 2004) using a probit model and the second stage predicts the destination type of movers using
+a multinomial logistic regression model with correction for moving. Estimation is based on data from the CCP, Census 2000, and 2009 –13 ACS.
+Regression results for main variables are displayed in table A3.1P<.10, * P<.05, ** P<.01, *** P<.001 (two-tailed tests).
+
+predicted probability of moving to high-income nongentri ﬁable tracts.23The
+predicted probabilities of moving to other gentrifying tracts, however, are
+not substantially different across tract origins. When we compare odds ratios
+of moving to gentrifying or nongentri ﬁable tracts or moving out of the city
+relative to moving to a nongentrifying tract based on the predicted probabil-
+ities, those moving from B-G tracts have an odds ratio of .58, indicating that
+gentri ﬁcation results in more losses rather than gains for these residents. The
+locational gains for movers from NB-G tracts, who have an odds ratio of
+1.70, are nearly three times larger (1 :70=:5852:93) compared with those
+from B-G tracts.
+Altogether, the results are consistent with our third hypothesis that resi-
+dential destinations are disproportionately worse for disadvantaged resi-
+dents moving from B-G tracts compared to those moving from NB-G tracts.Whereas those from NB-G tracts disproportionately make upward moves,
+moving to the suburbs and nongentri ﬁable tracts, those from B-G tracts are
+disproportionately making downward moves compared with those fromNB-G tracts, and other low-Score residents are disproportionately moving
+to nongentrifying tracts.
+Residential Destination Quality
+Next, we examine the percentile rank of movers ’destinations for tract qual-
+ity indicators among Philadelphia movers. We ﬁrst present the average
+characteristics of the tracts to which low-Score residents move in table 5.
+The table presents the average percentiles of the tract quality indicatorsTABLE 5
+Average Tract Quality Percentile of Destination
+for Low-Score City Movers in Sample
+Origin Tract Type NViolent Crime
+RateDisadvantage
+IndexMedian
+IncomeSchool Test
+Score
+All gentri ﬁable tracts ...6,272 61.2 65.3 35.9 38.1
+Gentrifying:
+All tracts . . . . . . . . . . 1,466 58.0 59.0 40.4 40.5Black . . . . . . . . . . . . . 898 62.8 63.3 36.1 35.3
+Non-Black. . . . . . . . . 568 50.5 52.1 47.2 48.6
+Nongentrifying:
+All tracts . . . . . . . . . . 4,806 62.1 67.2 34.5 37.4Black . . . . . . . . . . . . . 3,309 63.0 65.9 34.8 35.6
+Non-Black. . . . . . . . . 1,497 60.3 70.0 33.9 41.3
+N
+OTE.—Values are based on data from the CCP, Census 2000, 2009 –13 ACS, the Philadel-
+phia Police Department, and the Pennsylvania Department of Education.
+23This difference is not statistically signi ﬁcant in analyses examining only movers in tracts
+that begin the period in the bottom quartile of median household incomes in the city.American Journal of Sociology
+386
+
+of destinations of low-Score movers who move within the city of Philadel-
+phia.24The values are from linear interpolations of the percentiles based
+on the year of the move. The table illustrates the stark differences in the typesof tracts to which residents from NB-G tracts move relative to movers from
+B-G tracts and movers from nongentrifying tracts. In particular, low-Score
+movers from NB-G tracts move to tracts with signi ﬁcantly lower crime and
+disadvantage and higher income and test scores compared with all other
+movers, while movers from B-G tracts end up in similar destinations to those
+from both B-NG and NB-NG tracts. The direction of changes in percentilesfrom origin to destination (not shown) re ﬂects substantial improvements for
+movers from nongentrifying tracts, highlighting the circumstantial differ-
+ences on average for movers from nongentrifying tracts. Further, changes formovers from gentrifying tracts are varied because B-G tracts begin the period
+with lower percentiles on all indicators and appear to gentrify slowly —in
+terms of socioeconomic gains (see table 1), while NB-G tracts begin more ad-vantaged and change rapidly, consistent with prior research (Hwang and
+Sampson 2014). Thus, what appear to be upward and downward moves
+based on tract characteristic percentiles are con ﬂated with changes in the or-
+igin tract itself.
+Next, we account for individual, household, and tract characteristics and
+one ’s origin tract percentile using two-stage regression models to adjust for
+the selective differences into moving within Philadelphia and the distinct
+circumstances in which residents move. Table A4 presents coef ﬁcients and
+standard errors for the main variables from the models including gentri ﬁ-
+cation by racial composition tract categories and testing differences by the
+gentri ﬁcation status and racial composition of the origin tract. Figure 4 illus-
+trates the ﬁndings from these models comparing the predicted percentiles of
+the tract quality indicators of movers by their origin tracts.
+For brevity, we do not present results comparing movers from gentrify-
+ing and nongentrifying tracts. Low-Score movers from gentrifying tractshave predicted probabilities of ending up in relatively higher quality tracts
+in terms of income, schools, and crime compared with movers from non-
+gentrifying tracts. Differences for disadvantage are not statistically signi ﬁ-
+cant. Distinguishing tracts by their racial composition, however, reveals re-
+sults consistent with ﬁndings on tract destination types. Low-Score movers
+from NB-G tracts move to tracts with better quality on all indicators
+24Income and disadvantage levels for all destinations outside of the city signi ﬁcantly ex-
+ceed the distribution within the city. Nonetheless, we ﬁnd that low-Score movers from
+NB-G tracts who move to the suburbs end up in tracts with percentile rankings 8.8 points
+higher and 6.6 points lower than movers from B-G tracts for income and disadvantage,respectively. Compared to low-Score movers from B-G tracts, low-Score movers from
+NB-NG tracts move to higher-SES tracts, and low-Score movers from B-NG tracts move
+to slightly lower-SES tracts.Unequal Displacement
+387
+
+FIG.4 .—Predicted percentiles of destination characteristics for the average low-Score resident in gentri ﬁable tracts. First-stage N5237,686;
+second-stage N513,426. Based on results from two-stage models in which the ﬁrst stage predicts moves for all residents living in gentri ﬁable tracts
+in the city of Philadelphia from 2002 to 2013 (excluding 2004) using a probit model and the second stage predicts the destination characteristics of
+movers using an ordinary least squares model with correction for moving within Philadelphia. Estimation is based on data from the CCP, Cen-sus 2000, 2009 –13 ACS, the Philadelphia Police Department, and the Pennsylvania Department of Education. Regression results for main variables
+are displayed in table A4.
+1P<.10, * P<.05, ** P<.01, *** P<.001 (two-tailed tests).
+
+compared to low-Score residents moving from other tracts.25For example,
+table A4 indicates that those from NB-G tracts have predicted percentiles of
+destinations with crime and disadvantage that are 7.2 and 3.2 points, respec-tively, lower than those from NB-NG tracts and 7.1 and 4.1 points lower
+than those from B-G tracts. They also end up in tracts with income and
+school test score percentiles that are 7.7 and 6.7 points, respectively, higherthan in NB-NG tracts, and 5.8 and 9.6 points higher compared to B-G tracts.
+Among Black tracts, however, those moving from B-G tracts have higher
+predicted percentiles of disadvantage compared to low-Score movers fromB-NG tracts, but we do not ﬁnd signi ﬁcant differences for other indicators.
+While low-Score movers from NB-G tracts move to signi ﬁcantly higher-
+quality tracts compared to others, those from B-G tracts move to similar orworse destinations as the low-Score movers from nongentrifying tracts.
+In sum, although we do not ﬁnd that gentri ﬁcation is associated with el-
+evated rates of moving out of a tract, we ﬁnd substantial differences in mov-
+ers’destinations that suggest unequal patterns of displacement by tract ra-
+cial composition. While low-Score residents moving from NB-G tracts end
+up in relatively high-quality tracts, low-Score residents from B-G tracts andnongentrifying tracts move among relatively low-quality tracts within Phil-
+adelphia. The results suggest that low-Score movers in NB-G tracts are more
+likely to move to opportunity, bene ﬁting from gentri ﬁcation, at least in loca-
+tional attainment, by moving to tracts with more advantage compared to
+other low-Score movers. Low-Score residents that move from B-G tracts do
+not experience similar advantages, moving to relatively low-quality and non-gentrifying tracts. At the same time, low-Score residents in nongentrifying
+tracts, both Black and non-Black, churn among similar low-quality and non-
+gentrifying tracts, consistent with past ﬁndings that depict residential churn-
+ing of the poor among poor neighborhoods (Sampson and Sharkey 2008).
+Residential Destinations across the City
+Last, we assess whether indirect displacement is occurring, by examining
+where residents, strati ﬁed by Score, are moving more broadly when they
+move into or around the city of Philadelphia from 2002 to 2014 as tracts gen-
+trify and become less affordable to disadvantaged residents. We observe
+43,952 moves in our data. Of these moves, 32% are by low-Score residents,and 62% of these moves by low-Score residents originate within the city.
+Figure 5 presents predicted probabilities of moving to a nongentrifying,
+gentrifying, or nongentri ﬁable census tract for the average low-Score (no
+25The differences between NB-G vs. NB-NG are in the same direction but not statisti-
+cally signi ﬁcant for disadvantage and test scores and are in the same direction but not
+statistically different for B-G vs. NB-G for disadvantage, when we only consider tracts
+that begin the period in the bottom quartile of median household incomes.Unequal Displacement
+389
+
+FIG.5 .—Predicted probabilities of moving to nongentrifying, gentrifying, and nongentri ﬁable tracts for the average low-Score and high-Score
+movers over time. Boom N516,263; bust N516,058; recovery N511,631. Results from multinomial logistic regression models for each period
+predicting residential destinations for all movers to the city of Philadelphia. The 2004 cohort is excluded in the models. Estimation is based on data
+from the CCP, Census 2000, and 2009 –13 ACS. Statistical differences over time are discussed in text and do not compare low- and high-Score res-
+idents. Full regression results are available on request.
+
+Score or less than 580) resident during the housing boom (2002 –7), the hous-
+ing bust (2008 –11), and the recovery (2012 –14) based on results from multi-
+nomial logistic regression models for each period. We also include the pre-dicted probabilities for high-Score (750 or greater) residents for illustrative
+purposes of comparison. Movers with Scores between these categories have
+predicted probabilities between the probabilities illustrated. Regression re-sults are available on request.
+Even though about one-third of the tracts are nongentrifying, low-Score
+residents ’predicted probabilities of moving t o nongentrifying tracts increased
+from .37 to over .44 across the period, while high-Score movers have pre-
+dicted probabilities below .18 during the entire period. The differences over
+time among low-Score movers are statistically signi ﬁcant at the P<:05 level.
+Further, while half of the tracts are nongentri ﬁable, low-Score residents ’pre-
+dicted probabilities of moving to nongentri ﬁable tracts decreased from .49 to
+.43 over the period ( P<:05), while high-Score residents ’probabilities were
+over .62 across the periods. High-Score residents are consistently more likely
+to move into gentrifying tracts relative to low-Score residents, and the differ-
+ence increased over time ( P<:05) as high-Score residents became increas-
+ingly more likely and low-Score residents became increasingly less likely
+to move into them —consistent with what we would expect in tracts under-
+going gentri ﬁcation. Whereas high-Score residents ’probability of moving to
+a gentrifying tract (.18) was 1.2 times the average low-Score residents ’proba-
+bility (.14) during the housing boom, it was 1.5 times more during the housing
+recovery (.20 vs. .13). A similar inverse pattern emerges in nongentrifyingtracts: whereas low-Score residents ’probability of moving to a nongentrifying
+tract (.37) was 2.2 times the average high-Score residents ’probability (.16)
+during the boom, it was 2.5 times larger during the recovery (.44 vs. .17).
+Together, these two trends are indicative of indirect displacement, sup-
+porting our ﬁnal hypothesis that indirect displacement is occurring. Low-
+Score residents are increasingly more likely to move to low-income tractsthat do not experience socioeconomic upgrading and increasingly less likely
+to move to gentrifying tracts. This pattern is consistent with recent ﬁndings
+that show a signi ﬁcant decline in affordable housing options across Philadel-
+phia, especially in gentrifying neighborhoods (Chizeck 2017), and suggests
+that low-Score residents moving to or within Philadelphia are becoming in-
+creasingly concentrated in disadvantaged neighborhoods within the city.
+DISCUSSION
+The spread of gentri ﬁcation in recent decades, particularly to predominantly
+Black neighborhoods, de ﬁes the durable hierarchy that characterized central
+city neighborhoods throughout the latter half of the 20th century. Our frame-work for studying the relationship between gentri ﬁcation and residentialUnequal Displacement
+391
+
+displacement expands our attention beyond whether disadvantaged residents
+move out of gentrifying neighborhoods to where they move and to where they
+cannot move in a racially strati ﬁed housing market. While gentri ﬁcation
+counters past trends of White ﬂight from central city neighborhoods and
+decreasingly re ﬂects Whites ’avoidance of minority neighborhoods, our study
+reﬁnes theory and research on residential strati ﬁcation by showing how racial
+strati ﬁcation continues to play a fundamental role in how gentri ﬁcation un-
+folds. We show that neighborhood racial composition confers a distinct set
+of advantages and disadvantages to ﬁnancially disadvantaged residents in
+gentrifying neighborhoods, resulting in racially strati ﬁed outcomes for loca-
+tional attainment. In the era of White ﬂight, metropolitan areas had unlimited
+space to which White residents could move and develop, but, in the era of gen-triﬁcation, this is not the case for all residents moving out of gentrifying neigh-
+borhoods. Such moves are embedded in a racially strati ﬁed housing market
+with increasingly limited options, as the spread of gentri ﬁcation decreases af-
+fordable neighborhood options within the city and minority residents face bar-
+riers to accessing options both within the city and beyond. Although sociolo-
+gists studying residential mobility have long considered where poor residentsmove and racial differences in these outcomes, theory and research stemming
+from this body of work do not fully explain how these processes play out under
+dynamics of neighborhood and metropo litan change. And, while there have
+been a growing number of studies on gentri ﬁcation ’s consequences on dis-
+placement, the complexity of residenti al mobility, particularly among the ur-
+b a np o o r ,a n dt h e ﬁnancial advantages and disadvantages that gentri ﬁcation
+can offer demand this more nuanced approach for improving our under-
+standing of gentri ﬁcation ’s consequences for residential displacement.
+Drawing on a novel data set, our study demonstrates that the conse-
+quences of gentri ﬁcation are structured by racial strati ﬁcation, exacerbating
+neighborhood inequality by race and class in the contemporary American
+city. Like prior quantitative studies on displacement and consistent withourﬁrst hypothesis, our study ﬁnds that low-Score residents in Philadelphia ’s
+gentrifying tracts are no more likely than residents in nongentrifying tracts to
+move out of their tracts. Low-Score residents in B-NG tracts, rather, have rel-atively high rates of out-migration, suggesting high levels of residential insta-
+bility in poor, Black neighborhoods. Low-Score residents who move, how-
+ever, have divergent trajectories depending on where they move from, andthese differences are only revealed when we consider heterogeneity across
+neighborhood racial composition. When we examine the residential destina-
+tions of those who move and account for observed selective differences intomoving, those from NB-G tracts have high probabilities of moving out of the
+city to the suburbs or to high-income nongentri ﬁable tracts, landing in signif-
+icantly higher-quality tracts compared with the destinations of other movers.
+Yet, those from B-G tracts, which both begin with lower quality and improveAmerican Journal of Sociology
+392
+
+along these indicators slower than NB-G tracts, have disproportionately high
+probabilities of moving to nongentrifying tracts within the city, ending up
+in tracts with similar characteristics and even higher levels of disadvantagecompared to those moving from nongentrifying tracts and much lower qual-
+ity than the destinations of movers from NB-G tracts. The ﬁndings suggest
+thatﬁnancially disadvantaged residents from NB-G tracts move in more fa-
+vorable circumstances or disproportionately bene ﬁt from gentri ﬁcation com-
+pared with those moving from B-G tracts.
+We also show that gentri ﬁcation is fundamentally restructuring patterns
+of neighborhood sorting among disadvantaged residents that further exac-
+erbate neighborhood inequality. We ﬁnd that gentri ﬁcation is indirectly dis-
+placing low-Score residents in Philadelphia by shrinking residential optionsfor them within the city as disadvantaged residents moving either to Phila-
+delphia or within the city are increasingly moving to nongentrifying tracts
+over time compared to other tracts, supporting our last hypothesis. We alsoﬁnd that movers from B-G tracts and from both B-NG and NB-NG tracts
+are disproportionately more likely to move to nongentrifying tracts com-
+pared to those from NB-G tracts. Although a signi ﬁcant portion of residents
+from all groups also move out of the city, signi ﬁcantly more residents from
+NB-G tracts do so. And even for those who move out of the city, residents
+moving from B-G tracts move to tracts that have lower household incomesand more disadvantage compared to low-Score residents moving from NB-G
+tracts, despite having improvements from their origin neighborhoods. Taken
+together, the results suggest growing neighborhood inequality within citiesand new implications for the suburbs. While we have framed these moves
+as upward in this study, they may certainly lead to longer commutes, greater
+expenses associated with transportation and dif ﬁculty accessing services and
+resources (Murphy and Wallace 2010).
+Ourﬁndings highlight the racialized nature of gentri ﬁcation and its con-
+sequences and are thus consistent with the emphasis in many qualitative ac-counts and public discourse on gentri ﬁcation ’s negative effects on minori-
+ties and minority neighborhoods (Brown-Saracino 2017). Although we do
+not know for certain whether low-Score residents in B-G tracts are Blackor whether low-Score residents in NB-G tracts are not Black, we argue that
+racialized mechanisms governing both neighborhood valuation and sorting
+processes at the individual and neighborhood levels explain our results.
+26
+While the socioeconomic upgrading and rising home values in gentrifying
+neighborhoods can bene ﬁt preexisting disadvantaged residents, our study
+26There are very few moves in our data by individuals who we could infer have a high
+probability of being non-Black in Black tracts to assess differential outcomes. Within B-G
+and B-NG tracts, less than 1.5% of blocks were over 80% non-Hispanic White and over
+80% of blocks were over 80% Black according to the 2000 U.S. census.Unequal Displacement
+393
+
+suggests that this bene ﬁt may be limited to residents in gentrifying neighbor-
+hoods with fewer Black residents. Disadvantaged residents in NB-G tracts
+may be able to cash in on the higher values placed on NB-G relative to B-Gtracts, or they may have greater access to credit and wealth and face fewer
+limitations on the housing market that can facilitate their upward mobility.
+Disadvantaged residents moving from B-G tracts, however, may receivelower cash offers by landlords or developers, move more often in forced circum-
+stances, or face greater obstacles in the housing market that limit their ability
+to make an upward move. Because the period of our study spans the foreclo-sure crisis, which disproportionately a ffected minority neighborhoods in highly
+segregated cities like Philadelphia (Hw ang, Hankinson, and Brown 2015), low-
+Score movers in B-G tracts may also d isproportionately face greater ﬁnancial
+disadvantages related to loan terms or wealth building, prohibiting their abil-
+ity to convert the increased value of their neighborhood into a path toward
+upward mobility. Further comparative research on the experiences of disad-vantaged residents in gentrifying neighborhoods of different racial composi-
+tions or by individuals ’race or ethnicity can illuminate these differences.
+Our study also highlights how a novel large-scale data source —consumer
+credit data —can shed light on residential strati ﬁcation and mobility. Credit
+scores re ﬂect an important aspect of ﬁnancial (dis)advantage that other tra-
+ditional measures, like income, do not capture. In a time when economic in-security has increased and wealth has declined for many (Carr and Mulcahy
+2010), ﬁnancial stability provides a key indicator of how individuals fare in
+the housing market. Unlike longitudinal data used in prior mobility analy-ses, credit score data allow us to track residential mobility, including loca-
+tions of both origins and destinations of movers, at frequent intervals and in
+a recent period for a large sample of the adult population.
+Despite the temporal and spatial richness and scale of the data, such data
+also have their limits. Credit record data face some of the limitations that
+other data sets used for studying mobility also experience, such as the dis-proportionate exclusion of individuals vulnerable to displacement and the
+lack of information on the circumstances of the moves. In addition, loca-
+tional information is inaccurate for those who become homeless, includingthose who resort to temporary living situations. Therefore, we view our es-
+timates of out-migration rates and the degree to which ﬁnancially disadvan-
+taged residents are moving to speci ﬁc kinds of neighborhoods as an under-
+estimate of growing neighborhood inequality and the constraints of the
+changing housing market for disadvantaged residents. Without informa-
+tion on the circumstances of the move, we are unable to distinguish betweenwhether movers from B-G neighborhoods are more likely to face forced
+moves than movers from NB-G neighborhoods or whether the differences
+reﬂect mechanisms of place strati ﬁcation. The data also highlight a more
+general shortcoming of big data for sociological research. Although thereAmerican Journal of Sociology
+394
+
+are increasingly new sources that contain detailed data on large numbers of
+people, the preservation of anonymity and privacy are crucial for the avail-
+ability and use of these data. This necessi ty, however, inherently limits infor-
+mation on individuals. In this study, the lack of information on individuals in
+the data, such as race and ethnicity, home ownership status, and university
+enrollment, limits the extent to which we can identify the various mechanismsaffecting residents.
+Although our results suggest that gentri ﬁcation affects residential sorting
+patterns among low-Score residents from 2002 to 2014 in Philadelphia indistinct ways by tract racial composition, as with all efforts with causal in-
+ference, we are limited in our ability to make strong causal claims. While we
+adjust for observable differences between movers and stayers and for ob-servable characteristics among movers, there are still factors that we do
+not observe in our data but that likely affect residential sorting patterns,
+such as having children, and the selection model does not fully remove allbias associated with moving rather than staying. Moreover, because gentri-
+ﬁcation is an ongoing, evolving process that occurs unevenly across neigh-
+borhoods over time, a direct assessment of the relationship between gentri-ﬁcation and displacement in a pre- and posttreatment causal framework is
+inappropriate. The infrequency of the census and ACS data further pre-
+cludes identi ﬁcation of when gentri ﬁcation begins in a place or its stage
+when residents move. As new sources of data on neighborhood characteris-
+tics at more frequent intervals —such as Google street-level imagery and
+Craigslist rent prices —become available, future studies linked with these
+data can address these issues. Moreover, a longer period of analysis may
+be necessary to capture a full picture of residential displacement, especially
+in a relatively loose housing market like Philadelphia.
+While our study is based on the case of Philadelphia, we believe that our
+ﬁndings on racialized differences in residential mobility patterns associated
+with gentri ﬁcation would bear out in other cities with similar histories of
+large-scale decline and high levels of racial segregation —cities that shape
+much of the theory and research in urban sociology. In “superstar cities ”
+(Gyourko et al. 2013, p. 167) with stronger housing markets and where thehousing supply is lacking, differences in out-migration rates may be signi ﬁ-
+cant across gentrifying neighborhoods, and we may also see greater moves
+outside of the city but to areas with more disadvantage or to declining areas.Recent studies have documented the decline of the inner-ring suburbs, as cit-
+ies have become increasingly unaffordable (Kneebone and Berube 2013).
+While there is evidence of this decline in some of Philadelphia ’s surrounding
+suburbs, the suburbs of Philadelphia are still much more socioeconomically
+advantaged on average than even the neighborhoods at the upper end of the
+city ’s socioeconomic distribution. In cities with lower levels of racial segre-
+gation, we may also expect distinct outcomes, as long-term integration mayUnequal Displacement
+395
+
+be more feasible, racialized processes in the housing market may be more
+muted, and neighborhood differences may be less severe. Further research
+on other cities with tighter housing markets and distinct contexts of segrega-tion is necessary to expand our understanding of gentri ﬁcation ’s effects. Our
+ﬁndings, nonetheless, rely on the best available data at this time on where
+residents move, to offer a crucial starting point for future efforts to betterunderstand how gentri ﬁcation affects residential mobility and strati ﬁcation.
+CONCLUSION
+Our study sheds new light on the consequences of gentri ﬁcation and con-
+tributes to theories of neighborhood change, residential mobility, and racial
+and ethnic strati ﬁcation by demonstrating how gentri ﬁcation is recon ﬁg-
+uring the 21st-century American city in racialized ways. By considering
+where residents move and their origin tracts ’racial composition, we show
+how gentri ﬁcation unfolds in ways that are governed by racial strati ﬁcation,
+affecting residents living within gentrif ying neighborhoods, as well as the con-
+text in which residents are moving, to exacerbate neighborhood inequality.
+Whether gentri ﬁcation will continue at its current pace and perpetuate
+this process is uncertain, but the patterns we observe suggest the need for
+policies to ensure that gentri ﬁcation does not continue to increase socioeco-
+nomic and racial segregation. Given that our ﬁndings suggest that the ben-
+eﬁts of gentri ﬁcation disproportionately accrue to ﬁnancially disadvantaged
+residents in NB-G neighborhoods relative to B-G neighborhoods, targeted
+efforts to both prevent existing disadvantaged residents from moving down-ward and to preserve an affordable housing supply in B-G neighborhoods
+are necessary. While Philadelphia ’s recently implemented property tax re-
+lief program, which prohibits increases in property taxes for long-time low-and middle-income homeowners, is an important step in mitigating out-
+migration, policies and programs that ensure residential stability for renters
+and access to quality neighborhoods for disadvantaged residents who moveare necessary to maintain diverse neighborhoods and help facilitate the long-
+term well-being of these residents. Additional efforts that help address racial
+discrimination in the housing market and racial wealth disparities are alsoneeded. Finally, sustained investment in resources and opportunities in non-
+gentrifying neighborhoods are necessary to ensure that disadvantaged mov-
+ers are not limited to neighborhoods with high levels of disadvantage, highcrime, and low-quality schools. Place-based investment that can attract ra-
+cial and socioeconomic diversity while implementing policies that allow dis-
+advantaged residents to stay, connect them to resources and opportunities,and include them in the development process is needed. Without the right
+policy levers and the continued commodi ﬁcation of housing and neighbor-
+hoods, neighborhood inequality will continue to persist as cities transform.American Journal of Sociology
+396
+
+APPENDIX
+TABLE A1
+Logistic Regression Results Predicting Out-Migration for
+Philadelphia Residents in Gentri ﬁable Tracts
+GENTRIFICATIONGENTRIFICATION
+BYRACE
+Coef. SE Coef. SE
+Equifax Risk Score (ref.: 750 1):
+No Score or <5 8 0 .............................. 2.31*** .04 2.47*** .05
+580–6 4 9...................................... . 0 2 . 0 4 2.04 .05
+650–749 ... .11** .04 .11* .05
+Gentri ﬁcation dummy . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.05 .05 ...
+Gentri ﬁcation by race (ref.: non-Black nongentrifying):
+Non-Black gentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . ... 2.13* .06
+Black nongentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . ... 2.19** .07
+Black gentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... 2.15* .07
+Gentri ﬁcation /C2Equifax Risk Score:
+Gentrifying /C2no Score or <5 8 0................... 2.01 .04 ...
+Gentrifying /C2580–6 4 9.......................... . 1 11.05 ...
+Gentrifying /C2650–749 . . . . . . . . . . . . . . . . . . . . . . . . . . .24*** .05 ...
+Non-Black gentrifying /C2no Score or <5 8 0.......... ... .141.07
+Non-Black gentrifying /C2580–6 4 9................. ... .17* .07
+Non-Black gentrifying /C2650–7 4 9................. ... .23** .07
+Black nongentrifying /C2no Score or <5 8 0........... ... .27*** .07
+Black nongentrifying /C2580–6 4 9.................. ... .131.07
+Black nongentrifying /C2650–7 4 9.................. ... .01 .07
+Black gentrifying /C2no Score or <5 8 0.............. ... .141.08
+Black gentrifying /C2580–6 4 9..................... ... .161.08
+Black gentrifying /C2650–7 4 9..................... ... .24** .08
+Summary of coef ﬁcients and F-tests:
+Gentrifying vs. nongentrifying: gentrifying 1
+(gentrifying /C2no Score or <580). . . . . . . . . . . . . . . . . 2.07** ...
+Non-Black gentrifying vs. non-Black nongentrifying:
+non-Black gentrifying 1(non-Black gentrifying /C2no
+Score or <580) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... .01
+Black gentrifying vs. Black nongentrifying: (Black
+gentrifying 1Black gentrifying /C2no Score or <580)2
+(Black nongentrifying 1Black nongentrifying /C2no
+Score or <5 8 0 )............................... ... 2.10***
+Black gentrifying vs. non-Black gentrifying: (Black
+gentrifying 1Black gentrifying /C2no Score or <580)2
+(non-Black gentrifying 1non-Black gentrifying /C2no
+Score or <5 8 0 )............................... ... 2.02
+NOTE.—Logistic regression models include cohort ﬁxed effects and the following control var-
+iables: age, household size, mortgage status, delinquency status, proximity to city hall, proximity
+to university areas, vacancy rate, and subsidized housing units. Estimation is based on data from
+the CCP, Census 2000, and 2009 –13 ACS. N5237,686. Two-tailed signi ﬁcance tests.
+1P<.10.
+*P<.05.
+**P<.01.
+***P<.001.Unequal Displacement
+397
+
+TABLE A2
+Results Predicting Out-Migration for Philadelphia
+Residents in Gentri ﬁable Tracts
+GENTRIFICATIONGENTRIFICATION
+BYRACE
+Coef. SE Coef. SE
+Equifax Risk Score (ref.: 750 1):
+No Score or <5 8 0 .............................. 2.02*** .00 2.04*** .00
+580–6 4 9...................................... . 0 0 . 0 0 . 0 0 . 0 0
+650–749 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .01*** .00 .02*** .00
+Gentri ﬁcation dummy . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.01 .00 ...
+Gentri ﬁcation by race (ref.: non-Black nongentrifying):
+Non-Black gentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . ... 2.01 .00
+Black nongentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . ... 2.01* .01
+Black gentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... 2.01* .01
+Gentri ﬁcation /C2Equifax Risk Score:
+Gentrifying /C2no Score or <5 8 0................... . 0 0 . 0 0 ...
+Gentrifying /C2580–649 . . . . . . . . . . . . . . . . . . . . . . . . . . .01** .00 ...
+Gentrifying /C2650–749 . . . . . . . . . . . . . . . . . . . . . . . . . . .03*** .00 ...
+Non-Black gentrifying /C2no Score or <5 8 0.......... ... .01 .01
+Non-Black gentrifying /C2580–6 4 9................. ... .02* .01
+Non-Black gentrifying /C2650–7 4 9................. ... .03*** .01
+Black nongentrifying /C2no Score or <5 8 0........... ... .02*** .00
+Black nongentrifying /C2580–6 4 9.................. ... .01 .01
+Black nongentrifying /C2650–7 4 9.................. ... 2.01 .01
+Black gentrifying /C2no Score or <5 8 0.............. ... .01 .01
+Black gentrifying /C2580–6 4 9..................... ... .011.01
+Black gentrifying /C2650–7 4 9..................... ... .02*** .01
+Summary of coef ﬁcients and F-tests:
+Gentrifying vs. nongentrifying: gentrifying 1
+(gentrifying /C2no Score or <580) . . . . . . . . . . . . . . . . 2.01** ...
+Non-Black gentrifying vs. non-Black nongentrifying:
+non-Black gentrifying 1(non-Black gentrifying /C2
+no Score or <580) . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... .00
+Black gentrifying vs. Black nongentrifying: (Black
+gentrifying 1Black gentrifying /C2no Score or <580)2
+(Black nongentrifying 1Black nongentrifying /C2no
+Score or <5 8 0 )............................... ... 2.01***
+Black gentrifying vs. non-Black gentrifying: (Black
+gentrifying 1Black gentrifying /C2no Score or <580)2
+(non-Black gentrifying 1non-Black gentrifying /C2no
+Score or <5 8 0 )............................... ... .00
+NOTE.—Linear probability models include cohort ﬁxed effects and the following control
+variables: age, household size, mortgage status, delinquency status, proximity to city hall,proximity to university areas, vacancy rate, and subsidized housing units. Estimation is based
+on data from the CCP, Census 2000, and 2009 –13 ACS. N5237,686. Two-tailed signi ﬁcance
+tests.
+1P<.10.
+*P<.05.
+**P<.01.
+***P<.001.
+398
+
+TABLE A3
+Results Predicting Destination Type for Movers from Gentri ﬁable Tracts
+GENTRIFICATION GENTRIFICATION BY RACE
+Coef. SE Coef. SE
+First stage predicting move:
+Equifax Risk Score (ref.: 750 1):
+No Score or <5 8 0 ................................. 2.18*** .01 2.18*** .01
+580–6 4 9......................................... . 0 1 . 0 1 . 0 1 . 0 1
+650–749 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .10*** .01 .10*** .01
+Control variables included . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes YesYear ﬁxed effects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes Yes
+N
+ON-
+GENTRIFYING GENTRIFYINGNON-
+GENTRIFIABLENON-
+GENTRIFYING GENTRIFYINGNON-
+GENTRIFIABLE
+Coef. SE Coef. SE Coef. SE Coef. SE Coef. SE Coef. SE
+Second stage predicting destination (ref.: out of city):
+Equifax Risk Score (ref.: 750 1):
+No Score or <580 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .89*** .15 .45* .21 .81*** .15 1.13*** .19 .36 .25 .71*** .17
+580–649 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.41*** .10 .62*** .14 .48*** .09 1.49*** .15 .371.21 .47*** .12
+650–749 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.18*** .12 .62*** .17 .17 .11 1.20*** .17 .57** .22 .271.14
+Gentri ﬁcation dummy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.75*** .15 .00 .15 .10 .11 ... ... ...
+Gentri ﬁcation by race (ref.: non-Black nongentrifying):
+Non-Black gentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... ... ... 2.99*** .22 2.16 .20 .07 .13
+Black nongentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... ... ... .16 .18 2.06 .24 2.20 .14
+Black gentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... ... ... 2.401.22 .14 .22 2.07 .16
+Gentri ﬁcation /C2Equifax Risk Score:
+Gentrifying /C2no Score or <580 . . . . . . . . . . . . . . . . . . . . . . .607*** .16 .01 .17 2.08 .12 ... ... ...
+Gentrifying /C2580–649 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .3171.17 .06 .18 2.09 .13 ... ... ...
+Gentrifying /C2650–7 4 9............................. . 0 3 . 1 7 . 0 3 . 1 7 2.05 .12 ... ... ...
+Non-Black gentrifying /C2no Score or <5 8 0............. ... ... ... .30 .24 .20 .24 2.08 .16
+Non-Black gentrifying /C2580–6 4 9.................... ... ... ... .24 .25 .38 .25 .00 .17
+Non-Black gentrifying /C2650–7 4 9.................... ... ... ... 2.12 .25 .00 .23 2.09 .15
+399
+
+TABLE A3 ( Continued )
+GENTRIFICATION
+Coef. SE C
+Black nongentrifying /C2no Score or <5 8 0.............. ... ... ... 2.26
+Black nongentrifying /C2580–6 4 9..................... ... ... ... 2.14
+Black nongentrifying /C2650–7 4 9..................... ... ... ... 2.11
+Black gentrifying /C2no Score or <5 8 0 ................. ... ... ... .35
+Black gentrifying /C2580–6 4 9........................ ... ... ... .10
+Black gentrifying /C2650–7 4 9........................ ... ... ... .02
+Control variables included . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes Yes Yes
+Year ﬁxed effects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes Yes Yes
+Summary of coef ﬁcients and F-tests:
+Gentrifying vs. nongentrifying: gentrifying 1(gentrifying /C2
+no
+Score or <580) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.14* .00 .02
+Non-Black gentrifying vs. non-Black nongentrifying: non-
+Black
+gentrifying 1(non-Black gentrifying /C2no Score or <580) . ... ... ... 2
+Black gentrifying vs. Black nongentrifying: (Black gentrifying
+1
+Black gentrifying /C2no Score or <580)2(Black nongentrifying
+1
+Black nongentrifying /C2no Score or <580) . . . ............ ... ... ...
+Black gentrifying vs. non-Black gentrifying: (Black gentrify-
+ing1
+Black gentrifying /C2no Score or <580)2(non-Black gentrifying
+1
+non-Black gentrifying /C2no Score or <580). . . . . . . . . . . . . . . ... ... ...TABLE A3 ( Continued )
+NON-
+GENTRIFYING GENTRIFYINGNON-
+GENTRIFIABLENON-
+GENTRIFYING GENTRIFYINGNON-
+GENTRIFIABLE
+Coef. SE Coef. SE Coef. SE Coef. SE Coef. SE Coef. SE
+Black nongentrifying /C2no Score or <5 8 0.............. ... ... ... 2.26 .19 .28 .26 .02 .16
+Black nongentrifying /C2580–6 4 9..................... ... ... ... 2.14 .20 .39 .28 .06 .17
+Black nongentrifying /C2650–7 4 9..................... ... ... ... 2.11 .20 .01 .28 2.04 .17
+Black gentrifying /C2no Score or <5 8 0................. ... ... ... .35 .24 .09 .25 2.10 .19
+Black gentrifying /C2580–6 4 9........................ ... ... ... .10 .25 .15 .28 2.15 .20
+Black gentrifying /C2650–7 4 9........................ ... ... ... .02 .25 .06 .26 2.07 .19
+Control variables included . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes Yes Yes Yes Yes YesYear ﬁxed effects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes Yes Yes Yes Yes Yes
+Summary of coef ﬁcients and F-tests:
+Gentrifying vs. nongentrifying: gentrifying 1(gentrifying /C2
+no Score or <580) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.14* .00 .02 ... ... ...
+Non-Black gentrifying vs. non-Black nongentrifying: non-Black
+gentrifying 1(non-Black gentrifying /C2no Score or <580). . . ... ... ... 2.70*** .04 2.01
+Black gentrifying vs. Black nongentrifying: (Black
+gentrifying 1Black gentrifying /C2no Score or <580)2
+(Black nongentrifying 1Black nongentrifying /C2no Score
+or<
+5 8 0 )........................................... ... ... ... .04 .01 .19
+Black gentrifying vs. non-Black gentrifying: (Black
+gentrifying 1Black gentrifying /C2no Score or <580)2
+(non-Black gentrifying 1non-Black gentrifying /C2no Score
+or<580). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... ... ... .64*** .19 2.16**
+NOTE.—Results are from two-stage regression models in which the ﬁrst stage predicts moves for all residents living in gentri ﬁable tracts in the city of
+Philadelphia from 2002 to 2013 (excluding 2004) using a probit model and the s econd stage predicts the destination type of movers using a multinomial
+logistic regression model with correction for moving. Est imation is based on data from the CCP, Census 2000, and 2009 –13 ACS. First-stage N5237,686;
+second-stage N521,504. Two-tailed signi ﬁcance tests.
+1P<.10.
+*P<.05.
+**P<.01.
+***P<.001.
+400
+
+TABLE A4
+Results Predicting Destination Quality for City Movers
+from Gentri ﬁable Tracts
+CRIME DISADVANTAGE INCOME SCHOOLS
+Coef. SE Coef. SE Coef. SE Coef. SE
+First stage predicting city move:
+Equifax Risk Score (ref.: 750 1):
+No Score or <580 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .04* .02 .04* .02 .04* .02 .04* .02
+580–649 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .18*** .02 .18*** .02 .18*** .02 .18*** .02
+650–749 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .20*** .02 .20*** .02 .20*** .02 .20*** .02
+Control variables included Yes Yes Yes YesYear ﬁxed effects Yes Yes Yes Yes
+Second stage predicting destination quality:
+Origin tract percentile. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .17*** .01 .33*** .01 .16*** .01 .07*** .01
+Equifax Risk Score (ref.: 750 1):
+No Score or <580 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18.51*** 1.66 19.95*** 1.63 220.17*** 1.61 219.72*** 1.84
+580–649 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16.44*** 2.67 22.33*** 2.62 224.58*** 2.60 223.23*** 2.97
+650–749 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.46*** 2.82 17.66*** 2.77 220.06*** 2.75 218.30*** 3.13
+Gentri ﬁcation by race (ref.: non-Black nongentrifying):
+Non-Black gentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21.46 1.97 24.48* 1.96 8.14*** 1.92 2.47 2.18
+Black nongentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4.61* 2.04 1.36 2.01 23.02 1.98 214.01*** 2.27
+Black gentrifying . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21.15 2.25 24.21
+12.24 4.90* 2.22 25.89* 2.50
+Gentri ﬁcation /C2Equifax Risk Score:
+Non-Black gentrifying /C2no Score or <5 8 0................................ 25.70** 2.16 1.30 2.14 2.44 2.11 7.11** 2.41
+Non-Black gentrifying /C2580–6 4 9....................................... 24.48* 2.28 .87 2.25 2.75 2.22 6.18* 2.54
+Non-Black gentrifying /C2650–7 4 9....................................... 23.05 2.19 21.77 2.16 .96 2.14 6.96** 2.44
+401
+
+TABLE A4 ( Continued )
+CRIME DISADVANTAGE INCOME SCHOOLS
+Coef. SE Coef. SE Coef. SE Coef. SE
+Black nongentrifying /C2no Score or <5 8 0................................. 24.27* 2.16 23.09 2.13 4.27* 2.10 10.31*** 2.40
+Black nongentrifying /C2580–6 4 9........................................ 22.32 2.27 21.04 2.24 2.79 2.22 6.99** 2.53
+Black nongentrifying /C2650–749 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.25 2.36 2.08 2.32 .95 2.30 5.17* 2.63
+Black gentrifying /C2no Score or <580 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.07 2.41 5.14* 2.38 23.04 2.36 2.96 2.68
+Black gentrifying /C2580–649 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1.22 2.59 4.4412.5623.05 2.53 1.44 2.89
+Black gentrifying /C2650–7 4 9........................................... 21.18 2.58 2.99 2.55 .64 2.52 2.20 2.88
+Control variables included . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes Yes Yes YesYear ﬁxed effects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Yes Yes Yes Yes
+Summary of coef ﬁcients and F-tests:
+Non-Black gentrifying vs. non-Black nongentrifying: non-Black gentrifying 1(non-
+Black gentrifying /C2no Score or <580). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27.16*** 23.18* 7.70*** 6.65***
+Black gentrifying vs. Black nongentrifying: (Black gentrifying 1Black gentrifying /C2
+no Score or <580)2(Black nongentrifying 1Black nongentrifying /C2no Score or
+<580) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2.43 2.66** .61 .77
+Black gentrifying vs. non-Black gentrifying: (Black gentrifying 1Black gentrifying /C2
+no Score or <580)2(non-Black gentrifying 1non-Black gentrifying /C2no Score or
+<580) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.07*** 4.12** 25.84*** 29.57***
+N
+OTE.—Results are from two-stage regression models in which the ﬁrst stage predicts moves for all residents living in gentri ﬁable tracts in the city of Phil-
+adelphia from 2002 to 2013 (excluding 2004) using a probit model and the second stage predicts the destination type of movers using a multinomial logis tic
+regression model with correction for moving. Estimation is based on data from the CCP, Census 2000, 2009 –13 ACS, the Philadelphia Police Department, and
+the Pennsylvania Department of Education. First-stage N5237,686; second-stage N513,426. Two-tailed signi ﬁcance tests.
+1P<.10.
+*P<.05.
+**P<.01.
+***P<.001.
+
+REFERENCES
+Ai, Chunrong, and Edward C. Norton. 2003. “Interaction Terms in Logit and Probit
+Models. ”Economic Letters 80:123–29.
+Allison, Paul. 1990. “Change Scores as Dependent Variables in Regression Analysis. ”So-
+ciological Methodology 20 (1): 93 –114.
+Anderson, Elijah. 1990. Race, Class, and Change in an Urban Community . Chicago: Uni-
+versity of Chicago Press.
+Anderson, Raymond. 2007. The Credit Scoring Toolkit: Theory and Practice for Retail
+Credit Risk Management and Decision Automation . New York: Oxford University
+Press.
+Atkinson, Rowland. 2004. “The Evidence on the Impact of Gentri ﬁcation: New Lessons
+for the Urban Renaissance? ”European Journal of Housing Policy 4 (1): 107 –31.
+Bader, Michael D. M., and Siri Warkentien. 2016. “The Fragmented Evolution of Racial
+Integration since the Civil Rights Movement. ”Sociological Science 3:135–66.
+Barton, Michael. 2016. “An Exploration of the Importance of the Strategy Used to Iden-
+tify Gentri ﬁcation. ”Urban Studies 53 (1): 92 –111.
+Betancur, John. 2011. “Gentri ﬁcation and Community Fabric in Chicago. ”Urban Stud-
+ies48 (2): 383 –406.
+Bostic, Raphael, Paul S. Calem, and Susan M. Wachter. 2005. “Hitting the Wall: Credit
+as an Impediment to Homeownership. ”Pp. 155 –72 in Building Assets, Building Credit:
+Creating Wealth in Low-Income Communities . Washington, D.C.: Brookings.
+Brevoort, Kenneth P., Philipp Grimm, and Michelle Kambara. 2016. “Credit Invisibles
+and the Unscored. ”Cityscape 18 (2): 9 –33.
+Brown-Saracino, Japonica. 2017. “Explicating Divided Approaches to Gentri ﬁcation
+and Growing Income Inequality. ”Annual Review of Sociology 43:515–39.
+Calem, Paul S., Kevin Gillen, and Susan M. Wachter. 2004. “The Neighborhood Distri-
+bution of Subprime Mortgage Lending. ”Journal of Real Estate Finance and Econom-
+ics29 (4): 393 –410.
+Capperis, Sean, Ingrid Gould Ellen, and Brian Karfunkel. 2015. “Renting in America ’s
+Largest Cities: NYU Furman Center/Capital One National Affordable Rental Hous-
+ing Landscape. ”New York University Furman Center for Real Estate and Urban Pol-
+icy, May 28. http://furmancenter.org/ ﬁles/CapOneNYUFurmanCenter__National
+RentalLandscape_MAY2015.pdf.
+Carlson, H. Jacob. 2020. “Measuring Displacement: Assessing Proxies for Involuntary
+Residential Mobility. ”City and Community . https://doi.org/10.1111/cico.12482.
+Carr, James H., and Michelle Mulcahy. 2010. “Twenty Years of Housing Policy: What ’s
+New, What ’s Changed, What ’s Ahead? ”International History Review 20 (4): 551 –76.
+Charles, Camille Z. 2003. “The Dynamics of Racial Residential Segregation. ”Annual
+Review of Sociology 29:167–207.
+Chizeck, Seth. 2017. “Gentri ﬁcation and Changes in the Stock of Low-Cost Rental Hous-
+ing in Philadelphia, 2000 to 2014. ”Cascade Focus , January. http://www.philadelphia
+fed.org/-/media/community-development /publications/cascade-focus/gentri ﬁcation
+-and-changes-in-the-stock-of-low-cost-rental-housing/cascade-focus_5.pdf?la 5en.
+Crowder, Kyle, Jeremy Pais, and Scott J. South. 2012. “Neighborhood Diversity, Metro-
+politan Constraints, and Household Migration. ”American Sociological Review 77 (3):
+325–53.
+Crowder, Kyle, and Scott J. South. 2005. “Race, Class, and Changing Patterns of Migra-
+tion between Poor and Nonpoor Neighborhoods. ”American Journal of Sociology 110
+(6): 1715 –63.
+Davidson, Mark. 2008. “Spoiled Mixture: Where Does State-Led ‘Positive ’Gentri ﬁca-
+tion End? ”Urban Studies 45 (12): 2385 –405.
+DeLuca, Stephanie, Philip M. E. Garboden, and Peter Rosenblatt. 2013. “Segregating
+Shelter: How Housing Policies Shape the Residential Locations of Low-IncomeUnequal Displacement
+403
+
+Minority Families. ”Annals of the American Academy of Political and Social Science
+647 (1): 268 –99.
+Desmond, Matthew. 2016. Evicted: Poverty and Pro ﬁt in the American City . New York:
+Broadway.
+Desmond, Matthew, and Tracey Shollenberger. 2015. “Forced Displacement from Rental
+Housing: Prevalence and Neighborhood Consequences. ”Demography 52 (5): 1751 –72.
+Ding, Lei, Jackelyn Hwang, and Eileen Divringi. 2016. “Gentri ﬁcation and Residential
+Mobility in Philadelphia. ”Regional Science and Urban Economics 61:38–51.
+Du Bois, W. E. B. 1899. The Philadelphia Negro: A Social Study . Philadelphia: Univer-
+sity of Pennsylvania Press.
+Ellen, Ingrid Gould, and Katherine M. O ’Regan. 2011. “How Low-Income Neighbor-
+hoods Change: Entry, Exit, and Enhancement. ”Regional Science and Urban Econom-
+ics41 (2): 89 –97.
+Fair Isaac Corporation. 2015. “Understanding Your FICO Score. ”http://www.my ﬁco
+.com/Downloads/Files/myFICO_UYFS_Booklet.pdf.
+Federal Reserve Board. 2007. “Report to the Congress on Credit Scoring and Its Effects
+on the Availability and Affordability of Credit. ”Board of Governors of the Federal Re-
+serve System, Washington, D.C. http://www.federalreserve.gov/boarddocs/rptcongress
+/creditscore.
+Fellowes, Matt. 2006. “Credit Scores, Reports, and Getting Ahead in America. ”Washing-
+ton, D.C.: Brookings.
+Freeman, Lance. 2005. “Displacement or Succession? Residential Mobility in Gentrify-
+ing Neighborhoods. ”Urban Affairs Review 40 (4): 463 –91.
+——— . 2006. There Goes the Hood: Gentri ﬁcation from the Ground Up . Philadelphia:
+Temple University Press.
+——— . 2009. “Neighbourhood Diversity, Metropolitan Segregation and Gentri ﬁcation:
+What Are the Links in the US? ”Urban Studies 46 (10): 2079 –101.
+Freeman, Lance, and Tiancheng Cai. 2015. “White Entry into Black Neighborhoods:
+Advent of a New Era? ”Annals of the American Academy of Political and Social Sci-
+ence 660 (1): 302 –18.
+Gillen, Kevin C., and John A. Westrum. 2014. “Fiscal Analysis of Philadelphia ’s Ten-
+Year Property Tax Abatement: A Case Study. ”Philadelphia: Fels Institute of Govern-
+ment, University of Pennsylvania. http://media.bizj.us/view/archive/philadelphia/pdf
+/Abatement_Fiscal_Analysis.pdf.
+Gyourko, Joseph, Christopher Mayer, and Todd Sinai. 2013. “Superstar Cities. ”Ameri-
+can Economic Journal: Economic Policy 5 (4): 167 –99.
+Hackworth, Jason, and Neil Smith. 2001. “The Changing State of Gentri ﬁcation. ”
+Tijdschrift voor economische en sociale geogra ﬁe92 (4): 464 –77.
+Helms, Andrew C. 2003. “Understanding Gentri ﬁcation: An Empirical Analysis of the De-
+terminants of Urban Housing Renovation. ”Journal of Urban Economics 54 (3): 474 –98.
+Henig, Jeffrey R. 1981. “Gentri ﬁcation and Displacement of the Elderly: An Empirical
+Analysis. ”Gerontologist 21 (1): 67 –75.
+Hunter, Marcus Anthony. 2013. Black Citymakers: How the Philadelphia Negro Changed
+Urban America . New York: Oxford University Press.
+Hwang, Jackelyn, Michael Hankinson, and Kreg Steven Brown. 2015. “Racial and Spa-
+tial Targeting: Segregation and Subprime Lending within and across Metropolitan
+Areas. ”Social Forces 93 (3): 1081 –108.
+Hwang, Jackelyn, and Jeffrey Lin. 2016. “What Have We Learned about the Causes of
+Recent Gentri ﬁcation? ”Cityscape 18 (3): 9 –26.
+Hwang, Jackelyn, and Robert J. Sampson. 2014. “Divergent Pathways of Gentri ﬁcation:
+Racial Inequality and the Social Order of Renewal in Chicago Neighborhoods. ”Amer-
+ican Sociological Review 79 (4): 726 –51.
+Hyra, Derek S. 2014. “The Back-to-the-City Movement: Neighbourhood Redevelopment
+and Processes of Political and Cultural Displacement. ”Urban Studies 52 (10): 1753 –73.American Journal of Sociology
+404
+
+Kan, Kamhon. 1999. “Expected and Unexpected Residential Mobility. ”Journal of Urban
+Economics 45 (1): 72 –96.
+Kendig, Hal L. 1984. “Housing Careers, Life Cycle, and Residential Mobility: Implica-
+tions for the Housing Market. ”Urban Studies 21 (3): 271 –83.
+Kneebone, Elizabeth, and Alan Berube. 2013. Confronting Suburban Poverty in Amer-
+ica. Washington, D.C.: Brookings Institution.
+Krysan, Maria, and Kyle Crowder. 2018. Cycle of Segregation: Social Processes and Res-
+idential Strati ﬁcation . New York: Russell Sage.
+Lee, Donghoon, and Wilbert van der Klaauw. 2010. “An Introduction to the FRBNY
+Consumer Credit Panel. ”Staff report 479. Federal Reserve Bank of New York. http://
+www.newyorkfed.org/research/staff_reports/sr479.html.
+Lees, Loretta. 2000. “A Reappraisal of Gentri ﬁcation: Towards a ‘Geography of Gentri-
+ﬁcation. ’”Progress in Human Geography 24 (3): 389 –408.
+Ley, David. 1996. The New Middle Class and the Remaking of the Central City . New
+York: Oxford University Press.
+Logan, John R., and Harvey L. Molotch. 1987. Urban Fortunes: The Political Economy
+of Place . Berkeley and Los Angeles: University of California Press.
+Marcuse, Peter. 1986. “Abandonment, Gentri ﬁcation and Displacement: The Linkages
+in New York City. ”Pp. 153 –77 in Gentri ﬁcation of the City , edited by Neil Smith
+and Peter Williams. London: Unwin Hyman.
+Martin, Isaac William, and Kevin Beck. 2018. “Gentri ﬁcation, Property Tax Limitation,
+and Displacement. ”Urban Affairs Review 54 (1): 33 –73.
+Martin, Leslie. 2007. “Fighting for Control: Political Displacement in Atlanta ’s Gentrify-
+ing Neighborhoods. ”Urban Affairs Review 42 (5): 603 –28.
+Massey, Douglas S., and Nancy M. Denton. 1993. American Apartheid: Segregation and
+the Making of the American Underclass . Cambridge, Mass.: Harvard University Press.
+Massey, Douglas S., Andrew B. Gross, and Kumiko Shibuya. 1994. “Migration, Segrega-
+tion, and the Geographic Concentration of Poverty. ”American Sociological Review
+59 (3): 425 –45.
+McKinnish, Terra, Randall Walsh, and T. Kirk White. 2010. “Who Gentri ﬁes Low-
+Income Neighborhoods? ”Journal of Urban Economics 67 (2): 180 –93.
+Mester, Loretta J. 1997. “What ’s the Point of Credit Scoring? ”Business Review 3:3–16.
+Mood, Carino. 2010. “Logistic Regression: Why We Cannot Do What We Think We Can
+Do, and What We Can Do about It. ”European Sociological Review 26 (1): 67 –81.
+Murphy, Alexandra, and Danielle Wallace. 2010. “Opportunities for Making Ends Meet
+and Upward Mobility: Differences in Organizational Deprivation across Urban and
+Suburban Poor Neighborhoods. ”Social Science Quarterly 91 (5): 1164 –86.
+Newman, Kathe, and Elvin K. Wyly. 2006. “The Right to Stay Put, Revisited: Gentri ﬁ-
+cation and Resistance to Displacement in New York City. ”Urban Studies 43 (1): 23 –
+57.
+Owens, Ann. 2012. “Neighborhoods on the Rise: A Typology of Neighborhoods Experi-
+encing Socioeconomic Ascent. ”City and Community 11 (4): 345 –69.
+Papachristos, Andrew V., Chris M. Smith, Mary L. Scherer, and Melissa A. Fugiero.
+2011. “More Coffee, Less Crime? The Relationship between Gentri ﬁcation and Neigh-
+borhood Crime Rates in Chicago, 1991 to 2005. ”City and Community 10 (3): 215 –40.
+Pattillo, Mary. 2007. Black on the Block: The Politics of Race and Class in the City . Chi-
+cago: University of Chicago Press.
+Pew Charitable Trusts. 2011. “Philadelphia 2011: The State of the City. ”Philadelphia
+Research Initiative, Pew Charitable Trusts. http://www.pewtrusts.org/~/media/legacy/uploaded ﬁles/wwwpewtrustsorg/repo rts/philadelphia_researc h_initiative/philadel
+phiacitydatapopulationdemographicspdf.pdf.
+Poon, Martha. 2009. “From New Deal Institutions to Capital Markets: Commercial Con-
+sumer Risk Scores and the Making of Subprime Mortgage Finance. ”Accounting, Or-
+ganizations and Society 34 (5): 654
+–74.Unequal Displacement
+405
+
+Rossi, Peter H. 1980. Why Families Move . 2d ed. Beverly Hills, Calif.: Sage.
+Sampson, Robert J., and Patrick Sharkey. 2008. “Neighborhood Selection and the Social
+Reproduction of Concentrated Racial Inequality. ”Demography 45 (1): 1 –29.
+Sharkey, Patrick, and Jacob W. Faber. 2014. “Where, When, Why, and for Whom Do
+Residential Contexts Matter? Moving Away from the Dichotomous Understandingof Neighborhood Effects. ”Annual Review of Sociology 40 (1): 559 –79.
+Slater, Tom. 2009. “Missing Marcuse: On Gentri ﬁcation and Displacement. ”City13 (2–3):
+292–311.
+Smith, Neil. 1996. The New Urban Frontier: Gentri ﬁcation and the Revanchist City .
+London: Routledge.
+——— . 1998. “Gentri ﬁcation. ”Pp. 198 –99 in The Encyclopedia of Housing , edited by
+Willem van Vliet. London: Taylor & Francis.
+Wardrip, Keith, and Robert M. Hunt. 2013. “Residential Migration, Entry, and Exit as
+Seen through the Lens of Credit Bureau Data. ”Community Development Studies and
+Education discussion paper 13-01. Federal Reserve Bank of Philadelphia.
+Wellman, Barry. 1979. “The Community Question: The Intimate Networks of East
+Yorkers. ”American Journal of Sociology 84 (5): 1201 –31.
+Wherry, Frederick F., Kristin S. Seefeldt, and Anthony S. Alvarez. 2019. Credit Where
+It’s Due: Rethinking Financial Citizenship . New York: Russell Sage.
+Wilson, William Julius. 1987. The Truly Disadvantaged: The Inner City, the Underclass,
+and Public Policy . Chicago: University of Chicago Press.
+Wodtke, Geoffrey T., David J. Harding, and Felix Elwert. 2011. “Neighborhood Effects
+in Temporal Perspective: The Impact of Long-Term Exposure to Concentrated Disad-
+vantage on High School Graduation. ”American Sociological Review 76 (5): 713 –36.
+Wyly, Elvin K., and Daniel J. Hammel. 1999. “Islands of Decay in Seas of Renewal:
+Housing Policy and the Resurgence of Gentri ﬁcation. ”Housing Policy Debate 10
+(4): 711 –71.
+Zukin, Sharon. 2010. Naked City: The Death and Life of Authentic Urban Places . New
+York: Oxford University Press.American Journal of Sociology
+406
+

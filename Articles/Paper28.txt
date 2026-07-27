@@ -1,0 +1,1267 @@
+Tijdschrift voor Economische en Sociale Geografie – 2024, DOI:10.1111/tesg.12575, Vol. 115, No. 1, pp. 81–95.
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.EXPANDING FRONTIERS OF COMMERCIAL 
+GENTRIFICATION: RENT GAP AND SEQUENTIAL 
+GENTRIFICATION IN TAIKOO LI OF CHENGDU, 
+CHINA
+XING HUANG * & HAO GU **
+*School of Architecture, South China University of Technology, Guangzhou, 510641, China.  
+E-mail: huangxing57@scut.edu.cn
+**School of Public Administration, Hunan University, Changsha, 410082, China. E- mail: haogu@hnu.
+edu.cn (Corresponding author)
+Received: November 2022; accepted May 2023
+ABSTRACT
+Gentrification has become one of the planetary processes in reorganising urban spaces. China is 
+not immune to the process. Generations of scholarship on gentrification in China have generated 
+considerable insights into its varying logics, morphologies and mechanism in the Chinese context. 
+Yet, most research tends to focus on a geographically well- demarcated area, driven either by the 
+state or capital, while overlooking the externalities of these projects over time. Through the notion 
+of the rent gap and the empirical case of Taikoo Li in Chengdu, we develop the new dynamic 
+formation of the rent gap theoretical framework to explain how a commercial gentrification 
+project changed the urban centre space and trigger new rounds of the effects of gentrification in 
+surrounding neighbourhoods. In so doing, we underscore the hitherto overlooked roles of time 
+and scale in theorising rent gap and gentrification in China.
+Key words: commercial gentrification; rent gap; surrounding neighbourhood; external effects; 
+Chengdu
+INTRODUCTION
+Rapid urban changes have restructured urban 
+spaces in the global urbanisation process (Peck 
+& Tickell  2002). Gentrification, a universal 
+geographic phenomenon that occurs in cities, 
+has been studied by urban scholars in both 
+the global north and south (Lees et al.  2008). 
+Gentrification is indeed ‘a change in the popu-
+lation of land- users such that the new users are 
+of a higher socio- economic status than the pre-
+vious users, together with an associated change 
+in the built environment through a reinvest-
+ment in fixed capital’ (Clark  2010, p. 258). 
+With this in mind, Neil Smith, who founded 
+the theory of rent gap in 1979, indicates that ‘the rent gap is the disparity between the po-
+tential ground rent level and the actual ground 
+rent capitalised under the present land use’ 
+(Smith  1979, p. 545). As a result, the rent gap 
+is a critical factor in attracting capital to trigger 
+the emergence of gentrification, as well as the 
+flagship theory to explanation the production 
+for gentrification.
+Since the 21st century, the urban govern-
+ment has become a consummate agent to 
+carry out neoliberal urban policy to transfer 
+every piece of urban space into the global 
+market. Consequently, gentrification has 
+become a global urban strategy for attract-
+ing global capital investment driven by state 
+and local governments. In the process of 
+
+XING HUANG AND HAO GU82
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+gentrification, different stakeholders asso-
+ciated with their interests would like to re-
+furbish declining neighbourhoods and/or 
+develop new fashionable buildings on brown-
+fields to accommodate urban high- income 
+classes, which causes different types of resi-
+dential gentrification, such as new- built gen-
+trification (Davidson & Lees  2005), super 
+gentrification (Lees  2012) and studentifica-
+tion (Smith  2005), and so on. It is notable 
+that the form of commercial gentrification 
+is different from residential gentrification, 
+which emphasises changes in the built envi-
+ronment, consumer groups and shop rents 
+(Hubbard  2017), which can be viewed as the 
+main core engine to change the urban land-
+scape (Burnett  2014; Lees et al.  2018). For 
+example, commercial capital prefers to build 
+up business and cultural landmarks in the city 
+centre in order to continuously attract capital 
+accumulation and investment (Zukin  1987; 
+Jeong et al.  2015). At the beginning of the 
+1980s, China witnessed the most significant 
+and rapid urbanisation process in the world. 
+To compare with the Western urbanisation 
+context, Hamnett (2020, p. 696) claims that 
+‘the fundamental difference is that the pro-
+cess is usually state- initiated, takes place rap-
+idly, maintained by mass displacement, and 
+can be on a huge scale’. This means that 
+local governments play a crucial role in urban 
+development, especially in an urban cen-
+tre where the location advantage can attract 
+global and national capital investment.
+As the discussion above shows, capital is a 
+crucial power in creating commercial gentrifi-
+cation in urban space in both North and South, 
+which means the rent gap theory still pres-
+ents a strong explanation for the production 
+of gentrification. In this paper, we argue that 
+the rent gap theory should be developed its 
+theoretical connotation to adapt the rapid ur -
+banisation within Chinese contexts, especially 
+research on commercial gentrification and 
+pay attention to its effects on the surrounding 
+neighbourhoods. Using a case study of Taikoo 
+Li in Chengdu, China, therefore, this paper 
+will be addressed two key research questions: 
+(1) what is the new form of rent gap in the con-
+text of China’s commercial gentrification; and 
+(2) what are the effects of commercial gentrifi-
+cation on surrounding neighbourhoods.To address the questions, this structure of 
+the paper is cleft into four sections: Section 
+“Introduction” is a review of the waves of gen-
+trification and the rent gap theory studies in 
+both global and Chinese contexts and provides 
+a new formation of rent gap model to explain 
+how the process of commercial gentrification 
+changes the urban centre. Section “Theoretical 
+Debate and Framework” introduces the back-
+ground of the case study and methodology 
+for data collection. Section “Research Design” 
+contains empirical findings to present the pro-
+cess and effects of commercial gentrification in 
+the studying case. The final section is given the 
+conclusion and discussion for this study.
+THEORETICAL DEBATE AND 
+FRAMEWORK
+Although the rent gap theory can explain how 
+gentrification can be activated, debates on the 
+production of gentrification still arouse differ -
+ent scholars from different fields.
+The wave of gentrification globally and 
+in China – When gentrification research 
+has become the frontier in urban studies, 
+most scholars commonly consider that 
+there are five waves of gentrification in the 
+global process (Hackworth & Smith  2001; 
+Aalbers  2019). The first wave of gentrification 
+is small- scale neighbourhood upgrading by 
+the middle- class returning to the city centre 
+(Murphy  2008). After that, the second wave 
+of gentrification showed the political power 
+of the government, which encourages private 
+capital to invest in the housing market in 
+the inner city (Ball  1994). After the 1990s, 
+neoliberalism changed the global economic 
+structure, and global cities played a vital role 
+in the global economic system. Smith (2002) 
+indicates that gentrification is a global urban 
+strategy that creates large- scale multifaceted 
+urban regeneration, which has changed most 
+urban socio- economic landscapes by the third 
+wave of gentrification. With this in mind, Lees 
+et al. (2008) indicate that the financialisation 
+of the housing market associated with the 
+fourth wave of gentrification has slightly 
+crossed the European- American heartland. 
+However, this gentrification wave accelerated 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RENT GAP AND SEQUENTIAL GENTRIFICATION IN TAIKOO LI OF CHENGDU, CHINA83
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+the polarisation of the urban socio- economic 
+structure. Recently, the rising financial 
+sectors, international real estate and 
+economic platforms (e.g. Airbnb) have been 
+encouraged by the state financial supplement 
+to redevelop urban space, which forms 
+finance- led gentrification, as well as the fifth 
+wave of gentrification (Amore et al. 2022).
+In line with the global research on the five 
+waves of gentrification, He (2019) argues that 
+there are only three waves of gentrification 
+within the Chinese context. China’s first wave 
+of gentrification occurred in the mid- 1990s 
+in large cities, such as Beijing, Shanghai and 
+Guangzhou, due to the demand for quality 
+housing and urban infrastructure. The local 
+governments aimed to demolish old buildings 
+and improve the infrastructure in urban cen-
+tres to rebuild urban neighbourhoods. This is 
+because China experienced less improvement 
+in the housing market and infrastructure be-
+fore the economic reform; moreover, most 
+urban neighbourhoods were still impacted by 
+the work- unit system (He & Wu  2009). After 
+the new millennium, China accelerated eco-
+nomic reform, encouraging private capital in 
+the housing market to meet the demands of 
+the increasing number of households belong-
+ing to the upper- middle class. This caused the 
+second wave of gentrification across most cit-
+ies. Importantly, local governments managed 
+capital flow to the urban centre, which often 
+transformed the centre city space into a busi-
+ness and cultural landmark (Zheng  2011). It 
+is worth noting that the second- wave gentri-
+fication was related to the emerging neolib-
+eral capital accumulation through land and 
+housing commodification and privatisation. 
+Moreover, in 2010, the central government 
+launched a large- scheme housing redevelop-
+ment programme. This could be recognised 
+as China’s third wave of gentrification. State- 
+led financialisation was introduced by the 
+central government to provide economic re-
+sources for long- term housing reconstruction 
+and ensure national housing redevelopment. 
+Moreover, local governments launched a new 
+financial platform for housing redevelopment. 
+He (2019, p. 31) indicates that the local financ-
+ing platform ‘is established through a constant 
+capital injection by the local government and 
+restructured into an “operational entity”, which can directly undertake construction activities 
+and operate municipal utilities’. This new fi-
+nancial platform enhances the government’s 
+power to lead urban housing and neighbour -
+hood redevelopment and attracts different 
+scales of capital for urban development.
+Compared to the first and second waves 
+of gentrification globally, the state has shown 
+power at the beginning of gentrification 
+within Chinese contexts due to the ‘top- down’ 
+political- economic system. When gentrifica-
+tion became the global urban development 
+strategy, the state played the leading role in the 
+Chinese and global context. China’s second 
+wave of gentrification introduced private capi-
+tal globally; it transformed the socio- economic 
+centre space, a form of commercial gentrifica-
+tion in urban centres. Notably, the financial-
+isation of the housing market is the driving 
+force behind gentrification in the global con-
+text. In the Chinese context, the government 
+aims to manage local financing platforms to 
+improve the quality of housing, reap tax reve-
+nue and avoid the negative effects of gentrifi-
+cation (e.g. displacement of the lower- income 
+group). Therefore, China’s gentrification is 
+a government- led model involving different 
+stakeholders.
+The rent gap theory in the global and 
+Chinese research – In the early model of 
+1979, Neil Smith’s rent gap theory explains 
+the profit gap between potential ground 
+rent (PGR) and capitalised ground rent 
+(CGR) is keen to attract productive capital 
+to change whether the new residential 
+building or new commercial building was 
+based in the city centre (Smith  1979). 
+Therefore, the rent gap theory provides 
+powerful explanations for exploring capital 
+return cities. In addition, Clark  (1995, p. 
+1489) states that the rent gap ‘cannot be 
+divorced from the societal relations and 
+power struggles involved in the creation and 
+capture of values in the built environment’. 
+Thus, capital is not only the unique power 
+to redevelop declining neighbourhoods, but 
+also political powers could decide on the 
+developed areas (Darling  2005). At the same 
+time, the entrepreneurial urban government 
+became a new form of urban governance 
+which dominated urban (re)development 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+XING HUANG AND HAO GU84
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+after the 1980s (Harvey  1989), the central 
+and local governments can be viewed as 
+the primary political powers to attract the 
+private capital investment and create the 
+rent gap (Bourassa  1993; Hammel  1999). For 
+example, the local government of Santiago 
+in Chile aims to attract private capital by 
+revising building regulations while reducing 
+national financial expenditure on housing 
+upgrading (Lopez- Morales  2011). In effect, 
+the government enlarged the potential 
+ground capital, increasing land value to gain 
+more capital investments. In New York City, 
+Teresa  (2019) finds that changes in rent 
+control laws provide new avenues for the 
+government, which can increase potential 
+rent to attract financial sector investment in 
+the housing markets.
+Undoubtedly, some Chinese scholars 
+found that the government plays a key role in 
+the creation of the rent gap, in order to pro-
+mote urban (re)development. First, using the 
+case study of Guangzhou, Ding (2019) found 
+that transforming potential ground rent into 
+capitalised ground rent is the crucial mech-
+anism that leads to city’s central redevelop-
+ment. This is because the government can 
+create different regulated conditions to co-
+operate with investors, which realise various 
+forms of rent gaps. Second, through a com-
+parative study of high- end commercial ven-
+ues in Nanjing’s inner city in 2008 and 2018, 
+Song et al.  (2017) believed that the pursuit 
+of the ‘commercial rent gap’ by local gov-
+ernments and capital, as well as the growing 
+demand for fashion and high- end cultural 
+consumption from young and high- income 
+groups, produced the commercial gentrifica-
+tion process in the inner city. Thus, the inner 
+city is always a crucial location for creating 
+a commercial rent gap. Recently, the effects 
+of the rent gap in the top school district of 
+Nanjing’s inner city have forced low- income 
+residents to move out of the school district 
+because of the school enrolment policy de-
+signed by the city government and education-  
+led gentrification in the top school district 
+(Liu et al. 2021).
+In summary, a government’s urban policy 
+can create a rent gap in an urban space in 
+the global context, significantly affecting the 
+urban development process. In China, the government makes policies that subsequently 
+create a rent gap in urban centres. Other 
+stakeholders can also drive the PGR or capital 
+ground rent (CGR) to create a rent gap.
+The new theoretical framework of the 
+rent gap in China – As discussed above, 
+the government can create a rent gap, 
+thus leading to global urban development. 
+Therefore, this study argues that the rent gap 
+theory could be reconsidered in the context 
+of China’s gentrification processes in urban 
+centres, revealing the different stakeholders’ 
+motivations and corporations to form a new 
+theoretical framework. This new dynamic 
+form of the rent gap (see Figure  1) explains 
+how different stakeholders create different 
+types of rent gaps (e.g. rent gap- 1 due to a 
+government- led development, rent gap- 2 due 
+to an enterprise- led development, and rent 
+gap- 3 due to a merchant- led development).
+Rent gap- 1  – It is developed by the government 
+to gain land finance income and bureaucratic 
+promotion. In 1994, the central government 
+introduced the ‘tax- sharing system’ between 
+the central and local governments. It stipulated 
+that the central and local governments share 
+the primary tax type of all local enterprises 
+and the value- added tax (F.Z. Zhou  2007). In 
+particular, 75 per cent of the value- added tax 
+income belongs to the central government, 
+while the remaining 25 per cent belongs to 
+the local government. This separation reduces 
+the income of enterprises operated by local 
+governments. L.A. Zhou  (2007) indicated 
+that in the evaluation criteria of bureaucratic 
+promotion, the championship important 
+lies in the economic performance of local 
+government leaders. Financial performance 
+(e.g. a city’s gross domestic product), has 
+naturally become the leading indicator in 
+assessing cadres’ official promotions. As a 
+result, local governments use administrative 
+powers (e.g. demolition of low- quality housing, 
+expropriation of cultivated land and removal 
+of polluting industries) to gain land finance 
+(e.g. land transfer fees from investment 
+enterprises), changing other types of lands 
+into urban construction lands (Wu 2002).
+Based on the new rent gap model, it is 
+shown that P 1 (the government) collects 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RENT GAP AND SEQUENTIAL GENTRIFICATION IN TAIKOO LI OF CHENGDU, CHINA85
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+land for urban development. The rent gap 
+between CGR- 2 (the value of urban construc-
+tion land) and PGR- 2 (the value of other 
+types of land changed into urban construc-
+tion lands in the land market) forms rent 
+gap- 1, which is the local government’s ‘land 
+finance’ income. Thus, the government cre-
+ates a monopoly rent and an absolute space 
+(e.g. clearance of declining local neighbour -
+hoods and abandoned brownfields) to attract 
+investment. This type of rent gap led to the 
+beginning of China’s gentrification. In partic-
+ular, the urban centre space in Chinese cities 
+is considered the first wave of redevelopment 
+due to the huge potential value for the gov-
+ernment’s tax income and commercial capi-
+tal accumulation.
+Rent gap- 2  – It is driven by capital development 
+to gain profit under marketisation. 
+After the government reconstructs the 
+urban centre and completes the investment attraction, capital enters the land market and 
+drives space development (shown as the 
+P2 stage in Figure  1). This means that the 
+enterprise developer purchases land use 
+rights from time t 2 to create a commercial/
+residential space and contain the state and 
+private capital for profit, which is viewed 
+as a relational space by capital practice 
+(Harvey 1989).
+When the government controls the in-
+dustrial structure and floor area ratio of 
+housing buildings, the PGR may increase 
+due to the better accessibility of the plot 
+and the surrounding environment (Hong & 
+Zhang  2016). In effect, the rate of increase 
+of PGR- 3 slows down, when the government 
+drives the increase in PGR- 2. Moreover, from 
+time t2, the land market breaks away from 
+the government’s dominance, while the neo-
+liberal market increases land value (Jiang et 
+al. 2021). Thus, CGR- 3 also increases due to 
+market forces. In other words, rent gap- 2 is Figure 1. The new model of rent gap in urban China. CGR, capital ground rent; P, entry time; PGR, potential ground 
+rent. 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+XING HUANG AND HAO GU86
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+the disparity between the expected profits 
+from the capital development of PGR and 
+the practical profits from the capital develop-
+ment of CGR. It is formed due to enterprise-  
+led development.
+At the same time, enterprise- led develop-
+ment enhances commercial capital activities, 
+causing commercial gentrification to change 
+the socio- economic landscape in urban central 
+spaces. This is because commercial capital in-
+vestors prefer building business and cultural 
+landmarks that show the city’s iron image 
+(Gonzalez  2016), a process that attracts com-
+mercial gentrifiers globally by focusing on aes-
+thetics (Paker 2018).
+Rent gap- 3  – It is created by merchants 
+to gain profit through the effects of 
+commercial gentrification. After commercial 
+gentrification took place through an 
+enterprise- led development, the urban 
+space’s landscape changed, and new city 
+landmarks were created. From time t 3 
+onwards, rent gap- 3 is formed through 
+merchant- led development. This type of rent 
+gap is affected by commercial gentrification. 
+Successful business and cultural landmarks 
+attract different consumers (Pratt  2009). 
+Some capital investors, such as merchants, 
+prefer to operate small- scale businesses 
+near commercial urban spaces to attract 
+more consumers (Zukin et al.  2009). Thus, 
+merchants (P 3) create a new rent gap.
+PGR- 4, in this stage, will grow slowly, 
+this is because the land is located near the 
+centre space, and the other two actors, the 
+government and enterprises, have not yet 
+developed this adjacent space. The two main 
+types of merchants (the businesspeople and 
+the property- letting agency) increased CGR- 4 
+and CGR- 5, creating a gap with PGR- 4 (see 
+Figure  1). This is because merchants tend to 
+build commercial spaces, increasing housing 
+rental prices and land value. More specifically, 
+some businesspeople open restaurants and 
+retail shops to attract gentrifiers’ consump-
+tion; thus, CGR- 4 is driven by businesspeo-
+ple, partially forming a rent gap- 3. Second, 
+a property- letting agency also develops the 
+local rental housing market; it attracts mar -
+ginalised social groups to increase CGR- 5. 
+Thus, the rent gap- 3 is caused by the effects of commercial gentrification, which may be 
+formed by (1) the rent gap created by a local 
+small- scale shop and (2) a local property-  
+letting agency. It seems likely that this new 
+form of rent gap (rent gap- 3) is a result of 
+sequential commercial gentrification in the 
+urban centre. Consequently, the rent gap is 
+a dynamic formation influenced by various 
+stakeholders in urban development (Pastak 
+et al. 2019).
+RESEARCH DESIGN
+The case study of Taikoo Li in Chengdu – 
+Taikoo Li was a commercial block in the Daci 
+Temple community (DTC), which is based in 
+Jinjiang District, Chengdu. When the three 
+important capital groups of Wharf (Holdings) 
+Limited, Swire Group and Sino- Ocean Group 
+developed this area, this community changed 
+into a global chain commercial block named 
+Taikoo Li in Chengdu. From the perspective 
+of geographic location, Taikoo Li is adjacent to 
+Shudu Avenue in the north, the Fuhe River in 
+the east, Hongxing Road in the west and East 
+Avenue in the south. It is adjacent to the com-
+mercial pedestrian street of Chunxi Road and 
+Tianfu Square in the centre of Chengdu. It is 
+the central zone of Chengdu and has a superi-
+or geographical location and profound cultur -
+al heritage (see Figure 2).
+Since the 1980s, DTC and its surrounding 
+neighbourhoods gradually have shown a rel-
+ative decline over time due to the effects of 
+rapid urbanisation. However, the neighbour -
+hood characteristics of DTC are relatively 
+diverse. Traditional low- rise courtyards and 
+work- unit courtyards form a pattern of differ -
+ent residential areas scattered around each 
+other. Since 2000, DTC has been demolished 
+and commercially renovated under the joint ef-
+forts of the Chengdu Municipal Government, 
+Wharf (Holdings) Limited, the Swire Group 
+and the Sino- Ocean Group. The old tradi-
+tional residential courtyards inhabited initially 
+by low- income groups have been demolished 
+and rebuilt into high- end consumption spaces, 
+entertainment and leisure, tourism and sight-
+seeing places for high- level consumption 
+shopping malls, namely Taikoo Li. The resi-
+dential land used by the low- income group was 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RENT GAP AND SEQUENTIAL GENTRIFICATION IN TAIKOO LI OF CHENGDU, CHINA87
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+replaced by commercial land that served the 
+high- income group.
+Methodology – This study used participatory 
+observation and semi- structured interviews 
+to collect primary data and conduct a follow- 
+up field survey on the case of Taikoo Li in 
+four different stages. Specifically, the primary 
+data come from the interview records of 
+local residents, consumers, government staff, 
+merchants and tenants, with a total of 51 
+interviewees. At the same time, the author 
+collected local policy documents and news 
+reports as secondary materials to analyse the 
+attitude and position of the government and 
+media in the development area. It is important 
+that the authors have always maintained social 
+contact with the interviewees during all phases, 
+which can show the dynamics and integrity of 
+the research object to improve the reliability of 
+the research data.
+The first phase occurred in November 2012. It 
+mainly investigates local residents who were trans-
+ferred near Taikoo Li to collect data concerning 
+the relocation plan during the development pro-
+cess and records the lifestyle of residents before 
+development, the interaction between residents 
+and the government, the built environment and 
+the layout of the surrounding shops.The second phase was conducted in August 
+2017. Interviews were conducted with high- 
+end commercial consumer groups in Taikoo 
+Li; their consumption patterns were recorded. 
+Each interview lasted for approximately one to 
+three hours. At the same time, interviews were 
+conducted with shop owners, staff members 
+and residents around the development zone to 
+record changes in shops, residents’ lifestyles, 
+attitudes towards commercial transformation 
+and others.
+The third phase was conducted in 
+November 2019. This is an important time 
+for in- depth interviews with local govern-
+ment staff, residents of surrounding residen-
+tial areas and tenants. It involved more than 
+one hour of in- depth interviews with the sub-
+district office, local police station and neigh-
+bourhood committee staff members. This is 
+important to supplement the data gaps in 
+previous research and comprehensively un-
+derstand the details of the entire develop-
+ment process and its stages.
+The fourth phase is December 2021. It is 
+used to supplement the survey in the above 
+stages, reconfirming and recording the person-
+nel composition, distribution of consumption 
+formats, consumer characteristics, residents’ 
+lifestyles, the layout of surrounding businesses, Figure 2. The location of the case study.
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+XING HUANG AND HAO GU88
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+and living conditions of surrounding residents 
+and tenants in the case area to ensure the re-
+liability of the survey data. Interviews were 
+mainly conducted with relevant leaders of the 
+subdistrict, local police stations and developer 
+groups.
+GENTRIFICATION IN TAIKOO LI AND ITS 
+EXPANDING FRONTIERS
+Taikoo Li’s commercial gentrification pro-
+cess can be divided into four stages, reflect-
+ing a gradual evolution. Each underlines the 
+different characteristics and effects of the 
+rent gap.
+The First stage (1980– 2001) –  Since DTC 
+was assigned as a historical and cultural 
+protection area in the overall planning of 
+Chengdu in the 1980s, its commercial de-
+velopment has been confined. As the sur -
+rounding areas (such as Chunxi Road) are 
+developing, DTC begins to decline, and the 
+infrastructure and environment continue to 
+deteriorate. However, the deep cultural her -
+itage and gradually declining old residen-
+tial areas make DTC a potential space for 
+gentrification.
+The second stage (2002– 2010) –  Influenced 
+by the notion of ‘city marketing and urban en-
+trepreneurialism’, the local government began 
+to carry out large- scale transformation in this 
+area, while a large number of residents were 
+displaced from their homes. However, the gov-
+ernment’s motivation for urban transforma-
+tion is blocked due to a lack of management 
+means, insufficient funds and poor develop-
+ment concepts.
+The third stage (2011– 2014) –  The local 
+state retreats to the second tier through plan-
+ning means and policies and has handed over 
+development rights to international develop-
+ers since 2011. In this case, the urban rede-
+velopment of DTC rapidly improved. With 
+the huge investment of international devel-
+opers such as Wharf (Holdings) Limited, 
+Swire Group and Sino- Ocean Group, most 
+DTC areas have been built into cultural and 
+commercial shopping blocks. Consequently, 
+Taikoo Li was built and officially put into op-
+eration in 2014, becoming a new landmark in 
+Chengdu.The fourth stage (2015– present) –  The con-
+struction of Taikoo Li was very successful in 
+Chengdu’s urban development. The new com-
+mercial blocks attract a large number of con-
+sumers, and the surrounding areas of Taikoo Li 
+have begun to be affected, and a wave of recent 
+gentrification has progressed. Simultaneously, 
+due to the increase in development costs and 
+enhancement of residents’ awareness of rights 
+protection, demolition in the Taikoo Li area 
+ended in 2013.
+The entire process of commercial gentrifi-
+cation in Taikoo Li has primarily changed the 
+built environment and reconstructed the struc-
+ture of the social space. The following sections, 
+corresponding to different stages, will specifi-
+cally illustrate and analyse the process of gen-
+trification and the operation of the rent gap in 
+Taikoo Li.
+The first stage: The preparation of the rent 
+gap – Before the Taikoo Li commercial block 
+construction, DTC was famous for Daci 
+Temple, a millenarian Buddhist temple. This 
+area is one of the traditional dwellings in the 
+centre of Chengdu with scattered bungalows, 
+diverse residents and an active life. Since the 
+1980s, the Chengdu government has proposed 
+the Conservation Planning of Historical 
+Blocks (CPHB); thus, the neighbourhood 
+was protected from urban redevelopment 
+and demolition. According to an official 
+from the subdistrict, a majority of housing 
+in this neighbourhood was built before 1949 
+and during the 1950s. Along with the serious 
+deterioration of housing year by year, DTC has 
+become a decrepit area. As such, residents with 
+strong economic capacity moved out of this 
+neighbourhood, while those left behind were 
+low- income groups.
+As a traditional old neighbourhood lo-
+cated in the central area, the DTC also 
+shows the complex property rights of res-
+idents. Housing owners and immigrant 
+tenants were mixed in one dwelling. Even 
+ownership of a house belongs to more than 
+one person. Moreover, because of the ‘pro-
+tection’ of CPHB, the old and dilapidated 
+neighbourhood cannot be demolished to 
+new- build constructions. These reasons hin-
+der the development and investment from 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RENT GAP AND SEQUENTIAL GENTRIFICATION IN TAIKOO LI OF CHENGDU, CHINA89
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+the local state and developers in this area, 
+which means that the actual rent was very low 
+during that period. However, the centre of 
+Chengdu and the surrounding area of DTC 
+experienced dramatic urban development 
+during the 1990s. Specifically, Chunxi Road, 
+a street next to DTC, has become the most fa-
+mous and prosperous commercial pedestrian 
+street, and the DTC is within its radiation 
+range. These facts have driven an increase in 
+the potential rent of the DTC. As a result, a 
+rent gap is generated in preparation.
+The second stage: State leading, displacement 
+and activation of the rent gap – As the real 
+landlord, the government in urban China has 
+enough power to deal with urban land and 
+transform urban spaces. Chengdu’s local state 
+can decide the direction of urban development 
+through policymaking, document modification 
+and other administrative means. Under 
+the influence of city marketing and urban 
+entrepreneurialism, Chengdu’s local state has 
+intended to develop a dilapidated area of DTC 
+since 2000. The first urban redevelopment 
+in DTC sponsored by the local state was the 
+project of the most considerable low- lying 
+shantytown transformation, which started 
+in 2002. The local authority has invested 
+approximately 1.3 billion RMB in embarking 
+on the urban redevelopment project (Chen & 
+Peng  2002). Since then, the local government 
+issued a new planning, ‘Urban Design and 
+Historic Block Protection and Renovation 
+Planning of Chunxi Road and Daci Temple 
+area of Chengdu’ in September 2003, 
+proposing to turn DTC into a commercial 
+district of local traditional history, culture and 
+art, including an international shopping mall 
+and tourist blocks. Subsequently, other policy 
+documents of urban planning, including ‘the 
+Detailed Regulatory Planning of Daci Temple 
+Area, Chengdu, 2005’ and ‘the Planning of the 
+Core Protection Zone of Daci Temple Area, 
+2009’ were introduced successively, intending 
+to build a new commercial block of mixed 
+Sichuan architectural culture, folk tourism and 
+religion.
+Along with the implementation of these 
+planning projects, residents in DTC have to 
+face large- scale demolition of their housing and subsequent displacement. Except for Daci 
+Temple and a few historical relics, the major -
+ity of buildings on 17, 2366.7 m2 of land are 
+demolished, while the total area of housing 
+demolition reaches 230,000 m2 and about 3667 
+households have been displaced. According to 
+interviews with officials from the subdistrict, 
+some residents received cash- based compensa-
+tion, while others received in- kind compensa-
+tion in resettlement houses spread within the 
+suburban area outside of the 3rd Ring Road 
+(Figure  3). Indeed, residents reflect a nuanced 
+response to displacement. On one hand, con-
+sidering abysmal housing conditions, residents 
+desire to move into new housing. On the other 
+hand, remote settlement means the loss of a 
+convenient lifestyle and a break in social co-
+hesion. As the 63- years- old original residents 
+stated,
+In truth, I want to move into a brand- new house 
+to change the lousy situation … dark, damp, 
+and crowded house is not good … but I cannot 
+imagine that the resettlement housings are too 
+far away from the original place … almost near 
+the contrary side … and I have not contacted my 
+former neighbours … we have known each other 
+since childhood…. (residents, Ms. Yu, 63)
+Whether in cash or in kind, compensation 
+refers to building value but not capitalised Figure 3. The locations of resettlement housings for 
+displaced residents.
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+XING HUANG AND HAO GU90
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+ground rent. Residents responded that the 
+payment could not afford the surrounding 
+commercial housing. This fact reflects the fact 
+that the local state wants to recover the land 
+at the lowest cost; thus, the value of compen-
+sation is only equal to the value of dilapidated 
+buildings. Meanwhile, the local government 
+cleans up old and dilapidated housing and as-
+sembles the land in order to trigger a surge in 
+potential ground rent. Consequently, the rent 
+gap widened significantly. At this stage, the 
+government is the only actor and leader, with-
+out the participation of developers. However, 
+due to lack of experience in commercial de-
+velopment advanced business philosophy, 
+and insufficient funds, the project has to be 
+stranded in 2010. Although the monopolistic 
+behaviour of the local state ultimately brings 
+about urban redevelopment, planning pol-
+icies and demolition projects stimulate the 
+expansion of the rent gap, which provides a 
+good opportunity for developers to intervene 
+in the next stage.
+The third stage: Government sponsored 
+commercial gentrification – Since 2011, 
+international developers, comprising Wharf 
+(Holdings) Limited, Swire Group and the 
+Sino- Ocean Group, have obtained the power 
+of redevelopment in DTC from the local 
+state. The government retires from the 
+leading post but still holds the final authority. 
+Government sponsored commercial 
+gentrification that began to burgeon. About 
+24.9 billion RMB has been invested in this 
+project. With abundant funds and rich 
+experience, international developers plan to 
+embark on commercial development using 
+culture as a gimmick. They hailed Hong Kong 
+Oval Partnership Ltd., an internationally 
+famous architectural design company, to 
+design Taikoo Li and create an architectural 
+landscape combining Chinese and Western 
+styles. As for investment attraction, they 
+target international first- line luxury brands 
+and creative cultural brands to fascinate 
+high- end consumer groups, creating a high-  
+grade commercial space atmosphere and a 
+symbolic consumption space for the high-  
+income class. Developers’ requirement for 
+the newly settled brands is stringent, as the 
+interview with a staff of developers shows:We have strict requirements regarding the types 
+and brands of stores and enterprises that come 
+here. Generally, brands of lower- grade or non- 
+leisure shops cannot operate here … Taikoo Li 
+is a high- end brand in Hong Kong, Beijing, etc. 
+Chengdu, where the first inland branch is lo-
+cated, will definitely have higher requirements 
+…. (staff in Swire Group, Mr. Wang, 43)
+It can be seen that in the new consumption 
+spaces of Taikoo Li, almost all retail brands 
+have set up flagship stores. It contains first- tier 
+luxury brands such as Hermes, LV, Givenchy, 
+Dior, Chanel and Gucci, as well as many 
+Michelin star- rated restaurants, high- rank cafés 
+and other leisure shops. The spatial aggrega-
+tion of various new high- end luxury brands has 
+improved the consumption standard in situ, 
+filtering the social class of consumers and im-
+plementing commercial gentrification.
+Through investment and development by 
+international developers, the potential grand 
+rent in Taikoo Li is increased to a new level. 
+The settlement of many luxury shops and 
+the consequent consumption of gentrifiers 
+brings another wave of capital accumulation. 
+Therefore, capitalised grand rent has been 
+promoted and illustrated in the consumption 
+of the new high- rank commercial space. In 
+doing so, developers have obtained significant 
+earnings, as well as the local state. Specifically, 
+Taikoo Li has brought about 2 billion in the 
+government’s land financial income, and the 
+tax created by shops in Taikoo Li accounts for 
+more than 30 per cent of the entire Jinjiang 
+District. Apparently, developers’ involvement 
+has opened up capital financing channels, 
+thereby making the land market return to 
+the classic rent gap model. Consequently, the 
+potential land rent is raised again, while the 
+local government– developer collaboration has 
+gained profit rent under marketisation.
+The fourth stage: The expanding frontier 
+of commercial gentrification – Along with 
+the progress of commercial gentrification in 
+Taikoo Li, its surrounding neighbourhoods 
+have gradually transformed since 2015. As a 
+witness through the process of commercial 
+gentrification in Taikoo Li, these old and 
+declining neighbourhoods have not been 
+demolished and still remain in situ, in contrast 
+to the new and high- ended Taikoo Li on the 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RENT GAP AND SEQUENTIAL GENTRIFICATION IN TAIKOO LI OF CHENGDU, CHINA91
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+landscape. This result is partly due to the 
+collaboration between the local government 
+and developers who renovated the facade of the 
+surrounding neighbourhoods to improve the 
+aesthetics of Taikoo Li and increase investments. 
+An interviewee stated the following:
+The government sponsored the renovation of 
+the façade of the declining neighbourhoods to 
+maintain the area’s aesthetically pleasing land-
+scape. We can attract more investment in these 
+new shops and beautify the centre of this city. 
+(Director in the Subdistrict Office, Mr Chen, 45)
+After that, newly built commercial spaces at-
+tract new high- income consumers and create 
+new business opportunities for the surround-
+ing neighbourhoods. In other words, new 
+shops and stores have emerged and developed 
+in these neighbourhoods to satisfy the gentri-
+fier consumers from Taikoo Li (see Figure 4).
+In fact, due to the spill- over effect from 
+Taikoo Li, the rent of shops in surrounding neighbourhoods has rapidly grown in the 
+past few years. In pace with the relocation of 
+original lower- class residents from Taikoo Li, 
+old shops catering to former customers are 
+gradually replaced by new stores for higher-  
+class consumers. Daily necessities shops such 
+as groceries and vegetable/meat markets 
+have decreased rapidly, while leisure shops 
+for middle/high- income groups, including 
+restaurants, cafés, local specialities and bou-
+tiques, have become increasingly intensive. 
+According to an interview with a real estate 
+agent, the rent of shops surrounding Taikoo 
+Li rose from an average of 4000 RMB in 
+2015 to an average of 30,000 RMB in 2021, 
+increasing nearly 7.5 times during recent six 
+years. In this sense, the rent gap in surround-
+ing neighbourhoods has been stimulated by 
+Taikoo Li’s commercial gentrification, and 
+asymptotic bottom- up commercial gentrifica-
+tion occurs in surrounding neighbourhoods.
+Figure 4. The developmen of new shops around Taikoo Li. Source: Authors. 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+XING HUANG AND HAO GU92
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+Furthermore, the social structure of 
+housing in surrounding neighbourhoods 
+has changed. Based on the responses from 
+a police officer in a local police station, it 
+is understood that the proportion of ten-
+ants was <40 per cent before the develop-
+ment of Taikoo Li, while the proportion was 
+more than 60 per cent after the completion 
+of Taikoo Li. Undoubtedly, this change is 
+strongly associated with commercial gentri-
+fication. According to the investigation of 
+our fieldwork, a majority of the increased 
+tenants are working in Taikoo Li as clean-
+ers, waiters/waitresses, busboys and other 
+labourers. Because of the short distance and 
+cheap rent of housing, these old dwellings 
+in the surrounding neighbourhoods be-
+come their best dormitories. Interestingly, 
+these surrounding neighbourhoods are not 
+threatened by commercial gentrification. In 
+contrast, they have a mutually beneficial re-
+lationship with Taikoo Li. Specifically, on the 
+one hand, Taikoo Li, the new commercial 
+block, needs a number of labourers to main-
+tain its operations; on the other hand, old 
+housing in surrounding neighbourhoods ac-
+commodates these workers. This fact makes 
+Taikoo Li and the surrounding old neigh-
+bourhoods coexist.
+Indeed, the commercial gentrification 
+of Taikoo Li stimulated CGR in surround-
+ing neighbourhoods. Based on the empir -
+ical findings, we find two categories of rent 
+gaps in the stage of extension of gentrifica-
+tion: the rent gap by the power of business 
+and the rent gap by the power of the housing 
+agent. Specifically, commercial gentrification 
+in Taikoo Li created a good commercial at-
+mosphere and accumulated new gentrifier 
+consumers, accelerating the growth of the 
+CGR of shops. The owners of these shops 
+are conscious of the opportunity to renovate 
+and upgrade them to cater to higher- class 
+consumers. In doing so, the rent gap by shop 
+began to work, and a new wave of commer -
+cial gentrification was initiated. Nevertheless, 
+this loud environment and declining housing 
+fall into disrepair, which does not seem good 
+for residents. According to our fieldwork, 
+the rent of housing remains stable (average 
+2000 RMB/month), barely growing during 
+recent years, which means that the CGR of housing has not increased. However, the 
+cheap and near accommodations for labour -
+ers working in Taikoo Li have strengthened 
+the connection between Taikoo Li and its 
+neighbouring communities. As a result, reha-
+bilitation and social class upgrading only oc-
+curred in the shops rather than the housing. 
+This can prevent the surrounding old neigh-
+bourhoods from large- scale demolition and 
+induce asymptotic bottom- up commercial 
+gentrification.
+CONCLUSIONS AND DISCUSSION
+This study shows the dynamic formation 
+of the rent gap theory in the context of 
+Chinese urban redevelopment and the ef-
+fects of commercial gentrification in urban 
+centres. Initially, government bureaucratic 
+promotion mainly affected the development 
+of urban spaces led by local government 
+executive officials. Therefore, rent gap- 1 is 
+mainly due to political power; it increases 
+the PGR in the market. With the spread of 
+China’s neoliberal urban policy, rent gap- 2 
+is created by profit- seeking enterprise devel-
+opers. Simultaneously, commercial gentrifi-
+cation has changed the urban centre space 
+into a business and cultural landmark for the 
+city’s image. However, this study argues that 
+there is a new form of rent gap (rent gap- 3) 
+led by merchants running small- scale busi-
+nesses around the urban centre. The effects 
+of commercial gentrification have changed 
+the socio- economic landscape of local neigh-
+bourhoods surrounding the urban centre. 
+Notably, this was created by two important 
+types of merchants— the businesspeople and 
+the property- letting agency.
+The new rent gap model is illustrated 
+through this empirical research on Taikoo Li 
+in Chengdu, China. Taikoo Li’s commercial 
+gentrification is divided into four stages in 
+which different driving forces and operating 
+mechanisms are shown. In the first stage, the 
+rent gap is not yet stimulated. The DTC’s ob-
+stacles to development and decline prepared 
+for the future risk in PGR. The simultaneous 
+development of the urban centre during that 
+period strengthens this possibility. In the sec-
+ond stage, through planning policies, local 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RENT GAP AND SEQUENTIAL GENTRIFICATION IN TAIKOO LI OF CHENGDU, CHINA93
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+authorities use their administrative power to 
+promote land clearance and development.
+Along with the displacement of low-  
+income residents, the local government ex-
+ecutes land integration and withdrawal of 
+property rights, increasing the PGR and the 
+rent gap. In particular, differing from the 
+West, the rent gap is triggered and affected 
+by the local state even without other actors. 
+In the third stage, the rent gap can conform 
+to the market development rule after a power 
+handover from the government to the de-
+velopers. Due to the government’s prepara-
+tions, large amounts of capital are invested 
+by international developers in DTC; a new 
+commercial block catering to high- end class 
+consumers is manufactured, and commer -
+cial gentrification gains mushroom growth. 
+Here, the developers’ first wave of investment 
+triggers and increases the PGR. Hence, the 
+rent gap may expand and the CGR leases for 
+realisation.
+It is important to note that Taikoo Li’s com-
+mercial gentrification caused another wave of 
+commercial gentrification in the surrounding 
+neighbourhoods during the fourth stage. That 
+is, new commercial blocks strongly influenced 
+the surrounding areas. Shops in surrounding 
+neighbourhoods gradually transformed and 
+upgraded, attracting new high- income con-
+sumers from Taikoo Li. A new rent gap was 
+created, channelling capital into these areas. 
+However, the results of our study reveal that 
+only the rent gap- 3 in shops in surrounding 
+areas, other than the rent gap- 3 in housing, 
+is increased by Taikoo Li’s commercial gen-
+trification. Moreover, the low growth of the 
+surrounding housing market may remain at a 
+cheap and stable level. The surrounding hous-
+ing can offer accommodation for low- income 
+labourers working in Taikoo Li, maintaining 
+the effective interaction between the new com-
+mercial gentrified space and its surrounding 
+neighbourhoods. In summary, the surround-
+ing neighbourhoods can prevent a new wave of 
+demolition to some extent and even improve 
+the old neighbourhoods.
+In this study, we attempted to build a dynamic 
+formation of the rent gap theory to demon-
+strate the process of urban China’s commercial 
+gentrification and reveal the sequential gentri-
+fication in the surrounding neighbourhoods. We find that commercial gentrification in the 
+urban centre could stimulate new small- scale 
+commercial gentrification in the surrounding 
+neighbourhoods. However, compared with 
+government- developer- sponsored, new- build 
+and top- down forms, surrounding neighbour -
+hoods witness spontaneous rehabilitation and 
+bottom- up commercial gentrification. Notably, 
+these two forms coexist. This is due to the alter -
+nating leading roles of the government and the 
+market in creating a rent gap. Based on this case 
+study, there is a need for further research con-
+centrating on neighbourhoods surrounding 
+gentrified urban areas to study the social- spatial 
+effects and consequences of China’s contem-
+porary urban gentrification. Nevertheless, our 
+research provides new insights into commercial 
+gentrification and rent gaps beyond the West 
+and contributes empirical results to the gentri-
+fication study in the Global South.
+ACKNO WLE DGE MENTS
+We would thank Ernesto López- Morales and 
+Yunpeng Zhang for organising this special issue and 
+for their editorial work. We also wish to thank the 
+editor and anonymous reviewers for their helpful 
+comments and feedback. This research is supported 
+by the National Social Science Funds of China 
+(22FGLB002).
+REFERENCES
+Aalbers, M.B. (2019), Introduction to the Forum: 
+From Third to Fifth- Wave Gentrification. 
+Tijdschrift voor Economische en Sociale Geografie 
+110(1), pp. 1– 11.
+Amore, A., C. Bernardi & P. Aravnitis (2022), The 
+Impacts of Airbnb in Athens, Lisbon and Milan: 
+A Rent Gap Theory Perspective. Current Issues in 
+Tourism 25(20), pp. 3329– 3342.
+Ball, M. (1994), The 1980s Property Boom. 
+Environment & Planning A 26, pp. 671– 695.
+Bourassa, S.C. (1993), The Rent Gap Debunked. 
+Urban Studies 30(10), pp. 1731– 1744.
+Burnett, K. (2014), Commodifying Poverty: 
+Gentrification and Consumption in Vancouver’s 
+Downtown Eastside. Urban Geography 35(2), pp. 
+157– 176.
+Chen, G. & Y. Peng (2002), 1.3 Billion Started the 
+Reconstruction Project of Daci Temple Area, the 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+XING HUANG AND HAO GU94
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+Largest Low- Lying Shantytown in Chengdu [EB/
+OL] sina.com Available at <http://news.sina.
+com.cn/c/2002- 06- 23/03216 13824.html>. (In 
+Chinese).
+Clark, E. (1995), The Rent Gap Re- Examined. 
+Urban Studies 32(9), pp. 1489– 1503.
+Clark, E. (2010), The Order and Simplicity 
+of Gentrification –  A Political Challenge. In: 
+L. Loretta, T. Slater & E. Wyly, (eds.), The 
+Gentrification Reader, pp. 257– 262. London: 
+Routledge Press.
+Darling, E. (2005), The City in the Country: 
+Wilderness Gentrification and the Rent Gap. 
+Environment and Planning A 37, pp. 6– 1032.
+Davidson, M. & L. Lees (2005), New- Build 
+‘Gentrification’ and London’s Riverside Renaissance. 
+Environment and Planning A 37, pp. 1165– 1190.
+Ding, S.Y. (2019), Urban Renewal System from the 
+Perspective of ‘Rent Gap’ Theory: A Case Study 
+of Guangzhou. City Planning Review 12, pp. 69– 77 
+(In Chinese).
+Gonzalez, M. (2016), Authenticity as a Challenge in 
+the Transformation of Beijing’s Urban Heritage: 
+The Commercial Gentrification of the Guozijian 
+Historic Area. Cities 59, pp. 48– 56.
+Hackworth, J. & N. Smith (2001), The Changing 
+State of Gentrification. Tijdschrift voor Economische 
+en Sociale Geografie 92, pp. 464– 477.
+Hammel, D.J. (1999), Gentrification and Land 
+Rent: A Historical View of the Rent Gap in 
+Minneapolis. Urban Geography 20(2), pp. 
+116– 145.
+Hamnett, C. (2020), Is Chinese Urbanisation 
+Unique? Urban Studies 57(3), pp. 690– 700.
+Harvey, D. (1989), From Managerialism to 
+Entrepreneurialism: The Transformation in 
+Urban Governance in Late Capitalism. Geografiska 
+Annaler 71(1), pp. 3– 17.
+He, S.J. (2019), Three Waves of State- Led 
+Gentrification in China. Tijdschrift voor Economische 
+en Sociale Geografie 110(1), pp. 26– 34.
+He, S.J. & F.L. Wu (2009), China’s Emerging 
+Neoliberal Urbanism: Perspectives from Urban 
+Redevelopment. Antipode 41, pp. 282– 304.
+Hong, S.J. & X.C. Zhang (2016), Rent Gap, 
+Gentrification and Urban Redevelopment: The 
+Reproduction of Urban Space Driven by Capital 
+and Right. Urban Development Studies 3, pp. 101– 
+110 (In Chinese).
+Hubbard, P. (2017), The Battle for the High Street: 
+Retail Gentrification, Class and Disgust, 1st edition, 
+London: Palgrave Macmillan.Jeong, Y., J. Heo & C. Jung (2015), Behind the 
+Bustling Street: Commercial Gentrification of 
+Gyeongridan, Seoul. Social and Behavioral Sciences 
+170, pp. 146– 154.
+Jiang, K.K., Y.C. Gao & W.X. Song (2021), The 
+Explanation of Ternary Rent Gap to Urban 
+Renewal of China and Some Enlightenment. Urban 
+Development Studies 9, pp. 101– 108 (In Chinese).
+Lees, L. (2012), The Geography of Gentrification: 
+Thinking through Comparative Urbanism. 
+Progress in Human Geography 36(2), pp. 155– 171.
+Lees, L., S. Annunziata & C.R. Alonso (2018), 
+Resisting Planetary Gentrification: The Value of 
+Survivability in the Fight to Stay Put. Annals of 
+the American Association of Geographers 108(2), pp. 
+346– 355.
+Lees, L., T. Slater & E. Wyly (2008), Gentrification, 
+1st edition, New York: Routledge.
+Liu, C.Y., W.X.S. Deng, Q.Y. Wu & J. Gong (2021), 
+Differentiation Under Capitalism: Genesis and 
+Consequences of the Rent Gap. Environment & 
+Planning A 53, pp. 1– 19.
+Lopez- Morales, E. (2011), Gentrification by 
+Ground Rent Dispossession: The Shadows Cast by 
+Large- Scale Urban Renewal in Santiago de Chile. 
+International Journal of Urban and Regional Research 
+35(2), pp. 330– 357.
+Murphy, L. (2008), Third- Wave Gentrification in 
+New Zealand: The Case of Auckland. Urban Studies 
+45, pp. 2521– 2540.
+Paker, J.N. (2018), Negotiating the Space between 
+Avant- Garde and “Hip Enough”: Businesses and 
+Commercial Gentrification in Wicker Park. City & 
+Community 17(2), pp. 438– 460.
+Pastak, I.E., T.T. Kindsiko, R. Kleinhans & V.H. 
+Maarten (2019), Commercial Gentrification in 
+Postindustrial Neighborhoods: A Dynamic View 
+from an Entrepreneur’s Perspective. Tijdschrift 
+voor Economische en Sociale Geografie 110(5), pp. 
+588– 604.
+Peck, J. & A. Tickell (2002), Neoliberalizing Space. 
+Antipode 34, pp. 80– 404.
+Pratt, A. (2009), Urban Regeneration: From the 
+Arts ‘Feel Good’ Factor to the Cultural Economy: 
+A Case Study of Hoxton, London. Urban Studies 
+46(5), pp. 1041– 1061.
+Smith, D.P. (2005), Studentification: the 
+Gentrification Factory. In: R. Atkinson & G. 
+Bridge, (eds.), Gentrification in a Global Context. 
+London: Routledge.
+Smith, N. (1979), Toward a Theory of Gentrification 
+a Back to the City Movement by Capital, Not 
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+RENT GAP AND SEQUENTIAL GENTRIFICATION IN TAIKOO LI OF CHENGDU, CHINA95
+© 2023 Royal Dutch Geographical Society / Koninklijk Nederlands Aardrijkskundig Genootschap.
+People. Journal of the American Planning Association 
+45(4), pp. 538– 585.
+Smith, N. (2002), New Globalism, New Urbanism: 
+Gentrification as Global Urban Strategy. Antipode 
+34, pp. 427– 450.
+Song, W.X., C.H. Liu, Y. Wang & Y.Q. Yuan (2017), 
+Rent Gap and Gentrification in the Inner City of 
+Nanjing. Acta Geographica Sinica 12, pp. 2115– 2130 
+(In Chinese).
+Teresa, B. (2019), New Dynamics of Rent Gap 
+Formation in New York City Rent- Regulated 
+Housing: Privatization, Financialization, and 
+Uneven Development. Urban Geography 40(10), 
+pp. 1399– 1421.
+Wu, F. (2002), China’s Changing Urban 
+Governance in the Transition Towards a 
+More Market- Economy. Urban Studies 39, pp. 
+1071– 1093.Zheng, J. (2011), ‘Creative Industry Clusters’ and 
+the ‘Entrepreneurial City’ of Shanghai. Urban 
+Studies 48, pp. 3561– 3582.
+Zhou, F.Z. (2007), How to Make Money: 
+Government and Farmers in Land Development 
+and Transfer. Sociological Studies 1, pp. 49– 82 (In 
+Chinese).
+Zhou, L.A. (2007), Governing China’s Local 
+Officials: An Analysis of Promotion Tournament 
+Model. Economic Research Journal 7, pp. 36– 50 (In 
+Chinese).
+Zukin, S. (1987), Gentrification: Culture and Capital 
+in the Urban Core. Annual Review of Sociology 13, 
+pp. 129– 147.
+Zukin, S., V. Trujillo, P. Frase, D. Jackson, T. Recuber 
+& A. Walker (2009), New Retail Capital and 
+Neighborhood Change: Boutiques and Gentrification 
+in New York City. City & Community 8, pp. 47– 64.
+ 14679663, 2024, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/tesg.12575 by South China University Of Technology, Wiley Online Library on [05/02/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+

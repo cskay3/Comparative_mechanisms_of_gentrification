@@ -1,0 +1,374 @@
+Chin. Geogra. Sci. 2010 20(6) 568–576 
+DOI: 10.1007/s11769-010-0432-2 
+                                       
+Received date: 2010-05-05; accepted date: 2010-08-16 
+Foundation item: Under the auspices of European Commission under 7th Framework Programme (No. ECUBS–230824) 
+Corresponding author: SONG Weixua n. E-mail: songweixuan@126.com 
+© Science Press, Northeast Institute of Geography and Ag roecology, CAS and Springer-Verlag Berlin Heidelberg 2010  
+Gentrification and Residential Differentiation in Nanjing, China 
+ 
+SONG Weixuan1, WU Qiyan2  
+(1. Jiangsu Provincial Academy of Social Sciences, N anjing 210013, China; 2. School of Geographic Sciences 
+ of Nanjing Normal University, Nanjing 210064, China ) 
+ 
+Abstract:  The institutional environment in China has quite evidently changed during modern socio-economic tran-
+sitions. Driven both by local government and by marketing force, urban social space was redistributed after the re-
+form of urban land and real es tate policies. Urban renewal makes for wide differential rent and therefore gentrifica-
+tion is occurring in China. This paper analyzes the ba ckground and institutional envir onment of gentrification in 
+China, and further discusses the process, characteristic s and evolutionary mechanisms in the case of Nanjing, 
+through investigation of the attributes of 1 075 residential communities built during the 1998–2008 at a macro level, and interviewing the residents and analyzing questionnaires in 6 different and typical communities at a micro level. 
+As a socio-spatial course of two-way interaction, gentrifi cation is divided into 3 stages of incubation, occurrence 
+and fast development, according to the time of landmark ev ents and policy reform on the leasehold of land in Nan-
+jing during socio-economic transition. In terms of the socio-spatial characteristics of gentrification in Nanjing, the 
+gentrification process under the trajectory of urban renewa l makes urban social space present a new circle-layer 
+structure; the rise of quite a number of gated communities results in the fragmentation of social space and privatiza-
+tion of public space; the management mode of modern communities and the change of life style have aggravated the 
+indifference of neighborhood relationship of gentrified communities. Based on the empirical evidence of this study, 
+this paper indicates that gentrification is quite different between China and western countries with respect to spa-tio-temporal order, dominant forces, paths of realization and spatial expression, and it further reveals the dynamic 
+mechanism of gentrification developi ng in China at the present stage.  
+Keywords: gentrification; gated community; residential diff erentiation; social spatial fragmentation; Nanjing 
+ 
+ 
+1 Introduction 
+ 
+After World War II, western countries started to build 
+houses in suburbs of big cities in order to help veterans 
+settle down, which then promoted suburbanization. In 
+the 1960s, Ruth Glass, an English sociologist, took no-tice of the phenomenon of anti-suburbanization taking place in London, that is, the middle class replacing the working class and returning to the urban center, which he called ′ gentrification ′ (Glass, 1964). At the beginning, 
+gentrification was defined as ′the course of redeveloping 
+and renovating the decrepit residential areas of the 
+lower-income classes of the inner city and transforming them into middle-class neighborhoods′  (Smith, 1979; 
+Butler, 1997; Hamnett, 2003). After the climax of sub-
+urbanization in western countries during the 1970s– 
+1980s, a great many cities experienced the quick popu-lation growth, economic recovery and revitalization of central urban areas, which was called ′the movement of 
+returning to the city ′. During the course of urban renewal, 
+the high-income group continuously replaced the low- 
+income one in the decrepit areas of the urban center, and 
+the environment of the urban landscape was improved, which became the symbol of urban socio-economic tran-sition. The movement of socio-economic and spatial re-structuring has changed tens of thousands of urban neigh- borhoods in western countries during the last 50 years of the 20th century (Kennedy and Leonard, 2001). With the development and intensity of study on gentrification, its meaning has been gradually expanded, including: 1) the high-income group outside urban neighborhoods replace the low-income inner-urban one and the latter gradually 
+move out; 2) the living conditions of neighborhoods are 
+correspondingly improved and the environment of the 
+ Gentrification and Residential Differentiation in Nanjing, China  569
+inner city and public facilities are notably enhanced; 3) 
+the characteristics of the neighborhood (ethnic composi-tion, faith, income, cultural background, type of work and relaxation, etc.) have changed, and the social structure is 
+united from diversified characteristics to gentrified ones; 4) cultural characteristics of the community and family structure have changed, and young families and core families of the middle class gradually become the main-stream (Smith and Williams, 1986; Kennedy and Leonard, 
+2001). Certainly, gentrification in western countries is a 
+complicated phenomenon of re-urbanization (Butler, 2007) and the study and debate concerning it continue (Lees, 2003; Butler and Lees, 2006). At present, gentrifi-cation is an important socio-spatial characteristic of post-industrial cities in the context of globalization and neo-liberalism (Davidson, 2007), and,  at different levels, it 
+evolves as an important strategy for urban development operated jointly by city government and private capitals throughout the world coincidently (Smith, 2002). 
+Gentrification is presented in western countries in the 
+setting of political and economic transition, large-scale urban renewal and life style change of the young middle class and so on (Smith, 2002). In China, the continuous institutional transition since 1978 has been providing cit-ies with conditions necessary for gentrification: first, the reform of income distribution system made some people ′get rich first ′, gradually developing the new middle class 
+with stratum cultural traits; second, the reform of land and housing systems activated the value of real estate, which provides the benefit to drive necessarily for gov-ernment and enterprises to manage the city and ′produce 
+space′ ; third, the sustained and stable economic growth 
+and quick urbanization created an ideal circumstance for urban renewal and beautification. In the 1990s, a phe-nomenon like early gentrification in western countries appeared in Chinese cities with socio-economic transition and urban renewal. Different from western countries, gentrification in China is a socio-spatial process in which original residents are replaced by groups with higher so-cial and economic status in the urban center and sur-rounding areas after renewal and redevelopment. Here, 
+we want to emphasize that the meaning of gentrification 
+is extensive, which at least includes gentrification of 
+residence, employment, business, service, and so on, and it can be classed into both landscape and cultural gentri-fication. Meanwhile, gentrification of residence is the most representative process. It can be said that the change of urban residential space and neighborhood character is an important aspect reflecting the complicated socio-spa- tial process of gentrification. This paper tries to analyze the background and evolving process of gentrification in Nanjing and the residential differentiation. On this basis, the authors try to conclude the differences of socio-spatial character between gentrification in western countries and that in China, and the dynamic mechanisms of evolution behind them in China. 
+ 
+2 Materials and Methodology 
+ 2.1 Study area 
+There were 7.59×10
+6 permanent residents, 5.41×106 of 
+which were registered, and 573 km2 urban built-up areas 
+in Nanjing in 2008. The 10 districts which were studied 
+in this paper include Xuanwu, Baixia, Qinhuai, Jianye, Gulou, Xiaguan, Pukou, Qixia, Yuhua and Jiangning. The study area mainly covers the urban developed areas of Nanjing, which is mainly divided into 3 cycle-layers 
+according to the distance from the urban center in the 
+development of Nanjing: the inner city within the city wall of the Ming Dynasty, the outer city between the city wall and the highway and the Changjiang River, and the suburb beyond the highway (Fig. 1). 
+  
+ 
+Fig. 1 Sketch of study area in Nanjing  
+ SONG Weixuan, WU Qiyan  570
+2.2 Method and data 
+The socio-economic data of the Fifth National Census in 
+2000 cannot accurately reflect the current urban socio- 
+spatial structure and trends of evolution under condi-
+tions of rapid urbanization; moreover, it was deficient of 
+data of private housing and the social economy, which is 
+the main obstacle for studying gentrification. For a coun-
+try of housing privatization, the evidence of a housing 
+market can help to describe socio-spatial prospects in-stead, due to circumstances lacking statistics on the ur-
+ban population (Knox and Pinch, 2000). The proportion 
+of private housing in Chines e cities and towns was up to 
+81.62% in 2005. In terms of the new characteristics of gentrification and residential differentiation in Nanjing, this paper uses the data of a secondary market of hous-
+ing
+①, which is often used by western scholars to dem-
+onstrate the structure of urban residential space. And it 
+makes a systematic analysis of space at macro-level and 
+residents at micro-level, combining with survey samples 
+of gentrified communities. Here 1 075 communities built 
+during 1998–2008 were studied in respect to housing 
+type, price of per unit area (the average transaction price in 2008), land areas, plot ratio and number of families 
+participating in the study, the evolution of character and 
+developing tendencies of residential spatial differentia-
+tion in Nanjing (Table 1). At the micro-level of neigh- 
+borhoods, the developmental condition of different com- 
+munities was investigated, especially gentrified ones, by choosing 6 communities with different stratum attributes to conduct a sampling interview and hand out question-naires (535 of 1 000 dispensed are available) on family structure, occupation, individu al incline for choosing house, 
+leisure activities, community attachment and neighborhood 
+relations and so on.  
+3 Results and Analyses 
+ 
+3.1 Socio-spatial process of ge ntrification in Nanjing  
+Gentrification is a socio-spatial course of two-way in-
+teraction, not merely a phenomenon of the renewal of 
+their environment and the relocation of wealthy resi-
+dents. The occurrence of gentrification is attributed to 
+the realization of housing expense disparity (i. e. differ-
+ential rent in this paper) (Smith, 2002); however, the spatial difference of the market price of urban land relies 
+on the marketization transition of relative socio-econo- 
+mic relations and policies on urban land. Therefore, 
+gentrification in Nanjing is generally divided into 3 de-velopment stages, according to the time of landmark events and policy reform on leasehold of land in Nan-jing during socio-economic transition. 
+3.1.1 Stage of incubation in  1978–1987 
+After the reform and opening-up in 1978, Nanjing ex- 
+perienced rapid economic development. Capital source 
+for urban construction had gradually diversified and the improvement of residential environment was emphasized.   
+Table 1 Comparison of attributes of residential communities in Nanjing  
+Inner city Outer city Suburb  
+ Serviced 
+apartments Gentrified 
+communities Gated 
+communitiesCommon 
+communities Villa Affordable 
+housing 
+Quantity  53 48 80 319 22 37 
+Plot ratio 5.2 2.3 2.2 2.0 0.2 1.5 
+Land area (m2) 12000 56000 87800 73400 350000 315000 Macro-attribute 
+Price (yuan (RMB)/m2) 15500 14800 15000 8650 13900 3600 
+Case community Junlin Interna-
+tional MansionPalace Interna-
+tional Garden East Silver 
+City Longjiang Gar- 
+den Baijia Lake 
+Villa Hengsheng 
+Scenic Garden
+Age of householder 30.1 35.0 31.4 44.2 43.5 47.2 
+Family member (persons) 1.8 3.3 2.8 3.2 3.5 3.3 
+Family monthly income (yuan) 7500 16000 9000 7000 23000 4500 
+Chief reasons for choosing house Location, 
+transportationCircumstance, 
+location Circumstance, 
+location Location, 
+ price Circumstance, 
+public security Price, 
+transportationMicro-attribute 
+Familiar neighbor (persons) 0–2 5–10 10–20 40–50 0–5 20–30 
+Notes: Data of plot ratio, land area and price are average values of similar communities in Nanjing; data of age of householder , family members, familiar 
+neighbor and family monthly income are average values of all residents interviewed in same community  
+                         
+① The data are gained from Nanjing Real Estate Exchange Center in 2009 
+ Gentrification and Residential Differentiation in Nanjing, China  571
+The area of newly built housing during 1978–1987 ex-
+ceeded the total of that of the previous 30 years. The 
+investment on fixed assets in Nanjing was up to 1.919×10
+10, increasing 21.1% per year on average, and 
+the proportion of nonproductive investment increased to 27% in 1987 from 15% in 1978. As the system of in-come distribution was reformed and the management of urban household registration was relaxed, a differentia-tion occurred, presenting an upper class, middle class 
+and lower class in Nanjing. And the middle-class re-
+quired a higher-grade residential environment, which has gradually developed into a potential group for utili-zation of gentrified housing. 
+3.1.2 Stage of occurrence in 1988–1997 
+Gentrification has appeared in big cities of China during 
+the ten years since 1988, as the housing reform was put forward and gradually implemented. In 1992, the policy on urban land was changed in Nanjing, where free gov-ernment allocation was replaced by compensated as-signment, which made the city gain new motivation for 
+redevelopment. In order to resolve the problem that 
+population was excessively concentrated in the inner city, the city government adopted a strategy of urban development to strictly control housing development in central areas, transferring the center for common hous-ing development to new districts and gradually distrib-uting the population and activities over a wider area away from the older urban districts. Consequently, the disparity in housing expenses rapidly presented itself in central urban areas. Nanjing began to redevelop on a large scale, the investment on fixed assets increased 
+5.63×10
+9 per year on average and the downtown envi-
+ronment of the city was greatly improved. The tradition-
+ally dilapidated neighborhood of the urban center was restructured into or functionally replaced by top-grade communities, marketplaces, hotels, office buildings, places of entertainment, etc., attracting a great deal of 
+the middle-class to live and work here. 
+3.1.3 Stage of fast development since 1998 
+Gentrification in Nanjing has developed rapidly since 
+the marketization reform of urban housing system began from 1998. Table 2 showed that, during 1998–2008, in 
+the main city zone, buildings of 8.1×10
+6 m2 were de-
+molished, involving 1.25×105 households, and over 
+5.5×1010 m2 of commercial housing was newly constru- 
+cted. At the same time, urban sprawl and gentrification 
+advanced rapidly. At that time, improved reform on the urban land and housing system provided gentrification with a basis of marketization and policy guarantee; while, the acceleration of urban renewal created a good chance and physical condition for it. The large-scale demolition and redevelopment caused urban residents to relocate frequently. The market mechanism for allocat-ing urban land was initially established in March 2000 in Nanjing, where differential rent (housing expense disparity) of the advantaged  areas was completely acti-
+vated and the realization of gentrification in urban space released massive energy rapidly. 
+ 
+Table 2 Condition of demolished and newly-built housing 
+in Nanjing in 1998–2008 
+Year Households of 
+demolished 
+housing (×103) Building area of 
+demolished housing 
+(×105 m2) Newly-built  
+area of commer-
+cial housing 
+(×106 m2) 
+1998 10.70    5.870      2.7046    
+1999 6.96    3.560      3.1433    
+2000 8.25    3.573      2.9755    
+2001 13.00    8.200      3.0909    
+2002 19.13    11.571      3.7443    
+2003 24.20    17.900      3.3624    
+2004 9.84    8.316      5.7856    
+2005 5.81    4.799      5.6451    
+2006 12.46    7.230      6.7143    
+2007 8.98    5.625      8.7087    
+2008 6.05    4.387      9.9854    
+Total 125.38    81.031      55.1601    
+Source: Nanjing Local Chronicles Office, 2009  
+ 
+3.2 Character of gentrification and residential dif-
+ferentiation in Nanjing  
+Urban residential space is an important aspect of ′socio- 
+spatial dialectic ′. Socio-economic reform promotes the 
+creation and evolution of urban residential differentia-
+tion, while the cumulative ef fects caused by physical 
+spatial circumstance are realized and further develop 
+social relations. Under the background of urban transi-tion, the socio-economic pro cess is transformed and the 
+change of urban land use occurs rapidly. That is, the change of the downtown urban environment and the reproduction of urban residential structures, which are caused and promoted by the process of gentrification, are the most direct and representative spatial visualized responses and constitute an important level of the re-construction of economic, social and spatial relations in 
+the complicated gentrification process (Smith and Wil-
+ SONG Weixuan, WU Qiyan  572
+liams, 1986). 
+3.2.1 New circle-layer structure of urban social space 
+In recent years, the price of commercial housing has 
+been increasing at a high speed in Nanjing, while that of central urban areas has been the highest, and the differ-ential of housing expenses is more and more obvious between urban central and outlying areas. Due to factors like differential rent, price of land and plot ratio, the land blocks of demolition in the inner city of Nanjing 
+are distributed in small size and patches, taking Xinjie-
+kou as a center and the subway line and main streets as axes, most of which are on the streets or on the water-front. The land use of central areas is changed after demolition, and land for industry and traditional resi-dence is constantly replaced by that for mixed function of green space, open space, modern residence, business, working and entertainment; therein, residential land is mostly used for top-grade superintended apartments, mainly attracting the young middle class. While the middle class with higher consumption level is inclined 
+to choose a residential environment with better ecologi-
+cal standards and high quality, those who claim life taste, cultural preference and class sp irit are likely to seek su-
+perior life quality. Consequently, a great many gated communities are built rapidly in the areas within sight of central areas, such as the waterfront of Xuanwu Lake and Qinhuai River, which gradually become the new assembling areas for the middle and upper classes. Fig-ure 2 shows that urban renewal in Nanjing dictates that the poor residents move out of the inner city and the gentrified class relocates there. This study finds that the 
+residents in gentrified communities, after displacement 
+and relocation, are obviously different from those in common communities in respect to age, structure, oc-cupation, family income, life-style and mental attitude in choosing a house.  
+3.2.2 Fragmentation of social space and privatization 
+of public space  
+The gated community is one of the important spatial 
+representations of gentrification in China, which makes up for the deficiency of ′collective assumption ′ by pri-
+vatizing public space and renovating aspects of the residential environment, and it is consequently pursued by developers and urban residents because it caters to residential demands of the middle- and upper-class. The small-scale gated communities lead to polarization and fragmentation of urban space, and, for example, gated 
+ 
+ 
+Fig. 2 Residents ′ replacement and relocation  
+in gentrification process in Nanjing  
+ communities cover less than 5.0×10
+4 m2 on average in 
+the inner city of Nanjing. The characteristics of spatial segregation are transforming the city. Splintering urban-ism are obvious (Graham and Marvin, 2001), and the phenomenon of homogeneity in part and heterogeneity in integration becomes the typical character of residen-tial space in Nanjing. The original social sequence and urban fabric are continuously cut apart by gated com-munities, and the mosaic spatial segregation between new and old, lower and higher income areas intermingle with each other. The new spatial order presents great heterogeneity both in residential structure and in spatial 
+image, which results in the fragmentation of social 
+space and residential segregation at the neighborhood level. Figure 3 shows that the initial residential structure in the blanket form is gradually disjointed after the gen-trification process, and it recombines to a structure of urban residential differentiation which is characterized by central polarization and diversification. 
+ 
+ 
+ 
+Fig. 3 Reconstruction and polarization of 
+residential differentiation in inner city of Nanjing  
+before and after gentrification 
+ Gentrification and Residential Differentiation in Nanjing, China  573
+3.2.3 Indifferent neighborhood in gentrified communi-
+ties  
+After the residential unit system mode has been dis-solved, the state is weakened to control communities while freedom of movement among residents increases. Urban neighborhood offices and residents ′ committees 
+are losing their roles in managing communities, whose previously obligatory work of community management, public order and maintenance has been taken over by 
+the Estate Management Company, and daily neighbor-
+hood relationships, inter-personal communication and mutual assistance, gradually become weaker. Of the surveyed 1 075 communities, 78.5% have an employed Estate Management Company, and therein all of the gentrified ones are managed in protection by estate management. In gated communities, it is hard to form stable social communication in neighboring communi-ties because they are gated and the residents ′ identities 
+differ greatly; even within the same community, resi-dents associate little with others and they are not quite 
+familiar with each other. With the rapid renewal of the 
+downtown environment, residents always move out be-fore the neighborhood relations hips form a stable nature 
+in the community and, as a result, it is difficult to form a community cultural attribute and stratum identification. While the invasion of the Internet's network communi-cation, the fast-paced urbanism and other factors also make the sense of estrangement increase greatly in ur-ban neighborhoods, especially in gentrified communities, this further weakens and de stroys human relationships 
+of the urban neighborhood. 
+ 
+4 Dynamic Mechanism of Gentrification in 
+China 
+ 
+Gentrification is a complicated and dynamic reconstruc-
+tion process of urban social space. It is quite different 
+between China and western countries in the aspects of urban developing mechanism and institutional environ-ment, therefore, gentrification has different process, characters and tendency in China. It is necessary to comprehensively consider the regulation environment of government managing space, under the background of globalization and urban transition, and the ′producer′ 
+and the ′consumer ′ in the gentrification process (Ham-
+nett, 2003), in order to understand the occurrence 
+mechanism of gentrification in China. 4.1 Gentrification differe nces between China and 
+western countries 
+In the context of globalization, gentrification in China, 
+which is based on urban renewal, presents both the same characteristics, mechanism and rules as it does in west-ern countries and the specia l, complicated and transi-
+tional features under the unique background of China. The differences between gent rification in China and in 
+western countries mainly lie in 4 aspects. 
+First, different spatio-temporal order. Gentrification in 
+western countries occurred in central urban areas after having been depressed and resulting in large-scale sub-urbanization (Smith and Williams, 1986); while, in China, central urban areas do not experience large-scale degradation. Instead, they have been favored as service facilities and the residential environment are improved. Distinct from the movement in western countries where the middle class returns to urban communities from the suburbs, gentrification in China is the process whereby the groups ′re-assemble ′ into special urban spaces, 
+which were previously dispersed, and with high socio- economic status. 
+Second, different dominant power. The market power 
+plays a leading role in the gentrification process in western countries under the background of mature mar-keting systems, and gentrification can be attributed to housing expense differential to a great degree (Smith, 2002). While in China, it is obviously dominated by the state and characterized by an uncompleted-market eco- nomy, the government promotes the process of gentrifi-cation by activating demands of the middle class, creat-
+ing conditions for capital circulation, promoting urban 
+beautification and infrastructure construction, integrat-ing land resources and tackling the problem of frag-mented property rights and so on (He, 2007).  
+Third, different ways of realization. The gentrification 
+process in western countries is realized through reno-
+vating dilapidated houses and districts, gradually realiz-
+ing differential rent and then promoting the relocation of residents in central urban areas (Hamnett, 2003). How-ever, in China, it is realized mostly through spatial re-
+development in the form of ′demolishing the old and 
+constructing the new ′. Consequently, different from the 
+progressive process of ′ invasion-succession ′ in western 
+countries, stratum relocation by gentrification in China 
+is realized by means of implanting an estate developing project as a whole.  
+ SONG Weixuan, WU Qiyan  574
+Fourth, different spatial expression. Under the multi- 
+cultural and multi-racial background of the gentrifica-
+tion process in western countries, it is accompanied by social conflicts and ethnic contradiction; different races and classes live in different districts (or streets) and residential differentiation is obvious at the macro level. However, it is quite different in China. Residential seg-regation of different classes is well tolerant in space, and especially, the middle-class and upper-class always live 
+in the same community. Even among groups with 
+greatly different socio-econom ic status, there may be the 
+phenomenon that high-rise buildings welling up rapidly stand among plants and low and dilapidated houses, and the ′core′ and the ′ edge′ mixes together. 
+ 
+4.2
+ Evolution mechanism of gentrification in China 
+Government is the dominant propellent for the gentrifi-
+cation process in China under the background of urban renewal at present. It even can be considered that ′the 
+first wave ′ of gentrification in China is a process of 
+′space production ′ dominated by the government. Since 
+the reform and opening-up, however, power has been gradually distributed from central government to local administrations. Especially after reforming of the finan-
+cial system in 1994, the central government has trans-ferred the pressure of economic growth to local gov-ernments (Wu, 2008); meanwhile, the separation of fi-nancial power provides the latter with enough motiva-tion to manage cities. Reform on the housing system extends to the real estate market and the new space of accumulating capital which has become the main way to 
+solve local financial problems (Wu, 2002).  
+′Entrepreneurial local state ′ is forming, due to local 
+governments playing the dual roles of manager and par-
+ticipator in economic production, capital accumulation and urban development (Harvey, 1989; Wu, 2008). As the only owner of urban land, government plays an im-portant role and creates good circumstance in the gentri-
+fication process, from coordinating the allocation of 
+land use rights, demolishing houses and relocating resi-dents, clearing land and leasing land, to promoting capital circulation, activating demands and selling hou- 
+ses. However, as the marketing mechanism is improving 
+step by step in China, the dominant role of government 
+will gradually give place to the market in the gentrifica-tion process and the government will play a regulatory 
+role only, returning to the position of urban ′night watchman′ . 
+Hoyt once predicted that the groups with high social 
+status would be the important power to shape urban 
+space (Hoyt, 1939), which comes true in China. Local 
+governments, who hold power and land resources, and 
+real estate enterprises, w ho control capital, form into 
+′urban growth coalition ′ in the course of ′managing city ′, 
+and cooperate to attract social ′surplus capital ′ to pro-
+mote urban renewal, and to provide policy and supply guarantee for gentrification. 
+The middle and upper classes, with higher social and 
+economic standing, and differ ent preference for housing, 
+constitute the main consumers of gentrified housing. The gap between the rich and the poor is expanded and the former has greater consumption capability. The re-
+form of housing privatization has broken the social spa-
+tial principles of the unit system under a planned econ-omy and individuals can freely choose location and type of housing in the real estate market. Under the effects of factors like a western life-style, real estate symbol, capital, family lifecycle, investing and financing habits, and residential culture pref erence, the advantages are 
+included in the urban center which is popular with fami-lies of higher socio-economic status; while, the lower class is driven to the edge of city under the filtering 
+mechanism of housing prices. The previous urban social 
+space has disintegrated by the gentrified reconstruction of urban space and the new residential spatial differen-tiation that is forming (Fig. 4). 
+ 
+5 Conclusions 
+ 
+The urban architectural environment is the most direct 
+form of expression of capital circulation in space. The redistribution of an urban population lags behind the 
+change of architectural environment and the corre-
+sponding change of social space always needs residents ′ 
+migration and culture deposit over a long period. In this 
+sense, the data of a real estate market and the social at-
+tributes of residents together can reflect, and even pre-
+dict urban socio-spatial structures and evolving trends.  
+Under the background of land and housing marketiza-
+tion reform in China, urban renewal and gentrification 
+reactivates the law of value of urban spatial rent differ-ential formerly covered by the system of land leasehold and free allocation. Through the displacement and up-grade of urban space function, gentrification realizes  
+ Gentrification and Residential Differentiation in Nanjing, China  575
+ 
+ 
+Fig. 4 Social spatial process and e volution mechanism of gentrification  
+ 
+rapid increase of the value of land in urban areas, espe-
+cially in central districts. It helps to excavate the highest economic interest of urban land, revive, and even re-verse the downfall of urban centers, diminish local trou-bles of public revenue and advance development of the urban landscape. In general, it is a socio-spatial move-ment benefiting urban development. However, the social problems resulting from it, including the contradiction 
+of demolition compensation, the aggravation of social 
+exclusion and spatial segregation, and the low-income groups being constantly marginalized, are a hindrance to harmonious society, all of which are necessary for the state and scholars to seriously consider. 
+Urban residential space is reconstructed according to 
+capital strength and residentia l preference in the urban 
+renewal and gentrification process in Nanjing, for that housing supply represents the tendency of neo-liberali- sm like price marketization, free trade and property pri-
+vatization. In the urban center, initial industrial, ware-
+housing and residential lands are redeveloped to service land with higher profits, like land for business, trade, finance, retail and so on, which creates more employ-ment opportunities for the young white-collar. A little residential land retained in central areas and areas with elegant environment, perfect service and recreational facilities becomes the focus scrambled by real estate investors and is rapidly developed in superior gentrified communities.  
+After the climax of urban renewal in Nanjing, it is 
+comparatively stable in the downtown environment and landscape of the urban center, and residents begin to settle down in community. The stage of introducing 
+gentrified physical space will transit into that of cultural 
+invasion and succession, and new community culture will replace the previous one, which breaks down the initial social relations and meanwhile forms the group mark of middle-class with the labeling attributes. With the condensation and differentiation of community cul-ture, a new division standard of social space is likely to form in Nanjing, and cultural factors, like residents ′ 
+consumption habits and life taste, may become the new residential differentiation. 
+At present, gentrification in China mainly relies on 
+urban renewal dominated by the government. It is es-sentially nothing but a means of realizing capital appre-ciation, whether through physical renewal or upgrade of image capital and consuming culture. Under the 'opera-tion′ of urban growth coalition or personification capital, 
+ SONG Weixuan, WU Qiyan  576
+the rent differential of the urban center is continuously 
+activated and put into practice: capital appreciation re-alized through spatial reproduction. 
+ 

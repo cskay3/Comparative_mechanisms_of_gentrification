@@ -1,0 +1,860 @@
+Journal of the Asiatic Society of Bangladesh  (Hum.), Vol. 66(1), 2021, pp. 61-81  
+  
+ 
+ 
+UNFOLDING GENTRIFICATION IN DHAKA CITY 
+ 
+Tamanna Rashid* 
+ 
+Abstract 
+Gentrification is a widely experienced phenomenon in the realm of urban 
+development in all global cities. This has led many academics to scrutinise how 
+gentrification is contextualised with distinctive socio-economic changes in cities 
+beyond the geography of Europe and North America. This paper investigates the 
+general gentrification process in Dhaka from the theoretical stance of Smith, Ley, 
+Zukin, Hackworth and Davidson. Based on a qualitative research method, this 
+study investigates two areas of Dhaka city as case studies. The study reveals 
+mounting evidence of the recent development of run-down areas as an indication 
+of new-build gentrification. Whereas, in the global context, the process of 
+gentrification in developed cities is significantly influenced by the state policies in 
+tandem with the private impetuous; in Dhaka, the overall role of the government in 
+orchestrating the system seems to be bleaker. Similar to the experience of many 
+global cities, gentrification in Dhaka with some distinctive localised features is 
+also linked to the displacement of lower-income people from their original places; 
+and this fact need to be taken into account in order to develop a more inclusive 
+approach to city development.    
+Introduction 
+Gentrification has become a buzzword in recent years in the discourse of city 
+development as well as in the spheres of government bodies, policymakers, civil 
+society, and academia.1 Over the past five decades, urban researchers and planners 
+have vigorously studied the backdrop context of the gentrification process and 
+produced a large body of empirically subtle and theoretically nuanced findings 
+worldwide.2 Initial researchers identified gentrification as intertwining with urban 
+regeneration processes after a phase of urban decline in most of the North 
+American and Western European central cities. In the mountain of literature, 
+experts have studied gentrification’s role in restructuring the physical, economic, as 
+                                                           
+*      Lecturer (Part-Time), Department of Sociology, Bangabandhu Sheikh Mujibur Rahman 
+Science and Technology University, Gopalganj 
+1  G. Ertelt et al., ‘The State-Made Rental Gap: Gentrification in Subsidized Rental 
+Housing’, in I. Helbrecht (ed.),  Gentrification and Resistance: Researching Displacement 
+Processes and Adaption Strategies , Springer Vs, Germany, 2018, p. 91.        
+2  I. Helbrecht, ‘Gentrification and Displacement’, in I. Helbrecht (ed.), Gentrification and 
+Resistance: Researching Displacement Process and Adaptation Strategies , Springer 
+VS, Germany, 2018, p.1. 
+62  Tamanna Rashid 
+ 
+ well as social characteristics of the central city areas.3 Gentrification research, 
+however, has experienced variegated shifts of concern. Contemporary thinkers are 
+eager to investigate how gentrification communicates with other urban processes 
+instead of simply locating specific forms of gentrification.4  
+Studies in the global North have stretched far away from its preliminary concerns. 
+In Asia, however, only a handful of researchers are engaged in the field, with their 
+focuses still largely being confined to identifying the forms of gentrification with 
+special reference to experiences of urban development.5 Nevertheless, this vivid 
+global trend of urban regeneration has echoed elsewhere and is hardly unique to 
+Dhaka, one of the fastest-growing megacities in the world.6 Dhaka city has also 
+experienced numerous initiatives and comprehensive planning for effective urban 
+growth since the second half of the twentieth century.7 Although several plans for a 
+planned urban growth have always been formulated, none of them has gained any 
+glimmer of hope. Moreover, despite being a centre for administrative and 
+commercial activities of the region for about four hundred and ten years, the city 
+entirely lacked any successful planning effort throughout its transformation period 
+of the morphological structure, from purely rural to a megacity.8 
+                                                           
+3   G. Visser and N. Kotze, ‘The State and New-Build Gentrification in Central Cape 
+Town, South Africa’, Urban Studies , Vol. 45, No.12, 2008, p. 2566, Available at: 
+https://www.researchgate.net/publication/228337715_The_State_and_New-
+build_Gentrification_in_Central_Cape_Town_South_Africa, (Accessed on 26 April 
+2021).   
+4      H. B. Shin, L. Lees, and E. Lopez-Morales, 'Introduction: Locating Gentrification in the 
+Global East', Urban Studies , Vol. 53, No. 3, 2016, pp. 455-470, Available at 
+http://repositorio.uchile.cl/bitstream/handle/2250/139406/Introduction-Locating-
+gentrification-in-the-Global-East%201.pdf?sequence=4&isAllowed=y, (Accessed on 18 
+March 2021). 
+5    R. Moore, ‘Understanding Gentrification in Southeast and East Asia’, Interdisciplinary 
+Studies Journal , vol. 13 2013, pp. 116-130, Available at https://www.researchgate.net/ 
+publication/346831776_Understanding_'Gentrification'_in_Southeast_and_East_Asia, 
+(Accessed on 25 April 2021). 
+6   L. Lata, P. Walters, and S. Roitman, ‘A marriage of convenience: Street vendor's 
+everyday accommodation of power in Dhaka, Bangladesh’,  Cities, vol. 84, 2018, p.2, 
+Available at https://www.sciencedirect.com/science/article/abs/pii/S02642751173 
+14439? via%3Dihub.  
+7   A. Kabir and B. Parolin, Planning and Development of Dhaka- A Story of 400 Years, 
+Proceedings of the 15th International Planning History Society Conference , Brazil, July 
+2012, p.11, Available at https://www.researchgate.net/publication/ 324746990_ 
+PLANNING_ AND_DEVELOPMENT_OF_DHAKA-A_STORY_OF_400_YEARS, (Accessed 
+on 25 April 2021).  
+8   N. Islam, Dhaka from City to Megacity: Perspectives on People, Places, Planning and 
+Development Issues . Dhaka: Urban Studies Programme, Dept. of Geography, 
+University of Dhaka, 1996, p.255. 
+Unfolding Gentrification   63 
+ The absence of any effective urban planning, however, could not restrain the path 
+of urban growth of the city. Rather, the city is now experiencing an unprecedented 
+growth of urbanisation than ever before. In a study, it is found that Dhaka is over 
+90 per cent urban.9 The landscape of Dhaka expanded northward to create a ‘new 
+Dhaka’ mainly for higher class residents.10 Initially, all the highlands were 
+occupied by an increased population; and gradually all the low-laying areas were 
+elevated and brought into development schemes by private initiatives. After that, in 
+all of the planning and projections for urban development, government bodies and 
+urban planners never used the term ‘gentrification’ to describe the process of city 
+development.11 Instead, in the Asian context,  and more specifically in the context 
+of Dhaka, conversion of old buildings into new ones or using urban spaces, either 
+for commercial or residential purposes, were pushed by concerned bodies under the 
+rhetoric of ‘beautification’ or ‘urban renewal process.12 This is because using such 
+expressions implies a more positive and value-neutral outlook ignoring its other 
+sides.13 Gentrification has been a crucial reason for people’s displacement, 
+attracting academic attention to the issue; yet there is paucity of knowledge that 
+needs to be addressed. Even studies on ‘classical’ interpretation of gentrification 
+have been largely absent until recently.  
+Against this backdrop, and drawing inspiration from the urge of recent thinkers to 
+investigate gentrification from the political-economic context,14 this study seeks to 
+                                                           
+9  N. Islam, ‘Bangladesh’, in B.H. Roberts and T. Kanaley (ed.), Urbanization and 
+Sustainability in Asia: Case Studies of Good Practice , Asian Development Bank, (May 
+2006), pp. 43-68, Available at https://www.researchgate.net/publication/273693983_ 
+Urbanization_and_Sustainability_in_Asia_Good_Practice_Approaches_in_Urban_ 
+Region_Development, (Accessed on 12 November 2020); A. Kabir and B. Parolin, 
+Planning and Development of Dhaka- A Story of 400 Years,  Proceedings of the 
+International Planning History Conference Brazil, July 2012, p.11. 
+10    A. Kabir and B. Parolin, op. cit, p.11 
+11    S. Huq and M. Alam, ‘Flood Management and Vulnerability of Dhaka’, in A. Kreimer, 
+M. Arnold, and A. Carlin  (ed.) In Building Safer Cities: The Future of Disaster Risk, 
+Washington: The World Bank, 2003, pp. 121-136 Available at https://www. 
+preventionweb.net/files/638_8681.pdf, (Accessed on 15 March 2021); Cited from A. 
+Kabir and B. Parolin, op. cit., p.12. 
+12    S. He, 'New-Build gentrification in central Shanghai: Demographic changes and socio-
+economic implications', Population, Space and Place , vol. 16, no. 5, 2010, pp. 345-361; 
+R. Moore, ‘Understanding Gentrification in Southeast and East Asia’, Interdisciplinary 
+Studies Journal, vol.13, 2013, p.121. 
+13   L. Lees, T. Slater, and E. Wyly, ‘Gentrification Routledge’, New York , 2008; H. B. 
+Shin, L. Lees, and E. Lopez-Morales, 'Introduction: Locating Gentrification in the 
+Global East', Urban Studies, vol. 53, no. 3 , 2016, p.6. 
+14    H. B. Shin, L. Lees, and E. Lopez-Morales, op. cit., pp. 1-16. 
+64  Tamanna Rashid 
+ 
+ assess the pace of Dhaka’s gentrification in comparison with the current trends in 
+the gentrification process in the contemporary global North. It unfolds that Dhaka 
+does not exhibit mimic Anglo-American gentrification processes. Instead, in most 
+instances, it resembles the new-build gentrification experienced by many East 
+Asian cities. This argument is supported by empirical data collected from field 
+visits in two areas of Dhaka city: the Mohammadpur area, and the Mirpur area. The 
+paper has three sections. Since this is an empirical research, the first section 
+discusses the methodology of the study. The second section presents theoretical 
+issues of gentrification; and in doing so, it draws on the experiences of 
+gentrification in the cities of the global North. The third section analyses the 
+findings of the empirical study, that is, gentrification in Dhaka city.15 
+Methodology  
+As stated earlier, this study unfolds the process of gentrification in Dhaka. The 
+research was empirically conducted in two selected areas – Mirpur and 
+Mohammadpur in Dhaka city – between 2016 and 2017. Both areas were selected 
+based on their rapid spatial changes and infrastructural development for the last few 
+decades. A large number of shopping malls, restaurants, boutique houses, parlours, 
+gymnasiums, and other structural amenities have immensely changed the city 
+landscapes. Besides, both areas have been turned into housing enclaves for 
+emerging middle-class residents with the intervention of private and public 
+developers. Therefore, the researcher selected these two areas as case studies for 
+investigating the gentrification process. The study is based on the qualitative 
+methodology in social research. It has collected data through, including in-depth 
+interviews, key informant interviews (KIIS), and field observation. Following a 
+theoretical sampling procedure, the researchers carried out qualitative interviews 
+using a basic interview guide to the local people involved in various occupations 
+like government officials, private officials, small and medium businessmen, shop 
+owners, and house owners. All the respondents were residing or involved in the 
+areas either for living or working purposes for about 15 to 40 years. To explore 
+necessary changes related to the gentrification process, residents who were living in 
+those areas for a long period were prioritised and selected purposively. In total, 14 
+formal and 5 informal interviews were conducted. Furthermore, observations over 
+six months (from April 2016 to October 2016) and taking field notes were firm 
+techniques for collecting data to capture the whole picture of using urban spaces for 
+                                                                                                                                       
+15   J. Hackworth, Third Wave Gentrification, Ph D dissertation, Department of Geography, 
+Rutgers University, 2000, p.22. 
+ 
+ 
+Unfolding Gentrification   65 
+ multiple purposes in the selected areas. All the interviews were either digitally 
+recorded or written by the researcher on her own and then analyzed thematically 
+according to the trends of the gentrification process with relevance to the global 
+cities. Besides, the researcher attained enormous help from many secondary sources 
+of data such as journal articles and books, as well as grey literature on the previous 
+and the contemporary changes of the areas. These data were also arranged 
+thematically, under the themes of neighbourhood type in the past, contemporary 
+changes in the neighbourhood, reasons behind the changes, the role of the real 
+estate sector, and displacement and eviction. The article now explores the 
+gentrification process in Dhaka city. 
+Contextualising Gentrification from Theoretical Perspectives 
+Gentrification describes a process of transition of lower-class residential places or 
+any vacant places into a new land of middle-class people for their residential and 
+commercial uses.16 Similarly, Smith defines it as a way in which some intact or 
+commercially unused urban neighbourhoods undergo a change of reinvestment in 
+the built environment and rejuvenate for a group of new well-off middle and upper-
+middle-class people.17 This process of physical and socio-cultural transformation of 
+downtown neighborhoods into an enclave of urban middle-class people displaces 
+lower class people and small entrepreneurs.18 Hence the process implies an increase 
+in property value which is essentially economic by nature.19 As gentrification has 
+become a controversial issue in this era of the neoliberal economy, scholarly works 
+have addressed it from multiple dimensions. In addressing the ongoing changing 
+urban structure in the second half of the twentieth century, two approaches received 
+prominence. One is the production side explanation. It emphasises the role of class, 
+capital, and changes in the material production of economic space in the city. The 
+second one, the consumption approach, stresses culture, lifestyles, and patterns of 
+consumption associated with the process.20 
+                                                           
+16    L. Lees, et al., op. cit. 
+17  N. Smith, ‘Gentrification’, in W. V. Vliet (ed.), The Encyclopaedia of Housing , Sage, 
+London: Thousand Oales CA. 1998, pp.198-199. 
+18   R. Glass, ‘London: Aspects of Change’, in L. Lees, T. Slater, and E. Wyly (ed.), The 
+Gentrification Reader, London and New York, Routledge, 2020, pp. 7-8.                
+19   J. Hwang, ‘The Social Construction of a Gentrifying Neighbourhood: Reifying and 
+Redefining Identity and Boundaries in Inequality’, Urban Affairs Review, vol.52, no.1, 
+2015, pp.98-128.  
+20  A. Cocola-Gant, ‘Gentrification and displacement: urban inequality in cities of late 
+capitalism’, in T. Schwanen, and V. K. R. (Eds.), Handbook of Urban Geography, 
+Edward Elgar Publishing, Cheltenham and Northampton, 2019, pp.4-6. 
+66  Tamanna Rashid 
+ 
+ According to Ley, gentrification is a result of changing income and occupational 
+structures of advanced capitalist society.21  Cities have shifted away from their 
+previous role of manufacturing centres to a new hub of business and consumption 
+services. The shift in question has produced a centre of diverse new professionals 
+that emerged from a process of displacement of industrial working-class people 
+from central city areas.22 Based on the consumption approach, Zukin similarly 
+relates gentrification to the growth of the consumer-oriented service economy, 
+resulting from the decline of the industrial production economy in developed 
+cities.23 Conversely, according to the production side explanation24, gentrification 
+needs to be understood within the context of the late twentieth century’s political 
+economy.  Here the mobility of capital and investment, and the production and 
+reproduction of urban spaces are more crucial than that of the production of tastes 
+and demands of the middle-class people.  By analysing the suburbanisation process 
+of America, Smith reveals that the renewal of American inner cities is associated 
+with a movement of investment of economic capital in inner cities.25 
+Given the contradictory positions of the consumption and the production side 
+theories in explaining gentrification, 26 recent thinkers believe that neither of the 
+theories can adequately describe the gentrification process.27 Therefore, a more 
+intensive explanation of gentrification requires variegated historical and contextual 
+analysis rather than examining it from the classical perspective or any particular 
+geographical contingencies.28 In particular, in the context of non-Western countries, 
+and more specifically in the Global East, gentrification needs to be understood 
+through the lens of the political economy approach to urban development.29  
+Socio-structural processes of gentrification 
+The first phase of gentrification was marked by the post-war period and found in 
+some cities like London and New York, initiated by some small-scale ‘gentrifiers’ 
+                                                           
+21  D, Ley. The New Middle Class and the Remaking of the Central City.  Oxford University 
+Press, Oxford, 1996.  
+22    Ibid. 
+23  S. Zukin, Landscape of Power: From Detroit to Disney World, University of California 
+Press, Berkeley, CA, 1991. 
+24  N, Smith. Toward a Theory of Gentrification: A Back to the City Movement by Capital, 
+not People. Journal of the American Planning Association,  vol. 45, no. 4, 1979, pp. 
+538-548. 
+25  A. Cocola-Gant, op. cit. p. 5. 
+26  F. Tonkiss, Space, the city and social theory: social relations and urban forms, Polity 
+Press, Oxford, 2005. 
+27  E. Clark, ‘The Order and Simplicity of Gentrification- a Political Challenge’, in L. 
+Lees, T. Slater, and E. Wyly, The Gentrification Reader, Routledge, London, and New 
+York, 2005, pp. 256-264. 
+28  H. B. Shin, L. Lees, and E. Lopez-Morales, op. cit, pp. 1-16. 
+29  Ibid. 
+Unfolding Gentrification   67 
+ who organised to resettle downtown neighbourhood areas for their personal use.30 
+These groups of people were attracted to disinvested inner-city neighbourhoods. 
+The main reason for this was affordable housing. 31 While these were the initial 
+instances of the localized nature of gentrification, public funding significantly 
+induced the process.32 Although state intervention was appreciated with the 
+narratives of renovating deteriorated urban physical structure, it eventually brought 
+dreadful consequences, specifically for the urban working class.33    
+The second wave’ gentrification started after the economic recession of 1973.  
+During this period development firms and real estate played a powerful role in 
+turning new neighbourhoods into gentrified neighbourhoods. Cities adopted new 
+strategies in order to appeal to such kind of investment.34 Unlike the first wave, the 
+state's role here was to spur on expanding the private market rather than directly 
+coordinating the system.35 This wave too witnessed counteractive incidences 
+against gentrification in many cities. This is because gentrification came out to be 
+an obvious reason for homelessness, displacement, and increased vulnerabilities of 
+the urban poor inhabitants.36 Furthermore, many thinkers outlined ‘deindustrialisation’ 
+as an underlying socio-economic factor that fostered the process of gentrification in 
+the second half of the twentieth century.37  
+Deindustrialisation worsened the physical and social conditions in downtown 
+neighbourhoods, resulting in increased unemployment, marginalisation, and 
+deterioration of buildings. To address these post-industrial social and material 
+problems, successive governments undertook many restoration programs such as 
+                                                           
+30  A. Cocola-Gant, op. cit. 
+31   N. Smith, and P. Williams, 'Alternative to Orthodoxy: Invitation to a Debate' in N. 
+Smith and P. Williams (ed.), Gentrification of the City,  Boston: Allen and Unwin, 1986. 
+32  C. Hamnett, ‘Improvement Grants as an Indicator of Gentrification in Inner London’, 
+Area, vol. 5, 1973, pp. 252-261; See more: P. Williams, ‘The Role of Institutions in the 
+Inner-London Housing market: the Case of Islington’, Transactions of the Institute of 
+British Geographers , vol. 3, 1976, pp. 23-34; N. Smith, ‘Gentrification and Capital: 
+Theory, Practice, and Ideology in Society Hill’,  Antipode, vol. 11, no. 3, 1979, pp. 24-
+35; J. Hackworth, and N. Smith, ‘The Changing State of Gentrification’, Tijdschrift 
+voor Economische en Sociale Geografie, vol. 92, 2001, pp. 464-467. 
+33  N. Smith, The New Urban Frontier: Gentrification and the Revanchist City , New York: 
+Routledge, 1996, pp.49-89, Available at http://rohcavamaintenant.free.fr/ USB% 
+20KEY%20Fahriye/k%C4%B1tap%20Neil%20Smith_The_New_Urban_ Frontier_ 
+Gentrification_and_Revanchist_City.pdf,  (Accessed on 13 October 2020); Cited from 
+Ibid. Hackworth and Smith, 2001. 
+34    Ibid. 
+35    Ibid. 
+36   N. Smith, ‘Tompkins Square: Riots, Rents, and Redskins’, Portable Lower East Side , 
+vol. 6, 1989, pp. 1-36. 
+37    S. Zukin, op. cit. 
+68  Tamanna Rashid 
+ 
+ the 'back to the city' movement (‘neighbourhood revitalisation) which eventually 
+brought new life to the downtown neighbourhoods after a long period of 
+disinvestment and decay38 Zukin argued that as a result of the process of 
+deindustrialization and decline in property value, the entire political economy of the 
+central city was changing.39 He outlines the remarkable process of the replacement 
+of traditional industries by middle-class residents: by 1980, in Manhattan about half 
+of the total old buildings were converted into new ones while another 11 per cent of 
+loft spaces were brought to residential uses. The recycling process of old buildings 
+into new uses started with the moving out or closing down of manufacturing 
+industries, particularly, garment industries. The remaining places were taken over 
+by a new class of artists at a cheap price. They transferred large basic shells into 
+small, luxury flats. 
+The city administration and local government adopted many urban renewal 
+programs, such as back to the city movement and gentrification as a recovery of 
+urban decay during the 1970s. However, the global triumph of neoliberalism since 
+the 1980s, particularly during the third wave of gentrification, the state directly 
+intervened in intensifying the process.40 During the economic crisis of USA in the 
+late 1980s, the market of inner-city residential lands collapsed acutely, along with 
+other economic sectors. This context led some critics to claim that the 1990s would 
+experience ‘de-gentrification’.41  
+The recession, however, acted reversely more as a transition period to the next 
+phase of gentrification than bringing a halt in inner-city reinvestment; and in many 
+instances, it orchestrated new economic conditions and processes that made 
+investors more attracted to reinvest in disinvested urban areas.42 According to 
+Hackworth and Smith, gentrification that has sprouted after the 1990s on the global 
+stage is more contended because of its unprecedented nature of expansion in both 
+inner-city neighbourhoods and to more distant neighbourhoods.43 Moreover, while 
+globalisation and new economic restructuring in the real estate industry have 
+opened up new grounds for larger developers to invest in gentrification, the state 
+                                                           
+38    L. Lees et al., op. cit. 
+39  N. Falk, ‘Loft Living: Culture and Capital in Urban Change by Sharon Zukin’, The 
+Town Planning Review , vol. 59, no. 3, 1988, pp. 337–339,  www.jstor.org/stable/ 
+40111707, (Accessed on 26 April 2021). 
+40   M. Lauria, and L. Knopp, ‘Toward an analysis of the role of gay communities in the 
+urban renaissance’, Urban Geography , Vol. 6, No. 2, 1985, pp. 152-169.  
+41  C. Bagli, ‘De-gentrification’ Can Hit When Boom Goes Bust’ , The New York Observer , 
+(5 August 1991), p.12, Cited on J. Hackworth and N. Smith, op. cit. 
+42    Ibid.  
+43    Ibid. 
+Unfolding Gentrification   69 
+ has played a more direct role in arranging and patronising the whole process. Post-
+recession gentrification continues displacing poor urban residents from the inner-
+city. As a result, all kinds of stumbling blocks against the process tend to 
+completely disappear. It is the new-build gentrification that attained more 
+prominence than others during the third wave of gentrification.44 
+Gentrifications and erosion of the authenticity of neighbourhoods 
+According to Zukin, the most striking impact of gentrification in the 21st century in 
+a big city like New York is that it has ‘lost its soul’ through the process of 
+gentrification.45 She elaborates how community authenticity erodes in gentrified 
+areas. The authenticity of places means real places for real people who need them. 
+The low-income people in New York City are always encountered with the 
+problem of displacement induced by the process of gentrification, as they have no 
+permanent ground to live. Initially, with the rising demands for lands by the 
+outsider, the landlords start to increase rents in the neighbourhoods. Then, 
+newcomers and new businesses enter the neighbourhoods, forcing original residents 
+and local smaller shops to move and establish elsewhere. Later, real estate 
+developers, with the help of the political groups, introduce new retail and 
+residential projects, leading to a further increase in rent and costs. This process 
+intensifies commercial and residential gentrification. Furthermore, it is related to 
+the process of displacement. The process not only displaces old inhabitants from 
+their original places but also replaces old buildings and architectures by new ones, 
+and transfers small shops and business centres into giant shopping malls. Thus, 
+through this process of socio-structural transformation, the neighbourhoods lose 
+their original socio-cultural characters as well as authenticity.   
+Class and diversity in gentrified neighbourhoods 
+The historical context that led Ruth Glass to coin the term ‘gentrification’ was a 
+turmoil situation in London. The situation was characterised by rising resentment 
+among people over housing and class conflicts. There were other causes well such 
+as increasing property prices resulting from the subsequent displacement of the 
+lower-income people, rehabilitation of old houses, and changes in the patterns of 
+                                                           
+44  M. Davidson, and L. Lees, 'New-Build Gentrification: Its Histories, Trajectories, and 
+Critical Geographies', Population, Space and Place , Vol. 16, 2009, pp. 395-411, 
+Available at https://wordpress.clarku.edu/mdavidson/files/2012/02/Davidson-Lees-
+2010-New-Build-Gentrification.pdf, (Accessed on 25 February 2021). 
+45   S. Zukin, Naked City: The Death and Life of Authentic Urban Places, Oxford 
+University Press, New York, Xviii, 2010, pp.294. 
+46  T. Slater, ‘Gentrification of the City’, in E. B. Watson (ed.), Bridge: The New Blackwell 
+Companion to the City , Blackwell Publishing Ltd, 2011, pp.571-584. 
+70  Tamanna Rashid 
+ 
+ possession g in the second half of the twentieth century.46 It was under these 
+circumstances; Ruth Glass used the term ‘gentrification’ to capture the class 
+inequalities and conflicts created by the capitalist market policies. Of note, market 
+policies caused eviction, homelessness, and displacement of the lower-income 
+people from the central city by a class of financially fittest survivors.47 Since the 
+1960s, many cities in developed countries like London, Melbourne, or Toronto 
+have experienced an influx of these new middle-class residents into their centres.48  
+Ley provides an empirical analysis regarding why these newcomers tended to 
+locate in central city areas. He explains a transformation period through which 
+these cities had gone.49 First, these cities have shifted from their previous role of 
+manufacturers to new roles of centres of businesses and consumption services. This 
+has eventually produced a large group of qualified new professionals whose 
+consumption patterns and demands for urban living stimulated the gentrification 
+process. Secondly, as the hub of business and consumption services, these central 
+city areas offer various accesses to work leisure and cultural activities. They create 
+the opportunities to reside in areas close to environmental and structural amenities 
+like waterfronts, historical and architectural places, neighbourhood stores, 
+supermarkets, schools and others alike. Thirdly, the inner city rehabilitation was 
+also related to changing domestic arrangements: e.g., increasing dual-income 
+households; childless, same-sex, and single-parent households; a new class of 
+women having high education and better employment;  and gender equality 
+concerning access to urban consumption patterns etc.50 These features of central 
+city areas were different from those of suburban patriarchal households; hence, 
+these areas were viewed as a place for tolerance, diversity, and freedom.51  
+Therefore, one of the overall effects of the gentrification process was renovated 
+housing. Another effect was the generation of new spaces of consumption that 
+attracted more middle-class residents to come and settle down. All these two effects 
+contributed to the subsequent increase in property value that had largely displaced 
+the lower class people from the city centres.52 In this context, this paper unfolds the 
+gentrification process in Dhaka city through the lens of the aforementioned socio-
+structural perspective of gentrification.  
+                                                           
+47    R. Glass, op. cit.  
+48    N. Smith and P. Williams, op. cit. 
+49    D. Ley, op. cit. 
+50    F. Tonkiss, op. cit. 
+51    D. Ley, op. cit. 
+52    F. Tonkiss, op. cit. 
+ 
+Unfolding Gentrification   71 
+ Gentrification in Dhaka City 
+This section presents empirical findings of gentrification in Dhaka city. It has three 
+subsections. The first subsection offers a brief account of Dhaka before 
+gentrification. This is followed by an analysis of the main findings relating to 
+gentrification in Dhaka city. Thirdly and finally, this section discusses Dhaka city's 
+gentrification in comparison with that of the cities in the global North and also 
+developed cities in Southeast/East Asia.   
+Dhaka city before gentrification 
+Being the hub of administrative and financial activities, Dhaka city is divided into 
+two major regions: the Dhaka North City Corporation, and the Dhaka South City 
+Corporation. Mirpur and Mohammadpur areas belong to the Dhaka North City 
+Corporation. In this research, Dhaka’s gentrification process is keenly observed by 
+taking Mirpur and Mohammadpur areas as case studies. The East Pakistan 
+government established the Mirpur Model Thana in 1962, and the Mohammadpur 
+Model Thana was formed by the newly independent government of Bangladesh in 
+1976. Indeed, after independence in 1971, the government allocated these areas 
+mainly for the lower-income people constituting both local inhabitants and people 
+coming from different parts of the city. A survey by the Migratory Movement 
+Research Institute in 1993 documented that 59 per cent of the lower-class people of 
+Dhaka were the residents of the Mirpur area.53 Moreover, a considerable number of 
+people were refugees in these areas. The East Pakistan Government allotted these 
+areas to rehabilitate the non-Bengali refugees coming from Bihar (a state in eastern 
+India) after the partition of India in 1947. Since the Independence of the country in 
+1971, particularly throughout the 1980s, the number of these people decreased 
+significantly. These people were literate, Urdu speaking, and occupied with some 
+sorts of professions and businesses. Though a significant number of these people 
+had managed to migrate to Pakistan after Independence, it is estimated that about 
+400,000 Biharis are still living across the country. Among them, about 100000 
+Biharis are hosted in different settlements of Dhaka,54 while Mohammadpur alone 
+hosting about 80,000 of these people in the Geneva Camp.55 
+                                                           
+53   F. K. Sharna, 'Gentrification-An Important Reason for the Loss of Affordable Housing 
+in Mirpur Thana’, Proceedings of the Bangladesh Planning Research Conference 5-6 
+February 2016 , Department of Urban and Regional Planning, Jahangirnagar University, 
+Dhaka, Bangladesh, p. 2,  Available at http://www.bip.org.bd/ SharingFiles/ 
+201609161348081.pdf. (Accessed on 14 January 2020). 
+54   R. Rafe, ‘The neglected 'Bihari' community in Bangladesh’, Deutsche Welle, 14 
+October 2019, p.3, Available at https://www.dw.com/en/the-neglected-bihari-
+community-in-bangladesh/a-50824994, (Accessed on 17 September 2020). 
+55  ‘How are the Biharis of Mirpur? Voting rights, NIDs did little to change their fortunes’, 
+United News of Bangladesh, 22 September 2019, p.1, Available at https://unb.com.bd/ 
+category/Special/how-are-the-biharis-of-mirpur/28657, (Accessed: 22 September 2020). 
+72  Tamanna Rashid 
+ 
+ Field investigation reveals that residents in these areas were illiterate and small in 
+number, engaged either in small-scale agricultural activities or involved in small 
+businesses. Alamgir Hossain, a professor of Mirpur University College, describes 
+their common patterns of occupations as follows:  
+When I first came to Mirpur during 1980s, I saw the majority of people were floating 
+people engaged in small and medium scale businesses such as grocery shops, tea stalls, 
+and small battle leaf outlets. Many people worked as rickshaw pullers, day labourers, 
+and vendors. Many of the local people had their own houses; and by renting them to 
+new residents, they used to attain their livelihood. Some were also small farmers but 
+large scale agricultural activities were never found in these areas.56 
+People, particularly those who had migrated to these areas from other regions of the 
+country, were associated with factory-based activities in and outside areas of the 
+city. Furthermore, few people were involved in government and non-government 
+professions. The main reason people migrated here lies in the cheap house-rent and 
+low land-value compared to the then central Dhaka city areas (now Old Dhaka). 
+Housing types were mainly kancha, semi pucca, and tin-shaded. Some brick 
+buildings also existed but they were not similar to the present-day apartment 
+buildings. Buildings that are now regarded as old were considered to be the most 
+attractive and fashionable at that time. The communication system was also very 
+poor. There were no such kind of pucca or developed roads and streets like today. 
+Vehicles were mainly bullock-carts, horse carriages, rickshaws, and hand-barrows. 
+Furthermore, the number of schools and colleges were only a few but increased 
+sharply after the 1990s. During the 1980s, the majority of the places were 
+agricultural lands, marshlands as well as wetlands. Meanwhile, many housing 
+projects were initiated privately. Under those housing projects, many low-lying 
+areas and water bodies were used profitably. For example, many areas at Mirpur 
+were completely swampland and covered with bushes before the launch of the 
+Rupnagar Housing Project and Janata Housing project. Likewise, the Mohammadia 
+Housing and the Japan Garden City in Dhaka’s Mohammadpur were built over the 
+slough areas. 
+Changes in urban spaces and buildings 
+It is revealing from data that central Dhaka city has undergone an immense 
+physical expansion. The majority of its newly extended parts such as Gulshan, 
+Banani, Dhanmondi, Mirpur, and Mohammadpur were brought under planned 
+development projects during the 1950s and 1960s in order to accommodate middle-
+class people. Both governmental and real estate corporations, albeit rarely in a well-
+                                                                                                                                       
+56    Alamgir Hossain, interview with author, Dhaka, 11 June 2016. 
+ 
+Unfolding Gentrification   73 
+ organised and consistent way, are found to play role in improving the structural 
+amenities of the Mirpur and the Mohammadpur regions. But real estate and 
+developers acted as vanguards of developing run-down areas. The Eastern Housing 
+Limited, the first private company in the real estate business, has been contributing 
+to facilitating urban housing needs in Dhaka since the 1960s. One of its initial 
+projects is the Pallabi housing in Mirpur. The Rupnagar Residential Project, 
+however, was implemented by the National Housing Authority (NHA) at Mirpur in 
+1982, aimed at purveying the housing needs of the middle-class people. Similar 
+results can be traced to the case of Mohammadpur. The Mohammadia Housing 
+started its journey as a private housing corporation during the 1980s. The Japan 
+Garden City, one of the largest housings in the area, set forth as a public-private 
+partnership project after the 2000s to provide affordable housing to middle-class 
+people. Moreover, the researcher finds a plethora of housing corporations running 
+their projects in both areas while the majority of them are initiated by developers.  
+Miraj Shikdar, a house owner of Mohammadpur, tells the author: 
+Almost all the buildings in this area were constructed by private initiatives with the help 
+of developers. People who could not afford to build buildings on their lands were later 
+able to be house owners with the help of developers. However, our efforts were also 
+appreciating. People who bought plots in housing areas voluntarily left some lands so 
+that we could make streets inside the housing project area for our convenience and we 
+also funded those projects.57 
+After the 1990s, people coming from various parts of the city occupied almost all 
+the vacant places including low lands, water bodies, bushes, as well as agricultural 
+fields, and transformed them into residentially and commercially used areas. Since 
+then, the number of apartment buildings has increased but remarkably increased in 
+recent years. There is the growth of a large number of offices, businesses and 
+corporations, banks, and other financial institutions. The construction of new roads 
+and streets is remarkable.  The field visit manifests that significant changes have 
+taken place over the years in the structural and architectural designs of buildings. 
+The flat culture has become immensely fashionable to many housing corporations 
+in recent times and even it has now become a matter of public demand. New multi-
+storied apartment buildings have replaced old buildings, as apartment buildings 
+appropriate urban spaces more profitably. It is also revealing from this study that 
+most of the buildings are constructed between 15 to 20 years and are provided with 
+modern structural equipment. The increasing population accelerated volume of 
+development projects, and price hike of land – all have run at par. Zahangir Alom, a 
+house owner of the Mohammadia housing, illustrates the scenario: 
+                                                           
+57    Miraj Shikdar, interview with author, Dhaka, May 14, 2016. 
+74  Tamanna Rashid 
+ 
+ When the Mohammadia housing started to sell plot during the 1980s, land price was 
+relatively lower than other regions of Dhaka city. People like us [who migrated to the 
+city for job purposes and belong to the middle or lower-middle class] found these areas 
+convenient and affordable for their future generations. Per ‘ katha’ was sold at the price 
+of Taka 30 to 50 thousand only; but after the 2000s, that price increased tremendously. 
+Even now this area has gone far away from the capacity of the middle-class people. 
+Many of the house owners do not reside in these areas. Rather, they renting their houses 
+here and reside in some other high profile areas like Gulshan and Banani.58 
+Moreover, House rent has increased notably in these areas over the years. It is 
+revealing from data that during the 2000s, the monthly rent of a medium size flat 
+(on average two bedrooms, one dining room, kitchen, two bathrooms, and balcony), 
+accompanied with all types of utilities, was taka 4 to 5 thousand. Today, the same 
+size flat costs about taka 15 to 20 thousand. It is also found that house rent varies 
+depending on locations. For instance, house rent is two or three times higher in 
+central Mirpur and Mohammadpur areas than in their adjacent run-down areas like 
+Duaripara and Rupnagar tin shed areas. Similarly, Baunia, Beribadh, Jahanabad, 
+Rupnagar tin-shed are among low house rent areas due to the existence of slum and 
+squatter settlements for lower-class people. In the last two decades, because of this 
+ever-increasing rate of house rent, lower-income people were compelled to move to 
+nearby cheap house rent areas. 
+Along with the process of infrastructural development, both areas have experienced 
+a transition in economic activities. Several structural types of equipment are 
+arranged to cater for the demand of a new growing population. Moreover, a 
+plethora of offices, business and corporations, banks and other financial centres, 
+and educational institutions have experienced growth in the areas. Side by side, 
+services in restaurants, cafes, parlours, boutique houses and tailoring, gymnasiums, 
+stationeries and confectionaries, super shops, and giant shopping malls have 
+flourished in these areas, creating new job opportunities. It is estimated that 
+approximately 45 per cent and 35 per cent of the total income of the people of the 
+Mirpur and the Mohammadpur areas respectively are generated from service 
+sectors. As Zahidul Islam, a shopkeeper in Mirpur, tells the author:  
+Several years ago, only a few restaurants were serving very specific items of food like 
+rice, paratha, and tea. But now thousands of hotels and restaurants have emerged in 
+these areas.  Amongst them, specialised tea shops, coffee shops, Chinese restaurants, 
+Indian restaurants, Italian restaurants, biriyani houses, grill houses, burger houses, pizza 
+houses and so on are noticeable.59 
+                                                           
+58    Zahangir Alam, interview with author, Dhaka, June 9, 2016.  
+59    Zahidul Islam, interview with author, Dhaka, June 12, 2016. 
+Unfolding Gentrification   75 
+ The present study also reveals that almost all the urban spaces in these areas are 
+used for commercial purposes. From the field visit, the researcher gained a 
+mountain of evidence of using public spaces for commercial intentions. Traditional 
+places for spontaneous public interactions – such as parks, neighbourhood fields 
+and centres, open grounds and streets – have now become either landscape of giant 
+shopping malls or being appropriated by vendors and informal workers illegally for 
+their subsistence. The researcher has not found any places left unused. Even 
+residential buildings are using their ground floors for establishing English medium 
+schools and coaching centres, art institutes, beauty parlours, as well as grocery 
+shops. Besides, children are seen to use public streets as playgrounds inside the 
+residential areas, as the city fails to provide spaces for public use. This vivid nature 
+of using urban spaces for capital accumulation portrays the postmodern philosophy 
+of market-oriented architectural and urban designs.  
+Changes in class position in the neighbourhoods 
+As Mirpur and Mohammadpur are extended parts of central Dhaka, these areas 
+have been renewed by the people mainly coming from different parts of the country 
+as well as the city. Several studies have revealed that the majority of the people are 
+intra-city movers who lived previously in central Dhaka and moved to 
+Mohammadpur, Mirpur, Dhanmondi, Gulshan, Banani, Uttara, and some other 
+extended parts of the city after the 1980s.60  Nevertheless, more people settled in 
+these areas during the 1990s and afterwards, as they tended to locate in facilitated 
+neighbourhoods. These people were young, usually first-generation ‘gentrifiers’, 
+involved in various businesses and professions. As expenses and unavailability of 
+vacant lands and new houses increased in the central city, previous demand for 
+housing near schools, supermarkets, neighbourhood stores decreased, particularly 
+among families without children, students, bachelors, and working women. 
+Therefore, the demand for relatively low expensive lands and building stocks 
+distant from central city areas increased particularly among these groups of people. 
+These new middle-class residents tended to be located in facilitated 
+neighbourhoods, not far away from the central city. This, meanwhile, increased 
+property value and new residential projects were needed to accommodate these 
+newly emerging middle-class residents in Dhaka’s outskirt areas.  
+Here it is pertinent to draw on Khatun’s study. Khatun identifies the characteristics 
+of the intra-city movers who have migrated from the central city to its extended 
+                                                           
+60  H. Khatun, ‘Dhakaiyas and Gentrification in Old Dhaka’,  Jahanara Majid and 
+MahbububAlam Trust Fund Lecture 2016 , Dhaka, Asiatic Society of Bangladesh, (17 
+January 2017), pp. 1-13, Available at http://geoenv.du.ac.bd/wp-content/uploads/ 
+2017/09/ Dhakaiyas- Gentrification.pdf, (Accessed on 13 February 2020). 
+76  Tamanna Rashid 
+ 
+ parts. She finds that the majority of intra-city movers were young, aged between 25 
+to 40; they have nuclear families with or without children, while other 20 per cent 
+had extended families with them.61 The present study also depicts that majority of 
+the residents belong to the middle class in terms of their occupational categories, 
+lifestyles, and consumption patterns. The dominant occupational categories are 
+lawyers, doctors, engineers, academics, politicians, home and landowners, 
+businesses men and corporate officials as well as government and non-government 
+officials. A similar study also claims that in the Mirpur Thana, the middle-class 
+people constituted about 47 per cent of the total population.62 Hedayet Miah, one of 
+the respondents from Mohammadpur, tells the author: “Middle-class people, whose 
+monthly income starts from nearly Taka 50,000, constitute the majority of the total 
+population of the area, while the rich and the poor constitute the rest.’’63  
+The phenomenon of displacement 
+Although the regeneration of these outskirts has occurred with the influx of these 
+middle-class people, this revitalisation process is also linked to the displacement of 
+the local and lower-income people from these areas. This study holds evidence that 
+due to the increasing prices of lands and the expense of living, lower-income local 
+people have found it difficult to adapt to a thriving lavish lifestyle implanted by the 
+process of gentrification. Eventually, they have chosen to move to nearby low-
+expensive areas like Beribadh and Basila. Therefore, this process of neighbourhood 
+regeneration is also associated with the emergence of slum dwellings and squatter 
+settlements for the poor. As Debashis, a retired government official and house 
+owner at Mohammadpur says, ‘With the progress of development activities, slums 
+have shifted away; and the increase of costs of living have displaced lower-class 
+people from their original places.’64 
+In a similar vein, another study claims that gentrification in the areas under the 
+Mirpur Thana is related to the loss of affordable housing for lower-class people.65 
+Based on Smith’s rent gap theory, the study informs that the increasing rate of 
+house rent, land price and the rising cost of living – all resulting from some 
+developmental projects – have compelled local people to be displaced and find their 
+resettlement to some nearby affordable areas. In the case of Dhaka, however, 
+despite having evidence for displacing lower-income people due to the 
+neighbourhood’s regeneration process, the researchers find a peculiar picture. The 
+residential areas for middle-class people also contain some places for lower-class 
+                                                           
+61    Ibid. 
+62    F. K. Sharna, op. cit., p.5. 
+63    Hedayet Miah, interview with author, Dhaka, May 20, 2016.  
+64    Debashis, interview with author, Dhaka, July 03, 2016. 
+65    Ibid. 
+Unfolding Gentrification   77 
+ people. For example, in the case of Mirpur, the researcher finds the juxtaposition of 
+the Rupnagar residential area for the middle-class and the Rupnagar tin shed 
+residential area for lower-income people. The coexistence of the power of the 
+powerful classes and the everyday resistance of the lower-class people have 
+become a regular phenomenon in Dhaka, like in all other global cities.66 Moreover, 
+the displacement process is a little bit ambiguous there. While many people have to 
+leave the place as they fail to compete with the nascent cost of living, the incidence 
+of evicting slums permanently is rare. Emdadul Haque, a resident of Mirpur, 
+elaborates this: 
+There are still many big slums in areas such as Jhilpar and Baganbari. Fire outbreaks 
+are regular incidents there. Nobody knows who sets the fire on. After each fire 
+outbreak, slum people have to live on open grounds, as they do not have other places to 
+go. Sometimes police also destroy many houses so that these people leave the place but 
+they do not. After some days or months, they rebuild their house perhaps with the help 
+of local political groups by paying them money.67 
+Another salient factor is that the displacement of lower-class people, due to de-
+industrialisation or closing down/shifting industries, has not happened so strikingly 
+in Dhaka unlike in other western global cities. Rather, a large number of low-
+income people are still residing in these areas to provide labour-power to many 
+existing small and medium industries like garment industries, backward linkage 
+industries, toys companies, shoe manufacturing, and hat companies. Nevertheless, 
+this study holds evidence about the displacement of low-income people induced by 
+the process of gentrification. As Zakir Hossain, a house owner in the Mirpur area 
+and a retired government officer says: 
+Some garment and textile industries have been shifted from the Mirpur area to the Savar 
+and the Gazipur regions. The workers involved in those industries would not more than 
+20 to 25 per cent of the total low-income people of the area. However, all of them have 
+not been displaced with their promising working industries. Yet, a large number of them 
+are still here and have got new jobs, as many manufacturing industries are also available 
+here.68 
+Discussion   
+Dhaka city has experienced an immense physical extension from its city centre to 
+the northern part since the country emerged as an independent nation in 1971. 
+Mohammadpur and Mirpur are among its extended northern parts which initially 
+                                                           
+66  S. Zukin, ‘The postmodern invasion’ , International Journal of Urban and Regional 
+Research, vol. 16, no. 3, 1992, pp. 485-495.  
+67    Emdadul Haque, interview with author, Dhaka, June 18, 2016. 
+ 
+68    Zakir Hossain, interview with author, Dhaka, July 05, 2016. 
+78  Tamanna Rashid 
+ 
+ served to host a large number of refugee people. People gradually started to come 
+and settle down in these areas because of the comparatively lower value of the 
+property than in the central city areas. This period, however, can be illustrated with 
+an increased property value of the study areas with several knock-on effects.  In the 
+case of Dhaka, unlike the global Northern cities, there is a dearth of evidence of 
+‘sweat equity’ gentrification. Here, ‘sweat equity’ gentrification refers to individual 
+household effort to renovate run-down neighbourhoods. Instead, at the very 
+beginning, developments of run-down neighbourhoods resembled more 
+suburbanisation than gentrification, as references of direct displacement of people 
+and community were also lacking in those instances. This is because being the 
+outskirts of the city centres, these areas were experiencing the first phase of 
+development with population migration, thereby spurring property value than 
+displacing people.   
+The neighbourhood revitalisation can be traced back more specifically to the 1980s 
+and the 1990s. The timing is also circumscribed as the second wave of the 
+proliferation of gentrification on the stage of global North which is also identified 
+with congealing private market intervention in the process. In Dhaka, the majority 
+of the run-down neighbourhoods were brought into the developmental scheme 
+during this period and onwards mainly through real estate initiatives. Regenerating 
+old architectures by attracting middle-class people as a way of economic revival 
+was the predominant drive in the cities of the north-eastern USA and Western 
+Europe. In contrast to these cities, the distinctive fact about Dhaka is that all the 
+residential and commercial projects were built on either vacant places or wetlands. 
+Henceforth, incidents of direct displacement of local and poor people lack ample 
+evidence during this time, albeit indirect displacement was frequent as a result of 
+‘price shadowing’.69 
+However, remarkable changes in the neighbourhoods relating to residential and 
+commercial developments are noticeable after the 2000s. Interestingly, many key 
+features of the second-wave gentrification, as outlined by Hackworth and Smith, 
+can be linked to the development of Dhaka city during the 2000s when the timing is 
+correlated to the third wave in other global cities. The distinction of the two phases 
+– the second and the third waves – has been seemed to be blurred in Dhaka, as 
+some instances suggest. In the second wave of gentrification, large scale 
+displacement of lower-class people and their counter resentment was a regular 
+phenomenon in many western cities but the subsequent phase was characterised by 
+the disappearance of any effective resistance from the victims because of their 
+                                                           
+69  M. Davidson, and L. Lees, op. cit, p.398. 
+Unfolding Gentrification   79 
+ gradual marginalisation.70 In Dhaka, eviction of slums and squatter settlements in 
+the name of beautification or sometimes through rampant fire outbreaks are 
+frequent phenomena. The nature of such displacement, however, was rather volatile 
+and temporary. In the majority of such cases, the displaced people resettle in 
+previous grounds or nearby areas within a very short time. Reclaiming urban spaces 
+by evictees through different negotiation strategies with local power bodies also 
+holds relevance in many other places in Dhaka.71 In this area, further research is 
+urged to understand intensively the localised nature of displacement induced by 
+gentrification. Gentrification, induced by neoliberal agenda, in the cities of both the 
+western and the developed East Asian countries is another remarkable issue. The 
+increasing role of the state in tandem with the corporate developers is obvious in 
+many cities of East Asian countries such as China, South Korea, Japan, Bangkok, 
+and Cambodia.72 Likewise, in Dhaka city, the government’s role in coordinating 
+real estate and corporate developers through different market incentives are 
+appreciable.73 But the state’s direct and strenuous involvement to orchestrate the 
+whole system is yet to be reflected. While real estate as a housing sector is fairly 
+getting the nod, it has experienced many vicissitudes since its beginning. 
+Concerned actors are still facing a severe crisis due to the lack of sufficient 
+financing, such that they look for the state’s support to boost this sector.74 This 
+analysis alone, however, is not adequate to address the nexus across the role of the 
+state, real estate, and gentrification under neoliberal economic reform in Dhaka 
+city. Further research is necessary to address the issue.  
+The type of gentrification experienced in Dhaka corresponds more precisely to 
+new-built gentrification which is seen as a special type of gentrification arising 
+during the third wave in cities of the global North. As regards land use in new-build 
+gentrification, the usage of existing urban buildings goes beyond the purpose of 
+rehabilitation. The primary form of land use here is of two kinds: demolition/ 
+reconstruction, and constructing new buildings on vacant lands.75 Unlike cities in 
+the global North, gentrification in Dhaka does not imply the rehabilitation of old 
+                                                           
+70   J.  Hackworth and N. Smith, op. cit., pp.466-468. 
+71   S. Arefin, and T. Rashid, ‘The Urban Poor in Dhaka: Perspectives on the Right to the 
+City’, Journal  of Urban and Regional Analysis , vol. 13, no. 1, 2021, p.154, Available at 
+https://www.researchgate.net/publication/ 347848740_THE_URBAN_POOR_in_DHAKA_P
+ERSPECTIVES_ON_THE_RIGHT_TO_THE_CITY , (Accessed on 23 April 2021). 
+72  R. Moore, op.cit., p.126 
+73  S. Barua, A.H.A.M. Mridha, and R.H. Khan, ‘Housing Real Estate Sector in 
+Bangladesh: Present Status and Policies Implications’, ASA University Review , vol. 4, 
+no. 1, (January- June 2010), p.250. 
+74    Ibid. 
+75  M. Davidson and L. Lees, op.cit. p. 398. 
+80  Tamanna Rashid 
+ 
+ houses for residential use. This is because Dhaka, just like many other cities in 
+South East and East Asian countries, has not experienced the process of 
+deindustrialisation. It has been claimed that East Asian countries have not gone 
+through the deindustrialisation and urban decline similar to western countries76; 
+they have always concentrated more on improving poor infrastructure and 
+housing77. Dhaka city, however, exhibits neither a fully manufactured nor a 
+completely service-oriented economy. Therefore, gentrification as a by-product of 
+the economic transition of the manufacturing sector to the service sector is not 
+relevant to Dhaka. Gentrification in each form has been linked to the commercial 
+utilisation of urban land. Investing capital in urban structures – e.g., built 
+environments or Brownfield sites – vividly describes a new form of capital 
+accumulation that has emerged as a by-product of neoliberal economic reform. This 
+process of market-oriented use of urban spaces subsequently excludes those people 
+who have the right to consume these places or are the ‘authentic users’ of the 
+places.78 The urban places for spontaneous public interaction like parks, 
+neighbourhood fields and centres, and even vacant lands have now become an 
+instrument of capital accumulation. Therefore, gentrification in Dhaka unfolds 
+opportunities for the middle class and upper class but it rejects the poor and throws 
+them into a new landscape of homelessness. 
+Conclusion 
+Gentrification has been echoed everywhere as the most widely used urban 
+regeneration strategy. Dhaka, however, lacks any vibrant urban regeneration. Using 
+two areas of Dhaka as case studies, this paper has unfolded the gentrification 
+process in Dhaka city. It is revealing that gentrification in Dhaka resonates with 
+new-built gentrification where the neoliberal market performs the predominant role. 
+The real estate and developers are more vibrant in renovating disinvested urban 
+lands and transferring them into new enclaves of middle-class urban residents in 
+Dhaka city. However, the government’s effort to orchestrate the whole system, 
+identical to other developed cities in East Asia as well as Western Europe, is not 
+still sufficiently relevant. Instead, the real estate sector acts as a precursor in 
+investing and reinvesting in all run-down areas which, in turn, fosters economic 
+                                                           
+76   H.B. Shin, L. Lees, and E. Lopez- Morales, op.cit. 
+77  S. Kyung, and Kwang-Joong Kim, ‘State-facilitated gentrification” in Seoul, South 
+Korea: for whom, by whom and what result?’ Paper presented at the International 
+RC21 conference by 2011 session: 2.  Social Consequences of Gentrification, 
+Amsterdam, (7-9 July 2011), pp. 1-26, Available at http://www.rc21.org/ conferences/ 
+amsterdam2011/edocs/Session%202/2-1-Kyung.pdf; Cited from R. Moore, op. cit., 
+p.125. 
+78   S. Zukin, op. cit.  
+Unfolding Gentrification   81 
+ flow and property value. Further research would consider this by addressing 
+different actors involved in this process.  
+This geographical refurbishment creates many other socio-structural changes in the 
+neighbourhoods, incorporating residential and commercial values of urban spaces 
+with some trickle-down effects. The most controversial effect is the displacement 
+of lower-class people against nascent urban development. Similar to the 
+gentrification in the western cities, gentrification in Dhaka is also coupled with the 
+consequence of the displacement of lower-income people from their authentic 
+place, creating the city as the geography of a distinctive group of people. This is the 
+point that needs immediate concern from policymakers because ensuring 
+everyone’s place in the city is a prerequisite for sustainable development as well as 
+creating an inclusive approach to city development. Gentrification in Dhaka 
+proceeds with urban development, displacing the authentic users/local people. Side 
+by side, it corrodes the intrinsic nature of the neighbourhoods and creates a new 
+cultural identity for the newcomer, requiring the attention of future researchers. In 
+many instances, however, gentrification has appeared with some localised features 
+of resettling evicted neighbourhoods through distinctive mechanisms with local 
+authorities. This feature in particular has opened a new question to the 
+understanding of the local political context of gentrification through ethnographic 
+research. 
+ 

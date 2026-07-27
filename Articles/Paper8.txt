@@ -1,0 +1,1051 @@
+Accepted: 17 February 2020
+DOI: 10.1002/psp.2327
+RESEARCH ARTICLE
+Neighbourhood gentrification, displacement, and poverty
+dynamics in post-recession England
+Mark Fransham
+International Inequalities Institute, London
+School of Economics & Political Science,
+London, UK
+Correspondence
+Mark Fransham, International Inequalities
+Institute, London School of Economics and
+Political Science, London, UK.
+Email: m.fransham@lse.ac.uk
+Funding information
+Economic and Social Research Council,
+Grant/Award Number: ES/J500112/1;
+Engineering and Physical Sciences Research
+Council, Grant/Award Number:
+EP/K503113/1, EP/L505031/1 and
+EP/M50659X/1Abstract
+A recent ‘‘return to the city’’ by middle-class professionals in England, with the
+increasing ‘‘suburbanisation’’ of poverty and an ongoing housing crisis, has increased
+the salience of concerns about neighbourhood gentrification via the involuntary
+displacement of established working class residents. This paper reports a systematic
+analysis of gentrification and income poverty in England that adopts innovative
+methodological approaches: a multivariate index of gentrification, propensity score
+matching to establish a comparison group, and sensitivity testing with respect to
+different ‘‘gentrification’’ definitions. The paper investigates three possible theoretical
+processes that could have driven the observed decline in income poverty rates in
+gentrifying areas: inward mobility to areas, outward mobility from areas, and in situ
+changes in poverty status. The post-recession period 2010–2014 is studied using data
+from the UK Household Longitudinal Study. There is good evidence from aggregate
+and individual-level analyses for a relationship between ‘‘inward’’ mobility, poverty
+status, and area gentrification. In addition, people moving to gentrifying areas were
+more likely to have a university degree and more likely to be in the professional
+occupational class than people who moved to nongentrifying comparison areas. On
+the other hand, no such relationships are found for ‘‘outward’’ mobility. The strongest
+evidence is found for ‘‘exclusionary displacement’’ (the restricted ability of low-income
+households to move in to an area) rather than ‘‘direct displacement’’ (increased
+outward mobility of existing residents) as the dominant driver of gentrification in this
+period.
+KEYWORDS
+gentrification, longitudinal analysis, migration, neighbourhood change, poverty dynamics,
+residential mobility
+1 INTRODUCTION
+With a ‘‘return to the city’’ in the last 20 years increasing the popula-
+tion of young professionals living in central urban areas (Rae, 2013),
+accompanied by observations that poverty is increasingly ‘‘subur-
+banised’’ (Bailey & Minton, 2018) and an ongoing '‘housing crisis’’ in
+which secure and decent housing is more difficult to access (Dorling,
+2014), concerns about the ill-effects of gentrification on established
+working class communities in England are highly salient. Gentrifying
+areas that had previously been home to low-income, working-classresidents have sharply falling rates of poverty (Fenton, 2016), assumed
+to be evidence that low-income households are being forced to leave
+their homes as a result of rising rental prices, evictions by unscrupu-
+lous landlords, or social housing demolition by entrepreneurial public
+bodies.
+The phenomenon of gentrification has been studied at a small scale
+by many qualitative researchers who have documented some of these
+processes. Large scale quantitative studies of the United States and
+mainland Europe have attempted to disentangle the role of different
+processes in gentrification (e.g., Freeman, 2005; Hochstenbach &
+wileyonlinelibrary.com/journal/psp ©2020JohnWiley&Sons,Ltd 1o f1 3
+https://doi.org/10.1002/psp.2327PopulSpacePlace.2020;26:e2327.
+2o f1 3 FRANSHAM
+Van Gent, 2015), but despite the widespread interest, there are few
+examples of a comprehensive analysis of gentrification processes in the
+United Kingdom. Much attention has been paid to the role of forced
+outward residential mobility from areas as gentrification occurs, yet
+there are other ways in which changes in the population composition
+of a neighbourhood can occur. Where neighbourhood characteristics
+remain static, it means that the type of people leaving an area are
+similar to the type of people who arrive in their place. Consequently,neighbourhood change can occur when one or both of the inward
+and outward flows change, creating an imbalance. Neighbourhood
+composition can also be altered by in situ changes in population
+characteristics, for example, a reduction in the incidence of poverty
+due to improved labour market conditions.
+This paper reports a systematic analysis of gentrification and income
+poverty in England in the post-recession period. It adopts a number
+of innovative methodological approaches: a multivariate index of
+gentrification, propensity score matching to establish a comparisongroup of nongentrifying areas, and testing the sensitivity of findings
+to a variety of different ‘‘gentrification’’ definitions. Drawing upon the
+observation that many gentrifying areas have seen a decline in income
+poverty rates, it investigates three possible theoretical processes that
+could have driven this change: inward mobility to areas, outward
+mobility from areas, and in situ changes in poverty status over time.
+2 GENTRIFICATION AND DISPLACEMENT:
+DEFINITIONS AND EMPIRICAL FINDINGS
+Since Ruth Glass coined the term gentrification over 50 years ago
+(Glass, 1964), a large literature has developed, which has explored
+the nature, causes, processes, and consequences of the phenomenon.
+The ‘‘classic’’ gentrification that Ruth Glass wrote about was charac-terised by middle-class households moving in to upgrade old, rundown
+housing in inner-city urban areas, changing the tenure of housing
+from rented to owner-occupied and the composition of the area from
+working-class to middle-class (Lees, Slater, & Wyly, 2008: 10-30).
+Scholars have broadened out the term to include new-build hous-
+ing in previously working-class areas (Davidson & Lees, 2010), rural
+and suburban areas, gentrification via the rental market, and state-led
+rather than market-led processes (Hochstenbach, 2016). This makes
+gentrification ‘‘a slippery term’’ (Lees et al., 2008: 3) with multiple com-peting definitions. Perhaps in acknowledgement, many take a broad
+view of the nature and location of phenomena that can be termed
+gentrification:
+‘‘a class-based phenomenon whereby lower status neighbourhoods
+change to higher status ones’’ (Freeman, Cassola, & Cai, 2016, p. 2803)
+‘‘the transformation of a working-class or vacant area of a city into a
+middle-class residential and/or commercial use’’ (Slater, 2009, p. 294)
+‘‘changes in the composition and character of urban localities in
+favour of newer residents with more resources and at the expense ofexisting residents with fewer resources’’ (Fenton, 2016: 7)
+Gentrification can be viewed positively, as a way to improve disad-
+vantaged neighbourhoods by attracting investment and the spending
+power of higher income residents (Freeman, 2005), reduce vacancy
+rates, increase local tax revenues thereby increasing public investment,reduce suburban sprawl, and increase social mix (Atkinson & Bridge,
+2005, p. 5). It can also be viewed negatively as a source of community
+resentment and cause of population loss in other areas (Atkinson &
+Bridge, 2005, p. 5). Central to the critical view of gentrification is the
+concern that it necessarily involves the involuntary ‘‘displacement’’ of
+lower income households from gentrifying areas that they previously
+called home (Slater, 2009). Ruth Glass’ original work is the classic
+exposition of this:
+‘‘one by one, many of the working class quarters of London have
+been invaded by the middle classes
+…once this process of ‘gentrifica-
+tion’ starts in a district it goes on rapidly until all or most of the original
+working class occupiers are displaced and the social character of the
+district is changed’’ (Glass, 1964)
+Gentrification researchers have elaborated upon this simple idea
+of ‘‘displacement,’’ (Marcuse, 1985) distinguishing between ‘‘direct
+displacement’’ and indirect, ‘‘exclusionary displacement.’’ Direct dis-
+placement occurs where households are involuntarily displaced fromthe gentrifying area where they currently live, for example, through
+unaffordable rent increases or eviction. Contemporary concerns are
+exemplified by the Heygate Estate in South London, a social hous-
+ing estate demolished to be replaced in part by high-cost private
+housing (Lees & Ferreri, 2016). Exclusionary displacement occurs
+where households are prevented from living in gentrifying areas
+where they would have previously sought housing. Direct displace-
+ment is thus characterised by a change in the composition of outward
+migrants; exclusionary displacement is characterised by a change inthe composition of inward migrants.
+Neighbourhood composition can change via three mechanisms
+(Hochstenbach, 2016): residential mobility patterns, in situ changes
+(e.g., rising income or changing occupation), and demographic change
+(e.g., the ageing-out of working class residents). Vigdor, Massey, and
+Rivlin (2002) assert that gentrification can provide better employ-
+ment opportunities for existing residents, promoting upward in situ
+income mobility. Noting the generational shift from working-class to
+middle-class occupations, Hamnett (2003) has proposed that gen-trification has principally occurred by ‘‘professionalisation’’, a benign
+demographic replacement of the older working class with a younger
+middle class.
+Operationalised measurements of gentrification vary, frequently
+driven by the availability of data as much as theoretical considera-
+tions. Ruth Glass used change in housing tenure from rented to owner
+occupied to identify gentrification in London. As the middle class is typ-
+ically associated with professional occupations, changing occupational
+structure within neighbourhoods is a common measure (Atkinson,2000; Freeman et al., 2016; Hamnett, 2003). Gentrification is asso-
+ciated with an increase in house prices and rents so these are also
+used as indicators (Freeman, 2005; Hamnett, 2003), and an increase in
+household incomes is also associated with more affluent residents, as
+an ‘‘indicator of position in class relations’’ (Fenton, 2016: 9), so mea-
+sures of income (Ellen & Regan, 2011; McKinnish, Walsh, & White,
+2010) or the prevalence of income poverty (Fenton, 2016) have been
+used. In a study of residential choice in U.S. cities, Clark and Rivers
+(2013) use a combination of housing tenure, housing value, poverty,and lone parenthood to measure neighbourhood status. These mea-
+sures differ according to whether they measure absolute change or
+FRANSHAM 3o f1 3
+relative change (e.g., in rank position), and for those that use relative
+change, whether changes are measured relative to the entire nation
+or a smaller subregion.
+A number of quantitative studies have shown little relationship
+between gentrification and outward mobility (direct displacement)
+of lower income residents. The most recent U.K. study (Freeman
+et al., 2016) found no robust relationship between neighbourhood
+out mobility, gentrification, and household income or class over theperiod 2001–2009 using the British Household Panel Survey. Similar
+findings have been reported in studies of the United States (Ellen &
+Regan, 2011; Freeman, 2005; McKinnish et al., 2010; Vigdor et al.,
+2002). Slater (2009) has suggested that these quantitative studies fail
+to take into account all possible displacement mechanisms and ignore
+household coping strategies, whereas Newman and Wyly (2006) have
+suggested that the strategies households employ to stay in neighbour-
+hoods plus their limited alternative options can mask the impact of
+gentrification.
+The passionate debate around the direct displacement effects
+of gentrification has meant there has been less empirical research
+studying other possible processes. Little attention has been paid to
+neighbourhood in-mobility, or exclusionary displacement. As popu-
+lation turnover is significant in most neighbourhood areas (Bailey &
+Livingston, 2007), the difference between a gentrifying and nongen-
+trifying neighbourhood could be the composition of in-migrants, not
+a change in out-mobility. In a study of U.S. neighbourhoods, Freeman
+(2005) found that ‘‘in-movers rather than out-movers are the drivingforce behind neighbourhood change in gentrifying neighbourhoods’’.
+Hochstenbach and Van Gent (2015) used Dutch population regis-
+ter data to examine the relative importance of different processes
+in gentrifying neighbourhoods of Amsterdam and Rotterdam. They
+found that residential mobility is much greater in magnitude than in
+situ changes or demographic processes but has small net effects that
+mostly reproduce neighbourhood composition (Hochstenbach & Van
+Gent, 2015, p. 1497). They also found that different processes dom-
+inated in different types of gentrifying neighbourhoods in the samecity - there was no single gentrification process.
+These different processes have yet to be examined in the literature
+on the United Kingdom. Existing quantitative gentrification research
+studies the period before the 2008/09 global financial crisis, since
+when such processes may have intensified: Household incomes have
+stagnated (Hood & Waters, 2017), more low-income households live
+in private-rented housing (Tinson et al., 2016), and state subsidies for
+home rental costs have been restricted (Hills, De Agostini, & Suther-
+land, 2016), such that it may have become more difficult for lowerincome households to access or remain in gentrifying neighbourhoods
+(Hamnett, 2010).
+This paper builds upon the contribution of Freeman et al. (2016),
+who analysed outward residential mobility rates to measure displace-
+ment of lower income individuals from gentrifying areas in England
+and Wales, in the period 2001–2009. They found no robust rela-
+tionship between out-mobility rates for low-income or working-class
+individuals and gentrification but did not examine the contribution of
+in-mobility rates or in situ changes. Their study identifies gentrifyingareas as those that changed relative to others in England measured
+by a single indicator (occupational class) over the period 2001–2011and used longitudinal household survey data 2001–2009 to measure
+this. Their study is potentially hampered by the fact they may have
+been measuring the process before gentrification had occurred, as
+neighbourhood change could have occurred towards the end of the
+intercensal period. Freeman et al. (2016) use random effects models
+to estimate the ‘‘effect’’ of gentrification at an individual level, con-trolling for other factors associated with residential mobility. They do
+not examine aggregate processes, that is, whether taken together,
+the mobility patterns of individuals in gentrifying and nongentrify-
+ing areas are similar. Finally, they compare gentrifying areas to all
+‘‘nongentrifying’’ areas, without establishing whether these areas are
+truly comparable. This paper seeks to build on their work by addressing
+some of these limitations.
+3 STUDY AIMS, DATA, AND METHODS
+This paper reports upon a systematic analysis of gentrification andincome poverty in England in the post-recession period 2010 to 2014.
+Methodologically, it proposes a comprehensive index of gentrification
+measured with reference to local housing market areas rather than the
+nation as a whole. It uses propensity score matching to robustly iden-
+tify a group of nongentrifying areas with which valid comparisons of
+demographic processes can be made. Recognising that the classifica-
+tion of an area as gentrifying or not gentrifying is somewhat arbitrary;
+a number of different definitions are used to test the sensitivity of the
+findings.
+Empirically, the paper attempts to understand why previous quan-
+titative studies have found little evidence of displacement in the form
+of out-mobility of lower income individuals. If this is not the process
+driving neighbourhood change, what process is the driver? Drawing
+upon the observation that many gentrifying areas have seen a decline
+in poverty rates, it focuses on income poverty as the characteristic
+of interest and investigates three possible theoretical processes that
+could have driven this change. The research questions ask whether
+between 2010 and 2014, when compared with nongentrifying areas,were gentrifying areas associated with:
+•higher outward mobility rates for income poor individuals?
+•lower inward mobility rates for income poor individuals?
+•higher rates of poverty exit or lower rates of poverty entry?
+3.1 Measuring neighbourhood status
+and gentrification
+This paper broadly follows the approach of Freeman et al. (2016),
+treating gentrification as a class-based phenomenon involving neigh-
+bourhood transformation from lower to higher status in the residential
+hierarchy. Accepting this definition, the analyst has decisions to make
+about how to measure such a concept. Three questions raise their
+head: how to define neighbourhoods, within what reference areathe status of that neighbourhood should be measured, and by what
+observables should status be determined.
+The study pragmatically utilises Lower Super Output Areas (LSOAs)
+as proxies for neighbourhood, in common with many studies (Ham,
+Manley, Bailey, & Maclennan, 2013, p. 3). There are 32,844 LSOAs,
+4o f1 3 FRANSHAM
+used for the production of official statistics in England, that contained
+an average of 1,500 residents in 2001. The boundaries of these areas
+are relatively stable; they were first defined using data from the 2001
+Census and redefined following the 2011 Census, but 95% of areas
+had the same boundaries between the two sets. Most of the changes
+were made by either splitting 2001 LSOAs into two or more or mergingtwo or more 2001 LSOAs into one. For areas that altered between
+2001 and 2011, the method used in this study makes comparison
+between amalgamated areas. For example, some geographical areas
+were covered by a single LSOA in 2001 but by numerous LSOAs in
+2011 (i.e., they were split between the two sets). In these cases, the
+observations in 2001 are compared with the aggregated observations
+for all the LSOAs that covered that area in 2011 (i.e., the 2011 LSOAs
+are merged into a single area for the purpose of comparison over time).
+If the concept of a neighbourhood hierarchy is accepted, within
+what reference frame should neighbourhood status be assessed? The
+approach of Freeman et al. (2016) is to assess neighbourhood status
+with reference to all other neighbourhoods in England. Given that
+most residential moves are within short distances (Fielding, 2012), a
+more satisfactory approach is to assess neighbourhood status within a
+local housing market area, such that neighbourhood status is assessed
+with reference to alternative neighbourhoods into which a residential
+move could realistically be made. In this paper, local housing market
+areas are approximated by 2011 Travel to Work Areas (TTWAs), areasdefined by 2011 Census data such that the majority of people who
+work in the TTWA also live in it and vice-versa. There are 149 TTWAs
+in England.
+Six different indicators are used to measure neighbourhood (LSOA)
+status within the local housing market area (TTWA) in 2001 and
+2011. Six indicators are used so that the measure is more robust
+to measurement error in any one of them. Three are indicators of
+low status: the income poverty rate, the proportion of people living
+in social rented housing, and the proportion of adults in the lowestoccupational classes. Three are indicators of high status: housing
+prices, the proportion of people living in owner-occupied housing,
+and the proportion of adults in the highest occupational classes. Each
+LSOA is ranked within the TTWA according to the six indicators.
+Ranks are scaled from 0 (lowest status) to 1 (highest status). The
+equally-weighted average rank across the six indicators is used as a
+composite index of neighbourhood status in 2001 and 2011; it is a
+simple task to compute the change in status between the two time
+points.
+Income poverty estimates are taken from the income domain of
+the English Indices of Deprivation 2004 and 2015 (Smith et al., 2015)
+with reference points of August 2001 and August 2012, respectively.
+Tenure and occupational class (National Statistics Socio-economic
+Classification) are derived from the 2001 and 2011 Censuses. The
+lowest occupational classes include routine and manual occupations;
+the highest occupational classes include higher managerial, adminis-
+trative, and professional occupations. The median house price within
+each LSOA was calculated for 2000–2002 and 2010–2012 usingrecord-level ‘‘price paid’’ data published by the UK Land Registry and
+the National Statistics Postcode Lookup file. Some of these mea-
+sures were changed between the two time points: The state cash
+benefits upon which the Indices of Deprivation income domain isbased changed over time; the Standard Occupational Classification
+that forms the basis of National Statistics Socio-economic Classifi-
+cation also changed. Computing changes in rank rather than change
+in an absolute measure means that the status index is more robust
+t oc h a n g e si nt h e s eu n d e r l y i n gm e a s u r e s ,a sw e l la se n a b l i n ga n
+assessment of status with reference to other local neighbourhoods.
+This approach provides an indicator of neighbourhood rank within
+the local housing market area in 2001 and 2011, and consequently
+the change in rank over that period. Finally, the question arises of
+how to identify gentrifying areas from these measures. Our definition
+demands that gentrifying areas should have initially been ‘‘low status,’’
+and that they should be increasing their status. From an empirical
+point of view, there are trade-offs to be made in the choice of cutoff
+points for defining low status and ‘‘increased status.’’ To identify the
+largest possible differences between areas, we may wish to focus onthe lowest status areas that have increased their status by a large
+amount. This may be counterproductive, as it may result in a very
+small sample size, which is unable to robustly establish differences
+between area types. On the other hand, focusing on higher status
+areas that have increased their status by a smaller amount may reduce
+the difference between area types, making any such difference harder
+to detect in the sample. There is a trade-off between maximising the
+likely difference by focusing on a small population and keeping the
+population large enough to minimise the uncertainty in the estimates.
+To illustrate the main results, gentrifying areas are identified as
+those that were in the bottom 40% of neighbourhood ranks in 2001,
+and of these areas, were among the 10% of areas that had increased
+their rank the most between 2001 and 2011. In Section 4, a number
+of different cutoff points are utilised to explore the sensitivity of the
+findings to different definitions of gentrifying.
+3.2 Selecting comparison nongentrifying areas
+Having described a method for selecting gentrifying areas, it is neces-
+sary to select nongentrifying areas to compare mobility patterns and
+poverty dynamics between them. One approach is to use all areas
+that began as lower status neighbourhoods but did not increase rank
+over time. The difficulty is that there is considerable heterogeneity
+within this large group of lower status neighbourhoods, making the
+comparison with gentrifying areas less meaningful. Rather, our com-
+parison group should ideally consist of those areas that appear similarto gentrifying neighbourhoods, the only difference being their history
+of status change.
+This paper uses a matching algorithm to select a comparison group
+of nongentrifying neighbourhoods, implemented by the R package
+MatchIt (Ho, Imai, King, & Stuart, 2007). Matching is often used in
+quasi-experimental designs to select a ‘‘control’’ group of subjects to
+compare to some ‘‘treatment’’ group, aiming to achieve ‘‘covariate
+balance,’’ that is, similarity in the observed covariates that may be
+related to the outcome of interest. There are a number of differ-ent approaches to achieving covariate balance (Morgan & Winship,
+2014), but a ‘‘nearest neighbour’’ approach (not to be confused
+with geographical nearest neighbour) is used in this study having
+been compared with alternative approaches available in MatchIt. This
+involves calculating a ‘‘propensity score’’ for each LSOA, which is the
+FRANSHAM 5o f1 3
+probability of the LSOA being included in the group of gentrifying
+neighbourhoods. The propensity score is calculated from a logistic
+regression model with gentrification status as the dependent vari-
+able and the observed characteristics (the six neighbourhood status
+variables plus age structure and TTWA) as predictors. These predic-
+tors are all measured in 2011, thus identifying a comparison groupof neighbourhoods that, in 2011, were identical to gentrifying neigh-
+bourhoods with respect to these observed characteristics. The nearest
+neighbour algorithm selects the
+nnongentrifying LSOAs that have the
+closest propensity score to each gentrifying LSOA. The value of n
+was set to achieve a total sample of approximately 20% of all LSOAsin England; consequently, it varies with different values of the cutoff
+points described above.
+Covariate balance is assessed by comparing the means of each
+covariate, conducting ttests and calculating the ‘‘standardised bias.’’
+For each covariate, the standardised bias is calculated as the difference
+in means between the gentrifying and comparison areas, divided by the
+pooled standard deviation (Eggers & Hainmueller, 2009). The average
+standardised bias is the mean across all covariates. These measures
+are compared before and after matching, to examine the degree to
+which the matching algorithm improves covariate balance.
+3.3 Measuring residential mobility and poverty
+dynamics
+Residential moves and changes in poverty status are observed via
+longitudinal household microdata sourced from the UK Household
+Longitudinal Study (UKHLS), also known as Understanding Society
+(University of Essex Institute of Economic and Social Research &
+NatCen Social Research and Kantar Public, 2016). UKHLS consists of a
+stratified and clustered random sample of 40,000 U.K. households that
+began in 2009 (Knies, 2016). Initial respondents to UKHLS have beenshown to be geographically representative of the national population
+in terms of neighbourhood deprivation and demographics (Petersen &
+Rabe, 2013 , 2013). The LSOA of residence for each UKHLS household
+at each interview was accessed on Special Licence conditions from
+the UK Data Archive.
+This study utilises data from households in England at Waves 2 to
+5 of UKHLS. The interviews in each wave of UKHLS are conducted
+over 2 years, so Wave 2 includes interviews conducted in 2010–2011
+and Wave 5 covers interviews in 2013–2014. Data from Wave 1are excluded for two reasons: first, the time point of interviews
+(2009–2010) is before neighbourhood gentrification is observed to
+have been taking place (2011). Second, other studies (DWP, 2017b:
+19) have discarded poverty transitions between the first two waves
+due to an artefactual rise in self-reported income between the first
+and second UKHLS interviews. This is postulated to be a result of
+‘‘dependent interviewing’’ (where respondents are reminded of a previ-
+ous answer) and reduced concerns about sharing sensitive information
+(Fisher, 2019). Data from Waves 6 and 7 of UKHLS are currentlyavailable, but these were excluded to keep the observation window
+(2010–2014) close to the time when gentrification was observed to
+have taken place (2011).
+Poverty is defined here in relative terms as the ‘‘inability to par-
+ticipate [in society] owing to a lack of resources’’ (Nolan & Whelan,1996: 188) and operationalised by means of a relative income poverty
+measure. An individual is classified as being in income poverty if
+the net equivalised income of their household is below 60% of
+the median household income, the commonly used definition of the
+income poverty line (DWP, 2017a). Net income is income from all
+sources including government transfers, net of direct taxes (variable
+w_hhnetinc3 in UKHLS) and before housing costs. Household income
+is equivalised according to the modified OECD scale to account for thehigher income required by larger households to secure adequate living
+standards. Household incomes are calculated in January 2015 prices
+using a price deflator provided by the Office for National Statistics.
+Only individuals with positive longitudinal weights at Wave 5 are
+included in the study, that is, people who provided a survey response
+at each of the first five waves. The weights are used to adjust the
+estimates for panel attrition and differential sampling probabilities.
+People aged 66 years and over were excluded from the sample on the
+basis that people of pensionable age have rather different patterns ofresidential mobility and income dynamics from people in working-age
+households.
+3.4 Observing processes in gentrifying
+and nongentrifying areas
+Having acquired the data described above, it is a simple task to iden-
+tify when individuals move LSOA between waves or when they enter
+or exit poverty. The question is how to use this data to describe
+the processes operating in the gentrifying and matched comparison
+areas? One approach to this (utilised by; Freeman et al., 2016) is to
+analyse the data at the level of individuals, describing the association
+(or more ambitiously, the causal relation) between residential mobility
+rates and gentrification, using regression models to control for individ-
+ual characteristics. If we are interested in neighbourhood processes,we do not wish to control for individual characteristics—we wish to
+understand who is moving in and out of areas, leaving in any com-
+positional effects, to understand what processes may be causing the
+neighbourhood composition to change.
+This paper uses a variety of methods to interrogate the data. First,
+residential moves and poverty transitions are analysed at an aggregate
+level. UKHLS respondents living in gentrifying LSOAs are treated as
+being representative of the population living in such LSOAs (after using
+sample weights); respondents living in matched comparison areas aresimilarly treated as being representative of the population living in
+those neighbourhoods. Outward mobility is estimated by selecting all
+those living in gentrifying or matched comparison areas in year
+t=0,
+and calculating the proportion who had moved out of the area by
+year t=1. Estimates are broken down by area type and poverty sta-
+tus at t=0to enable comparisons. Inward mobility is estimated by
+selecting all those living in gentrifying or matched comparison areas
+in year t=1and calculating the proportion who had moved in to the
+area in the year before. Poverty entrance and exit is calculated in ananalogous fashion, using the UKHLS sample living in gentrifying or
+matched comparison areas in year
+t=0and comparing their poverty
+status 1 year later. Second, this aggregate analysis is complemented
+by logistic regression models that include additional individual char-
+acteristics that are related to residential mobility propensities (albeit
+6o f1 3 FRANSHAM
+these should be accounted for by the matching process). The logistic
+regression analysis is then broken down by TTWA type to investigate
+geographic patterns. The four types used are London, large urban areas
+(Birmingham, Bristol, Leeds, Bradford, Liverpool, Manchester, New-
+castle, Nottingham, Leicester, and Sheffield), London hinterland (areas
+surrounding London in south-east England), and small urban/rural
+areas. Finally, there is an aggregate analysis of the characteristics of
+people moving in to gentrifying and nongentrifying areas: age, gender,living in a household with children, income poverty, housing tenure,
+occupational class, university education, and ethnic group.
+The UKHLS data were analysed using methods in the R package
+survey (Lumley, 2010), which applies weights and adjusts standard
+errors for clustering and stratification of the sample when estimating
+statistical models and conducting statistical tests. Ninety-five percent
+confidence intervals are constructed to evaluate the statistical signif-
+icance of differences between groups. Mutually exclusive confidence
+intervals are a conservative test of statistical significance (Schenker& Gentleman, 2001); (Lumley, 2010, p. 31) recommends an F test of
+bivariate association, which is implemented in the survey package and
+reported in the text. The analysis was conducted in R Version 3.4.3
+(R Core Team, 2016), and the code is available at https://github.com/
+mfransham/2020-02-gentrification-displacement-PSaP.
+4 RESULTS
+4.1 Gentrifying and nongentrifying matched areas
+The first step in constructing the index of neighbourhood status in
+2001 and 2011, and consequently the index of neighbourhood change,
+was to rank each LSOA within its parent TTWA according to each of
+the six indicators. Table 1 shows the linear correlation between these
+indicators in 2011 for all 32,844 LSOAs in England. There is a verystrong correlation between the income poverty rank and the other
+five indicator ranks of between 0.73 and 0.85. The lowest correlations
+are between the median house price and the indicators of tenure and
+occupation but still moderately strong at between 0.51 and 0.57. In
+general, the indicator ranks appear to be well correlated, such that
+in combination, we would expect them to be measuring the same
+concept.
+The mean change in the index of neighbourhood status for those
+LSOAs that were in the bottom four deciles of the neighbourhoodranking in 2001 was 0.003 with a standard deviation of 0.054. There
+is a right skew to the distribution (a chart is provided as supporting
+information), with 106 LSOAs having large increases in rank of over 0.2.
+Cutoffs at 85, 90, 95, and 97.5 centiles are used to identify gentrifying
+areas in various different definitions used in the sensitivity tests
+below. The base case used in the main results identifies gentrifying
+areas as the 40% lowest status areas in 2011 that had the 10%
+largest increase in rank between 2001 and 2011. This equates to
+32,844 ×0.4×0.1=1,314gentrifying LSOAs.
+Table 2 shows the results of using the Matchit nearest neighbour
+algorithm to find a matched comparison group of nongentrifying
+LSOAs. Each gentrifying LSOA was matched with four nongentrifying
+LSOAs to generate a large enough sample for subsequent analysis.
+The gentrifying and matched comparison areas are compared with anunmatched comparison group, those LSOAs that were in the bottom
+four deciles of neighbourhood rank in 2001 but did not increase their
+rank more than the defined cutoff. The table shows the means of the
+variables on which the areas were matched and pvalues from ttests
+for significant differences in means between the characteristics of the
+gentrifying and matched comparison areas.
+The unmatched comparison group is particularly different to the
+gentrifying areas on some characteristics: higher poverty rates, a lower
+proportion of people in professional occupations, a higher proportion
+in routine occupations, lower house prices, and a lower proportion
+of people aged 16 to 44 years. The matched comparison group
+improves on these significantly, with very small differences remaining
+on all variables. Most of the ttests show non-significant differences
+between the gentrifying and matched comparison areas. The ttests
+for the neighbourhood rank in 2011 and proportion of people aged 0to 15 years do indicate statistically significant differences, though the
+differences in means are very small at 0.01% and 0.4%, respectively.
+Whether these statistically significant differences are of practical
+significance to the results is discussed later. The average standardised
+bias is 0.36 in the unmatched sample and 0.03 in the matched sample
+(a full plot is provided as supporting information).
+4.2 Residential mobility rates
+Figure 1 shows the average annual proportion of people who moved
+out of and into the matched sample of LSOAs between 2010 and
+2014, by area type (gentrifying / nongentrifying) and poverty status
+in the previous year (income poor / not income poor). There was
+a higher rate of outward mobility among income-poor individuals
+compared with not income-poor individuals. There was no difference
+between areas; income poor individuals were no more likely to move
+out of gentrifying than nongentrifying areas. Similarly, there was nodifference for not income-poor individuals.
+Some differences are evident in inward mobility. Income poor peo-
+ple were less likely to move into gentrifying LSOAs than nongentrifying
+comparison areas, and not income-poor people were more likely to
+move into gentrifying LSOAs than matched comparison areas.
+Ftests
+of association indicate that the association between in-mobility and
+gentrification for income-poor individuals is not statistically signifi-
+cant at the 95% level ( F(1|292)=3.01,p=.084). The association
+between in-mobility and gentrification for not income-poor individu-als is statistically significant
+(F(1|782)=4.08,p=0.044);n o ti n c o m e
+poor individuals have a higher in-mobility rate to gentrifying areas
+compared with the matched comparison areas.
+This simple analysis is extended in Table 3, which shows the results
+from logistic regression models of the propensity to move in to a
+neighbourhood. The first model, which recovers the same estimates
+presented in Figure 1, is a parsimonious model that includes area
+type (gentrifying / nongentrifying), income poverty status and the
+interaction term between the two. This interaction term indicateswhether moves in to a gentrifying area are associated with income
+poverty status. As can be seen in the table, this interaction term
+is negative and statistically significant at the 95% confidence level,
+indicating that there is such an association (confirming expectations
+from the
+Ftests above).
+FRANSHAM 7o f1 3
+Neighbourhood status Poverty Professional Routine House prices Owner occupied Social rent
+Poverty 1.00
+Professional 0.78 1.00
+Routine 0.85 0.90 1.00
+House prices 0.73 0.79 0.82 1.00
+Owner occupied 0.80 0.56 0.57 0.55 1.00
+Social rent 0.83 0.62 0.66 0.51 0.83 1T ABLE 1 Linear correlation
+between six neighbourhoodstatus indicators measured in
+2011, all Lower Super Output
+Areas in England
+Variable Gentrifying area Matched comparison Unmatched comparison ttests
+Poverty 20.8 21.2 24.7 0.21
+Professional occupations 25.0 24.6 19.3 0.24
+Routine occupations 43.0 43.8 51.3 0.05
+House prices 181,000 182,100 136,300 0.75
+Owner occupation 45.4 45.6 47.0 0.78
+Social rented 30.4 30.7 33.3 0.65
+Neighbourhood rank 0.34 0.33 0.21 0.01
+Aged 0–15 20.1 20.5 21.2 0.03
+Aged 16–24 14.5 14.3 12.9 0.31
+Aged 25–44 33.0 32.6 28.8 0.2T ABLE 2 Means of matching
+characteristics in 2011 for gentrifyingareas, matched comparison areas,
+and unmatched comparison areas
+The second model in Table 3 extends the first model by adding
+characteristics that are known to be associated with residential mobil-
+ity propensity. The process of matching neighbourhood compositionshould have already ensured that the populations in gentrifying and
+nongentrifying areas are similar with respect to these characteristics,
+but this analysis offers an additional check. As expected, it shows that
+age, the presence of children, and housing tenure are significant predic-
+tors of propensity to move, but the interaction term between poverty
+status and gentrification remains statistically significant, reassurance
+that the matching process has done its job.
+The third model explores the relationship between area gentrifi-
+cation, income poverty, moves, and housing tenure, by introducing athree-way interaction term. None of the three-way interaction terms
+are statistically significant. This means that there is little evidence
+to support the proposition that propensity to move in to gentrify-
+ing areas is associated with housing tenure type, over and above the
+other characteristics already included in the model. The interaction
+term between income poverty and area gentrification remains statis-
+tically significant in this third model. A notable feature of these threemodels is that area gentrification is a significant predictor of moves in
+to an area. This suggests that gentrifying areas are more likely to have
+had moves in to the area than nongentrifying areas. A fourth model
+was also run (not shown for brevity) that included interaction terms
+between income poverty, area gentrification, and ethnic group; theinteraction terms in this model were not significant, suggesting littleevidence of a stratification of patterns by ethnic group.
+These same three models were run for the propensity to move out
+of areas. The results (provided as supporting information) show that
+there is no association between income poverty and area gentrificationfor moves out of areas in any of the model specifications.
+To investigate whether there are any specific geographic patterns
+within this aggregate picture, Table 4 shows the simple model specifi-
+cation broken down by TTWA type. For three of the four TTWA types,the interaction term is a similar size or larger than in the aggregate
+model presented in Table 3. However, because of reduced sample
+size, the standard error of these estimates is approximately doubled,with the result that only one of the interaction terms (for the ‘‘large
+urban’’ TTWA type) is statistically significant at the 95% level. A table
+of results for models of outward moves by TTWA type (provided
+as supporting information) shows the same conclusion as the aggre-
+gate models, that there is no association in any of the TTWA typesbetween income poverty and area gentrification for moves out of
+areas.
+Figure 2 shows estimates of the characteristics of the population
+observed to move in to gentrifying and nongentrifying areas. It shows
+that there are statistically significant differences by income poverty,
+occupational class and degree-level qualifications in the population
+who move in, by area type. A total of 14.7% (9.3–20.0) of people
+who moved in to gentrifying areas lived in households with incomes
+below the poverty line, compared with 23.1% (18.9–27.3) of peoplewho moved in to nongentrifying areas. A total of 51.2% (41.0–61.5) of
+people who moved to gentrifying areas were in the professional occu-
+pational class compared with 41.9% (36.9–46.9) of people who moved
+to nongentrifying areas; for people in the routine occupational class,
+these figures were 23.5% (15.1–31.9) and 30.1% (25.4–34.9), respec-
+tively. People moving in to gentrifying areas were also more likely to
+be a university graduate, 41.9% (31.9–51.9) of inward movers had a
+degree, compared with 28.4% (24.0–32.9) of people who moved to
+nongentrifying areas. There are no statistically significant differencesbetween the two populations in age, sex, living in a household with
+children, housing tenure, or ethnic group (collapsed here into White
+British and other for reasons of sample size).
+Conversely, there are no statistically significant differences in the
+characteristics of the populations observed to move out of gentri-
+fying and nongentrifying areas. A similar chart to Figure 2 for the
+characteristics of outmovers is provided as supporting information.
+4.3 Sensitivity analysis: Residential mobility rates
+To investigate the sensitivity of these results to the definition of ‘‘gen-
+trifying area,’’ Figure 3 shows how the coefficient on the interaction
+term between income poverty and gentrification status varies accord-
+8o f1 3 FRANSHAM
+FIGURE 1 One-year mobility rates into and out
+of gentrifying and matched comparison areas, bypoverty status in previous year. LSOA, LowerSuper Output Areas
+T ABLE 3 Logistic regression models of propensity to
+have moved to the neighbourhoodVariable Model 1 Model 2 Model 3
+(Intercept) −2.42***−1.66***−1.65***
+(0.06) (0.13) (0.13)
+Gentrifying area .26*.34*.34*
+(0.13) (0.14) (0.14)
+Income poor .12 .17 .17
+(0.13) (0.13) (0.13)
+Gentrifying area.income poor −.66*−.83**−1.87*
+(0.26) (0.27) (0.74)
+Female .14*.14*
+(0.06) (0.06)
+Age −.03***−.03***
+(0.00) (0.00)
+Children in household −1.00***−1.00***
+(0.12) (0.12)
+Tenure (base: owner occupied)
+Social rented .04 .02
+(0.13)( 0.13)
+Private rented 1.74***1.72***
+(0.11)( 0.11)
+Tenure interactions
+Gentrifying area.income poor.social rented 1.14
+(0.82)
+Gentrifying area.income poor.private rented 1.24
+(0.80)
+Deviance 13,744.77 11,984.07 11,976.36
+Dispersion 1.00 1.00 1.00
+Num. obs. 20,101 20,014 20,014
+Note . Standard errors shown in brackets. p<.001.p<.01.p<.05.
+ing to different cutoffs used to identify gentrifying LSOAs. The model
+used in these estimates is the simple logistic regression model includ-
+ing income poverty and gentrification status (i.e., Model 1 in Table 3),
+with results from separate models of in-mobility and out-mobility
+shown. The base case reported in the main results is in the middle
+of the charts, labelled (0.4, 0.1): areas in the bottom four deciles in
+2001 that were in the 10% of areas with the largest increase in neigh-bourhood rank. Other cutoffs are labelled similarly: For example, the
+case labelled (0.3, 0.025) identifies areas in the bottom three deciles in
+2001 that were in the 2.5% of areas with the largest increase in neigh-
+bourhood rank. The figure plots the point estimate of the interaction
+term coefficient along with a 95% confidence interval.
+The out-mobility results show that there is no evidence of an
+association between income poverty and area gentrification in terms
+FRANSHAM 9o f1 3
+Variable London Large urban London hinterland Smaller urban / rural
+(Intercept) −2.48*** −2.61*** −2.17*** −2.36***
+(0.13) (0.11) (0.15) (0.10)
+Gentrifying area .67** .61** −.55 −.09
+(0.23) (0.22) (0.37) (0.25)
+Income poor .30 .18 −.01 .06
+(0.27) (0.21) (0.38) (0.21)
+Gentrifying area.income poor −0.48 −1.59** 0.34 −0.58
+(0.44) (0.48) (0.77) (0.49)
+Deviance 3,983.08 4,220.76 1,735.94 3,750.37
+Dispersion 1.00 1.00 1.00 1.00
+Num. obs. 5,427 6,732 2,358 5,584
+Note. Standard errors shown in brackets. p<.001.p<.01.T ABLE 4 Logistic regression models of
+propensity to have moved to theneighbourhood by travel to work area
+type
+FIGURE 2 Characteristics of people moving in to areas
+of propensity to move out of an area, regardless of the definition
+of gentrification used. All of the confidence intervals around the
+coefficient estimates overlap with zero, and the point estimates appear
+fairly and randomly scattered about zero.
+There are quite different results for in-mobility. All of the point
+estimates of the interaction term coefficient are negative, and six ofthe 12 are statistically significant at the 95% level. For the broadest
+definition of gentrification as areas starting in the bottom 50% of
+neighbourhood ranks, none of the model interaction coefficients are
+statistically significant. As the definitions focus more tightly upon
+those areas with the largest changes in rank, we would expect the
+coefficients to become larger, as those areas which have had the
+largest increases in rank might also have had the largest difference in
+mobility patterns. This is indeed what is observed, but we can see quite
+clearly the trade-off in the gentrification definitions—the coefficients
+become larger, but this comes at the expense of larger standard errors
+as the sample size becomes smaller.
+This pattern could also be an artefact of the declining efficiency
+of the matching process as the gentrification definition narrows.
+As the number of gentrifying LSOAs decreases, it becomes more
+difficult to find sufficient close matches to gain a large enough total
+sample of LSOAs. For example, the average standardised bias forthe base case matched sample is (as reported above) 0.03, but it
+rises to 0.09 and 0.17 for cutoffs of the highest 5% and 2.5% of
+rank rises, respectively. The increasing difference in mobility rates
+could therefore be due to increased differences in the underlying
+characteristics of the comparison group.
+Sensitivity analysis of the pairwise
+Ftests presented in Figure 1
+is provided as supporting information; it illustrates similar patterns
+though with fewer statistically significant results.
+4.4 Poverty dynamics in gentrifying
+neighbourhoods
+Figure 4 shows the proportion of people in income poverty in year tby
+area type and poverty status in year t−1, averaged over 2010–2014.
+The upper set of bars shows the proportion of income-poor people
+in 1 year who were still in poverty the following year. There was
+no difference in 1-year poverty persistence between people whowere living in gentrifying compared with nongentrifying areas. The
+lower set of bars shows the proportion of people not income-poor
+in 1 year who were income-poor the following year, that is, rates
+of annual poverty entry. This indicates that people who lived in
+gentrifying areas were more likely to enter poverty in any given
+10 of 13 FRANSHAM
+FIGURE 3 Sensitivity analysis:
+point estimate and confidenceinterval for
+poverty
+×gentrification
+interaction term in logisticregression model, for differentgentrification definitions
+FIGURE 4 One-year poverty dynamics in gentrifying and matched
+comparison areas
+year (0.142, confidence interval [0.119, 0.165]) than people living in
+nongentrifying areas (0.105, confidence interval [0.094, 0.116]). An
+Ftest of association shows that this is highly statistically significant
+(F(1|786)=9.45,p=.002).
+Figure 5 shows how these findings are affected by changes to the
+cutoffs used to define gentrification, the analogous analysis to that
+undertaken for residential mobility rates. The findings with respect to
+poverty persistence are unaltered; none of the differences in poverty
+persistence between gentrifying and matched comparison areas are
+statistically significant. The story is different for poverty entry; of
+the 5%/10%/15% definitions, seven of nine estimates are statisticallysignificant. The
+pvalues for estimates where gentrification is defined
+by the 2.5% of areas with the largest change in rank are very large,
+which may be due to the small sample sizes involved. There appears
+to be some evidence of higher poverty entry rates in gentrifying areas,
+but this conclusion is sensitive to the choice of gentrifying areas.5 DISCUSSION
+Using a variety of definitions, this paper identifies a set of neighbour-hoods that between 2001 and 2011 had increased their rank in the
+local neighbourhood hierarchy (gentrified) and compares these neigh-
+bourhoods to areas that were similar in 2011 but had not changed in
+status over this time. Using data from the UKHLS and the observation
+that many gentrifying areas have declining rates of income poverty, it
+compares demographic processes in these two sets of areas with the
+aim of establishing what it is in these areas that causes poverty rates inone to decline and in the other to remain relatively stable. This could
+be caused by a higher rate of mobility of poor individuals out of these
+areas (direct displacement), a lower rate of in-mobility of poor individ-
+uals into these areas (exclusionary displacement), or a higher rate of
+in situ poverty exit. Each of these three processes are systematically
+examined.
+This paper finds that, of these possible processes, there is strongest
+evidence for a difference in the composition of incomers to an area
+as the driver of neighbourhood change. Logistic regression modelsof the propensity to move out of an area contingent on poverty
+status and area gentrification consistently show that there is no
+evidence of increased outward mobility of income-poor individuals
+from gentrifying compared with nongentrifying areas. This finding is
+robust to different specifications of the models and different def-
+initions of gentrification. Conversely, logistic regression models of
+the propensity to move in show that there is good evidence fora relationship between inward mobility, poverty status, and area
+gentrification. This finding is somewhat sensitive to the choice of
+cutoffs used to categorise gentrifying areas, but the findings appear
+promising and strongest for the more narrowly focused definitions
+of gentrification. Pairwise
+Ftests that investigate whether this is
+due to higher inward mobility of not income-poor people or lower
+inward mobility of income-poor people are less definitive but sug-
+gest that both mechanisms may be at work. This conclusion about
+the role of inward mobility is strengthened by the finding that peo-
+FRANSHAM 11 of 13
+FIGURE 5 Poverty dynamics sensitivity analysis: point estimate and pvalue for difference in poverty entry and exit rates between gentrifying
+and nongentrifying areas for different gentrification definitions
+ple moving to gentrifying areas are less likely to be income poor,
+more likely to have a university degree, and more likely to be in the
+professional occupational class than people moving to nongentrifying
+areas.
+The unexpected finding of this paper is the evidence that poverty
+entry rates may be higher in gentrifying than nongentrifying areas. This
+is in the opposite direction to that theoretically expected: If an area
+is climbing in neighbourhood status, and income poverty is falling, we
+might expect net poverty reduction in situ (via lower rates of poverty
+entry or higher rates of poverty exit) to be involved. In the base case
+for analysis, areas identified as gentrifying in 2011 had an average
+income poverty rate of 21%, whereas in 2001, it had been 27% (for
+matched comparison areas, it was 21% and 22%). It is possible thatlabour markets in and near gentrifying areas have greater insecurity,
+consequently leading to greater rates of poverty entry, or that the
+residents who remain during the process of gentrification are morevulnerable to poverty entry than those in comparable nongentrifying
+areas.
+One of the limitations of this study is that it assumes that the pro-
+cesses that occurred in gentrifying areas between 2001 and 2011 were
+still occurring in the observation window 2010–2014. It is possiblethat direct displacement had taken place earlier in the gentrification
+process and therefore was unobserved by this study. In addition, the
+results presented here are an average over all processes in all gentri-fying areas; it is likely that such processes are heterogenous, leaving
+open the possibility that although the dominant average process is
+exclusionary displacement, direct displacement does occur in someplaces at some times. Similarly, this paper examines a particular win-
+dow of time, a historically atypical period of post-recession stagnation
+in household incomes following the global financial crisis; the findings
+could plausibly be different in other periods. Replicating the methodin this paper using data from the British Household Panel Survey from
+1991 to 2008 may be able to illuminate this question.
+This paper makes a number of methodological contributions includ-
+ing the application of the UKHLS to the study of gentrificationprocesses and the use of matching methods to compare processes
+between areas. One question to ask is whether sample attrition from
+the UKHLS—the progressive loss of the sample over time—is likelyto bias the findings of this paper, particularly given that sample attri-
+tion can be associated with moving home. This bias would occur if
+income-poor people moving into gentrifying areas were more likely
+to leave the UKHLS sample than people moving in to nongentrify-
+ing areas (controlling for demographic observables related to attrition)
+and if not income-poor people moving into gentrifying areas were less
+likely to leave the UKHLS sample than people moving into nongentri-
+fying areas. It is difficult to imagine plausible scenarios as to why these
+patterns would explain the tentative findings described above.
+Another question to ask is whether the imperfect matching of areas
+could influence the results. In the base case presented above, two of
+thettests for difference in means were statistically significant, though
+in practical terms, the differences were very small—the matched
+comparison group had 0.01 lower mean neighbourhood rank in 2011
+and 0.4 percentage points higher mean proportion of 0 to 15 year olds.Poverty entry rates are higher in higher poverty areas, so if anything
+this may have slightly reduced the difference between gentrifying and
+nongentrifying areas rather than increased it. A higher proportion of
+0 to 15 years olds (and consequently a lowerproportion of over45 year
+olds) would suggest a slightly higher rate of mobility in nongentrifying
+areas, though we would expect this difference in both inward andoutward mobility—the fact that differences are only evident in one of
+these flows suggests that the impact of slightly different age structures
+is relatively small.
+12 of 13 FRANSHAM
+An ancillary finding from the logistic regression analyses is that
+area gentrification is a significant predictor of moves into an area
+over this period. This suggests that there may have been a higher
+overall rate of inward movement into gentrifying compared with
+nongentrifying areas and points to the role of processes of ‘‘dilution’’
+that are taking place alongside exclusionary displacement. As reportedby Rae (2013), the residential areas of large cities have seen significant
+population growth in the past two decades. Compositional change is
+in part taking place due to a rise in the total population, where the
+incoming population is different in characteristics to the established
+population, thus ‘‘diluting’’ its characteristics. One such example is
+so-called ‘‘new-build gentrification’’ (Davidson & Lees, 2010). This kind
+of population dilution may also be involved in othersocio-demographic
+shifts such as change in ethnic group composition.
+6 CONCLUSION
+To summarise the findings on residential mobility patterns using adifferent methodology, a different data set, and a different time period,
+this study replicates the result of Freeman et al. (2016) that there is
+no evidence of direct displacement of low-income individuals from
+gentrifying areas. In answer to the puzzle of what, then, is driving theprocess of neighbourhood change, the analysis presented above finds
+good evidence that it is a change in the composition of incomers to an
+area that is the strongest driver or what might be termed exclusionary
+displacement.
+An obvious question is how this finding relates to numerous
+small-scale qualitative studies that do find evidence of direct displace-
+ment of existing residents through, for example, the demolition of
+social housing such as the Heygate Estate in London (Lees, 2014). Do
+the findings outlined in this systematic analysis of gentrification in Eng-land invalidate the findings of qualitative case studies; or vice-versa,
+do the qualitative studies cast doubt on the conclusions drawn here?
+In the absence of the detailed data required to conduct quantitative
+case studies, these two types of studies should be viewed as comple-
+mentary rather than in opposition. Although there is strong evidence
+that exclusionary displacement is the dominant process in gentrifica-
+tion, it cannot be asserted that it is the only one—there is clear case
+study evidence of housing injustice faced by some existing residents
+in processes of gentrification. That said, the assertion that neighbour-hood gentrification necessarily involves the direct displacement of
+existing residents cannot be unquestioningly supported.
+It is often asserted in policy and media discussion that direct
+displacement—the involuntary displacement of people from their
+homes—is the most egregious aspect of gentrification (Slater, 2009).
+Even if gentrification typically proceeds via exclusionary rather than
+direct displacement, or via processes of dilution, there are still negative
+welfare impacts that should concern us. Exclusionary displacement
+m a yh a v ea ni m p a c to np e o p l ew h oi nt h ea b s e n c eo fg e n t r i f i c a t i o nm a yhave moved to gentrifying areas and upon those long-term residents
+who remain. This study leaves open the question of where people who
+are not moving to gentrifying areas are moving to instead. It may be
+that these people are displaced to areas that are further from labour
+market opportunities and/or have poorer services and amenities. Forlong-term residents who remain, it is likely that neighbourhood change
+reduces some sources of social welfare but creates others. There may
+be some positive impacts via an increase in ‘‘middle-class voice’’ and
+reduced territorial stigmatisation. On the other hand, it may lead to
+services and facilities being targeted at higher income individuals, lead-
+ing to a decline in the facilities for people living on lower incomes andan erosion of the support derived from social networks of people in
+similar situations. Urban and housing policy has a large role to play in
+mediating these welfare impacts by intervening in the housing market
+to increase the availability of secure and decent housing.
+ORCID
+Mark Fransham
+https://orcid.org/0000-0002-9284-2517
+REFERENCES
+Atkinson, R. (2000). Measuring gentrification and displacement in greater
+London. Urban Studies ,37(1), 149–165. https://doi.org/10.1080/
+0042098002339
+Atkinson, R., & Bridge, G (2005). The new urban colonialism. In R. Atkinson,
+&G .B r i d g e( E d s . ) , Gentrification in a global context: The new urban
+colonialism . New York: Routledge, pp. 1–17. https://doi.org/10.4324/
+9780203392089
+Bailey, N., & Livingston, M. (2007). Population turnover and area deprivation .
+York: Joseph Rowntree Foundation.
+Bailey, N., & Minton, J. (2018). The suburbanisation of poverty in British
+cities, 2004-16: Extent, processes and nature. Urban Geography ,39(6),
+892–915. https://doi.org/10.1080/02723638.2017.1405689
+Clark, WAV., & Rivers, N (2013). Community choice in large cities: Selec-
+tivity and ethnic sorting across neighbourhoods. In M. van. Ham,D. Manley, & N. Bailey (Eds.), Understanding neighbourhood dynamics:
+New insights for neighbourhood effects research . London: Springer, pp.
+255–280. https://doi.org/10.1007/978-94-007-4854-5_12
+Davidson, M., & Lees, L. (2010). New-build gentrification: Its histories,
+trajectories, and critical geographies. Population, Space and Place ,16(5),
+395–411. https://doi.org/10.1002/psp.584
+Dorling, D. (2014). All that is solid: The great housing disaster . London: Allen
+Lane.
+DWP (2017a). Households below average income: An analysis of the UK
+income distribution 1994/95-2015/16 . London: Department for Work
+& Pensions.
+DWP (2017b). Income dynamics: Background and methodology .L o n d o n :
+Department for Work & Pensions.
+Eggers, A. C., & Hainmueller, J. (2009). MPs for sale? Returns to office in
+postwar British politics. The American Political Science Review ,103(4),
+513–533. https://doi.org/10.1017/s0003055409990190
+Ellen, I. G., & Regan, K. M. O. (2011). How low income neighborhoods
+change: Entry, exit, and enhancement. Regional Science and Urban Eco-
+nomics ,41(2), 89–97. https://doi.org/10.1016/j.regsciurbeco.2010.12.
+005
+Fenton, A. (2016). Gentrification in London: A progress report, 2001–2013.
+CASEpapers, London: London School of Economics.
+Fielding, T. (2012). Migration in Britain: Paradoxes of the present, prospects
+for the future . Cheltenham: Edward Elgar Publishing.
+Fisher, P. (2019). Does repeated measurement improve income data qual-
+ity?Oxford Bulletin of Economics and Statistics ,81(5), 989–1011. https://
+doi.org/10.1111/obes.12296Wiley.
+Freeman, L. (2005). Displacement or succession? Residential mobility
+in gentrifying neighborhoods. Urban Affairs Review ,40(4), 463–491.
+https://doi.org/10.1177/1078087404273341
+FRANSHAM 13 of 13
+Freeman, L., Cassola, A., & Cai, T. (2016). Displacement and gentrification
+in England and Wales: A quasi-experimental approach. Urban Studies ,
+53(13), 2797–2814. https://doi.org/10.1177/0042098015598120
+Glass, R. (1964). Introduction: Aspects of change. in: Centre for Urban
+Studies (ed.)London: Aspects of change, London: MacKibbon & Kee.
+Ham, M. v., Manley, D., Bailey, N., & Maclennan, D. (2013). Understand-
+ing neighbourhood dynamics. In M. v. Ham, D. Manley, N. Bailey,
+& D. Maclennan (Eds.), Understanding neighbourhood dynamics: New
+insights for neighbourhood effects research . Dordrecht: Springer, pp.
+1–21. https://doi.org/10.1007/978-94-007-4854-5
+Hamnett, C. (2003). Gentrification and the middle-class remaking of inner
+London, 1961-2001. Urban Studies ,40(12), 2401–2426. https://doi.
+org/10.1080/0042098032000136138
+Hamnett, C. (2010). Moving the poor out of central London? The impli-
+cations of the coalition government 2010 cuts to Housing Benefits.
+Environment and Planning A ,42(12), 2809–2819. https://doi.org/10.
+1068/a43511
+Hills, J., De Agostini, P., & Sutherland, H. (2016). Benefits, pensions, tax
+credits and direct taxes. In R. Lupton, T. Burchardt, J. Hills, & et al
+(Eds.), Social policy in a cold climate: Policies and their consequences since
+the Crisis . Bristol: Policy Press, pp. 11–34. https://doi.org/10.1332/
+policypress/9781447327714.003.0002
+Ho, D., Imai, K., King, G., & Stuart, E. A. (2007). Matching as nonparametric
+preprocessing for reducing model dependence in parametric causal
+inference. Political Analysis ,15(3), 199–236. https://doi.org/10.1093/
+pan/mpl013
+Hochstenbach, C. (2016). State-led gentrification and the changing geog-
+raphy of market-oriented housing policies. Housing, Theory and Society ,
+34(4), 399–419. https://doi.org/10.1080/14036096.2016.1271825
+Hochstenbach, C., & Van Gent, W. P. C. (2015). An anatomy of gen-
+trification processes: Variegating causes of neighbourhood change.
+Environment and Planning A ,47(7), 1480–1501. https://doi.org/10.
+1177/0308518X15595771
+Hood, A., & Waters, T. (2017). Living standards, poverty and inequality in the
+UK: 2016-17 to 2021-22 . London: Institute for Fiscal Studies.
+Knies, G. (2016). Understanding society—UK Household Longitudinal
+Study: Waves 1-6 User Guide. Colchester: University of Essex. (ed.)
+Lees, L. (2014). The Urban injustices of new labour's ‘New Urban Renewal’:
+T h ec a s eo ft h eA y l e s b u r yE s t a t ei nL o n d o n . Antipode ,46(4), 921–947.
+https://doi.org/10.1111/anti.12020
+Lees, L., & Ferreri, M. (2016). Resisting gentrification on its final frontiers:
+Learning from the Heygate Estate in London (1974 – 2013). Cities ,57,
+14–24. https://doi.org/10.1016/j.cities.2015.12.005
+Lees, L., Slater, T., & Wyly, E. (2008). Gentrification . New York: Routledge.
+Lumley, T. (2010). Complex surveys: A guide to analysis using R .J o h nW i l e y :
+Hoboken, New Jersey.
+Marcuse, P. (1985). Gentrification, abandonment, and displacement: Con-
+nections, causes, and policy responses in New York City. Journal of
+Urban and Contemporary Law ,28, 195–240.
+McKinnish, T., Walsh, R., & White, T. K. (2010). Who gentrifies low-income
+neighborhoods? Journal of Urban Economics ,67, 180–193. https://doi.
+org/10.1016/j.jue.2009.08.003Morgan, S., & Winship, C. (2014). Counterfactuals and causal inference: Meth-
+ods and principles for social research . Cambridge: Cambridge University
+Press. https://doi.org/10.1017/CBO9781107587991
+Newman, K., & Wyly, E. K. (2006). The right to stay put, revisited: Gentrifi-
+cation and resistance to displacement in New York City. Urban Studies ,
+43(1), 23–57. https://doi.org/10.1080/00420980500388710
+Nolan, B., & Whelan, C. (1996). Resources, deprivation and poverty .O x f o r d :
+Oxford University Press.
+Petersen, J., & Rabe, B. (2013). Understanding society—A geographical
+profile of respondents. Understanding Society Working Paper, Essex:
+Institute for Social & Economic Research.
+R Core Team (2016). R: A language and environment for statistical com-
+puting. Vienna: R Foundation for Statistical Computing, https://www.
+r-project.org/
+Rae, A. (2013). English urban policy and the return to the city: A decade
+of growth, 2001-2011. Cities ,32, 94–101. https://doi.org/10.1016/j.
+cities.2013.03.012
+Schenker, N., & Gentleman, J. F. (2001). On judging the significance of
+differences by examining the overlap between confidence intervals.
+The American Statistician ,55(3), 182–186. https://doi.org/10.1198/
+000313001317097960
+Slater, T. (2009). Missing Marcuse: On gentrification and displacement. City,
+13(2-3), 292–311. https://doi.org/10.1080/13604810902982250
+S m i t h ,T . ,N o b l e ,M . ,N o b l e ,S . ,W r i g h t ,G . ,M c L e n n a n ,D . ,&P l u n k e t t ,
+E. (2015). The English indices of deprivation 2015. ( Research Report ):
+London: Department for Communities & Local Government.
+Tinson, A., Ayrton, C., Barker, K., Born, T. B., Aldridge, H., & Kenway,
+P. (2016). Monitoring poverty and social exclusion 2016 .Y o r k :J o s e p h
+Rowntree Foundation.
+University of Essex Institute of Economic and Social Research, & NatCen
+Social Research and Kantar Public (2016). https://doi.org/10.5255/
+UKDA-SN-6614-9, Understanding society: Waves 1-6, 2009-2015.
+SN: 6614. Colchester: UK Data Archive.
+Vigdor, J. L. (2002). Does gentrification harm the poor? Brookings-Wharton
+Papers on Urban Affairs 2002, 133–182. https://doi.org/10.1353/urb.
+2002.0012
+SUPPORTING INFORMATION
+Additional supporting information may be found online in the
+Supporting Information section at the end of the article.
+How to cite this article: Fransham M. Neighbour-
+hood gentrification, displacement, and poverty dynamics
+in post-recession England. Popul Space Place . 2020;26:e2327.
+https://doi.org/10.1002/psp.2327

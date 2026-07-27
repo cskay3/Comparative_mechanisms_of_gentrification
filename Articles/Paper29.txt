@@ -1,0 +1,896 @@
+Received: 29 February 2024 |Accepted: 26 August 2024
+DOI: 10.1002/psp.2827
+RESEARCH ARTICLE
+Rural gentrification, the booming B&B industry and linked
+migration in China: To what extent can gentrificationcontribute to rural revitalisation?
+Chen Chen1|Zhanyi Luo1|Jin Zhu2
+1College of Architecture and Urban Planning,
+Tongji University, Shanghai, China
+2Department of Real Estate and Construction,
+Department of Urban Planning and Design,
+Urban Systems Institute, The University of
+Hong Kong. Hong Kong S.A.R., China
+Correspondence
+Jin Zhu, Room 501, Knowles Building,
+The University of Hong Kong. Hong Kong
+S.A.R., China.Email: jinzhu@hku.hk
+Funding information
+National Natural Science Foundation of China;College of Architecture and Urban Planning;
+Tongji UniversityAbstract
+Accompanying the functional transformation of rural areas from productivism
+to postproductivism, the rural areas wi th scenic views surrounding megacities
+are re ‐evaluated in terms of their importa nce as destinations for visitors,
+especially in the case of booming bed and breakfast (B&B) industry in con-
+temporary rural China. While private in vestment has generally led to improve-
+ments in the physical space and economic development of these villages, there
+is also concern about the negative effects of rural gentrification, such as thecommercialisation of rural space, the alienation of rural culture and the dis-
+placement of indigenous residents. Thi s study examines the multifaceted nature
+of rural gentrification by observing two villages within the Moganshan
+Mountain area —the birthplace of rural B&Bs in China, and explores how these
+processes have been leveraged to promote rural revitalisation. Research find-ings suggest that disparities in original r esources and property rights allocation
+underpinning the B&B industries among the first ‐wave gentrifiers and the local
+villagers, when viewed through the lens of linked migration, may lead to
+different socioeconomic outcomes. The B&B industry's growth can either be
+exclusive, primarily favouring gentrifi ers, or complementar y, fostering mutual
+benefits and learning opportunities for both gentrifiers and local villagers.
+Moreover, forming a collaborative networ k of rural villagers, returning migrants,
+and external elites can contribute to rural revitalisation through gentrification.
+These findings contribute to the theoreti cal understanding of rural gentrifica-
+tion by adding evidence from the Globa l South and provide insights to inform
+Chinese rural revitalisation policies, especially alternatives to traditional
+state ‐led revitalisation projects.
+KEYWORDS
+B&B industry, linked migration, postproductivism, return migration, rural gentrification, rural
+revitalisation
+Popul Space Place . 2024;30:e2827. wileyonlinelibrary.com/journal/psp |1o f1 6
+https://doi.org/10.1002/psp.2827This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited.
+© 2024 The Author(s). Population, Space and Place published by John Wiley & Sons Ltd.
+1|INTRODUCTION
+Urban ‐rural inequality has increased substantially as a result of
+China's rapid urbanisation (Long & Liu, 2016 ). Consequently,
+China's rural areas are often associated with poverty, abandon-ment and depopulation, in contrast to the beautiful rural idyll
+commonly depicted in Anglophone countries, such as the UK
+(Phillips, 1993 ,2005 ). In response to rural decline, the Chinese
+central government has explored different methods to revitaliseits vast rural areas and improve the well ‐being of rural residents,
+such as the ‘new socialist villages ’initiative (CPC Central Com-
+mittee, & State Council, 2006 ) or more recently the ‘beautiful
+village construction ’(Ministry of Agriculture, 2013 )a n d ‘rural re-
+vitalisation strategy ’(CPC Central Committee & State Council,
+2018 ). However, these progressive policies —especially the earlier
+ones —were mainly implemented through state ‐led financial
+assistance and support. The effectiveness and sustainability of
+these projects have often been limited due to the lack of bottom ‐
+up initiatives (Shen & Shen, 2019 ). Given this situation, China's
+Strategic Plan of Rural Revitalisation (2018 –2022) recognises that
+private investment should be lev eraged to support rural devel-
+opment (CPC Central Committee & State Council, 2018 ). In other
+words, the state might focus more on institutional design and
+favourable policymaking to attract private investors to rural areas
+and encourage bottom ‐up initiatives.
+While much of rural China is associated with depopulation and
+economic decline, recent years have seen the emergence of rural
+gentrification in areas known for their outstanding natural en-vironment and slow pace of life —for example, the famous tourist
+destinations of Dali and Lijiang in Yunnan province (Sun &
+Xu,2017 ;Z h a o , 2019 ). In orthodox ‘rural gentrification ’literature,
+Neil Smith reminds us that the ‘rent gap ’between the devaluation
+of properties within an area and the anticipated financial returns
+is important to understand the motivation of gentrification
+and relevant capital investme nts into the built environment
+(Smith, 1979a ,1979b ,2002a ). The rent gap highlights the
+opportunity to reap greater rental revenues through investment.
+Phillips ( 2005 , p.479) suggests rural gentrification may be seen as
+‘one form of the revalorisation of resources and spaces which
+have become seen as unproductive or marginal to agrarian capital ’.
+With rising de ‐agriculturalization and the transition to post ‐
+productivism (Burton & Wilson, 2006 ), the value of rural resources
+and spaces has been increasingly recognised. The attractiveness
+of rural areas is increased by their ‘proximity to wilderness ame-
+nities ’(Darling, 2005 , p. 1023; Snepenger et al., 1995 ).
+The rent gap and the resulting rental inflation in gentrified
+communities cause displacement of the lower socioeconomic strata
+(Ding et al., 2015 ; Freeman, 2005 ; Ghose, 2004 ). In most cases,
+displaced residents who cannot afford the higher rents move to
+neighbourhoods with lower rents (Ding et al., 2015 ). Consequently,
+gentrification is often regarded as a somewhat conflicted term.Nevertheless, under China's unique rural land ownership structure,
+whereby a house and rural land cannot be sold by individuals, localvillagers are not typical victims displaced in the gentrification pro-
+cess (Qian et al., 2013 ;Z h a o , 2019 ). Instead, the presence of rural
+gentrifiers creates opportunities for local villagers to charge rent
+and become active players in promoting rural socioeconomic re-
+structuring. In this case, the ongo ing rural gentrification in some
+villages might positively impact local villages without much state
+intervention.
+Our case study in villages of the Moganshan Mountain area, in
+Zhejiang Province reveals the multifaceted essence of rural gentrifi-cation and the possibility of positive impacts on rural development.
+Natural resources in the Moganshan Mountain area and its proximity
+to the neighbouring megacities of Shanghai, Hangzhou and Nanjinghave made a prosperous local tourism industry possible, creating the
+boom of B&B (bed and breakfast) businesses in the area. This trend
+started in 2007 when gentrifiers began to invest in high ‐end guest
+houses in the local villages of Moganshan. Villagers' homes were
+increasingly redeveloped, transformed, and refurbished to accom-
+modate tourists. Unintentionally, the ongoing gentrification inMoganshan somewhat satisfies the government's anticipation that
+rural revitalisation would increase farmers' income, creating a thriving
+rural industry and encouraging return migration.
+In light of the potentially positive impacts, to what extent can
+gentrification contribute to rural revitalisation? Drawing on the
+concept of linked migration, our research questions are: (1) How has
+the local B&B industry thrived and influenced the socioeconomictransformation of rural communities? (2) How has rural gentrification
+encouraged the return migration of local villagers and other urban ‐to‐
+rural migration? Based on two villages in Moganshan, this researchadds information on the Global South to the literature to enhance the
+contemporary understanding of gentrification.
+The remainder of this paper comprises four sections. Section 2
+reviews the literature on gentrification, rural gentrification, andlinked migration and proposes a conceptual framework. Section 3
+introduces the case study area and research methods. Section 4
+outlines the research findings, and Section 5discusses the findings
+and draws conclusions.
+2|RURAL GENTRIFICATION AND LINKED
+MIGRATION: A CONCEPTUAL FRAMEWORK
+2.1 |Gentrification and rural gentrification
+Many scholars believe the definition and outcomes of gentrification
+hinge on an influx of capital, social displacement, and related social,economic, physical, and cultural transformations (Atkinson, 2003 ;
+Brown ‐Saracino, 2010 ). The literature regards middle ‐class coloni-
+sation, and the resulting displacement of indigenous residents, as adefining characteristic or pre ‐requisite for specific stages of gentri-
+fication (Glass, 1964 ). However, this argument is increasingly con-
+tested (Butler, 2007 ; Stockdale, 2010 ). Phillips ( 2002 ), for example,
+acknowledges that the inflow of the middle ‐class population may not
+necessarily occur with social displacement. Moreover, it is asserted2o f1 6 |CHEN ET AL.
+that ‘the diversity of cases challenges any single definition of
+or explanation for gentrification ’(Brown ‐Saracino, 2010 , p.355).
+Hackworth ( 2002 , p. 815) defines gentrification as ‘the production of
+space for progressively more affluent users ’. Additionally, ‘the habi-
+tation of vacant or derelict property ’(Atkinson, 2003 , p. 2344) or
+inner ‐city revitalisation (Ley, 1986 ) can also be included under the
+umbrella definition of gentrification.
+Notwithstanding debates on its definition and resultant out-
+comes, research on gentrification has proliferated since the termwas coined in the 1960s (Atkinson & Bridge, 2004 ). While it spreads
+from the Global North to the Global South, it also cascades down
+the hierarchies of urban systems within the Global North (e.g.,regional cities). Notably, the process of gentrification also extends
+into rural settings. Here, the distinction between ‘urban ’and ‘rural ’
+gentrification becomes blurred. Rural gentrification is a usefuldescription for contemporary rural social change, similar to change
+in urban settings (Phillips, 1993 ). It can be defined as ‘the revalor-
+isation of spaces formerly used by agrarian and other rural capitalsfor residential development [ …] retail, leisure and even industrial
+uses ’(Phillips, 2004 ,p .1 4 ) .
+Due to mounting housing costs, lower ‐income residents move
+away from their original locations to areas with more affordableaccommodation —a process described as ‘the class ‐based colonisa-
+tion of cheaper residential neighbourhoods ’(Atkinson, 2003 ,
+p. 2343). After gentrification, a series of economic, demographic,and aesthetic transformations happen over the following decade
+(Brown ‐Saracino, 2010 ). There is long ‐term debate on whether
+gentrification works as a harbinger of renaissance or if it has adestructive impact on the working class through urban restructuring
+(Brown ‐Saracino, 2010 ). For example, a systematic literature review
+of English ‐language studies confirmed that gentrification had largely
+negative impacts, such as social displacement, segregation andpolarisation (Atkinson, 2002 ).
+In the European context, the restructuring process of gentrifi-
+cation is not often portrayed as negative (Atkinson, 2003 ). The extent
+and nature of harm associated with it remain debatable. While sys-
+temic social inequalities and the negative impacts on long ‐
+term re-
+sidents cannot be ignored (Brown ‐Saracino, 2010 ), proponents fa-
+vouring market solutions, particularly on the political right, argue that
+the social costs are negligible, especially when weighed against a
+backdrop of decaying neighbourhoods. Consequently, they prefersemantically neutral terms like ‘neighbourhood revitalisation ’or
+‘renaissance ’(Lees, 2008 ). It is also suggested that recent gentrifi-
+cation practices are less socially detrimental than earlier studiessuggested (Freeman & Braconi, 2004 ).
+The unique aspects of rural gentrification in China are deeply
+rooted in the significant legal, economic, and cultural disparities
+between urban and rural areas (Yang & Loopmans, 2023 ). Because it
+is difficult to sell rural land and houses in China, local villagers who
+hold monopolised property rights are not typically displaced through
+rural gentrification. Although the process of gentrification has gen-erated controversy over issues such as excessive commodification of
+rural spaces, alienation of rural culture, the decommunisation of ruralsocieties, and conflicts of interest between local villagers and in ‐
+migrants in Chinese rural areas, the positive impacts of rural gentri-fication should not be underestimated. Notably, the rapid renovation
+of the village built environment, upgrading of industrial structures,
+and return migration, have brought economic opportunities to localcommunities, mitigated the phenomenon of ‘hollowed ‐out’villages,
+and contributed to the revitalisation of rural China (Yang & Xu, 2022 ).
+2.2 |Linked migration
+The theory of gentrification draws on both production ‐side and
+consumption ‐side explanations. Smith ( 1979a ,1979b ,2002a )
+suggests that the rent gap and resultant capital investments bring
+about gentrification. Alternat ively, the consumption approach
+asserts that population movement causes economic restructuring,
+and a predilection for urban/rural amenities drives investment in
+the built environment, accele rating gentrification (Ley, 1986 ).
+However, Stockdale ( 2010 , p. 39) argues that gentrification itself
+is‘a multifaceted process evolving through different stages and
+giving rise to different outcomes ’, and therefore, both production ‐
+side and consumption ‐side approaches are important.
+Population movement brought about by gentrification is a
+dynamic and complex social recomposition process, and this is
+important for understanding the impact of rural gentrification(Phillips, 2010 ; Smith et al., 2021 ). Zhu et al. ( 2019 ) categorised these
+interrelationships into three types —in‐migrants without original
+connections, in ‐migrants based on social network connections and in ‐
+migrants based on blood connections, which highlights the multi-
+faceted aspect of rural gentrification.
+Rural gentrification often stems from changes to the local labour
+market triggered by new economic activities, and typically beginswith in ‐migrants who have no original connection to the destination
+area. As argued by Sassen ( 2006 , p. 86), gentrification ‘ultimately
+rests on the availability of a vast supply of low ‐wage workers ’, em-
+phasising the existence of linked migration through complementary
+labour market roles. In rural America, for example, the baby boomer
+generation gentrifiers attracted a large Latino population who pro-vided them with services like construction and healthcare (Nelson
+et al., 2010 ). However, the literature on linked migration extends
+beyond labour market connections. For example, Zhu et al. ( 2019 )
+found inter ‐regional migrants and intra ‐regional migrants are linked
+through the rental housing market in peri ‐urban Shanghai.
+Another example is ‘chain migration ’, which refers to the
+migration of individuals aided by their family and social networks(such as relatives and fellow villagers). In contrast to in ‐migration
+undertaken by independent individual migrants, chain migration
+allows in ‐migrants to obtain informat ion on local labour market
+opportunities from their interconnected social networks. Subse-
+quent generations of migrants are influenced by the favourable
+information provided by the first ‐generation migrants, and a
+‘multiplier effect ’is created in the local area (Helmenstein &
+Yegorov, 2000 ).CHEN ET AL. |3o f1 6
+The third type of linked migration is driven by family strategies,
+where individuals move to maximise household interests by diversi-fying livelihood strategies. In China, the enduring impact of the
+urban ‐rural dual system has resulted in a pattern of migration based
+on blood ties characteristic of urban ‐rural cyclicality (Chen &
+Fan, 2018 ). While family separation is often viewed as a consequence
+of migration (Ryan, 2011 ), migration is frequently employed as a
+household strategy to enhance the overall well ‐being of families in
+developing countries (Zhu et al., 2022 ). Outbound migrants take
+advantage of favourable conditions in both rural and urban settings
+to strengthen the family's ability to withstand risks and seize
+opportunities, ultimately aiming to break this cycle of separation (Fanet al., 2011 ; Xu et al., 2022).
+In this case study, the gentrification of Moganshan Township was
+initially driven by rural B&Bs run by first ‐generation gentrifiers. This
+development subsequently facilitated chain migration and family
+migration, and a multifaceted social network was established that
+spurred economic, social, and cultural transformation of the ruralcommunity.
+Phillips ( 2005 ), suggested that the flow of capital associated with
+gentrification does not only target residential projects but alsoassociated retail and leisure facilities. This reveals the dynamics andcomplexity of gentrification, which ‘brings changes in leisure and
+retail activities, consumption patterns [to cater to the tastes ofgentrifiers] ’in addition to the flow of capital and population move-
+ment (Solana ‐Solana, 2010 , p. 508; Zukin et al., 2009 ). Linked
+migration associated with gentrification is demonstrated by the flows
+between urban and rural areas (Douglass, 1998 ). Newly arrived re-
+sidents from rural areas might rely on people and services in urbanareas (Nelson et al., 2010 ). In this context, it is particularly important
+to understand the migration pattern of rural gentrification and its
+socioeconomic impacts triggered by the development of rural B&Bsin China.
+2.3 |Analytical framework
+Hamnett ( 1991 ) pointed out that gentrification is a complex ‘physical,
+economic, social, and cultural phenomenon ’. Economic restructuring
+impacts resource ‐based industries, leading to the supply of gentrifi-
+able properties (Nelson et al., 2014 ), and forming new class structures
+at destinations to achieve social reorganisation. When these inves-tors, new consumers, and labour forces arrive in rural communities,
+they fundamentally alter the local economic, social and physical
+landscape (Nelson et al., 2010 ). The emerging connections between
+in‐migrants and local villagers extend beyond mere employment
+associations within the workforce, and develop into novel social in-
+teractions. Our study goes beyond the production/consumption
+FIGURE 1 Conceptual framework. Source : Drawn by the authors.4o f1 6 |CHEN ET AL.
+debate and examines the interplay between the economic, social and
+physical transformation and changes in population compositioncaused by linked migration to explain the ongoing gentrification and
+rural restructuring of two villages in the Moganshan Mountain area
+(Figure 1).
+3|CASE STUDY AREA AND RESEARCH
+METHODS
+In the postproductivist era, rural areas are experiencing a broader
+range of economic activities and evolving attitudes toward landuse, with increased attention being given to recreational and
+commercial aspects (Bergstrom, 2001 ). In the region surrounding
+Moganshan Township, located in Deqing County of ZhejiangProvince, China, there has been a steep rise in the number of rural
+B&Bs due to the region's beautifu ln a t u r a ls c e n e r ya n dp r o x i m i t y
+to major cities (Figure 2) attracting affluent white ‐collar con-
+sumers from surrounding areas, as well as government officials,
+entrepreneurs and others interested in developing rural B&Bs.
+This development has led to signi ficant infrastructure improve-
+ments in rural villages, contributing to their rejuvenation, as ex-emplified by the notable transformation of Laoling and Xiantan
+(Figure 3). Despite similar physical changes, we observed dis-
+tinctly different economic and soc ial transformations in these two
+villages, offering valuable insight s into rural gentrification and its
+multifaceted impacts.This research uses data collected from semi ‐structured inter-
+views and questionnaires during three field surveys conducted in2017, 2019, and 2023, and aims to describe the physical, economic,
+and social transformations before and after the rise of the rural B&B
+industry in two villages. We followed the triangulation method, asdescribed by Denzin ( 1978 ), to validate the credibility of the data
+from multiple sources and to draw valid conclusions. This approach
+led to the identification of two main interview threads.
+Firstly, three rounds of interviews (2017, 2019 and 2023) were
+conducted with key officials in Deqing County and Moganshan
+Township, as the institutional framework and government inter-
+ventions were crucial to the development of rural China. We ex-amined the strategic plans of government departments for the rural
+B&B industry during each period. In addition, we conducted semi ‐
+structured interviews with village committee members in twovillages, to understand the process of rural B&B development, as
+well as the resulting economic, social, and physical transformations
+in the villages. Furthermore, we initiated grassroots research in thetwo villages by interviewing rural B&B owners. In 2017, we con-
+ducted over thirty in ‐depth interviews with individuals involved in
+the B&B industry or related tourism industries, including migrantworkers, returning entrepreneurs, local business owners, and vil-lagers, and followed up with return visits in 2019 and 2023. On ‐site
+investigations were conducted to assess the scale of rural B&B
+operations, environmental and service quality, and to enquire aboutinvestment in the B&B industry, including aspects such as its busi-
+ness models, profitability, pricing strategies, customer sources, and
+FIGURE 2 Location of the study area. Source : Drawn by the authors.CHEN ET AL. |5o f1 6
+FIGURE 3 Rural B&Bs and other leisure projects in Moganshan Township. B&B, bed and breakfast. Source : Drawn by the authors.6o f1 6 |CHEN ET AL.
+social networking. A total of 224 valid questionnaire responses
+were collected from the two villages and were analysed to observethe changes over time. These included changes in employment and
+household income among rural residents at the economic level, as
+well as social changes such as the return of villagers to theirhometowns, changes in interpersonal relationships, and the occur-
+rence of social conflicts (Table 1). It should be noted that this study
+is primarily based on qualitative data, while quantitative data playsan assisting role in providing the bigger picture and corroboratingqualitative evidence.
+4|PATTERNS OF LINKED MIGRATION
+ASSOCIATED WITH THE RURAL
+GENTRIFICATION PROCESS IN TWOVILLAGES
+4.1 |In‐migrants without original ties: The arrival
+of the first ‐generation gentrifiers
+4.1.1 |Laoling Village: The arrival of the
+international investors
+Before the emergence of the rural B&B industry, Laoling Village was a
+traditional rural mountain community where local inhabitants workedin agriculture and rudimentary product processing. In 2007, there
+was a dramatic increase in nutrient loading to Taihu Lake, not far
+from Moganshan Township, resulting in the notorious ‘cyanobacterial
+bloom event ’that drew attention from academia and higher ‐level
+governments. In response, a series of policies and regulations were
+promulgated to control industrial wastewater discharge into theTaihuLake basin, and thousands of polluting enterprises were rectified orclosed. Most of them were small factories or cottage industries in
+surrounding counties and towns, characterised by small scale, out-
+moded technology, obsolete equipment, poor management, andheavy consumption of water resources. Their closure significantly
+reduced the local villagers' household income. Like others in this
+region, working ‐age locals in Laoling Village had to migrate to cities in
+search of employment opportunities, exacerbating the ageing and
+hollowing out of the local rural communities.
+However, in 2007, there was a turning point in the ongoing
+decline of Laoling Village, when a South African entrepreneur iden-
+tified a potential investment opportunity during a holiday in the
+Moganshan Mountain area. He turned seven vacant farmhouses inLaoling Village into the first high ‐end rural B&Bs in Moganshan
+Township, known as the ‘Naked Stables ’. Subsequently, international
+investors from France and South Korea, and domestic investors from
+places like Shanghai and Hangzhou followed and extended this trend,leading to a rapid increase in the number of rural B&Bs in Moganshan
+Town. The region became an iconic destination for rural weekend
+vacations in the Yangtze River Delta region. According to the statis-tics on tourist consumption, visitors' expenditure on accommodation
+reached 850 Chinese Yuan (CNY) and accounted for 64.3% of the percapita tourist expenditure in Laoling Village, much higher figures than
+the average levels in Zhejiang Province and Huzhou City (Table 2).
+The arrival of international investors resulted in the rapid
+development of the local B&B indu stry, which yielded substantial
+economic returns for investors, and increased tax revenues for thelocal government. In 2018, the tourism industry in Moganshan
+Township contributed 85 million CNY in taxes, with over 60 mil-
+lion CNY of that amount attributable to the high ‐end B&B desti-
+nations, such as ‘Naked Home Village ’and ‘Naked Castle ’.T h i s
+demonstrates the pivotal role of high ‐end B&Bs in the develop-
+ment of the B&B industry in Laoling Village, as stated by the
+mayor of Moganshan Township:
+International investments have played a significant role
+in the development of Laoling Village, with elite outsid-ers playing a leading role. The success of international
+investors' projects can be attributed in part to the
+inclusiveness of the local community. The concept ofhigh ‐end B&Bs can facilitate government initiatives and
+create a win ‐win situation for non ‐local investors, local
+villagers, and the local government. (Interview with the
+town's mayor (2017 ‐8), No.7)
+Therefore, the first generation of gentrifiers attracts government
+attention, public investment in infrastructure, and policy innovationdividend at the township ‐level or even county level to Laoling Village,
+making the gentrifiers themselves the primary beneficiaries and
+prioritised recipients of rural resources allocation. For example, the‘Naked Castle ’, Phase III of the ‘Naked Stable ’project, obtained a
+quota of approximately 1.3 km
+2of forest land and 8000 m2of con-
+struction land through the pilot policy of ‘providing construction land
+to villages and towns in sloped areas ’(po di cun zhen)1suggesting the
+government's full support for developing rural B&Bs in this area.
+With support from government and sufficient financial
+resources, first ‐generation gentrifiers in Laoling Village were often
+able to invest more than 10 million CNY per project to achieve
+superior quality and high ‐consumption criteria to attract urban con-
+sumers from Shanghai, Hangzhou, Nanjing, and other surroundingareas. This created a segregated high ‐end B&B market that forced
+local villagers to operate lower ‐tier B&Bs or pursue alternative em-
+ployment due to their lack of financial resources and business ex-perience to match the high ‐end rural B&B industry. A local villager
+frankly admitted:
+Whether it's the renovation or the expansion of farm-
+houses into rural B&Bs, financial constraints and lack of
+experience in relevant industries are the most challenging
+1Since 2015, Zhejiang Province has led the country in testing the pilot policy of ‘slope
+villages and towns ’which provides construction land to scattered development projects in
+rural areas. This policy innovation is implemented in a project ‐based manner to achieve rural
+development while protecting the ecological environment in rural areas.CHEN ET AL. |7o f1 6
+TABLE 1 Interview respondents.
+Administrative division levels Interview number Coded respondent names Interview date Type of actor
+Deqing county 1 County Mayor 2019 June (telephone interview) Government official at County ‐level
+2 Official from the Agriculture and Rural Affairs
+Bureau2019 July Government official at County ‐level
+3 Official of the Construction Bureau 2019 July Government official at County ‐level
+4 Official of the Policy Research Office 2019 July Government official at County ‐level
+5 Official of the Statistics Bureau 2019 July Government official at County ‐level
+6 Official of the Land and Resources Bureau 2019 July Government official at County ‐level
+Moganshan township 7 Town's mayor 2017 August/2019 August (telephone
+interview)Government official at Township ‐level
+8 Director of the General Governance Office 2017 August Government official at Township ‐level/Local B&B
+investor
+9 Director of the Finance Office 2017 August Government official at Township ‐level
+10 Director of the Agriculture and Rural Affairs Office 2017 August Government official at Township ‐level
+11 Director of the Social Affairs Office 2017 August Government official at Township ‐level
+12 Director of the Tourism Office 2017 August Government official at Township ‐level
+13 Director of the Urban ‐rural Construction Office 2017 August Government official at Township ‐level
+14 Director of the Economic Development Office 2017 August Government official at Township ‐level
+Laoling Village 15 Village party secretary 2017 August Village committee leaders
+16 Village cadre 2023 July Village committee members17 Mr. Wang, the owner of the Distant Mountain B&B 2017 August Domestic nonlocal investors18 Mr. Li, the steward of the Distant Mountain B&B 2023 July Migrant employees19 Ms. Zhao, steward of the Yicui Villa B&B 2023 July Migrant employees
+20 Ms. Chen, owner of Rustic Manju B&B 2017 August Returning local investor
+21 Owner of Live in a Cave B&B 2017 August Returning local investor22 Owner of the CIPO B&B 2017 August Returning local investor23 Owner of Encounter with Mori no Mori B&B 2017 August Returning local investor24 Ms. Bao, owner of Yunqi Ju Manor B&B 2019 (telephone interview) Local investor8o f1 6 |CHEN ET AL.
+TABLE 1 (Continued)
+Administrative division levels Interview number Coded respondent names Interview date Type of actor
+25 Mr. Zhou, General Manager of Yiyuan
+Organic Farm2023 (telephone interview) Domestic nonlocal investor
+26 Ms. Tang, staff of Yiyuan Organic Farm 2023 (telephone interview) Migrant employee
+Xiantan village 27 Village party secretary 2017 August/2019 August (telephone
+interview)Village committee leaders
+28 Mr. Shen, owner of Marvel B&B 2017 August/2023 July Returning local villager
+29 Mr. Yang, Owner of Lost Villa B&B 2017 August Domestic nonlocal investors30 Owner of the Ferns B&B 2017 August Returning local investor31 Mr. Shen, owner of Qingyan B&B 2017 August Returning local investor
+32 Ms. Tang, the owner of the Half acre Flower
+Field B&B2023 July Returning local investor
+33 The steward of Qingjing Yuanshe B&B 2017 August Domestic nonlocal investors
+34 Mr. Chen, owner of the Walking in the Hill
+Country B&B2017 August/2019 July (telephone
+interview)/2023 JulyReturning local investor
+35 The owner of the Schwabe Mountain Resort B&B 2017Aug Local investor
+36 Mr. Shen, owner of Qingqi B&B 2023 July Local investor37 The owner of the Moss Garden B&B 2023 July Returning local investor38 Mr. Lang, owner of the family farm 2023 (telephone interview) Local investor
+Source : Primary data was collected using interviews and questionnaires during field research conducted by the authors in 2017, 2019, and 2023.CHEN ET AL. |9o f1 6
+obstacles for us local villagers. (The owner of ‘Yunqi Ju
+Manor ’B&B (2019), No.24)
+A comparison of changes in the proportion of nonagricultural
+income to total income before and after the rise of the B&B industry
+reveals that only 5% of local villagers in Laoling Village experiencedan increase in income. This result suggests that local resources have
+been reaped by the first ‐generation gentrifiers, and the percentage of
+local villagers able to benefit from the growth of rural B&Bs isminimal.
+4.1.2 |Xiantan village: Diversified first ‐generation
+gentrifiers
+Similar to Laoling Village, a significant proportion of the local villagers
+of Xiantan Village also out ‐migrated in response to the factory clo-
+sures brought about by regional environmental regulation enforce-
+ment in the Taihu Lake basin. However, what distinguishes them isthat before the rise of the rural B&B industry, Xiantan Village hadalready witnessed the emergence of traditional farm stays ( nong jia
+le). Since 2013, some domestic white ‐collar workers from Shanghai,
+Hangzhou, and other cities recognised Xiantan Village's potential as arecreational destination because of its idyllic rural scenery. Their
+investment in rural B&Bs was often smaller in scale than in Laoling
+Village (ranging from 3 to 5 million CNY per project). However, thephysical landscape and services were similar. As a result, local vil-
+lagers were inspired to open B&Bs, and a group of out ‐migrants and
+entrepreneurs were encouraged to return to their hometowns tostart long ‐term B&B ventures, rather than leasing their homesteads
+to nonlocal B&B investors for short ‐term returns. As one of the
+villager cadres of Xiantan Village stated:
+The B&Bs in Xiantan Village are mainly run by young
+people returning home and middle ‐aged people with
+business experience; the ratio of young people to middle ‐
+aged people is about 8:2. The local rural B&B market is
+still booming with an annual growth of 10 ‐20 new B&Bs,
+among which only 2 ‐3 B&Bs are developed by nonlocal
+investors. The quality of the physical landscape and the
+service standards of the B&Bs developed by localvillagers are quite similar to the B&Bs run by nonlocal
+investors. (Interview with Xiantan Village party secre-
+tary (2017 ‐8), No.27)
+This awareness of the ownership of land development rights and
+entrepreneurship as B&B investors is largely attributed to the localvillagers' previous experiences in farm stays or in doing business
+abroad. Among the eight boutique B&Bs leading the development of
+the rural B&B industry in Xiantan Village, four investors are fromShanghai, Hangzhou, and Jiaxing City, and four investors are fromDeqing County or the village itself. As a result, rural resources such as
+homesteads and rural land, as well as future development opportu-
+nities, are shared among various stakeholders, allowing a considera-ble part of the benefits of asset appreciation to be retained by local
+villagers. Figure 4contrasts the different investment sources and
+numbers of rural B&Bs in Xiantan and Laoling Villages.
+4.2 |Related migration driven by social capital
+and household strategy: The arrival of thesecond ‐generation gentrifiers
+4.2.1 |Laoling village: Attracting nonlocal workers
+through the labour market
+The profitable business model of exclusive rural B&Bs in Laoling
+Village has attracted a greater number of nonlocal investors. Relying
+on their social networks, these investors hired college graduates with
+innovative ideas to work in the B&Bs, thereby diversifying thecomposition of the rural population, as we learned from a village
+cadre in Laoling Village:
+B&Bs in Laoling Village usually require 2 ‐3 stewards.
+The stewards all have a bachelor's degree or above, and
+are mostly nonlocal employees with professional hotel
+management experience. Many of these nonlocalworkers knew the owner before coming to Laoling.
+Meanwhile, most of the staff, such as logistics staff,
+chefs, waiters, and cashiers, also have college degrees orabove. (Interview with Laoling Village party secretary
+(2017 ‐8), No.15)TABLE 2 Tourist consumption statistics for Laoling Village, 2018.
+Administrative
+jurisdictionsTotal spend per capita Accommodation Restaurants Other
+Amount
+(CNY)Percentage
+(%)Amount
+(CNY) Percentage (%)Amount
+(CNY) Percentage (%)Amount
+(CNY) Percentage (%)
+Zhejiang Province 1279.2 100 221.7 17.3 250.1 19.6 807.3 63.1
+Huzhou City 974.4 100 178.6 18.3 229 23.5 566.7 58.2
+Laoling Village 1321.0 100 850 64.3 330 25.0 141 10.7
+Source : Sorted by authors using statistical data and survey data.
+Abbreviation: CNY, Chinese Yuan.10 of 16 |CHEN ET AL.
+However, this also led to labour demand in the local rural B&B
+industry. The second ‐generation gentrifiers and the in ‐migrant
+nonlocal workers dominated th e upper level of the job market in
+Laoling Village, leaving only opportunities for lower ‐level em-
+ployment such as cleaning staff, security guards, and supplyinglocal agricultural produce for local villagers aged in their 40s and
+50s. Our field survey found the total labour force of Laoling
+Village was 882 people, of which 558 were nonlocal labourers,leaving local labour at only 36% of the total. This suggests that
+local villagers were squeezed out of local economic opportunities
+by the nonlocal employees.
+Although there are some disparities, this phenomenon also
+shares some similarities with the concept of social displacement
+resulting from gentrification in rural areas, encompassing hous-ing, the job market, and other facets of social life, such as em-ployment conditions, accessibility of services, social customs, and
+emotional connections. (Phillips et al., 2021 ). Moreover, the
+competitive relationship between nonlocal in ‐migrants and local
+villagers undoubtedly had a negative impact on social capital
+accumulation in local communities. As a B&B in ‐migrant em-
+ployee said:
+Although we will introduce guests to other B&Bs, we
+have our unique business model and operating philoso-phy that we are reluctant to share with other B&B
+owners. There will be secret guests hired by peers to stay
+in our B&B to ‘steal ’innovative ideas. We really don't
+want this, but there's little we can do about it. (Interview
+with the steward of the Yicui Villa B&B (2023 ‐
+7), No.19)
+Moreover, the profitable business model caused keen competi-
+tion among nonlocal investors, local investors, and local villagers,
+leading to frequent conflicts, such as a surge in disputes over rentalagreements and land ownership. As articulated by the director of the
+General Governance Office at the township level:The contract was usually not followed after the contract
+was signed. For example, the entire house might be
+leased out for 5000 CNY a year, with the renovation
+being the obligation of the non ‐local B&B investor.
+However, when the rural B&B market boomed, theoriginal housing owner might regret the previous contract
+and set obstacles for the tenant on purpose, unless the
+rent was re ‐negotiated to a certain level. In some cases,
+the rural housing may be re ‐sold to the next tenant at a
+much higher price without negotiating with the original
+owner, and this may not have been clearly articulated inthe previous contract, resulting in disputes between
+different stakeholders. Such problems are mainly found in
+early investors, especially B&Bs in Laoling Village.(Interview with the director of the General Govern-ance Office (2017 −8), No.8)
+In light of the various disputes over land property rights trans-
+actions and the cutthroat competition among local mid ‐to low ‐end
+B&Bs, it was evident that the originally close ‐knit and harmonious
+social network of the countryside had begun to disintegrate. Suchissues are comparable to the forms of cultural or sociocultural dis-
+placement. (Phillips et al., 2021 ).
+4.2.2 |Xiantan village: Attracting returning local
+villagers through social capital
+In contrast to the previous cases, the first batch of B&B owners in
+Xiantan Village quickly realised the importance of including local
+villagers in the strategic development of rural B&Bs. TraditionalChinese rural society sees industrial development as a process of
+continuous growth based on collective interests, and the prosperous
+development of rural B&Bs can hardly be sustainable without theinclusion of local villagers. Since 2013, when nonlocal B&B domestic
+investors, exemplified by the ‘Lost Villa ’, entered Xiantan Village, they
+FIGURE 4 The investment sources for rural B&Bs in Laoling (a) and Xiantan (b) Villages. Source : Drawn by the authors based on data
+collected during fieldwork.CHEN ET AL. |11 of 16
+developed a relationship of mutual learning with the local community
+by establishing Moganshan B&B College and Moganshan B&B
+Industry Development Association —a platform for communication
+and mutual learning about B&B development and management, ledby high ‐end B&B owners in Xiantan Village. They aimed to facilitate
+internal communication channels between local villagers and elite
+outside talents. In 2018, Xiantan Village established the village ‐level
+Returning Entrepreneurs Association, which provides guidance to B&B
+newcomers, and assists new investors in connecting with banks of-
+fering comparatively low interest rates to reduce the risk of financial
+losses.
+The platforms acted as a bridge between the local rural villagers
+and nonlocal investors and workers, giving the second ‐generation
+gentrifiers —the returning local villagers —the opportunity to build up
+their own B&B brands. Simultaneously, the nonlocal domesticinvestors are better accepted by the local community as rural B&B
+leaders and recognised by the local government as offering a superior
+model of rural revitalisation. Among the returning local villagers, theowner of the B&B brand ‘Mo Fan ’represents a replicable model for
+surrounding local villagers. He said in an interview:
+Xiantan Village has experienced significant growth in
+the B&B industry, expanding from a dozen to more than
+100, mostly developed by returning local villagers whowould quickly learn from each other. For example, the
+Mo Fan B&B itself is a successful brand created by a
+returning local villager learning from the ‘Lost Villa ’
+model, and during the renovation period of Mo FanB&B, many local villagers would come to visit and study,
+and even hire the same construction team for their own
+projects. (Interview with the owner of ‘Marvel ’B&B
+(2017 ‐8/2023 ‐7), No.28)
+The favourable entrepreneurial environment and attractive sal-
+aries offered have attracted a substantial number of local workers to
+take up roles in management, catering, room service, gardening, andother related positions. There is a shortage of construction workers
+and housekeeping staff, leading to higher wages for these roles
+compared to those in urban areas. Statistical data indicates that the
+local labour force's employment rate in the village stands at 71.3%,with young adults constituting approximately 25% of the totalworkforce. The number of local families returning home to Xiantan
+Village is significantly higher than in Laoling Village, and far exceeds
+that in Moganshan Township. This shows that the B&B industry inXiantan Village has effectively alleviated the problems of labour force
+depletion and disconnection amid rapid urbanisation (Figure 5).
+From our 2019 and 2023 tracking results, we observed that the
+B&B industry had become a predominant employer for local villagers
+in Xiantan Village. Additionally, a significant number of young people
+who had previously worked outside the village had returned to eithermanage their parents' B&Bs or establish their own, thereby reducingthe previous trend of family separation, emerging as an important
+supplement to the second ‐generation gentrifiers.
+4.3 |Other relevant in ‐migration by other
+B&B ‐induced industries
+The growth of the rural B&B industry is driven by visitors ’interest in
+various outdoor activities in the surrounding areas. The developmentof recreational amenities by local entrepreneurs has further en-
+hanced the area's appeal for visitors, contributing to the ongoing
+linked migration in the region (Figure 6). It is worth noting that the
+development of recreational establishments mirrors the investmentstructure of B&Bs, with high ‐end recreational amenities developed
+by nonlocal investors and agricultural projects developed by locals.
+Among them, Laoling Village has continued its focus on high ‐end
+projects by leasing an area of approximately 738 km
+2of arable land
+(accounting for 81.6% of the total arable land area in Laoling Village)
+to nonlocal investors. These investors have combined modernplanting technology with high ‐end luxury camping facilities, natural
+learning, and art exhibitions to create one of the largest organic farms
+FIGURE 5 The share of returning local villagers per household in Moganshan Township, Laoling Village and Xiantan Village after the rise
+of the rural B&B industry. Source : Drawn by authors.12 of 16 |CHEN ET AL.
+in Zhejiang Province —Yiyuan Organic Farm. Moreover, taking
+advantage of the mountainous terrain, Laoling Village has introducedhigh ‐end outdoor leisure projects led by international investors, such
+as the Land Rover Experience Centre and Sunshine Ecological Park,
+which have further raised the level of local tourist consumption. As aresult, many Laoling villagers have opted to lease their land, transition
+away from traditional agricultural farming, and relocate away from
+their home village.
+In this sense, Xiantan Village stands out due to its unique
+approach. Despite the village collective's plan to collectively
+transfer village land for big projects, the local villagers remaincommitted to smallholder farming, choosing to maintain familyfarms and collaborate in producing fresh fruit and vegetables within
+the village. While the economic return of the family farms in
+Xiantan Village may not rival those of the agricultural firmsin Laoling Village, these diversified family farms play a crucial role in
+the prosperity of the local rural community, as suggested by Brune
+et al. ( 2023 ). In contrast to the gradually relocating Laoling villagers,
+the connection of Xiantan villagers to their land and farms repre-
+sents a more traditional and sustainable model. However, both
+villages have attracted more in ‐migration due to the development
+of B&B ‐related industries, which contributes to the ongoing gen-
+trification and the emergen ce of new forms of employment
+opportunities, although local villagers can only access the lower ‐
+end ones in Laoling case.
+5|DISCUSSION AND CONCLUSION
+Compared to the nuanced scholarly debate on rural gentrification
+in Europe and the US (Nelson et al., 2010 ; Nelson et al.,
+2015 ;P h i l l i p s , 2002 ;S m i t h , 2002a ), there has been little research
+on the concept in Global South countries, including China(Phillips et al., 2023 ). However, our case study findings on the
+villages with booming B&B industries in Moganshan resonate withextant research on various aspects. First, the gentrified rural areas
+in our study feature the replacem ent of traditional agricultural
+production with amenities and cultural landscapes. This is similart ot h ed e v e l o p m e n to ft h ec o m m u t e rb e l ti nt h eU Kc o u n t r y s i d e
+(Phillips et al., 2023 ). Second, rural gentrification is driven by
+urban ‐rural migration, or counter ‐urbanisation motivated by the
+promise of a rural idyll (Liu et al., 2023 ; Phillips, 1993 ,2005 ). This
+provides opportunities to invest t he surplus capital accumulated in
+contemporary global cities and reg ional urban centres, seeking out
+new spaces in potentially profitable rent gaps, much like whathappened in the UK and US (Nelson & Hines, 2018 ). Third, our
+findings are consistent with extant research that suggests eco-
+nomic and sociocultural changes are reshaping rural areas intodynamic spaces of migration and population churn (Nelson &
+Hines, 2018 ; Smith et al., 2021 ;T a n g&Z h u , 2020 ), which may also
+lead to various forms of displacement (Marcuse, 1985 ; Phillips
+et al., 2020 ; Phillips et al., 2021 ; Smith et al., 2019 ).
+Although we argue that the process of rural gentrification could
+be leveraged to promote rural revitalisation in the Chinese context,we acknowledge that even with the same physical landscape, the
+economic, sociocultural transformations, and sustainability challenges
+that underpin this process may differ considerably. In recognising themultifaceted nature of rural gentrification, this research goes beyondthe production/consumption debate and examines the interplay
+between the economic, social and physical transformation and the
+changes in population composition due to linked migration in twovillages in the Moganshan Mountain area. It examines to what extent
+gentrification can facilitate rural revitalisation, particularly in countr-
+ies with a tradition of smallholder farming. These findings provideinsights into the Chinese rural policies, offering alternatives to tra-
+ditional state ‐led projects for revitalising rural areas, and shed light on
+FIGURE 6 Linked migration triggered by B&B industries in the rural areas of Moganshan Township. Source : Drawn by authors.CHEN ET AL. |13 of 16
+how to improve the rural development in countries and across the
+Global South.
+First, by observing the rural gentrification process in two
+villages within the Moganshan Mountain area through the lens of
+linked migration, it becomes evident that the disparities in originalresources and property rights allocation between the first ‐
+generation gentrifiers and the indigenous villagers underpinning
+the B&B industry may lead to different socioeconomic outcomes,necessitating systematic policy interventions. It has been sug-gested that indigenous villagers in China, acting as landlords, may
+eventually benefit from rural gentrification, potentially exerting
+pressure on nonlocal investors if l and rent or property prices rise.
+This highlights the fundamental role of institutional ‐structural
+settings in the process of rural gentrification (Yang et al., 2018 ).
+However, most of the first ‐generation nonlocal investors took
+long ‐term leases of 15 −20 years on vacant homesteads, creating a
+segregated high ‐end B&B market. This compelled local villagers to
+operate lower ‐tier B&Bs or pursue alternative work opportunities,
+thus suffering displacement in terms of development opportuni-
+ties. The first generation of non local investors in Xiantan only
+worked as harbingers of B&B industries with small ‐scale invest-
+ment in a small proportion of rural homesteads. This inspired localvillagers, return migrants and late ‐coming entrepreneurs ’ambi-
+tions to open B&Bs.
+Second, the disparity in first ‐generation gentrifiers has led to
+different patterns of rural economic restructuring and linked migra-
+tion; therefore, different rural development outcomes. In Laoling
+Village, the process can be recognised as so ‐called ‘planetary urba-
+nisation ’(Phillips et al., 2022 ), where the urban ‐to‐rural migration
+increases the rural population and spreads urban lifestyles (Cook and
+Phillips, 2005 ). The first ‐generation gentrifiers created a profitable
+business model of exclusive B&Bs for the urban middle ‐class and
+then attracted nonlocal college graduates as the second ‐generation
+gentrifiers, dominating the upper ‐level job market and leaving the
+local villagers with only lower ‐level job opportunities. In contrast, the
+process of gentrification in Xiantan Village was that the first ‐
+generation gentrifiers included both nonlocal investors and returning
+locals (Chan et al., 2016 ). This group not only cared about the sym-
+bolic and affective senses of rurality as proposed by Phillips et al.
+(2022 ), but also about facilitating the integration of local villagers
+(especially their relatives with blood ties) into the B&B businesses.These returning local villagers were able to facilitate collaboration
+between the nonlocal B&B investors and the not ‐yet‐gentrified vil-
+lagers. Therefore, once policy and institutional settings attract theright first ‐generation gentrifiers, a more collaborative development
+model involving local villagers, returning residents, and nonlocal
+investors attracted through linked migration will effectively contrib-
+ute to rural revitalisation through gentrification.
+Finally, as illustrated by our case study villages in the Moganshan
+Scenic Area, the process of rural gentrification in the Global South is
+usually contextualised in a less developed economy with a starkurban ‐rural divide and significant rural out ‐migration, resulting in abrain drain and hollowed ‐out villages —conditions largely absent in
+the UK and North America. An influx of surplus capital into ruralareas has led to the re ‐employment of the labour force left behind in
+rural areas, increased income for local villagers catering to tourists,
+and improved environmental amenities. These changes bring positiveexternalities to the non ‐gentrified households in the countryside,
+even at the cost of some local villagers suffering displacement (which
+only happens when the leases of rural homesteads are valid).
+Moreover, rural areas are expected to assume more diversified
+functions in the post ‐productivist era. However, this transformation
+cannot be achieved solely by the local villagers as they often fail to
+recognise the significant rent gap between actual returns from agri-cultural production and potential returns from converting land to
+recreational amenities, cultural landscapes, or ecosystem services.
+Consequently, urban ‐to‐rural migration could facilitate social learning
+between gentrifiers, local villagers, and visitors, thereby altering the
+conditions of entrepreneurial supply in areas where opportunities are
+closely linked (Chan et al., 2016 ; Kalantaridis, 2010 , p. 1274),
+strengthening the endogenous forces for rural revitalisation.
+ACKNOWLEDGEMENTS
+This research was funded by National Natural Science Foundation ofChina (NSFC52378071; NSFC51978478). It has also been supported
+by Professor Min Zhao and Professor Li Zhang at the College of
+Architecture and Urban Planning, Tongji University. We would like tothank Professor Jieming Zhu' comments on an early draft of this
+article.
+CONFLICT OF INTEREST STATEMENT
+The authors declare no conflict of interest.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from the
+corresponding author upon reasonable request.
+ORCID
+Chen Chen
+http://orcid.org/0000-0002-5370-4058
+Jin Zhu http://orcid.org/0000-0003-4869-4980
+REFERENCES
+Atkinson, R. (2002). Does Gentrification Help or Harm Urban Neighbour-
+hoods . Centre for Neighbourhood Research.
+Atkinson, R. (2003). Introduction: Misunderstood saviour or vengeful
+wrecker? The many meanings and problems of gentrification. Urban
+Studies ,40(12), 2343 –2350.
+Atkinson, R., & Bridge, G. (2004). Gentrification in a Global Context .
+Routledge.
+Bergstrom, J. C. (2001). Postproductivism and rural land values .
+Brown ‐Saracino, J. (2010). The Gentrification Debates . Routledge.
+Brune, S., Vilá, O., & Knollenberg, W. (2023). Family farms' resilience
+under the COVID ‐19 crisis: Challenges and opportunities with
+agritourism. Land Use Policy ,134, 106902.
+Burton, R. J. F., & Wilson, G. A. (2006). Injecting social psychology
+theory into conceptualisations of agricultural agency: Towards a14 of 16 |CHEN ET AL.
+post ‐productivist farmer Self ‐Identity. Journal of Rural Studies ,22(1),
+95–115.
+Butler, T. (2007). Re ‐Urbanizing London docklands: Gentrification, sub-
+urbanization or new urbanism? International Journal of Urban and
+Regional Research ,31(4), 759 –781.
+Chan, J. H., Iankova, K., Zhang, Y., McDonald, T., & Qi, X. (2016). The role of
+self‐gentrification in sustainable tourism: Indigenous entrepreneur-
+ship at honghe hani rice terraces world heritage site, China. Journal of
+Sustainable Tourism ,24(8–9), 1262 –1279.
+Chen, C., & Fan, C. C. (2018). Rural ‐urban circularity in China: Analysis of
+longitudinal surveys in Anhui, 1980 –2009. Geoforum ,93,9 7 –104.
+CPC Central Committee, & State Council. (2006). Some Opinions on
+Promoting the Construction of New Socialist Villages. http://www.
+gov.cn/jrzg/2006-02/21/content_205958.htm
+CPC Central Committee, & State Council. (2018). Strategic Plan of Rural
+Revitalisation (2018 –2022) . People's Publishing House.
+Darling, E. (2005). The city in the country: Wilderness gentrification and
+the rent gap. Environment and Planning A: Economy and Space ,37(6),
+1015 –1032.
+Denzin, N. K. (1978). Sociological methods: A sourcebook . MacGraw ‐Hill.
+Ding, L., Hwang, J., & Divringi, E. (2016). Gentrification and residential
+mobility in Philadelphia. Regional Science and Urban Economics ,61,
+38–51.
+Douglass, M. (1998). A regional network strategy for reciprocal rural ‐
+urban linkages: An agenda for policy research with reference toIndonesia. Third World Planning Review ,20(1), 1.
+Fan, C. C., Sun, M., & Zheng, S. (2011). Migration and split households: A
+comparison of sole, couple, and family migrants in Beijing, China.
+Environment & Planning A ,43(9), 2164 –2185.
+Freeman, L. (2005). Displacement or succession? Residential mobility in
+gentrifying neighborhoods. urban affairs review ,
+40(4), 463 –491.
+Freeman, L., & Braconi, F. (2004). Gentrification and displacement New
+York city in the 1990s. Journal of the American Planning Association ,
+70(1), 39 –52.
+Ghose, R. (2004). Big sky or big sprawl? rural gentrification and the
+changing cultural landscape of missoula, Montana. Urban Geography ,
+25(6), 528 –549.
+Glass, R. (1964). London: Aspects of Change . MacGibbon & Kee.
+Hackworth, J. (2002). Postrecession gentrification in New York city. urban
+affairs review ,37(6), 815 –843.
+Hamnett, C. (1991). The blind men and the elephant: The explanation of
+gentrification. Transactions of the Institute of British Geographers ,
+16, 173.
+Helmenstein, C., & Yegorov, Y. (2000). The dynamics of migration in the
+presence of chains. Journal of Economic Dynamics and Control ,
+24(Issue 2), 307 –323.
+Kalantaridis, C. (2010). In ‐migration, entrepreneurship and rural –urban
+interdependencies: The case of east Cleveland, north east england.
+Journal of Rural Studies ,26(4), 418 –427.
+Lees, L. (2008). Gentrification and social mixing: Towards an inclusive
+urban renaissance. Urban Studies ,45(12), 2449 –2470.
+Ley, D. (1986). Alternative explanations for inner ‐city gentrification: A
+Canadian assessment. Annals of the Association of American
+Geographers ,76(4), 521 –535.
+Liu, P., Bai, X., & Ravenscroft, N. (2023). Counterurbanization, gentrifi-
+cation and the potential for rural revitalisation in China. Population,
+Space and Place ,29(6), e2680.
+Long, H., & Liu, Y. (2016). Rural restructuring in China. Journal of Rural
+Studies ,47, 387 –391.
+Marcuse, P. (1985). Gentrification, abandonment, and displacement:
+connections, causes, and policy responses in New York city. Urban
+Law Annual; Journal of Urban and Contemporary Law ,28, 195.
+Ministry of Agriculture. (2013). Comments on Creating Beautiful Villages.
+http://jiuban.moa.gov.cn/zwllm/tzgg/tz/201302/t20130222_3223999.htmNelson, L., Trautman, L., & Nelson, P. B. (2015). Latino immigrants and
+rural gentrification: Race, “illegality, ”and precarious labor regimes in
+the United States. Annals of the Association of American Geographers ,
+105(4), 841 –858.
+Nelson, P. B., & Hines, J. D. (2018). Rural gentrification and networks of
+capital accumulation —A case study of Jackson, Wyoming. Environment
+and Planning A: Economy and Space ,50(7), 1473 –1495.
+Nelson, P. B., Nelson, L., & Trautman, L. (2014). Linked migration and labor
+market flexibility in the rural amenity destinations in the United
+States. Journal of Rural Studies ,36, 121 –136.
+Nelson, P. B., Oberg, A., & Nelson, L. (2010). Rural gentrification and
+linked migration in the United States. Journal of Rural Studies ,26(4),
+343 –352.
+Phillips, M. (1993). Rural gentrification and the processes of class colo-
+nisation. Journal of Rural Studies ,9(2), 123 –140.
+Phillips, M. (2002). The Production, Symbolization and Socialization of
+Gentrification: Impressions from Two Berkshire Villages (Vol. 27, pp.
+282 –308. https://doi.org/10.1111/1475-5661.00056
+Phillips, M. (2004). Other geographies of gentrification. Progress in Human
+Geography ,28(1), 5 –30.
+Phillips, M. (2005). Differential productions of rural gentrification: Illus-
+trations from north and South Norfolk. Geoforum ,36(4), 477 –494.
+Phillips, M. (2010). Counterurbanisation and rural gentrification: An ex-
+ploration of the terms. Population, Space and Place ,16(6), 539 –558.
+Phillips, M., Smith, D., Brooking, H., & Duer, M. (2020). Idyllic ruralities,
+displacement and changing forms of gentrification in rural Hert-fordshire, England. Documents d'anàlisi geogràfica ,66(2), 0259 –0287.
+Phillips, M., Smith, D., Brooking, H., & Duer, M. (2021). Re ‐placing dis-
+placement in gentrification s tudies: Temporality and multi ‐
+dimensionality in rural gen trification displacement. Geoforum ,118,
+66–82.
+Phillips, M., Smith, D., Brooking, H., & Duer, M. (2022). The gentrification
+of a post ‐industrial English rural village: Querying urban planetary
+perspectives. Journal of Rural Studies ,91, 108 –125.
+Phillips, M., Smith, D., Brooking, H., & Duer, M. (2023). ‘Everybody loves
+living here ’: Beyond the idyll in life within the gentrified countryside,
+InRural quality of life (pp. 55 –73). Manchester University Press.
+Qian, J., He, S., & Liu, L. (2013). Aestheticisation, Rent ‐Seeking, and rural
+gentrification amidst China's rapid urbanisation: The case of xiaoz-
+hou village, guangzhou. Journal of Rural Studies ,32, 331 –345.
+Ryan, L. (2011). Transnational relations: Family migration among recent
+polish migrants in London. International Migration ,49(2), 80 –103.
+Sassen, S. (2006). Cities and Communities in the Global Economy. In
+N. Brenner & R. Keil Eds, The Global Cities Reader (pp. 82 –88).
+Routledge.
+Shen, M., & Shen, J. (2019). State ‐Led commodification of rural China and
+the sustainable provision of public goods in question: A case study of
+Tangjiajia, Nanjing. Journal of Rural Studies ,93, 449 –460. https://doi.
+org/10.1016/j.jrurstud.2019.03.004
+Smith, D., Phillips, M., Brooking, H., Kinton, C., & Duer, M. (2019). The
+dynamics of rural gentrification and the effects of ageing on gen-trified rural places. Journal of Depopulation and Rural Development
+Studies ,27, 129 –157.
+Smith, D. P., Phillips, M., Culora, A., & Kinton, C. (2021). The mobilities and
+immobilities of rural gentrification: Staying put or moving on.Population, Space and Place ,27(7), e2496.
+Smith, N. (1979a). Gentrification and capital: Practice and ideology in
+society hill. Antipodes ,11(3), 24 –35.
+Smith, N. (1979b). Toward a theory of gentrification a back to the city
+movement by capital, not people. Journal of the American Planning
+Association ,45(4), 538 –548.
+Smith, N. (2002a). New globalism, new urbanism: gentrification as global
+urban strategy. Antipodes ,34(3), 427
+–450.
+Snepenger, D. J., Johnson, J. D., & Rasker, R. (1995). Travel ‐Stimulated
+entrepreneurial migration. Journal of Travel Research ,34(1), 40 –44.CHEN ET AL. |15 of 16
+Solana ‐Solana, M. (2010). Rural gentrification in catalonia, Spain: A case
+study of migration, social change and conflicts in the empordanetarea. Geoforum ,41(3), 508 –517.
+Stockdale, A. (2010). The diverse geographies of rural gentrification in
+scotland. Journal of Rural Studies ,26(1), 31 –40.
+Sun, X., & Xu, H. (2017). Lifestyle tourism entrepreneurs' mobility moti-
+vations: A case study on dali and lijiang, China. Tourism Management
+Perspectives ,24,6 4 –71.
+Tang, W., & Zhu, J. (2020). Informality and rural industry: Rethinking the
+impacts of e ‐commerce on rural development in China. Journal of
+Rural Studies ,75,2 0 –29.https://doi.org/10.1016/j.jrurstud.2020.
+02.010
+Yang, J., Hui, E. C. M., Lang, W., & Li, X. (2018). Land ownership, Rent ‐
+Seeking, and rural gentrification: Reconstructing villages for
+sustainable urbanization in China. Sustainability ,10(6), 1997.
+Yang, R., & Loopmans, M. (2023). Land dispossession, rural gentrification
+and displacement: Blurring the rural ‐urban boundary in Chengdu,
+China. Journal of Rural Studies ,97,2 2 –33.
+Yang, X., & Xu, H. (2022). Producing an ideal village: Imagined rurality, tourism
+and rural gentrification in China. Journal of Rural Studies ,96,1–10.
+Zhao, Y. (2019). When guesthouse meets home: The time ‐space of rural
+gentrification in southwest China. Geoforum ,100,6 0 –67.Zhu, J., He, S., & Hao, J. (2022). Growing rights consciousness of the
+marginalised and the reshuffling of the landlord ‐tenant power rela-
+tionship: Examining a country park ‐induced displacement in Shang-
+hai.Population, Space and Place ,28(1), e2510.
+Z h u ,J . ,L i ,B . ,&H e ,B . ‐J. (2019). Is linked migration overlooked
+in Peri ‐Urban shanghai? uncovering the domino effect of
+driving away interregional migrants. Habitat International ,94,
+102046.
+Zukin, S., Trujillo, V., Frase, P., Jac kson, D., Recuber, T., & Walker, A.
+(2009). New retail capital and neighborhood change: Boutiques
+and gentrification in New York city. City & Community ,8(1),
+47–64.
+How to cite this article: Chen, C., Luo, Z., & Zhu, J. (2024).
+Rural gentrification, the booming B&B industry and linked
+migration in China: To what extent can gentrification
+contribute to rural revitalisation? Population, Space and Place ,
+30, e2827. https://doi.org/10.1002/psp.282716 of 16 |CHEN ET AL.

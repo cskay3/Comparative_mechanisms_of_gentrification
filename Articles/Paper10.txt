@@ -1,0 +1,247 @@
+https://doi.org/10.1177/0969776418763010European Urban and Regional Studies
+ 1 –15
+© The Author(s) 2018
+Reprints and permissions: 
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0969776418763010
+journals.sagepub.com/home/eur
+European Urba n
+and Regional
+Studie s
+Introduction
+Within the extensive gentrification literature, it is 
+generally accepted that gentrification and public policies are closely interrelated (Hackworth and Smith, 2001; Ley and Dobson, 2008; Smith, 1996: State-led gentrification in previously 
+‘un-gentrifiable’ areas: Examples from Vancouver/Canada and Frankfurt/Germany
+Andrea Mösgen
+Goethe-Universität Frankfurt, Germany
+Marit Rosol
+University of Calgary, Canada
+Sebastian Schipper
+Freie Universität Berlin, Germany
+Abstract
+Through an analysis of two international cases from Canada and Germany, this paper highlights the role of the state 
+in governing gentrification and displacement in areas previously thought to be unattractive for profit-seeking capital, that is, ‘un-gentrifiable’. With this, we seek to contribute to the debate on how the role of the local state has changed 
+from securing affordable housing for low-income households into becoming an essential player involved in real estate 
+speculation. Taking Little Mountain in Vancouver as the first example, we examine the privatization and demolition of the public housing complex and thus the withdrawal of the state. Our second example, Ostend in Frankfurt, investigates the restructuring of a working-class neighbourhood through active state-led interventions including massive public 
+investment. We analyse the two empirical examples along five dimensions: causal drivers and mechanisms that have 
+led to the changing role of the state in governing urban transformations; policy instruments used by state agencies to encourage gentrification; strategies to legitimize state-led gentrification; outcomes in terms of direct and exclusionary displacement; and the forms of contestation and protest. We maintain that both cases, although presenting a stark contrast, follow the same rule, namely state-led gentrification.
+Keywords
+Gentrification, housing, local state, social mixing, Vancouver, Frankfurt
+Corresponding author:
+Marit Rosol, University of Calgary, 2500 University Dr NW, Calgary, AB T2N 1N4, Canada. Email: marit.rosol@ucalgary.ca763010 EUR0010.1177/0969776418763010European Urban and Regional StudiesMösgen et al.
+research-article 2018
+Original Article
+
+2 European Urban and Regional Studies 00(0)
+116–135, 2002; Stabrowski, 2015; Watt, 2009). In 
+the words of Matthias Bernt: ‘the idea that the state plays a crucial role in the promotion or the impedi-ment of neighbourhood upgrading has today become a commonly understood fact’ (Bernt, 2012: 3045). In neighbourhoods and areas that have, for a long time, been considered ‘un-gentrifiable’, this insight is especially true. We define areas as seemingly ‘un-gentrifiable’ when market forces alone are unable to socially upgrade an attractive and centrally located neighbourhood, even within a growing urban region with a high housing demand. The reasons for this are multifaceted and can include a high share of public or non-profit housing; a highly fragmented (land) ownership structure; a negative image leading to ter -
+ritorial stigmatization (Sakizlioglu and Uitermark, 2014); a lack of public infrastructures, services and cultural institutions; nearby noisy and polluting industries; and an impaired housing supply due to an urban fabric and architecture that fail to provide a certain landscape of distinction (Ley and Dobson, 2008). These can all function as barriers to private investments and the related displacement of low-income groups.
+To contribute to the debate on the significance of 
+public policies in gentrification processes, this paper presents two very different international case studies that are specific examples of state-led urban trans-formations aimed at overcoming the previously mentioned barriers to capital investment in low-income neighbourhoods. Firstly, we examine the pri-vatization and demolition of the Little Mountain public housing complex in Vancouver, Canada, and thus, the withdrawal of the state. Our second exam-ple concerns the restructuring of the working-class neighbourhood Ostend in Frankfurt am Main, Germany, through active state-led interventions including massive public investment. Our approach is comparative insofar as we collected ‘data on two or more situations, followed by an attempt to make sense of them by use of one or more explanatory models’ (Pickvance, 1995: 36). However, we do not follow a standardized case comparison (Walton, 1973) nor do we compare these two cities. Our approach can be best characterized as a universaliz-ing comparison (Tilly, 1984) as we do maintain that both cases, although presenting a stark contrast, follow the same rule, namely state-led gentrification (see also Robinson, 2011; Ward, 2010).
+We analyse the two empirical examples along 
+five dimensions: the policy instruments used by state agencies to encourage gentrification in places that seemed to be unattractive for profit-seeking capital; the discursive strategies used to legitimize these state-led gentrification processes; the outcomes in terms of direct and exclusionary displacement; the locally emerging forms of contestation and protest; and causal drivers and mechanisms that have led to the changing role of the state in governing urban transformations. Regarding the last dimension, both case studies reveal that (a) profit-seeking orienta-tions nowadays dominate public housing, land and urban planning agencies; (b) local governments fol-low an entrepreneurial agenda aimed at bringing in wealthier people at the expense of the poor; and (c) urban austerity policies shape and limit the potential pathways of urban regeneration strategies. These three tenets encompass and embody the radical change of local statehood under neoliberalism since the 1980s in both cities, Vancouver and Frankfurt. By analysing the role of the state in governing gen-trification and displacement in areas previously thought to be unattractive for profit-seeking capital, we seek to contribute to the debate on how the role of the local state has changed from securing afford-able housing for low-income households into becom-ing an essential player involved in real estate speculation.
+We collected data from a range of empirical 
+sources. For both case studies, we conducted a quali-tative content analysis of urban planning and other policy documents published by the municipalities, public housing companies and urban planning departments of the cities of Vancouver and Frankfurt since the mid-1980s as well as a systematic analysis of local newspapers. In addition, we studied political debates within city council meetings relevant for our research question and respective research areas.
+1 In 
+the Frankfurt case, this mainly qualitative approach was accompanied by examinations of existing statis-tical data related to citywide housing market devel-opments, such as rent levels and land values, the reduction of public housing stocks since the 1990s and the distribution of household incomes on a 
+Mösgen et al. 3
+neighbourhood level, as well as segregation pro-
+cesses. Within the most important local daily news-papers, Frankfurter Rundschau (FR) and Frankfurter 
+Allgemeine Zeitung (FAZ), we analysed 64 articles dealing with Ostend for the period from 2000 to 2015.
+In Vancouver, the newspaper analysis included 
+several national and regional newspapers as well as a systematic analysis of all articles within the local daily Vancouver Sun and the weekly Vancouver 
+Courier from the first time Little Mountain is men-tioned (2004) until February 2015. The empirical section for the Vancouver case is based on 12 months of fieldwork in Vancouver in 2007/2008 as part of a wider study on Vancouver’s CityPlan Community Visions, which included an extensive interview with one of the remaining residents in July 2008, personal communication with former residents and supporters and another field visit to Little Mountain in September 2009, as well as extensive document analysis until November 2016.
+The article proceeds as follows: in the second 
+section, the state of research on gentrification and its legitimation as social mixing is outlined. We then describe the history of neighbourhood change in Little Mountain, Vancouver (third section), and southern Ostend, Frankfurt (fourth section), with particular attention to the impact of public policies enabling or potentially impeding gentrification. The concluding fifth section summarizes our empirical findings and highlights the crucial and multifaceted role of the state in enabling gentrification in seem-ingly ‘un-gentrifiable’ areas.
+State-led gentrification and the 
+discourse of social mixing
+Gentrification is usually defined as the movement of 
+middle- and upper-income people (and capital) into low-income neighbourhoods, causing the displace-ment of low-income residents. Following Marcuse (1985), we distinguish in this paper between direct and exclusionary displacement. Direct displacement takes place when either a building gets demolished or when ‘the landlord raises the rent beyond the occupants’ ability to pay, and forces them to move’ (Marcuse, 1985: 205). In contrast, exclusionary displacement occurs when one household vacates a housing unit and another household with a similar class background is prevented from moving in because of the subsequent rent increase.
+As a result of global urban entrepreneurialism 
+driven by neoliberal ideology and austerity policies (Harvey, 1989; Heeg and Rosol, 2007; Peck and Tickell, 2002; Schipper, 2014), state interventions often support gentrification and facilitate the displace-ment of working-class households by acting in the interest of real estate capital and upper middle classes (Hackworth and Smith, 2001; Schipper and Wiegand, 2015; Slater, 2004; Smith, 2002; Stabrowski, 2015). However, a number of studies also point out that in most countries urban planning instruments, state-owned housing companies and public landed property still exist and could be used to limit or impede gentri-fication processes (Bernt, 2012; Clark, 2014; Ley and Dobson, 2008; Porter and Shaw, 2009; Schipper and Wiegand, 2015). Therefore, (local) political power relations, even under neoliberalism, remain central in determining the housing and living conditions of mar -
+ginalized and vulnerable populations in need of affordable housing and, thus, deserve our particular attention.
+Today, as Lees et al. contend, gentrification is 
+often ‘rhetorically and discursively disguised’ (Lees et al., 2012: 1) as social mixing (see also Huning and Schuster, 2015). Socially mixed neighbourhoods are a major and popular planning and policy goal of state-led interventions in many countries in Western Europe and North America. This general shift towards social mixing is closely related to ‘re-urban-ization’ trends, that is, the movement of middle- and high-income, and for a long time, ‘suburban’ house-holds back to the inner city. This inevitably leads to conflicts with long-term residents of lower social status as poorer households are forced from the cen-tre of cities to the periphery (Brake and Herfert, 2012; Colomb, 2007; Glynn, 2012; Lehrer et al., 2010). Over time, the idea of social mixing has evolved from a progressive urban policy in the 1960s and 1970s towards a policy leading to gentrification (this is particularly well demonstrated for Vancouver by Ley, 2012).
+The ‘promise of social mix’ is based on the belief 
+that the spatial concentration of poor people will 
+4 European Urban and Regional Studies 00(0)
+deteriorate their opportunities and exacerbate social 
+exclusion. Thus, ‘deconcentrating the poor’ – mainly by bringing in middle-class residents – is advocated as a solution. In theory, the spatial proximity to mid-dle-class neighbours should provide low-income urban residents with access to social and cultural capital, as well as political and economic resources brought in by their new neighbours, thereby improv-ing opportunities and quality of life. However, empirical evidence does not support this hypothesis. Oftentimes, what is actually observed in ‘mixed neighbourhoods’ is avoidance and social distinction, rather than social interaction (Le Galés, 2012: 27). Moreover, social mixing is criticised as a ‘one-sided strategy’, as it is rarely advocated in more affluent neighbourhoods. Social mix policies frequently attempt to capture prime real estate by replacing or upgrading former social housing estates – as in the case of Little Mountain (cf. for the case of Melbourne Shaw, 2012; for Toronto August and Walks, 2012).
+Furthermore, Lees et al. show the impossibility of 
+social mixing through gentrification, since ‘social mix is but a transitory phenomenon on the way to com-plete gentrification’ (Lees et al., 2012: 7) resulting in – now up-scaled – social homogeneity (this is also empirically demonstrated for Vancouver, Montreal and Toronto based on quantitative data by Walks and Maaranen, 2008). Several empirical studies show instead the ‘benefits of living with peers’ (Cheshire, 2012). In any case, the causality is questionable since it is not the neighbourhood that makes people poor; rather, poor people can only afford to live in certain, disadvantaged neighbourhoods (e.g. Cheshire, 2012).
+The misleading analysis of the spatial definition 
+of poverty and exclusion results in inappropriate solutions, that is, the call for spatial interventions. However, social inequality cannot be eliminated 
+through spatial mixing (Rose et al., 2013). Since 
+exclusion and poverty are mostly related to unem-ployment, job creation and training, saving and improving social and affordable housing are much more adequate solutions to these problems (Ley, 2012). In summary, social mixing policies do not tackle the origins of poverty and exclusion and, con-sequently, do not improve the livelihoods of low-income urban residents; rather, they often cause their displacement.The privatization of ‘Little 
+Mountain’ in Vancouver
+Taking ‘Little Mountain’ as the first example, we 
+focus on a housing struggle in Vancouver, a rapidly growing city of today 630,000 inhabitants with the highest housing prices in Canada, a severe lack of affordable housing and high rates of homelessness (for more details, see Rosol, 2015). Little Mountain, established in 1954, was the province of British Columbia’s oldest social housing complex. About 50 years after its construction, the provincial govern-ment decided, in the name of densification and ‘social mixing’, that the buildings were not worth maintaining and should be replaced by a denser development of mid- and high-rise buildings to be built by a private developer.
+The construction of Little Mountain in 1954 was 
+a response to a serious shortage of affordable rental 
+housing. Social housing became possible in Canada through an amendment to the National Housing Act in 1949 and was rolled out through the 1960s and 1970s, as it was considered an important part of a social safety net (Hulchanski and Shapcott, 2004; Leone and Carroll, 2010). Social housing basically means non-market housing and includes public housing (governmentally owned and managed), cooperative housing, private non-profit housing (usually managed by a non-governmental organiza-tion (NGO), church, etc.), supportive housing (for seniors, homeless, addicted or mentally ill or disa-bled persons) and in some provinces also municipal 
+non-profit housing (Hackworth and Moriah, 2006).
+In the mid-1980s, under a conservative federal 
+government, severe cuts to the social housing pro-gramme were made. By 1993, all federal support for housing was withdrawn and the responsibilities were devolved onto the provinces (Hulchanski, 2002; Leone and Carroll, 2010). The devolution of respon-sibility from federal to provincial did not include a transfer of resources or autonomy, leading to a decline in social housing stock (Hackworth and Moriah, 2006; Mah and Hackworth, 2011). As a result, the percentage of social housing in Canada is the second smallest of any major Western nation, after the  
+USA. Canada is the only G7 state without a national affordable housing strategy and has the most 
+Mösgen et al. 5
+private-sector-dominated, market-based housing sys-
+tem of any Western nation (Hulchanski, 2002).2
+In the province of British Columbia, social hous-
+ing is the responsibility of the British Columbia Housing Management Commission (BC Housing) – the provincial crown agency that also managed Little Mountain. After devolution, the provincial housing programme BC Homes produced 3,800 social hous-ing units in Vancouver, but it was cancelled in 2002 when the focus shifted towards supportive housing (Mah and Hackworth, 2011: 70). The new provincial housing policy basically departs from social housing provision and investment into permanent social housing stock. The departure from providing social housing in British Columbia to focussing solely on supportive housing was legitimized as follows: ‘households, whose housing problems stem solely from low income, will be helped through a new rental assistance program in the private rental hous-ing market, where most already live.’ (Government of BC, 2006: 4). However, already in 2002, housing experts pointed out the following:
+The shortage of affordable housing is one of the biggest 
+challenges affecting economic competitiveness and quality of life. Municipal governments and housing 
+providers cannot meet the demand for affordable 
+housing and emergency shelter. (…) As competition for existing housing stock intensifies, tenants at the lower end of the market increasingly have no choice 
+but to turn to shelters or remain in already overcrowded 
+conditions. (Prime Minister’s Caucus Task Force on Urban Issues, 17–18 May 2002; cited by Hulchanski, 2002: 5)
+The disproportion of housing needs and housing 
+stock has continued to grow since then, particularly 
+in the urban centres, like Vancouver.
+Little Mountain was the first community affected 
+by a new policy of converting public housing into mixed-income communities and using profits gener -
+ated through privatization for financing supportive housing elsewhere in the province (Government of BC, 2006). The privatization of Little Mountain became possible when in early 2007 the federal gov-ernment finally transferred ownership of the land where Little Mountain sits to the provincial govern-ment. BC Housing quickly took action to prepare the privatization of land: in March 2007, on the same day on which plans for the redevelopment of Little Mountain became public through a newspaper arti-cle, residents received a letter from BC Housing offering assistance for relocation (Bula, 2007). This occurred without a proper redevelopment project proposal or an agreement about the future of the site with the City of Vancouver (CoV), which ultimately has to grant development permissions. Relocation (or rather, displacement) of the approximately 800 residents began immediately (Thomson, 2007). In 2008, a private developer was chosen and the sale was finalized in 2013.
+Protests were quickly organized and in May 2007 
+residents and supporters marched along the adjacent Main Street, an increasingly gentrifying and trendy shopping street. Simultaneously, Little Mountain tenants and their supporters formed ‘Community Advocates for Little Mountain’ (CALM). They organized housing-stands (i.e. public rallies or pick-ets and street marches for social housing in the entire Vancouver metropolitan region), attended meetings, spoke to politicians, wrote letters and gave countless interviews. CALM used creative tools, such as street art, art-ins and ‘urban knitting’ where boards sealing windows and fences were covered in yarn designs, they sold mock shares of the B.C. Premier’s house and camped to protest against displacement, demoli-tion and for the support of social housing and ten-ants’ rights (for a detailed visual and written description, see Thomson, 2010: 172–206). Despite these actions, in November 2009, all but one of the 45 buildings with 224 units that formed Little Mountain were demolished to make room for at least 1400 market condos (besides replacing the 224 units). After a long and strenuous struggle among the remaining residents for their right to reside, the last of the buildings was demolished in December 2014, seven years after redevelopment plans were announced and relocation of tenants started.
+As Little Mountain’s physical design reflected the 
+British Garden City movement of low-density hous-
+ing with ample green space, there was certainly space for increased density and the protests were not directed against densification per se. Rather, protes-tors criticized the degree of densification, their dis-
+placement, the lack of a consultation and the 
+6 European Urban and Regional Studies 00(0)
+privatization of public land meant for social housing. 
+The displacement of Little Mountain residents and the demolition of the buildings in 2009, before a community consultation process even started, pre-cluded alternative options to be considered and an active participation of long-time residents in the con-sultation process.
+Any planning process that aims at intensification 
+is usually a source of conflict, because it – other than 
+new developments – interferes with sensitive social structures of historically evolved neighbourhoods. However, Little Mountain shows particularly severe planning and policy failures. Initial redevelopment plans announced in 2007 estimated completion by 2010. However, it took until July 2016 just to approve the rezoning application, and development permit applications are still to be submitted by the developer.
+3 Construction will certainly not start 
+before 2018 – more than 10 years after residents were forced to move. Thus, years after displacing the low-income inhabitants of Little Mountain, only a tiny fraction of the original inhabitants will realisti-cally be able to relocate back at the site.
+4 In the 
+meantime, 224 units of social housing have been lost for years.
+The official rationale for the destruction of the 
+provincially managed social housing complex, apart 
+from the 50-year-old buildings needing repair, was to create a ‘high quality, higher density, socially inclusive and environmentally sustainable commu-nity’ (BC Housing and CoV , 2007: 2). Officials emphasized the ‘better use of the land’ through denser redevelopment and the chance for a ‘mixed-income and diverse neighbourhood’ (BC Housing, 2013). Redevelopment has been justified on the basis that social mixing (mixed income and mixed tenure) will create more social capital for low-income families. However, as one long-time Little Mountain tenant remarked, ‘Mixing is not the gov-ernment’s problem, it’s a personal problem. If people want to go and live with rich people, they can go and rent in their place’ (cited by Thomson, 2010: 237). The emphasis on socially mixed and integrated com-munities that served to legitimize the destruction of social housing and Little Mountain is contradicted by the focus of BC Housing policies on the ‘most vulnerable populations’ and, thus, on supportive housing for a socially rather homogeneous popula-tion (see also Thomson, 2010: 225). This suggests that, here as elsewhere, referring to social mix mainly served to legitimize demolition.
+Furthermore, that all the additional density cre-
+ated will not be serving the goal of affordability, but will be market units, supports the argument that gen-trification and participation in the booming real estate market is the goal and not social equity. In the words of David Chudnovsky, a former provincial elected representative from the left-leaning New Democratic Party (NDP):
+They’re privatizing an important asset of the people of 
+British Columbia, in exchange for what? In exchange for simply replacing the 224 units of social housing 
+that were here before. No increase, […] Holborn will 
+build hundreds and hundreds and hundreds of units of condos that are expensive that don’t speak at all to the real problem of the city, which is the crisis of 
+affordability, for families, for poor people, for older 
+people, for young people. (Cited by Cole, 2013)
+Apart from the hardship that the former inhabit-
+ants of Little Mountain went through, this case 
+points to a broader problem: in a city desperate for affordable housing, land owned by the provincial agency responsible for housing is privatized rather than used for affordable housing, and the increased density will not contribute an equal increase in the number of subsidized units. The opportunity to increase the social housing stock and thus address the pressing need for affordable housing was not taken. The destruction and inadequate replacement of social housing units is particularly problematic, as currently no federal public housing programme exists in Canada.
+5 The public housing that still exists 
+is the product of by-gone times. Instead of keeping and preserving those remnants as one of the few tools that mitigate housing crises in metropolitan city-regions, they are privatized by the very agencies that should preserve them and whose mandate should be to provide housing for the population that cannot afford market prices. Furthermore, selling public land to private developers does not only affect the housing supply today: the government gives away an important tool and options for mitigating housing crises in the future. As one resident put it: ‘That’s a 
+Mösgen et al. 7
+lot of public land that is going to be sold at the 
+expense of the future of this province’ (interview, 22 July 2008).
+State-led gentrification of 
+the Ostend neighbourhood in 
+Frankfurt
+Frankfurt is Germany’s most globalized city (Keil, 
+2011; Mullis et al., 2016) and a financial centre of about 740,000 inhabitants in 2017. It is a fast-grow-ing city with a population growth of 15% over the last 10 years and a predicted population of more than 800,000 inhabitants in the year 2030 (Dobroschke and Gebhardt, 2015: 62). As in other growing metro-politan city-regions there is a tremendous pressure on the housing market, especially regarding social and affordable housing. In contrast to Vancouver but very typical for the German housing markets, Frankfurt is a city of renters, with 80% of the local population renting their residence. Since the begin-ning of the global city formation in the early 1970s, Frankfurt has witnessed several waves of gentrifica-tion and housing affordability crises (Keil and Ronneberger, 2000; Stracke, 1980). The latest crisis, an almost citywide wave of gentrification, started in 2010. Since then, housing prices have risen by 68%, while the average rent level has increased by almost 4% every year (Mösgen and Schipper, 2017: 140). This escalation of housing costs is, in part, a conse-quence of the global financial crisis, as the residen-tial built environment in prosperous German cities such as Frankfurt has become much more attractive for over-accumulated capital looking for profitable and seemingly safe investment opportunities in a low-interest-rate environment (Wijburg and Aalbers, 2017).
+The most recent ‘return of the housing question’ 
+(Holm et al., 2015, translated by the authors) espe-cially affected the centrally located neighbourhood ‘Ostend’, with about 28,000 inhabitants. Among all 46 Frankfurt neighbourhoods, Ostend has experi-enced the third-fastest rent increase. Between 2009 and 2014, rents increased by 30% to almost 12 €/m
+2, 
+far above the city‘s average of about 10 €/m2 (for a 
+detailed analysis, see Mösgen and Schipper, 2017). Figure 1 shows the location coefficient of 2014 rents, that is, the relation of rent prices between the respec-tive district and the city average, and the rent increase from 2009 to 2014. The highest rent levels and the largest increases can be found in the centrally located districts, inter alia in the Ostend neighbourhood.
+This is a remarkable development, as Ostend had 
+been a working-class neighbourhood since the late 
+19th century. Especially since the Second World War, it has offered affordable housing to the lowest segments of the income strata, including labour migrants, the unemployed, low-paid workers and day-labourers (Ronneberger and Keil, 1995: 328–329). Until the mid-2000s, this situation was reflected in a low rent level and in very moderate land price increases. Compared to all other Frankfurt neighbourhoods, land prices within Ostend increased slower – if they increased at all (Mösgen and Schipper, 2017: 27). In summary, until very recently, Ostend used to be one of very few centrally located neighbourhoods that were not yet gentrified in Frankfurt.
+In contrast, today, Ostend is faced with displace-
+ment processes driven by an impressive speculative 
+real estate dynamic. Since 2008, land prices within Ostend are – in striking contrast to the decades before – among those with the highest increase city-wide (Mösgen and Schipper, 2017: 128). Those rap-idly increasing land prices and rent levels led to exclusionary displacement processes due to the reduced number of affordable apartments for low-income households. As a consequence, the social structure in the Ostend neighbourhood is changing. The number of social benefit recipients decreased between 2009 and 2014 compared to increasing numbers for the whole city of Frankfurt. Also, the unemployment rate decreased to a below-average level, while the median income today is significantly above the city’s average (Stadt Frankfurt Bürgeramt Statistik und Wahlen, 2017). In effect, this means that a population exchange is taking place in Ostend (for more details, see Mösgen and Schipper, 2017). Beyond these exclusionary displacement processes, tendencies of direct displacement can be found. Due to the national system of rent regulation, these ten-dencies are mitigated, as existing tenants are par -
+tially protected from direct displacement pressure. According to German law, a tenancy is, at least in 
+8 European Urban and Regional Studies 00(0)
+principle, indefinite and rent increases are limited to 
+15% in three years. However, exceptions exist and some landlords have found legal strategies to cir -
+cumvent these protection mechanisms. Accordingly, a quantitative survey conducted by one of the authors in 2015 revealed that increasing rents are the most frequent reason why households leave the neigh-bourhood (Mösgen and Reithmeier, 2016).
+Ostend was, for a long time, considered to be an 
+un-gentrifiable area for four reasons. Firstly, Ostend was characterized by a neglected built environment and a lack of public infrastructures and services, such as public transport, educational institutions, green spaces, public parks and playgrounds. The often low quality of housing was a result of the reluctance of private landlords to maintain and reno-vate their housing stock. Secondly, the neighbour -
+hood used to have a high share of noisy and polluting industries linked to the industrial harbour. In particu-lar, the Großmarkthalle, which housed the wholesale fruit and vegetable market for Frankfurt and the entire Rhine-Main region, caused a lot of heavy traf-fic, which made the area unattractive for higher income populations. Thirdly, albeit with an existing 
+Figure 1. Rents and rent increase in Frankfurt 2009–2014 (data: Institut für Wohnen und Umwelt (IWU), 2015).
+Mösgen et al. 9
+rent gap compared to rent levels and land prices in 
+other centrally located neighbourhoods (Mösgen and Schipper, 2017), Ostend never faced a speculative real estate dynamic due to the fragmented structure of the land ownership characterized by many small property-owners lacking investment capital. This ownership structure prevented the neighbourhood from the typical gentrification pressure seen else-where in the city. Fourthly, Ostend was characterized by a negative image constructed after the Second World War, which was built upon racial and class prejudices (Bischoff, 2007: 199–206). The territorial stigmatization effectively protected the existing working-class tenants from the influx of higher income groups and rent increases.
+However, since the mid-1980s, all consecutive 
+local governments have actively tried to overcome these four barriers and to foster gentrification pro-cesses. This was legitimized by referring to the social mix argument outlined in the second section. Specifically, it was argued that Ostend exhibits an ‘unstable social structure’ in need of a more ‘bal-anced social mixing’ (Stadt Frankfurt, 2015: 38, 86, translated by the authors) due to the high concentra-tion of deprived and marginalized people as well as a lack of wealthy and middle-class households. From the perspective of the Frankfurt municipal govern-ment, there was an ‘urgent need for urban planning interventions in order to reverse these negative developments’ (Stadt Frankfurt, 2015: 7, translated by the authors), as the neighbourhood was, com-pared to other centrally located districts, character -
+ized by a substandard quality of life, absent private investments and a non-existing economic pressure to revaluate and upgrade the area. As a result, over a 30-year-long process, local political elites used a wide range of planning instruments and successfully gentrified a neighbourhood formerly considered to be un-gentrifiable.
+1. In a first step already taken by the late 1980s, large parts of Ostend were declared as an urban renewal area. The city offered public subsidies to renovate private apartment buildings and started to invest massively in public infrastructures and services, such as public transport (two new subway and regional train stations), institutions of higher education and many new green and recrea-tional areas. In the early years of redevelop-ment, the planners still aimed at preventing displacement processes of low-income households by giving subsidies for renova-tion only under certain conditions. The own-ers had to accept a rent freeze for 12 years and had to guarantee that they would not convert their renovated rental apartments into condominiums. However, after the year 2000, the temporary rent regulations expired and the policy changed to a purely profit-oriented one without any neighbourhood-specific rent control measures. Moreover, while city authorities still used a range of urban planning instruments to realize the construction of at least a few new social housing units in the 1990s, no social or affordable housing has been built since the turn of the century. Instead, private develop-ers were allowed to erect about 1000 up-scale housing units to be sold or rented for market prices only. This radical shift away from social housing provision was in part caused by the retreat of the national state from funding social housing developments – similar to Canada. Claiming that the housing crisis of the post-war period had finally been solved and that the state should no longer disturb market forces, federal governments have cut the subsidies allocated for social housing construction massively since the 1990s. In addition, these austerity measures correspond with a new neoliberal agenda of the local state that emerged during the same period. Since the mid-1990s, all local gov-ernments in Frankfurt have committed them-selves to the overarching strategic objective to attract middle- and upper-class households at the expense of the urban poor (Schipper, 2014). These transformations on both the national and local scales are reflected in many urban planning and housing policies, such as the measures implemented in Ostend.
+2. During the 1990s, with the help of public subsidies, the city government successfully 
+10 European Urban and Regional Studies 00(0)
+encouraged the relocation of noisy and pol-
+luting industries to more peripheral areas of the city. In line with this, the Großmarkthalle and other industrial infrastructures were forced to shut down and the industrial har -
+bour was downsized, freeing up land for upper-class waterfront development.
+3. At the same time, the urban planning depart-ment radically restructured land ownership. The planners spent 43 million euros to buy land from small landlords (who were unable or unwilling to invest and upgrade their prop-erties), packaged these parcels into much larger plots attractive for institutional inves-tors, ordered the demolition of the existing built environment and, finally, re-privatized the cleared land to the highest bidder. Until the mid-2000s, 700 luxury and up-scale apartments were built on this re-privatized area in the southern part of the neighbour -
+hood. This decade-long development can be characterized as a state-led new built gentri-fication process, as the new apartments are unaffordable for the local population and have led to rent increases in the surrounding areas. Moreover, the revenues generated through this mechanism of public real estate speculation were earmarked to subsidize the redevelopment strategies and infrastructure investments within the neighbourhood men-tioned before. Thus, the governing and trans-forming of real estate have, after decades of urban austerity and especially in times of a local fiscal crisis (in the 1990s and early 2000s), been crucial to fund the gentrifica-tion of Ostend.
+4. Nevertheless, until the mid-2000s, large parts of Ostend remained affordable for low-income households. Due to the inertia of the negative image of the neighbourhood, mid-dle- and upper-class households were still reluctant to move to this area. However, in 2002, the city government and the European Central Bank (ECB) decided to relocate the headquarters of the ECB to Ostend and to invest 1.3 billion euros to construct a spec-tacular high-rise building on the former site of the Großmarkthalle. A discourse analysis 
+of the two most influential local newspapers shows that the image of the neighbourhood has changed radically since then. Already in early 2002, just after the decision to move the ECB headquarters to Ostend has been made, the neighbourhood became much more attrac-tive for the real estate industry (Bischoff, 2007: 204–205; Mösgen and Schipper, 2017). The conservative Frankfurter Allgemeine 
+Sonntagszeitung, for instance, describes the 
+role of the ECB headquarters as follows: ‘While the high-rise building is growing up to the sky the neighbourhood suddenly becomes chic’ (Nienhaus, 2013, translated by the authors). From the perspective of private real estate developers, the symbolic upgrading of the neighbourhood led to more profitable and speculative investments within the built envi-ronment as more high-income households were willing to move to Ostend and to pay higher rents and housing prices.
+During the 30-year process that resulted in a radi-
+cally transformed urban environment, there were no significant contestations or protests. One main reason is the regulation of rent levels implemented in the early years of redevelopment, which prevented the direct displacement of low-income residents until the mid-2000s. There was no imminent need to struggle for the right to ‘stay put’, as what would happen after the end of rent regulation could not have been fore-seen by the residents and was at the time in a distant future. In addition, the residing vulnerable population of Ostend had, in contrast to middle-class households elsewhere in the city, difficulty being heard and mobilizing supporters. As the state-led redevelop-ment project was formally completed in 2015, the gentrification process is now driven by unleashed market forces only. Thus, after key urban planning decisions have been made, it has become even more difficult for residents to contest the escalating gentri-fication of their neighbourhood and to forestall the 
+displacement of low-income households.
+In summary, it was the effort of the local state, 
+that is, of the City of Frankfurt, that turned a seem-
+ingly un-gentrifiable working-class neighbourhood 
+Mösgen et al. 11
+– one of only a very few centrally located areas that 
+were affordable for low-income people – into a hot spot of real estate speculation by subsidizing the renovation of private apartment buildings and by making massive investments in public infrastruc-tures, by removing noisy and polluting industries, by radically restructuring the land ownership and, finally, by relocating the headquarters of the ECB. As a result, Ostend is now among those neighbour -
+hoods with the fastest rent increases leading to the displacement of working-class households.
+Conclusion and outlook
+With our two examples of recent state interventions in the Vancouver and Frankfurt housing markets, we have presented different instruments that turned apparently un-gentrifiable neighbourhoods into attractive and accessible areas for profit-seeking investors and middle- and upper-classes. The meas-ures taken vary depending on local conditions and contexts. They range from privatizing public land and, in a way, the withdrawal of the state in Vancouver to a very active state that subsidized the renovation of private apartment buildings, restruc-tured land ownership, relocated polluting industries and fostered the relocation of spectacular landmarks, such as the headquarters of the ECB in Frankfurt (see Table 1). In the case of Little Mountain, the pri-vatization of public land and the redevelopment of public housing led to the direct displacement of resi-dents, who immediately organized resistance and protests. In contrast, the long-term restructuring of Ostend in Frankfurt was not accompanied by signifi-cant contestation, despite the radical transformation of the neighbourhood’s social structure. This differ -
+ence can be explained by the predominantly exclu-sionary and gradual character of displacement in Ostend that made it more difficult to mobilize resistance.
+Despite their stark differences, both case studies 
+highlight the important role of the state in facilitating gentrification in areas previously thought as ‘un-gen-trifiable’. They demonstrate that state involvement is needed as a catalyst to gentrify areas where market forces are unable to upgrade the neighbourhood. This state involvement is in both cases motivated by the profit-seeking orientations of public housing, land and Table 1. Characteristics of state-led gentrification in Vancouver and Frankfurt (summary elaborated by the authors).
+Little Mountain in Vancouver, 
+CanadaOstend neighbourhood in Frankfurt, Germany
+Causal drivers Elimination and/or re-orientation of (social) housing policies on federal, provincial and municipal level caused by:
+••urban entrepreneurialism driven by neoliberal ideology
+••climate of urban austerity and budget cuts for public housing by federal state
+••profit-seeking orientation of public housing, land and urban planning agencies
+Policy instruments Privatizing public land and public housing estatesRe-orientation of provincial social 
+housing policies: replacement of 
+public with supportive housingSubsidizing the renovation of private apartment buildingsMassive investments in public 
+infrastructures
+Restructuring the land ownershipRelocating industries
+Fostering spectacular landmarks
+Strategies to legitimize state-led gentrificationSocial mixing Social mixing
+Outcomes in terms of 
+displacementDirect displacement Mainly exclusionary displacement
+Protests and contestation Direct protests organized by 
+residents and their supportersNo significant contestation
+12 European Urban and Regional Studies 00(0)
+urban planning agencies. Instead of using public own-
+ership, public financial resources and urban planning tools to mitigate the housing crisis in metropolitan city-regions – one of the primary roles of social wel-fare states under Fordism – local governments with-draw from their social responsibility and contribute to real estate speculation. Similar to the transformation of statehood in New York, as described by Hackworth and Smith (2001), this is strongly connected to the re-orientation of the local state away from redistribution and the understanding of cities as ‘enterprises’ that compete with each other (Harvey, 1989) – increasingly on a global scale. In the current climate of ‘austerity urbanism’, triggered or reinforced by the economic crisis since 2008 (Schönig and Schipper, 2016), gov-ernment downsizing and rampant privatization, includ-ing that of public properties, are now defined as ‘fiscal necessities’ (Peck, 2012: 626).
+Beyond that, the gentrification of working-class 
+neighbourhoods is in both examples legitimized by a ‘social mixing’ rhetoric, which basically means bring-ing in and benefiting wealthy people at the expense of the poor. It does not seem to be a political goal anymore to build an inclusive city for all. Instead, poor people are relegated to places less central, less desirable and less accessible. As in other cities with tremendous housing pressures and no political will to create ade-quate housing for those who cannot afford market prices, Vancouver and Frankfurt are increasingly driv-ing lower-income households out to the suburbs and neighbouring municipalities. Thus, ‘social mix’ rede-velopment politics results in homogeneous, gentrified and exclusive inner-urban areas. The cases identify the rhetoric of ‘social mixing’ as ‘gentrification by stealth’ (Bridge et al., 2012).
+This analysis is timely, as we expect that state-led 
+gentrification of economically riskier areas legiti-mized by a social mixing rhetoric will become even more prevalent in the near future. This results from the fact that most other easily gentrified neighbour -
+hoods have already been fully reinvested by now in cities such as Vancouver and Frankfurt (for similar developments happening earlier in New York City during the 1990s, see Hackworth and Smith, 2001). In other words, profit-seeking investment capital will,  
+in alliance with local state agencies, look even more for the few remaining seemingly un-gentrifiable, ‘undervalued’ working-class areas and remaining social housing estates. This article seeks to alert to these problematic trends and to inspire broader aca-demic and public debate about the role of the state in urban development, also by, for example, radically rethinking public ownership (Cumbers, 2012).
+Acknowledgements
+We thank the two anonymous reviewers and the editor 
+Mike Raco for their constructive comments which helped us to clarify the argument. A version of this paper was 
+presented at the Annual Meeting of the American 
+Association of Geographers in San Francisco in March 2016 and the RC21 Conference in Leeds in September 2017. We thank Shelby Montgomery for her careful 
+proofreading.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest 
+with respect to the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+Notes
+1. For the Frankfurt case, the minutes of the monthly debates of the City Council, since 1994, were accessed through the online information system PARLIS.
+2. In the 1990s there were approximately 650,000 units of social housing in Canada (or 6.5% of the total hous-ing stock), including 205,000 units of public housing (2% of the total housing stock) (Schippling, 2007: 
+9). Since then, numbers have dropped even further. 
+After the devolution of responsibility for social hous-ing, Canadian Housing Statistics no longer captures the number of social and affordable housing units across Canada and exact numbers are difficult to 
+obtain (Housing Services Corporations (HSC), 2014: 
+2). Note that after finalizing this article, in November 2017, a 10-year national housing strategy for Canada was launched (https://www.placetocallhome.ca/).
+3. See http://vancouver.ca/home-property-development/little-mountain.aspx, last accessed 6 February 2018.
+4. A 53-unit social housing building opened in 2015 on the Little Mountain site and the developer promised to replace all 224 social housing units eventually – 
+but only in number, not in size.
+Mösgen et al. 13
+5. The 2017 national housing strategy includes a plan to 
+build 100,000 new affordable units across the whole country over 10 years (https://www.placetocallhome.
+ca/). However, it is too early for an in-depth analysis 
+of this promise and its potential effects for Vancouver.

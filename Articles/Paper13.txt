@@ -1,0 +1,1015 @@
+Vol.:(0123456789)Journal of Housing and the Built Environment (2024) 39:49–75
+https://doi.org/10.1007/s10901-023-10071-9
+1 3
+ARTICLE
+Sociopolitical economy and spatial accentuation 
+of neighbourhood gentrification in East Malaysia
+Jibril Adewale Bamgbade1  · Geilson Neville ak Golly1 · Chukwuka Christian Ohueri1
+Received: 26 December 2022 / Accepted: 21 August 2023 / Published online: 30 September 2023 
+© The Author(s) 2023
+Abstract
+The rapid displacement and land expropriation from property owners are generating an 
+imbalance between lower-income households and the developers in many communities in 
+the central area of large cities worldwide. While the need to prevent urban decline, reju-
+venate declining/dilapidating neighbourhoods and promote sustainable urban development 
+has always been at the forefront of neighbourhood gentrification, developers are the major 
+beneficiaries of the rapid rise in property prices. This study examines the important drivers 
+of gentrification in East Malaysia from political, economic, social and spatial lenses. This 
+research was analysed using a questionnaire survey data collected from housing developers 
+and other allied professionals with relevant experience in neighbourhood gentrification in 
+East Malaysia. Then, the hierarchical clustering technique followed by the Relative impor -
+tance index (RII) computation was used to determine the relationship between the identi-
+fied driving factors, the grouping of drivers into relatable clusters, as well as to determine 
+the most influential cluster and drivers encouraging the course of neighbourhood gentrifi-
+cation. The study uncovers a compelling insight: although political factors exert the great-
+est influence on neighbourhood gentrification, it is crucial to acknowledge the substantial 
+roles played by economic, social, and spatial drivers in its emergence, albeit to a somewhat 
+lesser degree. Our findings emphasise the pivotal importance of eight political derivatives, 
+which shape and contribute to the complex dynamics of gentrification, underscoring their 
+significance in understanding its multifaceted nature. The findings of this research are a 
+valid reference point for the relevant stakeholders to garner greater insight into the particu-
+larities of neighbourhood gentrification in East and Malaysia and many urban communities 
+around the globe.
+Keywords Neighbourhood gentrification · Sociopolitical economy · Spatial drivers · 
+Hierarchical clustering · Relative importance index
+ * Jibril Adewale Bamgbade 
+ jbamgbade@swinburne.edu.my
+1 Faculty of Engineering, Computing and Science, Swinburne University of Technology Sarawak, 
+Kuching, Malaysia
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+50 J. A. Bamgbade et al.
+1 3
+1 Introduction
+Gentrification is an agelong concept coined by British sociologist Ruth Glass in the 
+1960s to describe the displacement of the social class in Central London (Shaw, 2008). 
+The concept describes a phenomenon whereby a working-class area with rundown 
+housing is rehabilitated and transformed into a middle-class neighbourhood (Shaw, 
+2008). Primarily, gentrification results from middle-class influx into an area as a by-
+product of desirable public transportation infrastructure, bustling commerce environ-
+ment and good cultural atmosphere (Shi et al., 2021). While there has been evidence 
+of an increase in the average income level, an improvement in education level, and 
+a change in the racial make-up of the residents in most parts of the world, Malaysia 
+inclusive, other relative features of gentrified localities within the major cities could 
+range from financial reinvestment into the urban area, social class upgrade, urban land-
+scape improvements, to absolute displacement of low-income households (Davidson 
+& Lees, 2005). A similar phenomenon applies to neighbourhood gentrification, a rap-
+idly rising phenomenon often observed in developed and developing countries such as 
+Spain, the United States of America, Canada, England, Thailand, and Malaysia (Shi 
+et al., 2021). The impacts and manifestations of gentrification in Malaysia reflect the 
+broader global understanding of the phenomenon, with specific instances of socio-eco-
+nomic disparities, surging housing prices, dispossession, changes in urban landscapes, 
+and the displacement of low-income households observed within gentrified neighbour -
+hoods (Yang & Chang, 2018; Zukin, 2016).
+This study aims to understand gentrification and its underlying determinants in 
+East Malaysia, a rapidly developing region with numerous commercial, residential, 
+and infrastructure projects. These projects often attract middle-class households who 
+gradually displace low-income earners from the newly developed or rejuvenated neigh-
+bourhoods with improved amenities and infrastructure (Abd Khalil et al., 2015; David-
+son & Lees, 2005). This process aligns with the theory of socio-spatial restructuring, 
+which posits that gentrification occurs as a result of the spatial redistribution of differ -
+ent social groups, driven by factors such as housing availability, economic disruptions, 
+and the preferences of potential residents (Lawton, 2020).
+Analysing identified determinants of neighbourhood gentrification makes it possi-
+ble to discern the most and least influential factors and use these findings to construct 
+a framework for mitigating the consequences of neighbourhood gentrification. When 
+implemented deliberately, gentrification can lead to the revitalisation of deteriorat-
+ing neighbourhoods, as demonstrated by numerous successful cases worldwide (Chan 
+et al., 2016). However, it is imperative to examine the potential adverse ramifications 
+of gentrification through the socio-political economy and spatial lenses, particularly 
+with a specific reference to the Eastern Malaysia, where discussions on gentrification 
+remain relatively limited. In the subsequent sections, this study will attempt to address 
+the research questions that examine the intertwined dynamics of the socio-political 
+economy and spatial drivers promoting neighbourhood gentrification in East Malay -
+sia. The immediate section is a review of the extant studies, which is followed by the 
+research methodology in the third section. Data analysis, discussion and conclusion are 
+in the fourth, fifth and sixth sections, respectively, while limitations and suggestions 
+for future studies conclude this paper.
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+51
+Sociopolitical economy and spatial accentuation of…
+1 3
+2  Literature review
+Urban researchers have consistently explored gentrification through various theories, offer -
+ing valuable insights into its drivers and mechanisms. While production-side theories, 
+such as Smith’s (1979) rent gap theory and standard filtering models, highlight the role 
+of economic forces and investment decisions, consumption-side theories like Bourdieu’s 
+(1987) taste and distinction model and Florida’s (2014) creative class model emphasise the 
+preferences and choices of higher-income groups. These complementary perspectives pro-
+vide a comprehensive understanding of gentrification, acknowledging the complex inter -
+play between structural factors and individual behaviour in shaping urban transformation 
+(Purhonen & Wright, 2013; Smith, 1972; Sweeney, 1974).
+However, gentrification disrupts the prevailing belief in a one-way downward filtering 
+process, where lower-income groups are confined to increasingly dilapidated neighbour -
+hoods. It challenges the fundamental assumption of Alonso’s (2017) ‘structural’ theory of 
+the urban land market, which prioritises space and low densities over central city accessi-
+bility. By revealing the complexities of urban transformation, gentrification highlights the 
+significance of access to the central city and challenges the conventional understanding of 
+neighbourhood dynamics. This critical perspective invites a re-evaluation of existing theo-
+ries and underscores the need for a more nuanced approach to understanding the multifac-
+eted nature of urban development.
+While filtering theory suggests that gentrification is a result of the interplay between 
+supply and demand in the housing market, scholars emphasise a continuous process of 
+older housing stock renovated and upgraded for higher-income residents who are will-
+ing to pay higher prices (Dastrup & Ellen, 2016). This, in turn, drives up property values 
+and creates incentives for further investment and development in the neighbourhood. Still, 
+it is an impetus for neighbourhood displacement of lower-income residents who can no 
+longer afford the rent. As such, cities began to display increased segregation and inequal-
+ity, as well as a loss of cultural diversity and community ties (Musterd, 2020; Smets & 
+Salman, 2008). (Lees & Ley, 2008). This has led to the development of policies address-
+ing the potential impacts of gentrification on the housing market and the social fabric of 
+neighbourhoods.
+The following section will examine the potential factors contributing to gentrification 
+in East Malaysia. During the literature review process, five drivers within each dimension 
+were identified from various studies, including Hwang and Sampson (2014); Peters and 
+Pierre (2012), among others. These twenty drivers will be discussed within political, eco-
+nomic, social, and spatial dimensions.
+2.1  Political considerations
+2.1.1  Government policies
+Government policies in recent years can be seen as major contributors to encouraging 
+neighbourhood gentrification (Hochstenbach & Boterman, 2017). In places such as London 
+and Amsterdam, policies such as the Estate Renewal Strategy (Davidson & Lees, 2005) and 
+the Social Housing Sales Covenant (Hochstenbach et al., 2015) were introduced, respec-
+tively, to ease property purchasing by developers and wealthier individuals or households, 
+thus encouraging and accelerating the rate of neighbourhood gentrification. Similarly, in 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+52 J. A. Bamgbade et al.
+1 3
+East Malaysia, various policies easing restrictions on property purchasing by developers 
+and property ownership by wealthier individuals were introduced to stimulate economic 
+development and growth (Yap & Ng, 2018). These policies have contributed to the gen-
+trification of neighbourhoods in East Malaysia, as they allow for the influx of wealthier 
+individuals and developers who can afford to purchase and develop property in these areas.
+2.1.2  Commercialisation of Urban governance
+Urban governance commercialisation has been noted to increase private sector involvement 
+in cities’ decision-making and service provision processes. This trend has been driven by 
+various factors, including globalisation, neoliberalism, and the search for efficiency and 
+innovation in urban management (Shi et al., 2021). While the commercialisation of urban 
+governance can bring in private sector investment and expertise, it can also have unin-
+tended consequences, such as the displacement of lower-income residents and the loss of 
+community diversity (Shi et al., 2020). This is particularly relevant in gentrification, which 
+refers to the transformation of neighbourhoods through the influx of more affluent residents 
+and businesses, often displacing the original lower-income residents.
+Research has shown that the commercialisation of urban governance can contribute to 
+gentrification in several ways. There have been instances of private sector actors influenc-
+ing policy decisions and investment priorities in ways that prioritise the interests of devel-
+opers and more affluent residents over those of disadvantaged communities (Kaufmann, 
+2020). In addition, the use of public–private partnerships and other forms of private sector 
+involvement in the provision of urban services and infrastructure can lead to the increased 
+commodification of urban space, potentially driving up land and housing costs (Serin et al., 
+2020). This can create financial pressures on lower-income residents and contribute to their 
+displacement from gentrifying neighbourhoods.
+The commercialisation of urban governance can also contribute to gentrification 
+through digital platforms and data analytics. The proliferation of online real estate plat-
+forms and data analytics to target specific neighbourhoods for investment can lead to the 
+rapid appreciation of housing prices, leading to affordability issues for lower-income resi-
+dents to stay in their communities (Sharam & Bryant, 2017). In addition, the use of data 
+analytics to target specific neighbourhoods for marketing and service provision can create 
+a feedback loop of gentrification, as more affluent residents are attracted to these areas, 
+further driving up housing prices and contributing to the displacement of lower-income 
+residents (Wu et al., 2016).
+In addition to commercialising urban governance, East Malaysia is also facing chal-
+lenges related to providing infrastructure and services. For example, there have been con-
+cerns about the reliability and affordability of electricity and water in some areas (Hannan 
+et al., 2018). These issues have been linked to technical and institutional factors, such as 
+inadequate investment and maintenance, regulatory barriers, and market failures. Address-
+ing these challenges will require a comprehensive approach considering both urban devel-
+opment’s economic and social dimensions.
+2.1.3  Growth of the property market
+The influx of middle-class households into gentrifying or gentrified neighbourhoods 
+often increases the demand for property. With all the new development projects in these 
+dilapidating neighbourhoods, older residential structures are rejuvenated or replaced with 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+53
+Sociopolitical economy and spatial accentuation of…
+1 3
+residential structures more desirable to middle-class households (Shi et  al., 2021). As a 
+result, the property market in these neighbourhoods becomes highly desirable and com-
+petitive due to increased interest in owning property within the newly reinvigorated and 
+rejuvenated neighbourhoods, leading to the rapid growth of the property market (Krase 
+& DeSena, 2020). Additionally, interest in owning property in these neighbourhoods may 
+extend to richer individuals. These richer individuals will actively attempt to own property 
+within the neighbourhood to rent or sell it at a higher price.
+2.1.4  Varied property development investors
+The state is the traditional source for investments and reinvestments into development 
+projects for infrastructure improvement, upgrading or development. In recent years, these 
+investments have gradually shifted towards more contemporary investment partnerships 
+between the government, private capital, private enterprises, and other social capital (Krase 
+& DeSena, 2020). These partnerships are known as public–private partnerships (PPP). A 
+common example of PPP in development projects is a partnership between the local city 
+councils, private sectors, and the community sectors. Cited reasons for the preference of 
+PPP over single-state investments are reduced financial risk, better perception of the pro-
+ject, and increased efficiency of project operations (Leigland, 2018).
+2.1.5  Urban land use system and housing system marketization
+Urban land use and housing marketisation refer to the allocation and use of land resources 
+for urban development and the integration of market mechanisms to facilitate interactions 
+between various actors and institutions involved in the housing market (Koroso et  al., 
+2021). This process involves using market mechanisms, such as demand and supply, to 
+determine the price and allocation of land and housing resources.
+In East Malaysia, there is a high demand for residential properties, but the scarcity of 
+large land banks for the construction of landed properties has led to a shift towards the 
+development of high-rise residential properties. The market mechanism determines the 
+price of existing properties, with prices increasing or decreasing depending on the demand 
+for properties in a particular neighbourhood. According to San Ong (2013), the marketisa-
+tion of the urban land use and housing system in East Malaysia has led to the emergence of 
+more high-rise residential properties as developers seek to take advantage of the demand 
+for housing in the region. The integration of market mechanisms has also impacted the 
+prices of properties, with prices fluctuating based on demand.
+2.2  Economic variables
+2.2.1  Economic globalisation
+Global economic interdependence is fostered through the expansion of trade and invest-
+ment on a global scale, as outlined in Ji and Lim (2021). This process, known as eco-
+nomic globalisation, is characterised by the movement of goods, services, and informa-
+tion across national boundaries to maximise profits and economic benefits. In Malaysia, 
+economic globalisation has resulted in implementing policies that incentivise the creation 
+of export-oriented industries and the promotion of foreign investment, leading to increased 
+economic opportunities in the region (Lee et al., 2020). These policies have contributed 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+54 J. A. Bamgbade et al.
+1 3
+to the integration of market mechanisms, facilitating interactions between various actors 
+and institutions involved in the housing market and shaping the allocation and use of urban 
+land resources. However, the marketisation of the urban land use and housing system has 
+also led to the emergence of high-rise residential properties due to the scarcity of large land 
+banks for landed property development (San Ong, 2013).
+2.2.2  Gentrifying middle‑class housing needs
+The middle class, comprising households with improved financial capacity relative to 
+lower-class households, represents a significant segment of the population living within 
+a shared residential space. In Malaysia, the middle class has seen steady growth and has 
+demonstrated an increasing willingness to invest in properties, amenities, and luxury goods 
+(Embong, 2014). As the middle class expands, so does the demand for residential proper -
+ties. This trend will likely continue as the middle class grows and increasingly seeks to 
+purchase properties and invest in their living spaces.
+However, it is important to note that the middle class is not a homogenous group, and 
+the characteristics and experiences of middle-class households can vary significantly 
+depending on factors such as location, income level, and access to resources (Schotte, 
+2021). As such, it is necessary to consider the specific needs and circumstances of middle-
+class households in Malaysia when examining the demand for residential properties and 
+other related issues.
+2.2.3  Reinvestments
+Asset value preservation relies on reinvestment strategies, which involve repairing and 
+maintaining existing buildings, constructing new buildings, and improving infrastructure 
+(Shaw, 2008). Without such reinvestments, the value of assets in gentrifying neighbour -
+hoods may decline, leading to a loss of appeal and potentially even depopulation (Shi et al., 
+2021). However, asset rejuvenation can also contribute to gentrification, resulting in demo-
+graphic changes and improved living standards in the area (Liu et al., 2019).
+Scholars have suggested careful consideration of the potential impacts of reinvestment 
+on gentrifying neighbourhoods, as the process can have both positive and negative conse-
+quences (Beck, 2020). On the one hand, reinvestment can help preserve and enhance the 
+value of assets, leading to improved living conditions and increased neighbourhood attrac-
+tiveness. On the other hand, the process can also lead to displacement and the exclusion of 
+certain groups, particularly if investments are not implemented inclusively and equitably. 
+As such, it is crucial to adopt a nuanced approach to reinvestment that considers the needs 
+and concerns of all stakeholders involved.
+2.2.4  Job opportunities
+Development projects in dilapidated neighbourhoods have the potential to revitalise eco-
+nomic interests in the area, attracting middle and upper-class households and providing 
+opportunities for new economic ventures (Hochstenbach & Musterd, 2018). The influx of 
+young families and gentrifying individuals, drawn by affordable housing in a neighbour -
+hood with improved infrastructure, amenities, and job opportunities, can further contribute 
+to the area’s revitalisation.
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+55
+Sociopolitical economy and spatial accentuation of…
+1 3
+However, it is important to note that the process of revitalisation and gentrification 
+is not always smooth or seamless and can have both positive and negative consequences 
+for the community (Colantonio & Dixon, 2011). While revitalising dilapidated neigh-
+bourhoods may bring new economic opportunities and improved living conditions, it 
+can also lead to displacement and exclusion, particularly if investments are not imple-
+mented inclusively and equitably.
+2.2.5  Industrial and occupational structure transformation
+The underlying rationale here is a paradigm shift in development focus from the pri-
+mary sector to a greater emphasis on the tertiary and secondary sectors (Duernecker 
+et al., 2021). This transformation in industrial and occupational structure can contrib-
+ute to the economic growth of a nation by fostering the development of new industries 
+and the expansion of existing ones. In Malaysia, the government has placed a particular 
+emphasis on developing the tertiary and secondary sectors as it works towards its goal 
+of transitioning from a developing nation to a developed one. According to data from 
+the Malaysia (2019), The Department of Statistics Malaysia (2019), the tertiary and sec-
+ondary sectors currently employ 27%, 57.7%, and 14.2% of the country’s workforce. 
+These sectors have the potential to drive economic growth and development in Malaysia 
+through the creation of new job opportunities, the expansion of businesses, and the gen-
+eration of income and wealth.
+2.3  Social context
+2.3.1  Social stratification
+Social stratification is the hierarchical arrangement of individuals into social classes or 
+strata based on their access to resources and power (Shi et al., 2021). This hierarchi-
+cal structure creates unequal groups, leading to the segregation of individuals based on 
+their social standing. As a result, individuals tend to associate and live among others 
+similar to them in terms of socio-economic status (Clerval, 2022).
+In the context of neighbourhood gentrification, gentrifiers, who are often middle- or 
+upper-class individuals or households, tend to move into areas that already have a high 
+concentration of individuals who share similar socio-economic characteristics, such as 
+income, occupation, education level, and social status—leading to a shift in the demo-
+graphics of the neighbourhood. With an influx of middle- and upper-class residents, a 
+corresponding decrease in low-income households may emerge (Cocola-Gant & Lopez-
+Gay, 2020). Displacement can negatively affect the original residents, including losing 
+affordable housing, social networks, and access to services and amenities (Cocola-Gant 
+& Lopez-Gay, 2020; Lees & Ley, 2008). It can also contribute to income inequality and 
+segregation, as low-income households may be forced to move to less desirable neigh-
+bourhoods with fewer resources and opportunities.
+Reports of broader economic impacts of gentrification, such as changes in property 
+values and taxes, lead to the transformation of neighbourhoods’ physical and social 
+character (Davidson & Lees, 2005).
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+56 J. A. Bamgbade et al.
+1 3
+2.3.2  Wealth gap
+The wealth gap is a pervasive and longstanding social dimension of gentrification affecting 
+many countries and communities worldwide. It refers to the disparities in financial capa-
+bilities and resources between different social classes within a given society. In Malaysia, 
+the wealth gap is particularly pronounced due to the country’s high levels of inequality 
+in wealth distribution (Thillainathan & Cheong, 2018). This inequality is perpetuated by 
+several factors, including the availability of more lucrative economic opportunities for mid-
+dle- and upper-class households in the tertiary and secondary sectors of the economy and 
+the preference for low-skilled immigrants over low-skilled local workers due to their lower 
+employment costs.
+The wealth gap can have significant impacts on gentrification in Malaysia, as middle- 
+and upper-class households with greater financial resources and access to better opportuni-
+ties are more likely to be able to afford to move into gentrifying neighbourhoods and dis-
+place low-income residents (Hochstenbach & Musterd, 2018).This process can lead to the 
+loss of affordable housing and the displacement of low-income households, who may be 
+forced to move to other, less desirable areas (Thurber, 2018). The wealth gap also contrib-
+utes to social segregation and inequality within the community, as low-income households 
+may have limited access to the same opportunities and services as their more affluent coun-
+terparts (Zhang & He, 2018). Researchers have also identified the role of gentrification in 
+perpetuating and reinforcing racial and ethnic segregation within cities (Goldsmith, 2010; 
+Greene et al., 2017).
+2.3.3  Demographic changes
+The demographics of a neighbourhood can change over time for various reasons. One 
+such reason is the natural displacement of the original residents, which can be triggered 
+by factors such as the desire to migrate to a different location, better job opportunities, 
+an increase in property prices, or a preference for living among others who share simi-
+lar demographic characteristics (Cocola-Gant & Lopez-Gay, 2020). As neighbourhoods in 
+East Malaysia develop reputations for certain designations, such as education, commercial, 
+and industrial zones, they may become more homogenous in terms of age structure, occu-
+pation, education level, and ethnic composition (Krase & DeSena, 2020). This can cause 
+residents uncomfortable with the changing demographics, living costs, or property prices 
+of the neighbourhood to move out, further contributing to the natural displacement of the 
+neighbourhood.
+The natural displacement of original residents in such neighbourhoods has been 
+reported to have far-reaching impacts on the community, including the loss of diversity, 
+changes in the local economy and housing market, and increased social segregation (Aune 
+et al., 2020).
+2.3.4  Tertiary education pursuit
+Completion of tertiary education has become the norm for many developing and developed 
+countries worldwide, including Malaysia. One of the paramount issues in this pursuit is 
+the provision of campus-based accommodation for the growing tertiary student population. 
+Then, partnerships between universities, government and the private sector were hyped as 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+57
+Sociopolitical economy and spatial accentuation of…
+1 3
+a viable option—an idea that triggered neoliberal investment strategies, where neoliberal 
+restructuring of urban spaces came to the fore (Moos et al., 2019; Van Noorloos & Kloost-
+erboer, 2018).
+There have been instances emanating from restructuring the urban space that tends to 
+favour a middle-class student profile. The demand for student housing has also led to an 
+increase in private-owned student accommodation, adversely affecting affordable student 
+accommodation. The high demand and short supply of student housing resulted in high 
+rentals, excluding the neediest, who usually move out since they cannot keep up with the 
+rising property prices in the neighbourhood (Van Noorloos & Kloosterboer, 2018).
+2.3.5  Deurbanisation trends
+Much of the research on urban expansion into the countryside has focused on the con-
+cept of deurbanisation (also known as counterurbanization), which refers to the movement 
+of people from urban to rural areas and the physical decentralisation of urban territories 
+(Rojo-Mendoza, 2022). Li et al. (2019) argued that deurbanisation could occur in various 
+contexts and involve different groups of people moving to rural areas. In the Anglo-Saxon 
+context, the process is often linked to the creation of middle-class neighbourhoods (Cloke 
+et al., 2013), while in Latin America, it is more commonly associated with the expansion of 
+metropolitan areas and the resulting concentration of poverty and instability in the fringes. 
+The experience across East Malaysia is slightly different. While frustrations over traffic 
+congestion, poor quality of air and water, and expensive living costs have been cited as 
+the foremost reasons for deurbanisation, more development projects carried out in various 
+dilapidating neighbourhoods across the region are reversing the trend in some locations 
+(Krase & DeSena, 2020).
+2.4  Spatial dimension
+2.4.1  Neighbourhood cultural draw
+Certain neighbourhoods in East Malaysia possess unique cultural draws, such as cul-
+tural histories, architecture, and customs, which tend to attract gentrifiers (Haigh, 2020). 
+These cultural attributes can be an important factor in the decision of gentrifiers to move 
+to a particular neighbourhood and can contribute to the attractiveness and desirability of 
+a neighbourhood for this group (Sigler & Wachsmuth, 2020). One striking quality of the 
+East Malaysian countryside is its rich cultural history and unique architecture, which usu-
+ally appeal to gentrifiers interested in living in a culturally significant region. As a result, 
+neighbourhoods with a strong cultural draw may be more likely to experience an influx of 
+mid-upper and wealthy classes and undergo gentrification. This process may be driven by a 
+variety of other factors, including the availability of housing, changes in the local economy, 
+and the preferences of potential residents.
+2.4.2  Lifestyle preferences
+Gentrifiers prefer neighbourhoods that align with their desired environment and lifestyle—a 
+desire that their economic status can conveniently support (Krase & DeSena, 2020; Shi et al., 
+2021). As a result, neighbourhoods that are attractive to them based on their desired lifestyle 
+may be more likely to experience gentrification. Understanding the lifestyle preferences of the 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+58 J. A. Bamgbade et al.
+1 3
+mid-upper and wealthy classes and how they shape housing decisions can inform efforts to 
+mitigate the negative impacts of gentrification and promote more equitable housing outcomes 
+(Lamont, 2018). Researchers have also identified the role of social media and online platforms 
+in shaping the gentrifiers’ housing preferences and decision-making processes (Bosma & van 
+Doorn, 2022). These findings suggest that efforts to address gentrification may need to con-
+sider the role of digital media in shaping the housing choices of gentrifiers and how these 
+platforms facilitate the gentrification process.
+2.4.3  Proximity to amenities
+Proximity to amenities is an important factor influencing the housing preferences of middle-
+class and upper-class households. As such, neighbourhoods with a wide range of amenities, 
+such as parks, restaurants, and shopping centres, are often more attractive to these households 
+and may be more likely to undergo gentrification (Zhang et al., 2022). Development projects 
+that bring new amenities to a neighbourhood can increase its appeal and contribute to gentrifi-
+cation (Cocola-Gant, 2019). Researchers have also identified the role of transportation acces-
+sibility in shaping the housing preferences and gentrification outcomes of middle-class and 
+upper-class households (Chetty et al., 2016). Neighbourhoods with good transportation con-
+nections to employment centres, for example, maybe more attractive to these households and 
+more likely to experience gentrification (Chetty et al., 2016).
+2.4.4  Uneven distribution of educational resources
+In most parts of Malaysia, schools located in wealthier neighbourhoods or with a higher his-
+torical reputation tend to receive better quality resources, such as well-qualified teaching staff 
+and educational materials (Rao & Jani, 2011). This advantage can create a perception that 
+students from these schools are more attractive prospects for further education and financial 
+opportunities, leading parents or future parents to seek out neighbourhoods with higher-qual-
+ity educational resources. However, recent research has highlighted the complex and often 
+contested nature of school choice and how social and economic factors intersect to shape stu-
+dents’ educational opportunities and outcomes (Ford et al., 2020).
+2.4.5  Prior gentrification
+Early gentrifiers commonly consist of individuals with high educational, social, and financial 
+capital, making them more adept, capable, and prepared to handle the consequences of neigh-
+bourhood gentrification (Ocejo, 2011). As existing lower-income households struggle to cope 
+with the increasing financial burden of surviving in the neighbourhood due to gentrification, 
+displacement will gradually occur by more financially capable households. In comparison, 
+early gentrifiers will remain due to their capability of dealing with the higher prices and rents 
+in those gentrified neighbourhoods (Shaw, 2008).
+3  Methodology
+A questionnaire survey was designed using Google Forms to collect data on the gentrifica-
+tion drivers. The survey consisted of two parts. The first part addresses the respondent’s 
+information, while the second solicited the experts’ opinions on political, economic, social, 
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+59
+Sociopolitical economy and spatial accentuation of…
+1 3
+and spatial drivers of gentrification, as identified in the literature review. The second part 
+requested the experts to assess the significance level of the twenty drivers of neighbour -
+hood gentrification on a 5-point Likert scale (1-Not significant, 2-less significant, 3-quite 
+significant, 4-Significant, and 5-Very significant). To improve the validity of responses, 
+clarity was given utmost attention during the data collection (Bamgbade et al., 2019). The 
+twenty drivers are then separated and categorised within the political, economic, social, 
+and spatial dimensions. The different drivers are allocated questionnaire codes as indicated 
+in Table 1.
+The invited respondents are the real estate developers from Sarawak Housing and 
+Real Estate Developers’ Association (SHEDA) and other allied professionals with cred-
+ible experience in the gentrification process. The professionals that met these criteria were 
+sampled using a purposive sampling technique because no specific database of gentrifi-
+cation experts exists. These practitioners were identified from the SHEDA webpage, and 
+LinkedIn search and selected relevant institutes and associations such as the Institute of 
+Engineers Malaysia (IEM). After three months of rigorous search, about 106 experts were 
+identified. In order to enhance the response rate, emails containing a hyperlink to an online 
+survey and fillable word documents of the survey were disseminated to these experts. To 
+further expand the pool of potential respondents, these individuals were also asked to for -
+ward the survey form and link to any colleagues who fit the predetermined criteria.
+To allow adequate time for data collection, an additional 3-month period was desig-
+nated for the study. Despite the inherent challenges in obtaining expert opinions within 
+the construction industry, 106 responses were obtained and deemed appropriate for 
+Table 1  Potential neighbourhood gentrification drivers in East Malaysia
+Dimensions Drivers Code
+Political Government policies P1
+Commercialisation of Urban governance P2
+Growth of the property market P3
+Varied property development investors P4
+Urban land use and housing system marketization P5
+Economic Economic globalization E1
+Gentrifying middle-class housing needs E2
+Reinvestments E3
+Job opportunities E4
+Industrial and occupational structure transformation E5
+Social Social stratification S1
+Wealth gap S2
+Changes in demographics S3
+Pursuit of tertiary education S4
+Deurbanization trends S5
+Spatial Neighbourhood cultural draw SP1
+Lifestyle preferences SP2
+Proximity to amenities SP3
+Uneven distribution of educational resources SP4
+Prior gentrification SP5
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+60 J. A. Bamgbade et al.
+1 3
+analysis following a series of data-cleaning procedures. Although the sample size may 
+be considered relatively small, it was deemed suitable for this study based on the recom-
+mendations of Roscoe (1975) that sample sizes between 30 and 500 are generally appro-
+priate for multivariate studies. It is worth noting that previous research (Wuni & Shen, 
+2022) has suggested that online surveys tend to have low response rates.
+The data was analysed using reliability and validity tests, hierarchical clustering 
+analysis, and the relative importance index (RII).
+Table  1 shows the potential neighbourhood gentrification drivers in East Malaysia, 
+which were used as questionnaire variables for this study.
+Table 2  Respondents and firm’s profile
+Respondents profile
+Respondents Frequency %
+Position in the company Project manager 9 8.5
+Site supervisor 11 10.4
+Consultant engineer 9 8.5
+Site engineer 6 5.7
+Safety & health officer 9 8.5
+Real estate developer 39 36.8
+Director 2 1.9
+Project engineer 6 5.7
+Others 15 14.2
+Work experience (Years) 0–5 18 16.9
+6–10 20 18.8
+11–15 41 38.7
+> 15 27 25.5
+Company specialisation Private residential projects 59 28.6
+Private commercial projects 55 26.7
+State construction projects 57 27.7
+Federal construction projects 24 11.7
+Others 11 5.3
+Company operational location Kuching 53 50.0
+Lawas 4 3.8
+Miri 15 14.2
+Bintulu 8 7.6
+Kuala Lumpur 3 2.8
+Sibu 20 18.9
+Kajang 3 2.8
+Company age 0–5 years 5 4.7
+6–10 years 10 9.4
+10–15 years 46 43.4
+ > 15 years 45 42.5
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+61
+Sociopolitical economy and spatial accentuation of…
+1 3
+3.1  Respondents’ profile
+The demographic structure of the sampled experts and their firms is shown in Table  2. 
+The table includes information on the respondent’s position in the company, their work 
+experience, their specialisation, the company’s operational location, and the company’s 
+age.
+Two respondents identified Kajang and Kuala Lumpur as their operational locations. 
+Despite operating outside of East Malaysia, their responses were included in the analy -
+sis of this research due to their expertise and knowledge of neighbourhood gentrification 
+in East Malaysia. The survey was specifically distributed to individuals with experience 
+in this topic in East Malaysia, making it reasonable to assume that these respondents 
+possess relevant insights on the topic.
+The respondents’ positions include project manager, site supervisor, consultant engi-
+neer, site engineer, safety & health officer, real estate developer, director, and project 
+engineer. The largest group of respondents comprises real estate developers, accounting 
+for 36.8% of the respondents. The respondents have a wide range of work experience, 
+with 18% having 0 to 5 years of experience, 18.8% having 6 to 10 years of experience, 
+38.7% having 11 to 15 years of experience, and 25.5% having more than 15 years of 
+experience. The companies represented in the survey specialise in various areas, includ-
+ing private residential projects, private commercial projects, state construction projects, 
+federal construction projects, and others. The largest group of companies specialises in 
+private residential projects, accounting for 28.6% of the companies.
+The respondents in the survey operate in several locations, including Kuching, 
+Lawas, Miri, Bintulu, Kuala Lumpur, Sibu, and Kajang. The largest group of companies 
+operates in Kuching, accounting for 50% of the companies. The ages of the companies 
+in the survey range from 0 to 5 years to more than 15 years, with the largest group of 
+companies being in operation for 10 to 15 years (43.4%).
+The respondents’ views on the significance of neighbourhood gentrification drivers 
+are presented in Table  3. The figure in the table indicates the number of respondents 
+who give a specific grade about the significance given to a particular driver.
+In Table  5, the responses of “not significant, less significant, quite significant, sig-
+nificant, and very significant are replaced with ‘1’, ‘2’, ‘3’, ‘4’, and ‘5’ respectively, to 
+illustrate the input to be used for data analysis. The values in the table represent the tally 
+of responses chosen by the respondents. These values were adapted and exported into 
+Microsoft Excel and then into SPSS to conduct the data analysis.
+4  Data analysis
+Prior to conducting further statistical analysis, the reliability and validity of the data 
+were ensured. Once the data had been rigorously verified, a hierarchical cluster analy -
+sis was performed using SPSS software version 26. The number of clusters was deter -
+mined using the agglomeration schedule obtained through this process. A dendrogram 
+was then generated, which facilitated grouping the relevant drivers of neighbourhood 
+gentrification into distinct clusters. With the obtained cluster data, RII computation was 
+carried out to determine the relative importance of each cluster and identify the most 
+influential drivers of neighbourhood gentrification.
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+62 J. A. Bamgbade et al.
+1 3
+4.1  Reliability and validity testing
+Reliability measures the consistency of research results, indicating the likelihood that the 
+same outcome would be obtained if the same phenomenon were observed and the same 
+information was used. Validity, on the other hand, refers to the authenticity and quality of 
+the research results and concerns the extent to which they accurately reflect the research 
+objectives. To assess the reliability of the data collected in this study, Cronbach’s Alpha 
+coefficient was calculated using SPSS software. An alpha value greater than 0.7 is gener -
+ally considered acceptable, indicating that the data is reliable. This analysis showed that 
+the alpha coefficient for the data collected in this study was 0.858, which is much higher 
+than the minimum acceptable threshold of 0.7 and even exceeds the benchmark of 0.8 for 
+high reliability (Nunnally & Bernstein, 1994). This suggests that the questionnaire data 
+collected for this study is highly reliable.
+4.2  Validity testing via pearson correlation coefficient
+Pearson Correlation Coefficient was carried out to test the data validity. This test was 
+applied to determine the relationship between the gentrification drivers. The validity of 
+the data can be determined by comparing the obtained Pearson Correlation coefficient 
+value with the critical value in the Pearson Correlation coefficient table at 95% confi-
+dence level and two-tailed significance test. The data is considered valid if the obtained Table 3  Number of responses 
+to the level of significance of 
+neighbourhood gentrification 
+driversDrivers Level of significance
+1 2 3 4 5
+P1 0 1 11 55 9
+P2 0 1 5 62 8
+P3 0 0 10 52 14
+P4 0 0 15 51 10
+P5 0 0 11 57 8
+E1 0 3 12 52 9
+E2 1 3 9 53 10
+E3 0 4 11 52 9
+E4 0 2 7 58 9
+E5 0 0 10 59 7
+S1 0 3 11 53 9
+S2 1 2 10 48 15
+S3 1 2 14 53 6
+S4 2 1 8 60 5
+S5 0 3 19 48 6
+SP1 1 3 8 55 9
+SP2 1 1 15 46 13
+SP3 0 2 8 57 9
+SP4 0 2 12 56 6
+SP5 0 7 6 56 7
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+63
+Sociopolitical economy and spatial accentuation of…
+1 3
+Table 4  Correlation coefficient of the gentrification drivers
+Correlations
+Pol Eco Soc Spa
+Pol Pearson correlation 1 0.562**0.449**0.421**
+Sig. (2-tailed) 0.000 0.000 0.000
+Sum of squares and cross-products 18.371 11.710 9.308 9.027
+Covariance 0.175 0.112 0.089 0.086
+N 106 106 106 106
+Bootstrapc
+Bias 0 0.002 0.003 0.002
+Std. Error 0 0.077 0.089 0.095
+95% confidence interval
+  Lower 1 0.406 0.270 0.223
+  Upper 1 0.703 0.621 0.598
+Eco Pearson correlation 0.562**1 0.704**0.747**
+Sig. (2-tailed) 0.000 0.000 0.000
+Sum of squares and cross-products 11.710 23.600 16.538 18.149
+Covariance 0.112 0.225 0.158 0.173
+N 106 106 106 106
+Bootstrapc
+Bias 0.002 0 0.002 0.001
+Std. error 0.077 0 0.051 0.046
+95% confidence interval
+  Lower 0.406 1 0.600 0.651
+  Upper 0.703 1 0.802 0.829
+Soc Pearson correlation 0.449**0.704**1 0.644**
+Sig. (2-tailed) 0.000 0.000 0.000
+Sum of squares and cross-products 9.308 16.538 23.369 15.562
+Covariance 0.089 0.158 0.223 0.148
+N 106 106 106 106
+Bootstrapc
+Bias 0.003 0.002 0 0.007
+Std. error 0.089 0.051 0 0.070
+95% confidence interval
+  Lower 0.270 0.600 1 0.514
+  Upper 0.621 0.802 1 0.780
+Spa Pearson correlation 0.421**0.747**0.644**1
+Sig. (2-tailed) 0.000 0.000 0.000
+Sum of squares and cross-products 9.027 18.149 15.562 24.991
+Covariance 0.086 0.173 0.148 0.238
+N 106 106 106 106
+Bootstrapc
+Bias 0.002 0.001 0.007 0
+Std. error 0.095 0.046 0.070 0
+95% confidence interval
+  Lower 0.223 0.651 0.514 1
+  Upper 0.598 0.829 0.780 1
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+64 J. A. Bamgbade et al.
+1 3
+coefficient value is greater than the critical value. The closer the coefficient value gets 
+to the value of 1, the greater the correlation and the greater the validity of the data. The 
+method is used for testing data validity because the method measures the strength in the 
+association between the drivers of gentrification considered in this study. The obtained 
+value of the Pearson Correlation Coefficient using SPSS is shown in Table 4 .
+Table  4 shows the correlations between the four drivers of gentrification: Pol (Politi-
+cal), Eco (Economic), Soc (Social), and Spa (Spatial). The table presents several types 
+of information for each pair of variables. There is a strong positive correlation between 
+all pairs of variables, except for Pol and Eco, which have a moderate positive corre-
+lation, suggesting that as one variable increases, the other variables are also likely to 
+increase. The correlations between Pol and Soc, and Eco and Spa, are the strongest, 
+with Pearson Correlation coefficients of 0.704 and 0.747, respectively. This indicates 
+that these pairs of variables have the most strongly correlated relationship.
+All of the correlations are statistically significant at the 0.01 level, indicating that it is 
+highly unlikely that the observed correlations occurred by chance and that the relation-
+ships between the variables are likely to be real and meaningful. While these are based 
+on the assumption that the data represent the population and that the statistical tests Table 4  (continued)
+** Correlation is significant at the 0.01 level (2-tailed)
+c Unless otherwise noted, bootstrap results are based on 1000 bootstrap samples
+Table 5  Agglomeration schedule
+Cluster combined Coefficients Stage cluster first appears Next stage
+Stage Cluster 1 Cluster 2 Cluster 1 Cluster 2
+1 9 10 11.500 0 0 6
+2 14 18 24.500 0 0 14
+3 5 11 38.000 0 0 11
+4 6 16 53.500 0 0 12
+5 1 2 69.000 0 0 9
+6 9 19 84.833 1 0 14
+7 12 13 101.333 0 0 16
+8 15 20 119.333 0 0 16
+9 1 4 137.833 5 0 13
+10 3 8 156.833 0 0 13
+11 5 17 176.667 3 0 15
+12 6 7 197.833 4 0 17
+13 1 3 221.633 9 10 15
+14 9 14 249.700 6 2 18
+15 1 5 279.067 13 11 17
+16 12 15 309.817 7 8 19
+17 1 6 346.014 15 12 18
+18 1 9 390.250 17 14 19
+19 1 12 440.450 18 16 0
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+65
+Sociopolitical economy and spatial accentuation of…
+1 3
+used are appropriate for the data, it should be noted that other potential confounding 
+variables may influence the relationships between these drivers.
+The “95% Confidence Interval” of the bootstrapped estimates of the correlations can 
+be interpreted as a range of values that is likely to encompass the true population cor -
+relation with a probability of 95%. This interval indicates the precision of the estimates 
+and can assess the reliability of the results in this study. The bootstrap results provide 
+additional information about the uncertainty associated with the estimates and can be 
+used to evaluate the robustness of the findings of this study. Thus, the strength and sta-
+tistical significance of the correlations between the variables can be taken as evidence 
+of the validity of the measures used in this study (Kimberlin & Winterstein, 2008).
+Another statistical method used to analyse the questionnaire data is the hierarchi-
+cal cluster analysis, employed to relate and group similar variables. The hierarchical 
+cluster analysis is an effective method for addressing the limitations of the traditional 
+mean value approach. Cluster analysis involves grouping a set of objects based on their 
+similarities, such that objects within the same cluster are more similar to one another 
+than objects in different clusters (Kaufman & Rousseeuw, 2009; Landau et al., 2011). 
+Clusters with the closest similarity are merged, and the process is repeated until all the 
+clusters are merged. After the completion of the analysis, a dendrogram was obtained 
+and used to determine the relatability of the identified drivers and group them into clus-
+ters (Fig.  2). As shown in the agglomeration schedule (Table  5), the clusters were com-
+bined sequentially, starting with the lowest coefficient value and increasing with each 
+stage. The coefficient values also appear to increase significantly between stages, with 
+large differential gaps occurring at certain stages (e.g. stages 6, 14, and 18). These large 
+Table 6  Cluster membership table
+Case 8 Clusters 7 Clusters 6 Clusters 5 Clusters 4 Clusters 3 Clusters 2 Clusters
+P1 1 1 1 1 1 1 1
+P2 1 1 1 1 1 1 1
+P3 2 1 1 1 1 1 1
+P4 1 1 1 1 1 1 1
+P5 3 2 2 1 1 1 1
+E1 4 3 3 2 2 1 1
+E2 4 3 3 2 2 1 1
+E3 2 1 1 1 1 1 1
+E4 5 4 4 3 3 2 1
+E5 5 4 4 3 3 2 1
+S1 3 2 2 1 1 1 1
+S2 6 5 5 4 4 3 2
+S3 6 5 5 4 4 3 2
+S4 7 6 4 3 3 2 1
+S5 8 7 6 5 4 3 2
+SP1 4 3 3 2 2 1 1
+SP2 3 2 2 1 1 1 1
+SP3 7 6 4 3 3 2 1
+SP4 5 4 4 3 3 2 1
+SP5 8 7 6 5 4 3 2
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+66 J. A. Bamgbade et al.
+1 3
+differential gaps in the agglomeration schedule indicate points where cluster merging 
+slows or stops, usually observed one stage before a large differential gap is observed.
+Thus, this section covers how the number of clusters solution is selected, the rela-
+tionship between the drivers, and what drivers are located within the clusters.
+The line graph for agglomeration schedule coefficients (Fig.  1) is obtained by plot-
+ting the coefficients of each clustering stage as points on a graph. The number of clus-
+ters solution can be determined using the line graph.
+In the agglomeration schedule, the first instance of a big coefficient differential gap 
+occurred between stages 13 and 14. The number of solutions is taken as the number of 
+clustering stages occurring after the first big coefficient differential gap is observed in 
+the agglomeration schedule. Thus, based on the agglomeration schedule and coefficient 
+line graph, the solution can be taken as a 5-cluster solution, as shown in Table 6 .
+Fig. 1  Agglomeration schedule coefficients graph
+Table 7  Cluster members based 
+on cluster membership tableClusters Members
+1 P1, P2, P3, P4, P5, E3, S1, SP2
+2 E1, E2, SP1
+3 E4, E5, S4, SP3, SP4
+4 S2, S3
+5 S5, SP5
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+67
+Sociopolitical economy and spatial accentuation of…
+1 3
+Based on the clusters derived from the 5 clusters solution, one cluster is expected to 
+contain drivers P1, P2, P3, P4, P5, E3, S1, and SP2, while another cluster will contain 
+drivers E1, E2, and SP1. Another cluster will contain drivers E4, E5, S4, SP3, and 
+SP4. Of the two remaining clusters, one cluster will contain drivers S2 and S3, while 
+another cluster will contain drivers S5 and SP5, as shown in Table 7 .
+Fig. 2  Dendrogram using Ward linkage
+Table 8  Cluster members based 
+on dendrogramCluster Members
+A E4, E5, SP4, S4, SP3
+B E1, SP1, E2
+C P5, S1, SP2, P1, P2, P4, P3, E3
+D S2, S3
+E S5, SP5
+Table 9  Cluster RII rankingClusters Members RII Ranking
+A E4, E5, SP4, S4, SP3 0.7847 2nd
+B E1, SP1, E2 0.7781 3rd
+C P5, S1, SP2, P1, P2, P4, P3, E3 0.7899 1st
+D S2, S3 0.7776 4th
+E S5, SP5 0.7579 5th
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+68 J. A. Bamgbade et al.
+1 3
+4.3  Dendrogram using ward linkage
+The designation of the cluster name is reassigned to reflect the tree diagram obtained from 
+the Dendrogram (Fig.  2). Further, the Euclidean distance is determined as 13 for the Den-
+drogram to facilitate the grouping of five clusters. Using the rescaled distance cluster com-
+bined as a gauge and reference, the drivers’ and clusters’ similarities, differences, and relat-
+ability can be determined. Drivers and clusters joined by a greater rescaled distance height 
+are deemed less relatable and similar to each other, while drivers and clusters joined by a 
+lower rescaled distance height are deemed more similar and relatable (van de Velden et al., 
+2019).
+As indicated in Table  8, the clusters are assigned the designation ‘A’, ‘B’, ‘C’, ‘D’, and 
+‘E’. Cluster A contains the drivers E4, E5, SP4, S4, and SP3. Cluster B contains the drivers 
+E1, SP1, and E2. Cluster C contains the drivers P5, S1, SP2, P1, P2, P4, P3, and E3. Clus-
+ter D contains the drivers S2 and S3. Finally, Cluster E contains the drivers S5 and SP5.
+4.4  Relative importance index (RII)
+The clusters obtained from the hierarchical clustering analysis comprise the twenty driv -
+ing factors identified in the literature review. Using the Relative importance index (RII), 
+the clusters are ranked according to their impact on encouraging the course of gentrifica-
+tion in East Malaysia. The collective drivers influencing neighbourhood gentrification the 
+most in East Malaysia can be identified by ranking the clusters. Therefore, the RII assisted 
+in achieving this study’s objectives. For this research, the equation for RII computation is 
+shown in Eq. (1):
+Table 10  Most influential drivers
+Most influential drivers
+Cluster C Urban land use and housing system marketization P5
+Social stratification S1
+Lifestyle preferences SP2
+Government policies P1
+Commercialisation of Urban governance P2
+Varied property development investors P4
+Growth of the property market P3
+Reinvestments E3
+Second most influential drivers
+Cluster A Job opportunities E4
+Industrial and occupational structure transformation E5
+Uneven distribution of educational resources SP4
+Pursuit of tertiary education S4
+Proximity to amenities SP3
+Third most influential drivers
+Cluster B Economic globalization E1
+Neighbourhood cultural draw SP1
+Gentrifying middle-class housing needs E2
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+69
+Sociopolitical economy and spatial accentuation of…
+1 3
+Where RII=Relative Importance Index  , w=factor weighting  , x=frequency of
+response forfactorweighting  , A(Highest Likert Scale Value )=5(Strongly Agree ) , 
+A(Highest Likert Scale Value )=5(Strongly Agree )
+The ranking of clusters using the relative importance index (RII) method involves deter -
+mining the frequency values corresponding to a scale of importance ranging from 1 to 5, as 
+described in the methodology. Instead of calculating the RII for individual drivers, the RII 
+for each cluster is calculated by finding the mean of the drivers within the clusters using 
+SPSS and then determining the weighting and frequency for each cluster. The RII values 
+for Cluster A, Cluster B, Cluster C, Cluster D, and Cluster E are 0.7847, 0.7781, 0.7899, 
+0.7776, and 0.7579, respectively, as shown in Table  6. Table  9 shows that Cluster C is 
+ranked first, followed by Cluster A, Cluster B, Cluster D, and Cluster E.
+5  Discussion
+According to the results of this study, with an RII of 0.79, it appears that drivers in Clus-
+ter C have the greatest influence on the process of gentrification in East Malaysia. This is 
+consistent with previous research on the factors contributing to neighbourhood gentrifica-
+tion. For example, Hochstenbach and Boterman (2017) identified government policies such 
+as the commercialisation of urban governance, the expansion of the property market, and 
+the presence of various developers as contributing to neighbourhood gentrification. Cler -
+val (2022) also argued that social stratification, in which people move to neighbourhoods 
+with similar social status, and preferences for certain lifestyles are key drivers of gentri-
+fication in East Malaysia. Reinvestment is another significant factor that plays a role in 
+gentrification in East Malaysia. According to Shi et al. (2021), the lack of reinvestment in 
+gentrifying neighbourhoods can lead to asset depreciation, decreased appeal, and popula-
+tion decline. Based on the results of this study, it appears that Cluster C has the greatest 
+impact on gentrification in East Malaysia. Within this cluster are eight driving factors, five 
+of which are political in nature and one from each of the other dimensions. This suggests 
+that the political dimension is the most influential in driving the process of gentrification in 
+East Malaysia.
+As shown in Table  10, the second most impactful driver in encouraging the course of 
+neighbourhood gentrification in East Malaysia is Cluster A, with an RII of 0.78. This find-
+ing is supported by Hoekstra et al. (2020)’s research, which found that creating job oppor -
+tunities can attract young families and gentrify individuals to neighbourhoods. Also, an 
+industrial and occupational structure transformation aims to foster the economic growth of 
+a nation. Certain neighbourhoods in East Malaysia possess unique cultural draws such as 
+cultural histories, architecture, and customs which tends to attract an influx of gentrifiers. 
+These gentrifiers are fascinated by residing in a neighbourhood with significant heritage 
+and culture. The more amenities are provided close to the neighbourhood due to develop-
+ment projects, the higher the neighbourhood’s appeal (Krase & DeSena, 2020).
+The cluster B variables, with a relative index of 0.77, are the third most significant fac-
+tor contributing to the process of neighbourhood gentrification in East Malaysia. Accord-
+ing to Aeria (2005), economic globalisation in the region, through implementing policies (1) RII=∑s
+i=jwx
+A×N
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+70 J. A. Bamgbade et al.
+1 3
+that incentivise the development of export-oriented industries and the promotion of foreign 
+direct investment, plays a significant role in driving gentrification.
+5.1  Least impactful
+According to the findings of this study, the drivers within clusters E and D are the least 
+influential in driving the process of neighbourhood gentrification in East Malaysia. Specifi-
+cally, the drivers perceived as having the least impact on gentrification are deurbanisation 
+trends (S5) and prior gentrification (SP5) in cluster E, and the wealth gap (S2) and change 
+in demographics (S3) in cluster D. These findings are consistent with the studies of Clerval 
+(2022) and Cocola-Gant and Lopez-Gay (2020), which suggests that social factors are typi-
+cally the least influential drivers of gentrification. However, it should be noted that three 
+out of the four drivers within these two clusters are social, indicating that although these 
+drivers may not be the most influential, they still play a role in the gentrification process in 
+East Malaysia.
+6  Conclusion
+This study identified specific drivers contributing to neighbourhood gentrification in East 
+Malaysia. Hierarchical clustering analysis was conducted with twenty identified driving 
+factors with certain degrees of relatability. The clusters were then computed using the rel-
+ative importance index method to rank the importance and significance of each cluster, 
+allowing for the identification and determination of the most and least significant driving 
+factors encouraging neighbourhood gentrification in East Malaysia. The study revealed that 
+urban land use and housing system marketisation, social stratification, lifestyle preferences, 
+government policies, commercialisation of urban governance, varied property development 
+investors, growth of the property market, and reinvestments are the most influential driving 
+factors encouraging neighbourhood gentrification. In comparison, the least influential driv -
+ing factors are the deurbanisation and prior gentrification, followed by the wealth gap and 
+changes in demographic.
+There is a positive correlation between political, economic, social, and spatial driving 
+factors and neighbourhood gentrification in East Malaysia. Political factors were found to 
+be more influential in encouraging gentrification than economic, social, and spatial drivers. 
+However, all of these drivers positively correlated with gentrification, although the extent 
+and strength of their influence varied. Using hierarchical clustering analysis, the study 
+found that neighbourhood gentrification in East Malaysia is influenced by a combination 
+of drivers from different dimensions. The highest-ranked cluster contains both political and 
+non-political dimensions. Additionally, gentrified areas in East Malaysia are driven by sim-
+ilar factors, and respondents largely agreed with the identified driving factors for gentrifica-
+tion. These findings suggest that neighbourhood gentrification in East Malaysia is complex 
+and influenced by a range of factors and that further research is needed to better understand 
+the mechanisms driving gentrification in this region.
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+71
+Sociopolitical economy and spatial accentuation of…
+1 3
+6.1  Limitations and suggestions for future studies
+One limitation of the study is the relatively small sample size. A smaller sample size may 
+not represent gentrification trends in East Malaysia, and the study results may be less robust 
+with a smaller sample. Another limitation is the data sources. The information provided by 
+the respondents may not be comprehensive or fully capture the complexity of gentrification 
+processes in East Malaysia. The data did not account for all relevant factors and did not 
+adequately represent the experiences of different groups of residents. The research design 
+may also be subject to limitations and biases. For example, hierarchical clustering analysis 
+and the relative importance index method may introduce certain assumptions or biases that 
+could affect the analysis results.
+Equally, the scope of the study is a possible limitation. The study’s results may not be 
+representative of gentrification trends in other regions of East Malaysia or over a longer 
+time frame. Additionally, the study may not be able to provide concrete recommendations 
+for addressing gentrification in East Malaysia, as it is limited in terms of its ability to fully 
+understand the impacts of gentrification and identify specific strategies for mitigating nega-
+tive impacts. Based on the data collected for this research and the results obtained from the 
+analysis, it is suggested that a discussion should be initiated among relevant stakeholders 
+and authorities about the need to develop guidelines for mitigating the negative impacts of 
+neighbourhood gentrification. Further research could be conducted to better understand the 
+mechanisms driving gentrification in East Malaysia and to identify potential strategies for 
+addressing potential negative impacts, such as displacement and income inequality. Such 
+guidelines could potentially involve policy interventions, such as rent controls or affordable 
+housing requirements, or more holistic approaches, such as community planning efforts 
+that prioritise the needs and interests of existing residents. It is important for policymak -
+ers and other stakeholders to consider the potential impacts of gentrification on different 
+groups of residents and to develop strategies that promote social and economic justice.
+Other potential areas for future research are examining the impacts of urban land use 
+and housing marketisation on gentrification and displacement. This could involve analys-
+ing data on housing prices, rents, and occupancy rates to understand how these factors con-
+tribute to gentrification and how they may affect different groups of residents. For example, 
+research could explore whether increased demand for housing in gentrifying neighbour -
+hoods leads to higher prices and rents and whether these changes result in the displacement 
+of low-income residents.
+Another potential area of research is investigating the role of lifestyle preferences in 
+gentrification. This could involve exploring how these factors shape the decisions of gentri-
+fiers to move into certain neighbourhoods and how they may influence the perceptions and 
+experiences of different groups of residents. For example, research could examine whether 
+gentrifiers are attracted to neighbourhoods with certain social or cultural characteristics 
+and how these preferences may impact the make-up and dynamics of the neighbourhood.
+Finally, further research could also investigate the potential drivers of gentrification 
+identified as least influential in this study, such as the deurbanisation trends and prior gen-
+trification, the wealth gap, and demographic changes. This could involve examining how 
+these factors may or may not contribute to gentrification in East Malaysia. For example, 
+research could explore whether deurbanisation or prior gentrification impact gentrification 
+trends and whether changes in demographic patterns are associated with gentrification.
+Content courtesy of Springer Nature, terms of use apply. Rights reserved.
+72 J. A. Bamgbade et al.
+1 3
+Funding Open Access funding enabled and organized by CAUL and its Member Institutions. No funds, 
+grants, or other support were received.
+Declarations 
+Conflict of interest The authors have no relevant financial or non-financial interests to disclose.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Com-
+mons licence, and indicate if changes were made. The images or other third party material in this article 
+are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly 
+from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.

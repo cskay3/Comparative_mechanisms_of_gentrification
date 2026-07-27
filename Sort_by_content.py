@@ -1,10 +1,14 @@
 #imports python package
 import re
+from pathlib import Path
+
+folder_path = input("Provide path to folder with article .txt files: ")
+directory = Path(folder_path)
 
 #creates a list of the paths to all the txt files
 texts = []
 for i in range(30):
-    texts.append("/home/kay/Desktop/project_papers/Paper" + str(i+1) + ".txt")
+    texts.append(directory / f"Paper{i+1}.txt")
 
 #creates a dictionary to houes the counts for each article/txt file
 all = {}
