@@ -1,9 +1,11 @@
 ### Comparative_mechanisms_of_gentrification
 
 Description: This python based model:
-1) visualizes the effects on demographics (residential population & race) of the different mechanisms of displacement (market-driven rent increase vs tenure conversion of public to private lands) across a set of two case study cities (NYC, New York - Singapore, Singapore) with varied tenure systems
-2) applies a Kruskal-Wallis statistical analysis test to assess the results of the demographic data
-3) simulates the the skew of definitions of the mechanisms attributed to the term "gentrification" across a sample of literature (on the Global North vs the Global South)
+1) Visualizes the effects on demographics (residential population & race) of the different mechanisms of displacement (market-driven rent increase vs tenure conversion of public to private lands) across a set of two case study cities (NYC, New York - Singapore, Singapore) with varied tenure systems
+2) Applies a Kruskal-Wallis statistical test to assess the results of the demographic data
+3) Simulates the the skew of definitions of the mechanisms attributed to the term "gentrification" across a sample of literature (on the Global North vs the Global South)
+4) Visualizes the literature analysis data in pie charts
+5) Applies a Kruskal-Wallis statistical test to assess the results of the literature analysis
    
 # Clone this repository
 ```python
