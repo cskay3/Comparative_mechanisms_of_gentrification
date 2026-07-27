@@ -10,7 +10,13 @@ Description: This python based model:
 git clone git@github.com: cskay3/Comparative_mechanisms_of_gentrification.git
 cd Comparative_mechanisms_of_gentrification
 ```
-# Required Python packages
+
+# Set up
+Navigate into the specific directory
+```python
+cd Comparative_mechanisms_of_gentrification
+```
+Then install the required Python packages:
 ```python
 pip install numpy pandas scipy matplotlib pypdf
 ```
@@ -24,12 +30,21 @@ New York - https://data.census.gov/profile/New_York?g=040XX00US36
 Singapore - https://www.singstat.gov.sg/infographics/census-2020
 
 # Running the models
+First enter the directory
 ```python
-Kruskal-Wallis_test.py
+cd /path/to/Comparative_mechanisms_of_gentrification
 ```
-Running this will print out the H-values of the Kruskal-Wallis statistical test of which can be used for comparative purposes.
-
+Then run:
 ```python
 Sort_by_content.py
 ```
-Running this will print out a list of each .txt file and under it a count of all the keywords that were found and a line that determines the literature's elaborated mechanism of gentrification.
+Running this will classify each .txt article's stated mechanism of gentrification by running it through a list of keywords per each mechanism category. It will print out:
+article#
+Market driven: # of words in text/22 
+Tenure conversion: # of words in text/19
+And:
+```python
+Kruskal-Wallis_test_stats.py
+Kruskal-Wallis_test_lit.py
+```
+Running this will print out the H-values and p-values of the Kruskal-Wallis statistical test of which can be used for comparative purposes. Kruskal-Wallis_test_stats.py will output values for the New York City vs Singapore datasets. Kruskal-Wallis_test_lit.py will output values for the three different North vs South vs East cases of the literature analysis.
