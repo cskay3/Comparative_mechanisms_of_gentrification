@@ -9,7 +9,7 @@ Description: This python based model:
    
 # Clone this repository
 ```python
-git clone git@github.com: cskay3/Comparative_mechanisms_of_gentrification.git
+git clone https://github.com/cskay3/Comparative_mechanisms_of_gentrification
 cd Comparative_mechanisms_of_gentrification
 ```
 
