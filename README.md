@@ -36,6 +36,10 @@ New York - https://data.census.gov/profile/New_York?g=040XX00US36
 Singapore - https://www.singstat.gov.sg/infographics/census-2020
 
 # Running the models
+Navigate into the specific directory:
+```python
+cd Comparative_mechanisms_of_gentrification
+```
 ```python
 Sort_by_content.py
 ```
