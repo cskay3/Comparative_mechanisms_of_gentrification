@@ -41,9 +41,9 @@ Then run:
 Sort_by_content.py
 ```
 Running this will classify each .txt article's stated mechanism of gentrification by running it through a list of keywords per each mechanism category. It will print out:
-article#
-Market driven: # of words in text/22 
-Tenure conversion: # of words in text/19
+article#  
+Market driven: # of words in text/22  
+Tenure conversion: # of words in text/19  
 And:
 ```python
 Kruskal-Wallis_test_stats.py
