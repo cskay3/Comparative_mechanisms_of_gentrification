@@ -58,3 +58,18 @@ Kruskal-Wallis_test_stats.py
 Kruskal-Wallis_test_lit.py
 ```
 Running this will print out the H-values and p-values of the Kruskal-Wallis statistical test of which can be used for comparative purposes. Kruskal-Wallis_test_stats.py will output values for the New York City vs Singapore datasets. Kruskal-Wallis_test_lit.py will output values for the three different North vs South vs East cases of the literature analysis.
+
+## Reproduce study's paper and slideshow
+1) PAPER
+Download the entire "Tex_report" folder (inclusive of all image .png and .bib files)
+Open a LaTeX distribution and compile:
+```bash
+pdflatex KeinaGa_Global_Gentrification_report.tex
+bibtex main
+pdflatex KeinaGa_Global_Gentrification_report.tex
+pdflatex KeinaGa_Global_Gentrification_report.tex
+```
+To produce the study's report
+2) SLIDES
+Download the raw file of "KeinaGa_Global_Gentrification_slides.odp"
+Open the .odp with LibreOffice Impress to produce the study's slideshow
