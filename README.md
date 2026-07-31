@@ -8,22 +8,22 @@ Description: This python based model:
 5) Applies a Kruskal-Wallis statistical test to assess the results of the literature analysis
    
 # Clone this repository
-```python3
+```bash
 git clone https://github.com/cskay3/Comparative_mechanisms_of_gentrification
 ```
 
 # Set up
 Navigate into the specific directory:
-```python3
+```bash
 cd Comparative_mechanisms_of_gentrification
 ```
 Create virtual environment:
-```python3
+```bash
 python3 -m venv .venv
 source .venv/bin/activate
 ```
 Then install the required Python packages:
-```python3
+```bash
 pip install numpy pandas scipy matplotlib pypdf
 ```
 # To run your own data
@@ -37,11 +37,11 @@ Singapore - https://www.singstat.gov.sg/infographics/census-2020
 
 # Running the models
 Navigate into the specific directory:
-```python
+```bash
 cd Comparative_mechanisms_of_gentrification
 ```
-```python3
-Sort_by_content.py
+```bash
+python3 Sort_by_content.py
 ```
 It will first ask you: Provide path to folder with article .txt files:
 Please respond with ex: /home/name/Comparative_mechanisms_of_gentrification/Articles
@@ -53,23 +53,31 @@ Market driven: # of words in text/22
 Tenure conversion: # of words in text/19  
 
 And:
-```python3
-Kruskal-Wallis_test_stats.py
-Kruskal-Wallis_test_lit.py
+```bash
+python3 Kruskal-Wallis_test_stats.py
+python3 Kruskal-Wallis_test_lit.py
 ```
 Running this will print out the H-values and p-values of the Kruskal-Wallis statistical test of which can be used for comparative purposes. Kruskal-Wallis_test_stats.py will output values for the New York City vs Singapore datasets. Kruskal-Wallis_test_lit.py will output values for the three different North vs South vs East cases of the literature analysis.
 
 ## Reproduce study's paper and slideshow
-PAPER)  
-Download the entire "Tex_report" folder (inclusive of all image .png and .bib files)
-Open a LaTeX distribution and compile:
+PAPER) 
+Navigate into Tex_report folder
+```bash
+cd Tex_report
+```
+Make sure the entire "Tex_report" folder (inclusive of all image .png and .bib files) is downloaded
+Run
+```bash
+sudo apt-get install texlive-fonts-extra
+```
+compile
 ```bash
 pdflatex KeinaGa_Global_Gentrification_report.tex
 bibtex main
 pdflatex KeinaGa_Global_Gentrification_report.tex
 pdflatex KeinaGa_Global_Gentrification_report.tex
 ```
-To produce the study's report  
+To produce the study's report as a .pdf
 SLIDES)  
-Download the raw file of "KeinaGa_Global_Gentrification_slides.odp"  
+Make sure the raw file of "KeinaGa_Global_Gentrification_slides.odp" is downloaded
 Open the .odp with LibreOffice Impress to produce the study's slideshow
