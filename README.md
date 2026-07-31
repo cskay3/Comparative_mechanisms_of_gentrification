@@ -8,23 +8,23 @@ Description: This python based model:
 5) Applies a Kruskal-Wallis statistical test to assess the results of the literature analysis
    
 # Clone this repository
-```python
+```python3
 git clone https://github.com/cskay3/Comparative_mechanisms_of_gentrification
 ```
 
 # Set up
 Navigate into the specific directory:
-```python
+```python3
 cd Comparative_mechanisms_of_gentrification
 ```
 Create virtual environment:
-```python
-python3 -m venv venv
-source venv/bin/activate
+```python3
+python3 -m venv .venv
+source .venv/bin/activate
 ```
 Then install the required Python packages:
-```python
-pip install numpy pandas scipy matplotlib pypdf
+```python3
+pip3 install numpy pandas scipy matplotlib pypdf
 ```
 # To run your own data
 Data on New York and Singapore is included in the code for the bar graphs and the Kruskal-Wallis test. However, to run the literature analysis on your own set of literature, for Text_strip.py input your own file paths of PDFs in the readers list. The model will convert the PDFs to .txt files as well as rename the PDFs so that they can be run through Sort_by_content.py
@@ -40,7 +40,7 @@ Navigate into the specific directory:
 ```python
 cd Comparative_mechanisms_of_gentrification
 ```
-```python
+```python3
 Sort_by_content.py
 ```
 It will first ask you: Provide path to folder with article .txt files:
@@ -53,7 +53,7 @@ Market driven: # of words in text/22
 Tenure conversion: # of words in text/19  
 
 And:
-```python
+```python3
 Kruskal-Wallis_test_stats.py
 Kruskal-Wallis_test_lit.py
 ```
