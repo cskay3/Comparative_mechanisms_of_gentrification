@@ -24,7 +24,7 @@ source .venv/bin/activate
 ```
 Then install the required Python packages:
 ```python3
-pip3 install numpy pandas scipy matplotlib pypdf
+pip install numpy pandas scipy matplotlib pypdf
 ```
 # To run your own data
 Data on New York and Singapore is included in the code for the bar graphs and the Kruskal-Wallis test. However, to run the literature analysis on your own set of literature, for Text_strip.py input your own file paths of PDFs in the readers list. The model will convert the PDFs to .txt files as well as rename the PDFs so that they can be run through Sort_by_content.py
