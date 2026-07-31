@@ -69,7 +69,7 @@ bibtex main
 pdflatex KeinaGa_Global_Gentrification_report.tex
 pdflatex KeinaGa_Global_Gentrification_report.tex
 ```
-To produce the study's report
-2) SLIDES
-Download the raw file of "KeinaGa_Global_Gentrification_slides.odp"
+To produce the study's report  
+2) SLIDES  
+Download the raw file of "KeinaGa_Global_Gentrification_slides.odp"  
 Open the .odp with LibreOffice Impress to produce the study's slideshow
