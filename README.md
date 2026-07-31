@@ -57,8 +57,23 @@ And:
 python3 Kruskal-Wallis_test_stats.py
 python3 Kruskal-Wallis_test_lit.py
 ```
-Running this will print out the H-values and p-values of the Kruskal-Wallis statistical test of which can be used for comparative purposes. Kruskal-Wallis_test_stats.py will output values for the New York City vs Singapore datasets. Kruskal-Wallis_test_lit.py will output values for the three different North vs South vs East cases of the literature analysis.
-
+Running this will print out the H-values and p-values of the Kruskal-Wallis statistical test of which can be used for comparative purposes. Kruskal-Wallis_test_stats.py will output values for the New York City vs Singapore datasets. Kruskal-Wallis_test_lit.py will output values for the three different North vs South vs East cases of the literature analysis.  
+Next, to produce images and graphs:
+```bash
+python3 Bar_graph1.py
+```
+```bash
+python3 Bar_graph2.py
+```
+```bash
+python3 Pie_chart_east.py
+```
+```bash
+python3 Pie_chart_north.py
+```
+```bash
+python3 Pie_chart_south.py
+```
 ## Reproduce study's paper and slideshow
 PAPER) 
 Navigate into Tex_report folder
